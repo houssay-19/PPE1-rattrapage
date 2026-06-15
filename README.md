@@ -5,7 +5,7 @@
 
 Corpus web bilingue autour du mot **lumière** (français) et **light** (anglais).
 
----
+
 
 ## Structure du projet
 
@@ -39,7 +39,7 @@ PPE1-rattrapage/
 └── style.css                # Feuille de style
 ```
 
----
+
 
 ## Utilisation
 
@@ -85,7 +85,7 @@ python3 programmes/tableaux.py en light
 
 Ouvrir `index.html` dans un navigateur (ou via GitHub Pages).
 
----
+
 
 ## Outils
 
