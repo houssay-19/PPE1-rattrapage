@@ -58,4 +58,6 @@ Les cooccurrents du mot cible confirment cette orientation :
 *wave* (38).
 
 
-## 
+## rendu sur GitHub
+
+J'ai initialisé le dépôt git local avec `git init`, ajouté tous les fichiers avec `git add .` (114 fichiers au total : scripts, données, pages HTML, nuages de mots, concordances). J'ai fait le premier commit puis poussé le tout sur GitHub avec la clé SSH.
