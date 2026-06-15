@@ -95,14 +95,3 @@ Ouvrir `index.html` dans un navigateur (ou via GitHub Pages).
 - **Python 3** — analyses, génération HTML
 - **wordcloud + matplotlib** — nuage de mots
 
----
-
-## Journal de bord
-
-| Date | Action |
-|------|--------|
-| 15/06/2026 | Initialisation du projet, création des scripts |
-| 16/06/2026 | Aspiration et extraction FR + EN |
-| 17/06/2026 | Analyses Python (concordances, bigrammes, cooccurrents) |
-| 18/06/2026 | Site HTML complet |
-| 19/06/2026 | Finalisation et push GitHub |
