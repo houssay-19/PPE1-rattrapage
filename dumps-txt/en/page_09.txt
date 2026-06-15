@@ -1,0 +1,2690 @@
+   #Edit this page Wikipedia (en) Wikipedia Atom feed
+
+   Jump to content
+
+   [ ] Main menu
+   Main menu
+   (BUTTON) move to sidebar (BUTTON) hide
+   Navigation
+     * Main page
+     * Contents
+     * Current events
+     * Random article
+     * About Wikipedia
+     * Contact us
+
+   Contribute
+     * Help
+     * Learn to edit
+     * Community portal
+     * Recent changes
+     * Upload file
+     * Special pages
+
+   Wikipedia The Free Encyclopedia
+   Search
+   ____________________
+   (BUTTON) Search
+
+   [ ] Appearance
+
+     * Donate
+     * Create account
+     * Log in
+
+   [ ] Personal tools
+     * Donate
+     * Create account
+     * Log in
+
+Contents
+
+   (BUTTON) move to sidebar (BUTTON) hide
+     * (Top)
+     * 1 Physics
+       (BUTTON) Toggle Physics subsection
+          + 1.1 Properties
+          + 1.2 Wave model
+          + 1.3 Maxwell's equations
+          + 1.4 Near and far fields
+          + 1.5 Particle model and quantum theory
+          + 1.6 Wave–particle duality
+          + 1.7 Propagation speed
+     * 2 History of discovery
+     * 3 Electromagnetic spectrum
+       (BUTTON) Toggle Electromagnetic spectrum subsection
+          + 3.1 Radio and microwave
+          + 3.2 Infrared
+          + 3.3 Visible light
+          + 3.4 Ultraviolet
+          + 3.5 X-rays and gamma rays
+     * 4 Atmosphere and magnetosphere
+     * 5 Thermal and electromagnetic radiation as a form of heat
+     * 6 Biological effects
+       (BUTTON) Toggle Biological effects subsection
+          + 6.1 Use as a weapon
+     * 7 Derivation from electromagnetic theory
+     * 8 See also
+     * 9 References
+     * 10 Further reading
+     * 11 External links
+
+   [ ] Toggle the table of contents
+
+Electromagnetic radiation
+
+   [ ] 120 languages
+     * Afrikaans
+     * አማርኛ
+     * Aragonés
+     * العربية
+     * مصرى
+     * অসমীয়া
+     * Asturianu
+     * Azərbaycanca
+     * تۆرکجه
+     * Башҡортса
+     * Basa Bali
+     * Беларуская (тарашкевіца)
+     * Беларуская
+     * Български
+     * भोजपुरी
+     * বাংলা
+     * Bosanski
+     * Català
+     * کوردی
+     * Čeština
+     * Чӑвашла
+     * Cymraeg
+     * Dansk
+     * Deutsch
+     * Ελληνικά
+     * Esperanto
+     * Español
+     * Eesti
+     * Euskara
+     * فارسی
+     * Suomi
+     * Võro
+     * Français
+     * Nordfriisk
+     * Gaeilge
+     * Kriyòl gwiyannen
+     * Galego
+     * עברית
+     * हिन्दी
+     * Fiji Hindi
+     * Hrvatski
+     * Kreyòl ayisyen
+     * Magyar
+     * Հայերեն
+     * Interlingua
+     * Bahasa Indonesia
+     * Interlingue
+     * Igbo
+     * Ido
+     * Íslenska
+     * Italiano
+     * 日本語
+     * Patois
+     * Jawa
+     * ქართული
+     * Қазақша
+     * ಕನ್ನಡ
+     * 한국어
+     * Кыргызча
+     * Latina
+     * Limburgs
+     * Lietuvių
+     * Latviešu
+     * Malagasy
+     * Македонски
+     * മലയാളം
+     * Монгол
+     * Bahasa Melayu
+     * Mirandés
+     * မြန်မာဘာသာ
+     * Plattdüütsch
+     * नेपाली
+     * नेपाल भाषा
+     * Nederlands
+     * Norsk nynorsk
+     * Norsk bokmål
+     * Occitan
+     * Oromoo
+     * ਪੰਜਾਬੀ
+     * Naijá
+     * Polski
+     * Piemontèis
+     * پنجابی
+     * پښتو
+     * Português
+     * ရခိုင်
+     * Română
+     * Русский
+     * Русиньскый
+     * Scots
+     * سنڌي
+     * Srpskohrvatski / српскохрватски
+     * Simple English
+     * Slovenčina
+     * Slovenščina
+     * Anarâškielâ
+     * Shqip
+     * Српски / srpski
+     * Seeltersk
+     * Sunda
+     * Svenska
+     * Kiswahili
+     * தமிழ்
+     * ไทย
+     * Tagalog
+     * Türkçe
+     * Тыва дыл
+     * ئۇيغۇرچە / Uyghurche
+     * Українська
+     * اردو
+     * Oʻzbekcha / ўзбекча
+     * Vepsän kel’
+     * Tiếng Việt
+     * Winaray
+     * 吴语
+     * ייִדיש
+     * 閩南語 / Bân-lâm-gí
+     * 粵語
+     * 中文
+     * IsiZulu
+
+   Edit links
+
+     * Article
+     * Talk
+
+   [ ] English
+
+     * Read
+     * Edit
+     * View history
+
+   [ ] Tools
+   Tools
+   (BUTTON) move to sidebar (BUTTON) hide
+   Actions
+     * Read
+     * Edit
+     * View history
+
+   General
+     * What links here
+     * Related changes
+     * Upload file
+     * Permanent link
+     * Page information
+     * Cite this page
+     * Get shortened URL
+
+   Print/export
+     * Download as PDF
+     * Printable version
+
+   In other projects
+     * Wikimedia Commons
+     * Wikibooks
+     * Wikidata item
+
+   Appearance
+   (BUTTON) move to sidebar (BUTTON) hide
+   From Wikipedia, the free encyclopedia
+   Physical model of propagating energy
+
+   [500px-Onde_electromagnetique.svg.png] A linearly polarized
+   electromagnetic wave going in the z-axis, with E denoting the electric
+   field and perpendicular B denoting magnetic field
+     Electromagnetism
+   Solenoid
+     * Electricity
+     * Magnetism
+     * Optics
+     * History
+     * Computational
+     * Textbooks
+     * Phenomena
+
+   Electrostatics
+     * Electric charge
+     * Charge density
+     * Coulomb law
+     * Electric field
+     * Gauss's law
+     * Electric potential
+     * Conductor
+     * Electret
+     * Electric dipole
+     * Electric flux
+     * Electrostatic discharge
+     * Electrostatic induction
+     * Insulator
+     * Permittivity
+     * Polarization
+     * Potential energy
+     * Static electricity
+     * Triboelectricity
+
+   Magnetostatics
+     * Ampère's law
+     * Ampère's force law
+     * Biot–Savart law
+     * Gauss's law for magnetism
+     * Magnetic dipole
+     * Magnetic field
+     * Magnetic flux
+     * Magnetic scalar potential
+     * Magnetic vector potential
+     * Magnetization
+     * Permeability
+     * Right-hand rule
+
+   Electrodynamics
+     * Maxwell's equations
+     * Displacement current
+     * Electromagnetic field
+     * Lorentz force
+     * Retarded potentials
+     * Liénard–Wiechert potential
+     * Jefimenko's equations
+     * Radiation
+     * Cyclotron radiation
+     * Faraday's law
+     * Eddy current
+     * Induction
+     * Lenz's law
+     * Electromagnetic mass
+     * Abraham–Lorentz force
+     * Larmor formula
+     * Poynting's theorem
+     * Maxwell tensor
+
+   Electrical network
+     * Alternating current
+     * Capacitance
+     * Current density
+     * Direct current
+     * Electric current
+     * Electric power
+     * Electrolysis
+     * Electromotive force
+     * Impedance
+     * Inductance
+     * Joule heating
+     * Kirchhoff's laws
+     * Network analysis
+     * Ohm's law
+     * Parallel circuit
+     * Resistance
+     * Resonant cavities
+     * Series circuit
+     * Voltage
+     * Watt
+     * Waveguides
+     * London equations
+
+   Magnetic circuit
+     * AC motor
+     * DC motor
+     * Electric machine
+     * Electric motor
+     * Gyrator–capacitor
+     * Induction motor
+     * Linear motor
+     * Magnetomotive force
+     * Permeance
+     * Reluctance (complex)
+     * Reluctance (real)
+     * Rotor
+     * Stator
+     * Transformer
+
+   Covariant formulation
+     * Electromagnetic tensor
+     * Electromagnetism and special relativity
+     * Four-current
+     * Four-potential
+     * Mathematical descriptions
+     * Maxwell equations in curved spacetime
+     * Relativistic electromagnetism
+     * Stress–energy tensor
+     * Synchrotron radiation
+     * Bremsstrahlung
+
+   Scientists
+     * Ampère
+     * Arago
+     * Biot
+     * Coulomb
+     * Davy
+     * Einstein
+     * Faraday
+     * FitzGerald
+     * Fizeau
+     * Franklin
+     * Galvani
+     * Gauss
+     * Gibbs
+     * Gilbert
+     * Green
+     * Heaviside
+     * Helmholtz
+     * Henry
+     * Hertz
+     * Hopkinson
+     * Joule
+     * Kelvin
+     * Kirchhoff
+     * Larmor
+     * Lenz
+     * Liénard
+     * Lorentz
+     * Maxwell
+     * Neumann
+     * Ohm
+     * Ørsted
+     * Poisson
+     * Poynting
+     * Ritchie
+     * Savart
+     * Singer
+     * Steinmetz
+     * Tesla
+     * Thomson
+     * Volta
+     * Weber
+     * Wiechert
+
+     * v
+     * t
+     * e
+
+   In physics, electromagnetic radiation (EMR) or an electromagnetic wave
+   (EMW) is a self-propagating wave of the electromagnetic field that
+   carries momentum and radiant energy through space.^[1]^: 430 ^[2] It
+   encompasses a broad spectrum, classified by frequency (inversely
+   proportional to wavelength), ranging from radio waves, microwaves,
+   infrared, visible light, ultraviolet, X-rays, to gamma rays.^[3] All
+   forms of EMR travel at the speed of light in a vacuum and exhibit
+   wave–particle duality, behaving both as waves and as discrete particles
+   called photons.
+
+   Electromagnetic radiation is produced by accelerating charged particles
+   such as from the Sun and other celestial bodies or artificially
+   generated for various applications. Its interaction with matter depends
+   on wavelength, influencing its uses in communication, medicine,
+   industry, and scientific research. Radio waves enable broadcasting and
+   wireless communication, infrared is used in thermal imaging, visible
+   light is essential for vision, and higher-energy radiation, such as
+   X-rays and gamma rays, is applied in medical imaging, cancer treatment,
+   and industrial inspection. Higher energy EMR, especially in the UV and
+   above, has been associated with negative health effects.
+
+   In quantum mechanics, an alternate way of viewing EMR is that it
+   consists of photons, uncharged elementary particles with zero rest mass
+   which are the quanta of the electromagnetic field, responsible for all
+   electromagnetic interactions.^[4] Quantum electrodynamics is the theory
+   of how EMR interacts with matter on an atomic level.^[5] Quantum
+   effects provide additional sources of EMR, such as the transition of
+   electrons to lower energy levels in an atom and black-body
+   radiation.^[6]
+
+Physics
+
+   [edit]
+   [250px-VisibleEmrWavelengths.svg.png] The relative wavelengths of the
+   electromagnetic waves of three different colours of light (blue, green,
+   and red) with a distance scale in micrometers along the x-axis
+
+Properties
+
+   [edit]
+
+   Electromagnetic radiation is produced by accelerating charged particles
+   and can be naturally emitted,^[7]^[8] as from the Sun and other
+   celestial bodies, or artificially generated for various applications.
+   The energy in electromagnetic waves is sometimes called radiant
+   energy.^[9]^[10] The electromagnetic waves' energy does not need a
+   propagating medium to travel through space; they move through a vacuum
+   at the speed of light.^[11]
+   [250px-Electromagneticwave3D.gif] Electromagnetic waves can be imagined
+   as a self-propagating transverse oscillating wave of electric and
+   magnetic fields. This 3D animation shows a plane linearly polarized
+   wave propagating from left to right. The electric and magnetic fields
+   in such a wave are in phase with each other, reaching minima and maxima
+   together.
+
+   Electric and magnetic fields obey the properties of superposition.
+   Thus, a field due to any particular particle or time-varying electric
+   or magnetic field contributes to the fields present in the same space
+   due to other causes. Further, as they are vector fields, all magnetic
+   and electric field vectors add together according to vector
+   addition.^[12] For example, in optics two or more coherent light waves
+   may interact and by constructive or destructive interference yield a
+   resultant irradiance deviating from the sum of the component
+   irradiances of the individual light waves.^[13] The electromagnetic
+   fields of light are not affected by traveling through static electric
+   or magnetic fields in a linear medium such as a vacuum. However, in
+   nonlinear media, such as some crystals, interactions can occur between
+   light and static electric and magnetic fields—these interactions
+   include the Faraday effect and the Kerr effect.^[14]^[15]
+
+   In refraction, a wave crossing from one medium to another of different
+   density alters its speed and direction upon entering the new medium.
+   The ratio of the refractive indices of the media determines the degree
+   of refraction, and is summarized by Snell's law. Light of composite
+   wavelengths (natural sunlight) disperses into a visible spectrum
+   passing through a prism, because of the wavelength-dependent refractive
+   index of the prism material (dispersion); that is, each component wave
+   within the composite light is bent a different amount.^[16]
+
+   EM radiation exhibits both wave properties and particle properties at
+   the same time (known as wave–particle duality). Both wave and particle
+   characteristics have been confirmed in many experiments. Wave
+   characteristics are more apparent when EM radiation is measured over
+   relatively large timescales and over large distances while particle
+   characteristics are more evident when measuring small timescales and
+   distances. For example, when electromagnetic radiation is absorbed by
+   matter, particle-like properties will be more obvious when the average
+   number of photons in the cube of the relevant wavelength is much
+   smaller than 1. It is not so difficult to experimentally observe
+   non-uniform deposition of energy when light is absorbed, however this
+   alone is not evidence of "particulate" behavior. Rather, it reflects
+   the quantum nature of matter.^[17] A quantum theory of the interaction
+   between electromagnetic radiation and matter such as electrons is
+   described by the theory of quantum electrodynamics.
+
+   Electromagnetic waves can be polarized, reflected, refracted, or
+   diffracted, and can interfere with each other.^[18]^[19]^[20] Some
+   experiments display both the wave and particle natures of
+   electromagnetic waves, such as the self-interference of a single
+   photon.^[21] When a low intensity light is sent through an
+   interferometer it will be detected by a photomultiplier or other
+   sensitive detector only along one arm of the device, consistent with
+   particle properties, and yet the accumulated effect of many such
+   detections will be interference consistent with wave properties.
+
+Wave model
+
+   [edit]
+   [250px-Circular.Polarization.Circularly.Polarized.Light_Right.Handed.An
+   imation.305x190.255Colors.gif] Representation of the electric field
+   vector of a wave of circularly polarized electromagnetic radiation
+
+   In homogeneous, isotropic media, electromagnetic radiation is a
+   transverse wave,^[22] meaning that its oscillations are perpendicular
+   to the direction of energy transfer and travel. It comes from the
+   following equations:
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD">
+   <mtable columnalign="right left right left right left right left right
+   left right left" rowspacing="3pt" columnspacing="0em 2em 0em 2em 0em
+   2em 0em 2em 0em 2em 0em" displaystyle="true"> <mtr> <mtd> <mi
+   mathvariant="normal">∇</mi> <mo>⋅</mo> <mrow class="MJX-TeXAtom-ORD">
+   <mi mathvariant="bold">E</mi> </mrow> </mtd> <mtd> <mi></mi> <mo>=</mo>
+   <mn>0</mn> </mtd> </mtr> <mtr> <mtd> <mi mathvariant="normal">∇</mi>
+   <mo>⋅</mo> <mrow class="MJX-TeXAtom-ORD"> <mi mathvariant="bold">B</mi>
+   </mrow> </mtd> <mtd> <mi></mi> <mo>=</mo> <mn>0</mn> </mtd> </mtr>
+   </mtable> </mrow> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle {\begin{aligned}\nabla
+   \cdot \mathbf {E} &=0\\\nabla \cdot \mathbf {B}
+   &=0\end{aligned}}}</annotation> </semantics> :MATH]
+   {\displaystyle {\begin{aligned}\nabla \cdot \mathbf {E} &=0\\\nabla
+   \cdot \mathbf {B} &=0\end{aligned}}} These equations predicate that any
+   electromagnetic wave must be a transverse wave, where the electric
+   field E and the magnetic field B are both perpendicular to the
+   direction of wave propagation. The electric and magnetic parts of the
+   field in an electromagnetic wave stand in a fixed ratio of strengths to
+   satisfy the two Maxwell's equations that specify how one is produced
+   from the other. In dissipation-less (lossless) media, these E and B
+   fields are also in phase, with both reaching maxima and minima at the
+   same points in space.
+
+   In the far-field EM radiation which is described by the two source-free
+   Maxwell curl operator equations, a time-change in one type of field is
+   proportional to the curl of the other. These derivatives require that
+   the E and B fields in EMR are in phase. An important aspect of light's
+   nature is its frequency. The frequency of a wave is its rate of
+   oscillation and is measured in hertz, the SI unit of frequency, where
+   one hertz is equal to one oscillation per second. Light usually has
+   multiple frequencies that sum to form the resultant wave. Different
+   frequencies undergo different angles of refraction, a phenomenon known
+   as dispersion.
+
+   A monochromatic wave (a wave of a single frequency) consists of
+   successive troughs and crests, and the distance between two adjacent
+   crests or troughs is called the wavelength. Waves of the
+   electromagnetic spectrum vary in size, from very long radio waves
+   longer than a continent to very short gamma rays smaller than atom
+   nuclei. Frequency is inversely proportional to wavelength, according to
+   the equation:^[23]
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mstyle displaystyle="true"
+          scriptlevel="0"> <mi>v</mi> <mo>=</mo> <mi>f</mi> <mi>λ</mi>
+          </mstyle> </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle \displaystyle
+          v=f\lambda }</annotation> </semantics> :MATH]
+          {\displaystyle \displaystyle v=f\lambda }
+
+   where v is the speed of the wave (c in a vacuum or less in other
+   media), f is the frequency, and λ is the wavelength. As waves cross
+   boundaries between different media, their speeds change but their
+   frequencies remain constant.
+
+   Electromagnetic waves in free space must be solutions of Maxwell's
+   electromagnetic wave equation. Two main classes of solutions are known,
+   namely plane waves and spherical waves. The plane waves may be viewed
+   as the limiting case of spherical waves at a very large (ideally
+   infinite) distance from the source. Both types of waves can have a
+   waveform which is an arbitrary time function (so long as it is
+   sufficiently differentiable to conform to the wave equation). As with
+   any time function, this can be decomposed by means of Fourier analysis
+   into its frequency spectrum, or individual sinusoidal components, each
+   of which contains a single frequency, amplitude, and phase. Such a
+   component wave is said to be monochromatic.
+
+   Interference is the superposition of two or more waves resulting in a
+   new wave pattern. If the fields have components in the same direction,
+   they constructively interfere, while opposite directions cause
+   destructive interference. Additionally, multiple polarization signals
+   can be combined (i.e. interfered) to form new states of polarization,
+   which is known as parallel polarization state generation.^[24]
+
+Maxwell's equations
+
+   [edit]
+   Main article: Maxwell's equations
+
+   James Clerk Maxwell derived a wave form of the electric and magnetic
+   equations, thus uncovering the wave-like nature of electric and
+   magnetic fields and their symmetry. Because the speed of EM waves
+   predicted by the wave equation coincided with the measured speed of
+   light, Maxwell concluded that light itself is an EM wave.^[25]^[26]
+   Maxwell's equations were confirmed by Heinrich Hertz through
+   experiments with radio waves.^[27] Out of the four equations, two of
+   the equations that Maxwell refined were Faraday's Law of Induction and
+   Ampère's circuital law, which he extended by adding the displacement
+   current term to the equations himself. Maxwell thought that the
+   displacement current, which he viewed as the motion of bound charges,
+   gave rise to the magnetic field.^[28] The other two equations are
+   Gauss's law and Gauss's law for magnetism.
+
+Near and far fields
+
+   [edit]
+   Main articles: Near and far field and Liénard–Wiechert potential
+   [500px-FarNearFields-USP-4998112-1.svg.png] In electromagnetic
+   radiation (such as microwaves from an antenna, shown here) the term
+   radiation applies only to the parts of the electromagnetic field that
+   radiate into infinite space and decrease in intensity by an
+   inverse-square law of power, such that the total energy that crosses
+   through an imaginary sphere surrounding the source is the same
+   regardless of the size of the sphere. Electromagnetic radiation thus
+   reaches the far part of the electromagnetic field around a transmitter.
+   A part of the near field (close to the transmitter) includes the
+   changing electromagnetic field, but that is not electromagnetic
+   radiation.
+
+   Maxwell's equations established that some charges and currents
+   (sources) produce local electromagnetic fields near them that do not
+   radiate. Currents directly produce magnetic fields of a
+   magnetic-dipole–type that die out with distance from the current. In a
+   similar manner, moving charges pushed apart in a conductor by a
+   changing electrical potential (such as in an antenna) produce an
+   electric-dipole–type electrical field, but this also declines with
+   distance. These fields make up the near field. Neither of these
+   behaviours is responsible for EM radiation. Instead, they only
+   efficiently transfer energy to a receiver very close to the source,
+   such as inside a transformer. The near field has strong effects on its
+   source, with any energy withdrawn by a receiver causing increased load
+   (decreased electrical reactance) on the source. The near field does not
+   propagate freely into space, carrying energy away without a distance
+   limit, but rather oscillates, returning its energy to the transmitter
+   if it is not absorbed by a receiver.^[29]
+
+   By contrast, the far field is composed of radiation that is free of the
+   transmitter, in the sense that the transmitter requires the same power
+   to send changes in the field out regardless of whether anything absorbs
+   the signal, e.g. a radio station does not need to increase its power
+   when more receivers use the signal. This far part of the
+   electromagnetic field is electromagnetic radiation. The far fields
+   propagate (radiate) without allowing the transmitter to affect them.
+   This causes them to be independent in the sense that their existence
+   and their energy, after they have left the transmitter, is completely
+   independent of both transmitter and receiver. Due to conservation of
+   energy, the amount of power passing through any closed surface drawn
+   around the source is the same. The power density of EM radiation from
+   an isotropic source decreases with the inverse square of the distance
+   from the source; this is called the inverse-square law. Field intensity
+   due to dipole parts of the near field varies according to an
+   inverse-cube law,^[30] and thus fades with distance.
+
+   In the Liénard–Wiechert potential formulation of the electric and
+   magnetic fields due to motion of a single particle (according to
+   Maxwell's equations), the terms associated with acceleration of the
+   particle are those that are responsible for the part of the field that
+   is regarded as electromagnetic radiation. By contrast, the term
+   associated with the changing static electric field of the particle and
+   the magnetic term that results from the particle's uniform velocity are
+   both associated with the near field, and do not comprise
+   electromagnetic radiation.^[31]
+
+Particle model and quantum theory
+
+   [edit]
+   See also: Quantization (physics) and Quantum optics
+
+   An anomaly arose in the late 19th century involving a contradiction
+   between the wave theory of light and measurements of the
+   electromagnetic spectra that were being emitted by thermal radiators
+   known as black bodies. Physicists struggled with this problem
+   unsuccessfully for many years, and it later became known as the
+   ultraviolet catastrophe. In 1900, Max Planck developed a new theory of
+   black-body radiation that explained the observed spectrum. Planck's
+   theory was based on the idea that black bodies emit light (and other
+   electromagnetic radiation) only as discrete bundles or packets of
+   energy. These packets were called quanta. In 1905, Albert Einstein
+   proposed that light quanta be regarded as real particles. Later the
+   particle of light was given the name photon, to correspond with other
+   particles being described around this time, such as the electron and
+   proton. A photon has an energy, E, proportional to its frequency, f, by
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mi>E</mi> <mo>=</mo>
+          <mi>h</mi> <mi>f</mi> <mo>=</mo> <mrow class="MJX-TeXAtom-ORD">
+          <mfrac> <mrow> <mi>h</mi> <mi>c</mi> </mrow> <mi>λ</mi> </mfrac>
+          </mrow> <mspace width="thinmathspace" /> <mspace
+          width="negativethinmathspace" /> </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle E=hf={\frac
+          {hc}{\lambda }}\,\!}</annotation> </semantics> :MATH]
+          {\displaystyle E=hf={\frac {hc}{\lambda }}\,\!}
+
+   where h is the Planck constant,
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>λ</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle \lambda
+   }</annotation> </semantics> :MATH]
+   {\displaystyle \lambda } is the wavelength and c is the speed of light.
+   This is sometimes known as the Planck–Einstein equation.^[32] In
+   quantum theory (see first quantization) the energy of the photons is
+   thus directly proportional to the frequency of the EMR wave.^[33]
+   Likewise, the momentum p of a photon is also proportional to its
+   frequency and inversely proportional to its wavelength:
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mi>p</mi> <mo>=</mo> <mrow
+          class="MJX-TeXAtom-ORD"> <mfrac> <mi>E</mi> <mi>c</mi> </mfrac>
+          </mrow> <mo>=</mo> <mrow class="MJX-TeXAtom-ORD"> <mfrac> <mrow>
+          <mi>h</mi> <mi>f</mi> </mrow> <mi>c</mi> </mfrac> </mrow>
+          <mo>=</mo> <mrow class="MJX-TeXAtom-ORD"> <mfrac> <mi>h</mi>
+          <mi>λ</mi> </mfrac> </mrow> <mo>.</mo> </mstyle> </mrow>
+          <annotation encoding="application/x-tex">{\displaystyle p={E
+          \over c}={hf \over c}={h \over \lambda }.}</annotation>
+          </semantics> :MATH]
+          {\displaystyle p={E \over c}={hf \over c}={h \over \lambda }.}
+
+   The source of Einstein's proposal that light was composed of particles
+   (or could act as particles in some circumstances) was an experimental
+   anomaly not explained by the wave theory: the photoelectric effect, in
+   which light striking a metal surface ejected electrons from the
+   surface, causing an electric current to flow across an applied voltage.
+   Experimental measurements demonstrated that the energy of individual
+   ejected electrons was proportional to the frequency, rather than the
+   intensity, of the light. Furthermore, below a certain minimum
+   frequency, which depended on the particular metal, no current would
+   flow regardless of the intensity. These observations appeared to
+   contradict the wave theory, and for years physicists tried to find an
+   explanation. In 1905, Einstein explained this phenomenon by
+   resurrecting the particle theory of light. Because of the preponderance
+   of evidence in favor of the wave theory, however, Einstein's ideas were
+   met initially with great skepticism among established physicists.
+   Eventually Einstein's explanation was accepted as new particle-like
+   behavior of light was observed, such as the Compton effect.^[34]^[35]
+
+   As a photon is absorbed by an atom, it excites the atom, elevating an
+   electron to a higher energy level (one that is on average farther from
+   the nucleus). When an electron in an excited molecule or atom descends
+   to a lower energy level, it emits a photon of light at a frequency
+   corresponding to the energy difference. Since the energy levels of
+   electrons in atoms are discrete, each element and each molecule emits
+   and absorbs its own characteristic frequencies. Immediate photon
+   emission is called fluorescence, a type of photoluminescence. An
+   example is visible light emitted from fluorescent paints, in response
+   to ultraviolet (blacklight). Many other fluorescent emissions are known
+   in spectral bands other than visible light. Delayed emission is called
+   phosphorescence.^[36]^[37]
+
+   Quantum mechanics also governs emission, which is seen when an emitting
+   gas glows due to excitation of the atoms from any mechanism, including
+   heat. As electrons descend to lower energy levels, a spectrum is
+   emitted that represents the jumps between the energy levels of the
+   electrons, but lines are seen because again emission happens only at
+   particular energies after excitation.^[38] An example is the emission
+   spectrum of nebulae.^[39] Rapidly moving electrons are most sharply
+   accelerated when they encounter a region of force, so they are
+   responsible for producing much of the highest frequency electromagnetic
+   radiation observed in nature. These phenomena can be used to detect the
+   composition of gases lit from behind (absorption spectra) and for
+   glowing gases (emission spectra). Spectroscopy (for example) determines
+   what chemical elements comprise a particular star. Shifts in the
+   frequency of the spectral lines for an element, called a redshift, can
+   be used to determine the star's cosmological distance.^[40]^: 181 
+
+Wave–particle duality
+
+   [edit]
+
+   Main article: Wave–particle duality
+
+   The modern theory that explains the nature of light includes the notion
+   of wave–particle duality. The theory is based on the concept that every
+   quantum entity can show wave-like or particle-like behaviors, depending
+   on observation. The observation led to the collapse of the entity's
+   wave function. If it is based on the Copenhagen interpretation, the
+   observation does really collapse the wave function; for the many-worlds
+   interpretation, all possible outcomes of the collapse happened in
+   parallel universes; for the pilot wave theory, the particle behaviour
+   is simply determined by waves. The duality nature of a real photon has
+   been observed in the double-slit experiment.
+
+   Together, wave and particle effects fully explain the emission and
+   absorption spectra of EM radiation. The matter-composition of the
+   medium through which the light travels determines the nature of the
+   absorption and emission spectrum. These bands correspond to the allowed
+   energy levels in the atoms. Dark bands in the absorption spectrum are
+   due to the atoms in an intervening medium between source and observer.
+   The atoms absorb certain frequencies of the light between emitter and
+   detector/eye, then emit them in all directions. A dark band appears to
+   the detector, due to the radiation scattered out of the light beam. For
+   instance, dark bands in the light emitted by a distant star are due to
+   the atoms in the star's atmosphere.
+
+Propagation speed
+
+   [edit]
+
+   Main article: Speed of light
+
+   In empty space (vacuum), electromagnetic radiation travels at the speed
+   of light,
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>c</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle c}</annotation>
+   </semantics> :MATH]
+   {\displaystyle c} , 299,792,458 meters per second (approximately
+   186,000 miles per second). In a medium other than vacuum it travels at
+   a lower velocity
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>v</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle v}</annotation>
+   </semantics> :MATH]
+   {\displaystyle v} , given by a dimensionless parameter between 0 and 1
+   characteristic of the medium called the velocity factor
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD">
+   <mrow class="MJX-TeXAtom-ORD"> <mi class="MJX-tex-mathit"
+   mathvariant="italic">V</mi> <mi class="MJX-tex-mathit"
+   mathvariant="italic">F</mi> </mrow> </mrow> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle {\mathit
+   {VF}}}</annotation> </semantics> :MATH]
+   {\displaystyle {\mathit {VF}}} or its reciprocal, the refractive index
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>n</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle n}</annotation>
+   </semantics> :MATH]
+   {\displaystyle n} :
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mi>v</mi> <mo>=</mo> <mrow
+          class="MJX-TeXAtom-ORD"> <mrow class="MJX-TeXAtom-ORD"> <mi
+          class="MJX-tex-mathit" mathvariant="italic">V</mi> <mi
+          class="MJX-tex-mathit" mathvariant="italic">F</mi> </mrow>
+          </mrow> <mo>⋅</mo> <mi>c</mi> <mo>=</mo> <mrow
+          class="MJX-TeXAtom-ORD"> <mfrac> <mi>c</mi> <mi>n</mi> </mfrac>
+          </mrow> </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle v={\mathit
+          {VF}}\cdot c={c \over n}}</annotation> </semantics> :MATH]
+          {\displaystyle v={\mathit {VF}}\cdot c={c \over n}} .
+
+   The reason for this is that in matter the electric and magnetic fields
+   of the wave are slowed because they polarize the charged particles in
+   the medium they pass through.^[41]^: 401  The oscillating electric
+   field causes nearby positive and negative charges in atoms to move
+   slightly apart and together, inducing an oscillating polarization,
+   creating an electric polarization field. The oscillating magnetic field
+   moves nearby magnetic dipoles, inducing an oscillating magnetization,
+   creating an induced oscillating magnetic field. These induced fields,
+   superposed on the original wave fields, slow the wave (Ewald–Oseen
+   extinction theorem). The amount of slowing depends on the
+   electromagnetic properties of the medium, the electric permittivity and
+   magnetic permeability. In the SI system of units, empty space has a
+   vacuum permittivity of
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <msub> <mi>ϵ</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mtext>0</mtext> </mrow> </msub> <mo>=</mo>
+   </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle \epsilon
+   _{\text{0}}=}</annotation> </semantics> :MATH]
+   {\displaystyle \epsilon _{\text{0}}=} 8.854×10^−12 F/m (farads per
+   meter) and a vacuum permeability of
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <msub> <mi>μ</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mtext>0</mtext> </mrow> </msub> <mo>=</mo>
+   </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle \mu
+   _{\text{0}}=}</annotation> </semantics> :MATH]
+   {\displaystyle \mu _{\text{0}}=} 1.257×10^−6 H/m (henries per meter).
+   These universal constants determine the speed of light in a vacuum:
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mi>c</mi> <mo>=</mo> <mrow
+          class="MJX-TeXAtom-ORD"> <mfrac> <mn>1</mn> <mrow
+          class="MJX-TeXAtom-ORD"> <msqrt> <msub> <mi>ϵ</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mtext>0</mtext> </mrow> </msub> <msub>
+          <mi>μ</mi> <mrow class="MJX-TeXAtom-ORD"> <mtext>0</mtext>
+          </mrow> </msub> </msqrt> </mrow> </mfrac> </mrow> </mstyle>
+          </mrow> <annotation encoding="application/x-tex">{\displaystyle
+          c={1 \over {\sqrt {\epsilon _{\text{0}}\mu
+          _{\text{0}}}}}}</annotation> </semantics> :MATH]
+          {\displaystyle c={1 \over {\sqrt {\epsilon _{\text{0}}\mu
+          _{\text{0}}}}}}
+
+   In a medium that is isotropic and linear, which means the electric
+   polarization is proportional to the electric field
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD"> <mi
+   mathvariant="bold">D</mi> </mrow> <mo>=</mo> <mi>ϵ</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mi mathvariant="bold">E</mi> </mrow>
+   </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle \mathbf {D} =\epsilon
+   \mathbf {E} }</annotation> </semantics> :MATH]
+   {\displaystyle \mathbf {D} =\epsilon \mathbf {E} } and the
+   magnetization is proportional to the magnetic field
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD"> <mi
+   mathvariant="bold">H</mi> </mrow> <mo>=</mo> <mrow
+   class="MJX-TeXAtom-ORD"> <mfrac> <mn>1</mn> <mi>μ</mi> </mfrac> </mrow>
+   <mrow class="MJX-TeXAtom-ORD"> <mi mathvariant="bold">B</mi> </mrow>
+   </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle \mathbf {H} ={1 \over \mu
+   }\mathbf {B} }</annotation> </semantics> :MATH]
+   {\displaystyle \mathbf {H} ={1 \over \mu }\mathbf {B} } . The speed of
+   the waves, the
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD">
+   <mrow class="MJX-TeXAtom-ORD"> <mi class="MJX-tex-mathit"
+   mathvariant="italic">V</mi> <mi class="MJX-tex-mathit"
+   mathvariant="italic">F</mi> </mrow> </mrow> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle {\mathit
+   {VF}}}</annotation> </semantics> :MATH]
+   {\displaystyle {\mathit {VF}}} , and the refractive index are
+   determined by only two parameters: the electric permittivity
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>ϵ</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle \epsilon
+   }</annotation> </semantics> :MATH]
+   {\displaystyle \epsilon } of the medium in farads per meter, and the
+   magnetic permeability of the medium
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>μ</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle \mu
+   }</annotation> </semantics> :MATH]
+   {\displaystyle \mu } in henrys per meter^[41]^: 401 
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mi>v</mi> <mo>=</mo> <mrow
+          class="MJX-TeXAtom-ORD"> <mfrac> <mn>1</mn> <mrow
+          class="MJX-TeXAtom-ORD"> <msqrt> <mi>ϵ</mi> <mi>μ</mi> </msqrt>
+          </mrow> </mfrac> </mrow> </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle v={1 \over {\sqrt
+          {\epsilon \mu }}}}</annotation> </semantics> :MATH]
+          {\displaystyle v={1 \over {\sqrt {\epsilon \mu }}}}
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mi>n</mi> <mo>=</mo> <mrow
+          class="MJX-TeXAtom-ORD"> <mfrac> <mn>1</mn> <mrow
+          class="MJX-TeXAtom-ORD"> <mrow class="MJX-TeXAtom-ORD"> <mi
+          class="MJX-tex-mathit" mathvariant="italic">V</mi> <mi
+          class="MJX-tex-mathit" mathvariant="italic">F</mi> </mrow>
+          </mrow> </mfrac> </mrow> <mo>=</mo> <mi>c</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <msqrt> <mi>ϵ</mi> <mi>μ</mi> </msqrt>
+          </mrow> <mo>=</mo> <mrow class="MJX-TeXAtom-ORD"> <msqrt>
+          <mfrac> <mrow> <mi>ϵ</mi> <mi>μ</mi> </mrow> <mrow> <msub>
+          <mi>ϵ</mi> <mrow class="MJX-TeXAtom-ORD"> <mtext>0</mtext>
+          </mrow> </msub> <msub> <mi>μ</mi> <mrow class="MJX-TeXAtom-ORD">
+          <mtext>0</mtext> </mrow> </msub> </mrow> </mfrac> </msqrt>
+          </mrow> </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle n={1 \over {\mathit
+          {VF}}}=c{\sqrt {\epsilon \mu }}={\sqrt {\epsilon \mu \over
+          \epsilon _{\text{0}}\mu _{\text{0}}}}}</annotation> </semantics>
+          :MATH]
+          {\displaystyle n={1 \over {\mathit {VF}}}=c{\sqrt {\epsilon \mu
+          }}={\sqrt {\epsilon \mu \over \epsilon _{\text{0}}\mu
+          _{\text{0}}}}}
+
+   If the permittivity and permeability of the medium is constant for
+   different frequency EM waves, this is called a non-dispersive
+   medium.^[41]^: 417–418  In this case all EM wave frequencies would
+   travel at the same velocity, and the waveshape stays constant as it
+   travels. However in real matter
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>ϵ</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle \epsilon
+   }</annotation> </semantics> :MATH]
+   {\displaystyle \epsilon } and
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>μ</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle \mu
+   }</annotation> </semantics> :MATH]
+   {\displaystyle \mu } typically vary with frequency, this is called a
+   dispersive medium. In dispersive media different spectral bands have
+   different propagation characteristics, and an arbitrary wave changes
+   shape as it travels through the medium.
+
+History of discovery
+
+   [edit]
+
+   See also: History of electromagnetic theory, Timeline of
+   electromagnetism and classical optics, and Radiation § Discovery
+
+   Electromagnetic radiation of wavelengths other than those of visible
+   light were discovered in the early 19th century. The discovery of
+   infrared radiation is ascribed to astronomer William Herschel, who
+   published his results in 1800 before the Royal Society of London.^[42]
+   Herschel used a glass prism to refract light from the Sun and detected
+   invisible rays that caused heating beyond the red part of the spectrum,
+   through an increase in the temperature recorded with a thermometer.
+   These "calorific rays" were later termed infrared.^[43]
+
+   In 1801 German physicist Johann Wilhelm Ritter discovered ultraviolet
+   in an experiment similar to Herschel's, using sunlight and a glass
+   prism. Ritter noted that invisible rays near the violet edge of a solar
+   spectrum dispersed by a triangular prism darkened silver chloride
+   preparations more quickly than did the nearby violet light. Ritter's
+   experiments were an early precursor to what would become photography.
+   Ritter noted that the ultraviolet rays (which at first were called
+   "chemical rays") were capable of causing chemical reactions.^[44]^[45]
+   [250px-James_Clerk_Maxwell_sitting.jpg] James Clerk Maxwell (1831–1879)
+
+   In 1862–64 James Clerk Maxwell developed equations for the
+   electromagnetic field which suggested that waves in the field would
+   travel with a speed that was very close to the known speed of light.
+   Maxwell therefore suggested that visible light (as well as invisible
+   infrared and ultraviolet rays by inference) all consisted of
+   propagating disturbances (or radiation) in the electromagnetic field.
+   Radio waves were first produced deliberately by Heinrich Hertz in 1887,
+   using electrical circuits calculated to produce oscillations at a much
+   lower frequency than that of visible light, following recipes for
+   producing oscillating charges and currents suggested by Maxwell's
+   equations. Hertz also developed ways to detect these waves, and
+   produced and characterized what were later termed radio waves and
+   microwaves.^[46]^: 286, 7 
+
+   Wilhelm Röntgen discovered and named X-rays. After experimenting with
+   high voltages applied to an evacuated tube on 8 November 1895, he
+   noticed a fluorescence on a nearby plate of coated glass. In one month,
+   he discovered X-rays' main properties.^[46]^: 307 
+
+   The last portion of the EM spectrum to be discovered was associated
+   with radioactivity. Henri Becquerel found that uranium salts caused
+   fogging of an unexposed photographic plate through a covering paper in
+   a manner similar to X-rays, and Marie Curie discovered that only
+   certain elements gave off these rays of energy, soon discovering the
+   intense radiation of radium. The radiation from pitchblende was
+   differentiated into alpha rays (alpha particles) and beta rays (beta
+   particles) by Ernest Rutherford through simple experimentation in 1899,
+   but these proved to be charged particulate types of radiation. However,
+   in 1900 the French scientist Paul Villard discovered a third neutrally
+   charged and especially penetrating type of radiation from radium, and
+   after he described it, Rutherford realized it must be yet a third type
+   of radiation, which in 1903 Rutherford named gamma rays.
+
+   In 1910 British physicist William Henry Bragg demonstrated that gamma
+   rays are electromagnetic radiation, not particles, and in 1914
+   Rutherford and Edward Andrade measured their wavelengths, finding that
+   they were similar to X-rays but with shorter wavelengths and higher
+   frequency, although a 'cross-over' between X and gamma rays makes it
+   possible to have X-rays with a higher energy (and hence shorter
+   wavelength) than gamma rays and vice versa. The origin of the ray
+   differentiates them, gamma rays tend to be natural phenomena
+   originating from the unstable nucleus of an atom and X-rays are
+   electrically generated (and hence man-made) unless they are as a result
+   of bremsstrahlung X-radiation caused by the interaction of fast moving
+   particles (such as beta particles) colliding with certain materials,
+   usually of higher atomic numbers.^[46]^: 308, 9 
+
+Electromagnetic spectrum
+
+   [edit]
+
+   Main article: Electromagnetic spectrum
+
+   [960px-EM_spectrum_updated.svg.png] Electromagnetic spectrum with
+   visible light highlighted. The bottom graph (visible spectrum) shows
+   wavelength in units of nanometers (nm).[330px-Light_spectrum.svg.png]
+   Legend:
+   γ = Gamma rays
+   HX = Hard X-rays
+   SX = Soft X-rays
+   EUV = Extreme-ultraviolet
+   NUV = Near-ultraviolet
+   Visible light (colored bands)
+   NIR = Near-infrared
+   MIR = Mid-infrared
+   FIR = Far-infrared
+   EHF = Extremely high frequency (microwaves)
+   SHF = Super-high frequency (microwaves)
+   UHF = Ultrahigh frequency (radio waves)
+   VHF = Very high frequency (radio)
+   HF = High frequency (radio)
+   MF = Medium frequency (radio)
+   LF = Low frequency (radio)
+   VLF = Very low frequency (radio)
+   VF = Voice frequency
+   ULF = Ultra-low frequency (radio)
+   SLF = Super-low frequency (radio)
+   ELF = Extremely low frequency (radio)
+
+   EM radiation (the designation 'radiation' excludes static electric and
+   magnetic and near fields) is classified by wavelength into radio,
+   microwave, infrared, visible, ultraviolet, X-rays, and gamma rays.
+   Arbitrary electromagnetic waves can be expressed by Fourier analysis in
+   terms of sinusoidal waves (monochromatic radiation), which in turn can
+   each be classified into these regions of the EMR spectrum.
+
+   For certain classes of EM waves, the waveform is most usefully treated
+   as random, and then spectral analysis must be done by slightly
+   different mathematical techniques appropriate to random or stochastic
+   processes. In such cases, the individual frequency components are
+   represented in terms of their power content, and the phase information
+   is not preserved. Such a representation is called the power spectral
+   density of the random process. Random electromagnetic radiation
+   requiring this kind of analysis is, for example, encountered in the
+   interior of stars, and in certain other very wideband forms of
+   radiation such as the zero-point wave field of the electromagnetic
+   vacuum.
+
+   The behavior of EM radiation and its interaction with matter depends on
+   its frequency, and changes qualitatively as the frequency changes.
+   Lower frequencies have longer wavelengths, and higher frequencies have
+   shorter wavelengths, and are associated with photons of higher energy.
+   There is no fundamental limit known to these wavelengths or energies,
+   at either end of the spectrum, although photons with energies near the
+   Planck energy or exceeding it (far too high to have ever been observed)
+   will require new physical theories to describe.
+
+Radio and microwave
+
+   [edit]
+
+   Main articles: Radio wave and Microwave
+
+   Electromagnetic radiation phenomena with wavelengths ranging from one
+   meter to one millimeter are called microwaves; with frequencies between
+   300 MHz (0.3 GHz) and 300 GHz. When radio waves impinge upon a
+   conductor, they couple to the conductor, travel along it, and induce an
+   electric current on the conductor surface by moving the electrons of
+   the conducting material in correlated bunches of charge. At radio and
+   microwave frequencies, EMR interacts with matter largely as a bulk
+   collection of charges which are spread out over large numbers of
+   affected atoms. In electrical conductors, such induced bulk movement of
+   charges (electric currents) results in absorption of the EMR, or else
+   separations of charges that cause generation of new EMR (effective
+   reflection of the EMR). An example is absorption or emission of radio
+   waves by antennas, or absorption of microwaves by water or other
+   molecules with an electric dipole moment, as for example inside a
+   microwave oven. These interactions produce either electric currents or
+   heat, or both.
+
+Infrared
+
+   [edit]
+
+   Main article: Infrared
+
+   Like radio and microwave, infrared (IR) is reflected by metals (and
+   also most EMR, well into the ultraviolet range). However, unlike
+   lower-frequency radio and microwave radiation, infrared EMR commonly
+   interacts with dipoles present in single molecules, which change as
+   atoms vibrate at the ends of a single chemical bond. It is consequently
+   absorbed by a wide range of substances, causing them to increase in
+   temperature as the vibrations dissipate as heat. The same process, run
+   in reverse, causes bulk substances to radiate in the infrared
+   spontaneously (see thermal radiation section below).
+
+   Infrared radiation is divided into spectral subregions. While different
+   subdivision schemes exist,^[47]^[48]^[new archival link needed] the
+   spectrum is commonly divided as near-infrared (0.75–1.4 μm),
+   short-wavelength infrared (1.4–3 μm), mid-wavelength infrared (3–8 μm),
+   long-wavelength infrared (8–15 μm) and far infrared (15–1000 μm).^[49]
+
+   Some animals, such as snakes, have thermo-sensitive membranes (pit
+   organs) that can detect temperature differences, allowing them to sense
+   infrared radiation.^[50]
+
+Visible light
+
+   [edit]
+
+   Main article: Light
+
+   Natural sources produce EM radiation across the spectrum. EM radiation
+   with a wavelength between approximately 400 nm and 700 nm is directly
+   detected by the human eye and perceived as visible light. Other
+   wavelengths, especially nearby infrared (longer than 700 nm) and
+   ultraviolet (shorter than 400 nm) are also sometimes referred to as
+   light.
+
+   As frequency increases into the visible range, photons have enough
+   energy to change the bond structure of some individual molecules. It is
+   not a coincidence that this happens in the visible range, as the
+   mechanism of vision involves the change in bonding of a single
+   molecule, retinal, which absorbs a single photon. The change in retinal
+   causes a change in the shape of the rhodopsin protein it is contained
+   in, which starts the biochemical process that causes the retina of the
+   human eye to sense the light.
+
+   Visible light is able to affect only a tiny percentage of all
+   molecules. Usually not in a permanent or damaging way, rather the
+   photon excites an electron which then emits another photon when
+   returning to its original position. This is the source of color
+   produced by most dyes. Retinal is an exception. When a photon is
+   absorbed, the retinal permanently changes structure from cis to trans,
+   and requires a protein to convert it back, i.e. reset it to be able to
+   function as a light detector again.
+
+   Photosynthesis becomes possible in this range as well, for the same
+   reason. A single molecule of chlorophyll is excited by a single photon.
+   In plant tissues that conduct photosynthesis, carotenoids act to quench
+   electronically excited chlorophyll produced by visible light in a
+   process called non-photochemical quenching, to prevent reactions that
+   would otherwise interfere with photosynthesis at high light levels.
+
+   Limited evidence indicate that some reactive oxygen species are created
+   by visible light in skin, and that these may have some role in
+   photoaging, in the same manner as ultraviolet A.^[51]
+
+   Infrared, microwaves, and radio waves are known to damage molecules and
+   biological tissue only by bulk heating, not excitation from single
+   photons of the radiation.
+
+Ultraviolet
+
+   [edit]
+
+   Main article: Ultraviolet
+
+   As frequency increases into the ultraviolet, photons now carry enough
+   energy (about three electron volts or more) to excite certain doubly
+   bonded molecules into permanent chemical rearrangement. In DNA, this
+   causes lasting damage. DNA is also indirectly damaged by reactive
+   oxygen species produced by ultraviolet A (UVA), which has energy too
+   low to damage DNA directly. This is why ultraviolet at all wavelengths
+   can damage DNA, and is capable of causing cancer, and (for UVB) skin
+   burns (sunburn) that are far worse than would be produced by simple
+   heating (temperature increase) effects.
+
+   At the higher end of the ultraviolet range, the energy of photons
+   becomes large enough to impart enough energy to electrons to cause them
+   to be liberated from the atom, in a process called photoionisation. The
+   energy required for this is always larger than about 10 electron volt
+   (eV) corresponding with wavelengths smaller than 124 nm (some sources
+   suggest a more realistic cutoff of 33 eV, which is the energy required
+   to ionize water). This high end of the ultraviolet spectrum with
+   energies in the approximate ionization range, is sometimes called
+   "extreme UV". Ionizing UV is strongly filtered by the Earth's
+   atmosphere.^[52]
+
+X-rays and gamma rays
+
+   [edit]
+
+   Main articles: X-rays and Gamma rays
+
+   Electromagnetic radiation composed of photons that carry
+   minimum-ionization energy, or more (which includes the entire spectrum
+   with shorter wavelengths), is therefore termed ionizing radiation.
+   (Many other kinds of ionizing radiation are made of non-EM particles.)
+   Electromagnetic-type ionizing radiation extends from the extreme
+   ultraviolet to all higher frequencies and shorter wavelengths, which
+   means that all X-rays and gamma rays qualify. These are capable of the
+   most severe types of molecular damage, which can happen in biology to
+   any type of biomolecule, including mutation and cancer,^[53] and often
+   at great depths below the skin, since the higher end of the X-ray
+   spectrum, and all of the gamma ray spectrum, penetrate matter.
+
+Atmosphere and magnetosphere
+
+   [edit]
+
+   Main articles: ozone layer, shortwave radio, skywave, ionosphere,
+   atmospheric window, and optical window
+
+   [960px-Atmospheric_electromagnetic_opacity.svg.png] Rough plot of
+   Earth's atmospheric absorption and scattering (or opacity) of various
+   wavelengths of electromagnetic radiation
+
+   Most UV and X-rays are blocked by absorption first from molecular
+   nitrogen, and then (for wavelengths in the upper UV) from the
+   electronic excitation of dioxygen and finally ozone at the mid-range of
+   UV. Only 30% of the Sun's ultraviolet light reaches the ground, and
+   almost all of this is well transmitted.
+
+   Visible light is well transmitted in air, a property known as an
+   atmospheric window, as it is not energetic enough to excite nitrogen,
+   oxygen, or ozone, but too energetic to excite molecular vibrational
+   frequencies of water vapor and carbon dioxide.^[54] Absorption bands in
+   the infrared are due to modes of vibrational excitation in water vapor.
+   However, at energies too low to excite water vapor, the atmosphere
+   becomes transparent again, allowing free transmission of most microwave
+   and radio waves.^[55]
+
+   Finally, at radio wavelengths longer than 10 m or so (about 30 MHz),
+   the air in the lower atmosphere remains transparent to radio, but
+   plasma in certain layers of the ionosphere begins to interact with
+   radio waves (see skywave). This property allows some longer wavelengths
+   (100 m or 3 MHz) to be reflected and results in shortwave radio beyond
+   line-of-sight. However, certain ionospheric effects begin to block
+   incoming radiowaves from space, when their frequency is less than about
+   10 MHz (wavelength longer than about 30 m).^[56]
+
+Thermal and electromagnetic radiation as a form of heat
+
+   [edit]
+
+   Main articles: Thermal radiation and Planck's law
+
+   The basic structure of matter involves charged particles bound
+   together. When electromagnetic radiation impinges on matter, it causes
+   the charged particles to oscillate and gain energy. The ultimate fate
+   of this energy depends on the context. It could be immediately
+   re-radiated and appear as scattered, reflected, or transmitted
+   radiation. It may get dissipated into other microscopic motions within
+   the matter, coming to thermal equilibrium and manifesting itself as
+   thermal energy, or even kinetic energy, in the material. With a few
+   exceptions related to high-energy photons (such as fluorescence,
+   harmonic generation, photochemical reactions, the photovoltaic effect
+   for ionizing radiations at far ultraviolet, X-ray, and gamma
+   radiation), absorbed electromagnetic radiation simply deposits its
+   energy by heating the material. This happens for infrared, microwave,
+   and radio wave radiation.
+
+   Intense radio waves can thermally burn living tissue and can cook food.
+   In addition to infrared lasers, sufficiently intense visible and
+   ultraviolet lasers can easily set paper afire.^[57] Ionizing radiation
+   creates high-speed electrons in a material and breaks chemical bonds,
+   but after these electrons collide many times with other atoms
+   eventually most of the energy becomes thermal energy all in a tiny
+   fraction of a second. This caveat also applies to UV, even though
+   almost all of it is not ionizing, because UV can damage molecules due
+   to electronic excitation, which is far greater per unit energy than
+   heating effects.^[57]^[53]
+
+   Infrared radiation in the spectral distribution of a black body is
+   usually considered a form of heat, since it has an equivalent
+   temperature and is associated with an entropy change per unit of
+   thermal energy. However, "heat" is a technical term in physics and
+   thermodynamics and is often confused with thermal energy. Any type of
+   electromagnetic energy can be transformed into thermal energy in
+   interaction with matter. Thus, any electromagnetic radiation can "heat"
+   (in the sense of increase the thermal energy temperature of) a
+   material, when it is absorbed.^[58] The inverse or time-reversed
+   process of absorption is thermal radiation. Much of the thermal energy
+   in matter consists of random motion of charged particles, and this
+   energy can be radiated away from the matter. The resulting radiation
+   may subsequently be absorbed by another piece of matter, with the
+   deposited energy heating the material.^[59]
+
+   The electromagnetic radiation in an opaque cavity at thermal
+   equilibrium is effectively a form of thermal energy, having maximum
+   radiation entropy.^[60]
+
+Biological effects
+
+   [edit]
+
+   Main articles: Electromagnetic radiation and health and Wireless device
+   radiation and health
+
+   Bioelectromagnetics is the study of the interactions and effects of EM
+   radiation on living organisms. The effects of electromagnetic radiation
+   upon living cells, including those in humans, depends upon the
+   radiation's power and frequency. For low-frequency radiation (radio
+   waves to near ultraviolet) the best-understood effects are those due to
+   radiation power alone, acting through heating when radiation is
+   absorbed. For these thermal effects, frequency is important as it
+   affects the intensity of the radiation and penetration into the
+   organism (for example, microwaves penetrate better than infrared). It
+   is widely accepted that low frequency fields that are too weak to cause
+   significant heating could not possibly have any biological effect.^[61]
+   Some research suggests that weaker non-thermal electromagnetic fields
+   (including weak ELF magnetic fields, although the latter does not
+   strictly qualify as EM radiation^[61]^[62]^[63]) and modulated RF and
+   microwave fields can have biological effects, though the significance
+   of this is unclear.^[64]^[65]
+
+   All UV frequencies have been classed as Group 1 carcinogens by the
+   World Health Organization. Ultraviolet radiation from sun exposure is
+   the primary cause of skin cancer, the most common type of cancer among
+   fair-skinned people. UV radiation damages DNA and cells as well as
+   causing mutations that block DNA repair.^[66]^[67] Visible and infrared
+   light may increase photoaging, but sunscreens do not generally protect
+   against these effects.^[68]
+
+   The World Health Organization has classified radio frequency
+   electromagnetic radiation as Group 2B—possibly carcinogenic.^[69] This
+   group contains possible carcinogens such as lead, coffee, and
+   automobile exhaust.^[70]
+
+Use as a weapon
+
+   [edit]
+
+   See also: Directed energy weapons § Microwave weapons
+
+   The heat ray is an application of EMR that makes use of microwave
+   frequencies to create an unpleasant heating effect in the upper layer
+   of the skin. A publicly known heat ray weapon called the Active Denial
+   System was developed by the US military as an experimental weapon to
+   deny the enemy access to an area.^[71] A death ray is a theoretical
+   weapon that delivers heat ray based on electromagnetic energy at levels
+   that are capable of injuring human tissue. An inventor of a death ray,
+   Harry Grindell Matthews, claimed to have lost sight in his left eye
+   while working on his death ray weapon based on a microwave magnetron
+   from the 1920s (a normal microwave oven creates a tissue damaging
+   cooking effect inside the oven at around 2 kV/m).^[72]
+
+Derivation from electromagnetic theory
+
+   [edit]
+
+   Main article: Electromagnetic wave equation
+
+   Electromagnetic waves are predicted by the classical laws of
+   electricity and magnetism, known as Maxwell's equations. There are
+   nontrivial solutions of the homogeneous Maxwell's equations (without
+   charges or currents), describing waves of changing electric and
+   magnetic fields. Beginning with Maxwell's equations in free space:
+
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi mathvariant="normal">∇</mi>
+   <mo>⋅</mo> <mrow class="MJX-TeXAtom-ORD"> <mi mathvariant="bold">E</mi>
+   </mrow> <mo>=</mo> <mn>0</mn> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle \nabla \cdot \mathbf {E}
+   =0}</annotation> </semantics> :MATH]
+   {\displaystyle \nabla \cdot \mathbf {E} =0} 1
+
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi mathvariant="normal">∇</mi>
+   <mo>×</mo> <mrow class="MJX-TeXAtom-ORD"> <mi mathvariant="bold">E</mi>
+   </mrow> <mo>=</mo> <mo>−</mo> <mrow class="MJX-TeXAtom-ORD"> <mfrac>
+   <mrow> <mi mathvariant="normal">∂</mi> <mrow class="MJX-TeXAtom-ORD">
+   <mi mathvariant="bold">B</mi> </mrow> </mrow> <mrow> <mi
+   mathvariant="normal">∂</mi> <mi>t</mi> </mrow> </mfrac> </mrow>
+   </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle \nabla \times \mathbf {E}
+   =-{\frac {\partial \mathbf {B} }{\partial t}}}</annotation>
+   </semantics> :MATH]
+   {\displaystyle \nabla \times \mathbf {E} =-{\frac {\partial \mathbf {B}
+   }{\partial t}}}                                                          2
+
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi mathvariant="normal">∇</mi>
+   <mo>⋅</mo> <mrow class="MJX-TeXAtom-ORD"> <mi mathvariant="bold">B</mi>
+   </mrow> <mo>=</mo> <mn>0</mn> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle \nabla \cdot \mathbf {B}
+   =0}</annotation> </semantics> :MATH]
+   {\displaystyle \nabla \cdot \mathbf {B} =0} 3
+
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi mathvariant="normal">∇</mi>
+   <mo>×</mo> <mrow class="MJX-TeXAtom-ORD"> <mi mathvariant="bold">B</mi>
+   </mrow> <mo>=</mo> <msub> <mi>μ</mi> <mrow class="MJX-TeXAtom-ORD">
+   <mn>0</mn> </mrow> </msub> <msub> <mi>ε</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mn>0</mn> </mrow> </msub> <mrow
+   class="MJX-TeXAtom-ORD"> <mfrac> <mrow> <mi mathvariant="normal">∂</mi>
+   <mrow class="MJX-TeXAtom-ORD"> <mi mathvariant="bold">E</mi> </mrow>
+   </mrow> <mrow> <mi mathvariant="normal">∂</mi> <mi>t</mi> </mrow>
+   </mfrac> </mrow> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle \nabla \times \mathbf {B}
+   =\mu _{0}\varepsilon _{0}{\frac {\partial \mathbf {E} }{\partial
+   t}}}</annotation> </semantics> :MATH]
+   {\displaystyle \nabla \times \mathbf {B} =\mu _{0}\varepsilon
+   _{0}{\frac {\partial \mathbf {E} }{\partial t}}} 4
+
+   where
+     *
+       [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+       displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD">
+       <mi mathvariant="bold">E</mi> </mrow> </mstyle> </mrow> <annotation
+       encoding="application/x-tex">{\displaystyle \mathbf {E}
+       }</annotation> </semantics> :MATH]
+       {\displaystyle \mathbf {E} } and
+       [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+       displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD">
+       <mi mathvariant="bold">B</mi> </mrow> </mstyle> </mrow> <annotation
+       encoding="application/x-tex">{\displaystyle \mathbf {B}
+       }</annotation> </semantics> :MATH]
+       {\displaystyle \mathbf {B} } are the electric field (measured in
+       V/m or N/C) and the magnetic field (measured in T or Wb/m^2),
+       respectively;
+     *
+       [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+       displaystyle="true" scriptlevel="0"> <mi
+       mathvariant="normal">∇</mi> <mo>⋅</mo> <mrow
+       class="MJX-TeXAtom-ORD"> <mi mathvariant="bold">X</mi> </mrow>
+       </mstyle> </mrow> <annotation
+       encoding="application/x-tex">{\displaystyle \nabla \cdot \mathbf
+       {X} }</annotation> </semantics> :MATH]
+       {\displaystyle \nabla \cdot \mathbf {X} } yields the divergence and
+       [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+       displaystyle="true" scriptlevel="0"> <mi
+       mathvariant="normal">∇</mi> <mo>×</mo> <mrow
+       class="MJX-TeXAtom-ORD"> <mi mathvariant="bold">X</mi> </mrow>
+       </mstyle> </mrow> <annotation
+       encoding="application/x-tex">{\displaystyle \nabla \times \mathbf
+       {X} }</annotation> </semantics> :MATH]
+       {\displaystyle \nabla \times \mathbf {X} } the curl of a vector
+       field
+       [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+       displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD">
+       <mi mathvariant="bold">X</mi> </mrow> </mstyle> </mrow> <annotation
+       encoding="application/x-tex">{\displaystyle \mathbf {X}
+       }</annotation> </semantics> :MATH]
+       {\displaystyle \mathbf {X} } ;
+     *
+       [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+       displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD">
+       <mfrac> <mrow> <mi mathvariant="normal">∂</mi> <mrow
+       class="MJX-TeXAtom-ORD"> <mi mathvariant="bold">B</mi> </mrow>
+       </mrow> <mrow> <mi mathvariant="normal">∂</mi> <mi>t</mi> </mrow>
+       </mfrac> </mrow> </mstyle> </mrow> <annotation
+       encoding="application/x-tex">{\displaystyle {\frac {\partial
+       \mathbf {B} }{\partial t}}}</annotation> </semantics> :MATH]
+       {\displaystyle {\frac {\partial \mathbf {B} }{\partial t}}} and
+       [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+       displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD">
+       <mfrac> <mrow> <mi mathvariant="normal">∂</mi> <mrow
+       class="MJX-TeXAtom-ORD"> <mi mathvariant="bold">E</mi> </mrow>
+       </mrow> <mrow> <mi mathvariant="normal">∂</mi> <mi>t</mi> </mrow>
+       </mfrac> </mrow> </mstyle> </mrow> <annotation
+       encoding="application/x-tex">{\displaystyle {\frac {\partial
+       \mathbf {E} }{\partial t}}}</annotation> </semantics> :MATH]
+       {\displaystyle {\frac {\partial \mathbf {E} }{\partial t}}} are
+       partial derivatives (rate of change in time, with location fixed)
+       of the magnetic and electric field;
+     *
+       [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+       displaystyle="true" scriptlevel="0"> <msub> <mi>μ</mi> <mrow
+       class="MJX-TeXAtom-ORD"> <mn>0</mn> </mrow> </msub> </mstyle>
+       </mrow> <annotation encoding="application/x-tex">{\displaystyle \mu
+       _{0}}</annotation> </semantics> :MATH]
+       {\displaystyle \mu _{0}} is the permeability of a vacuum
+       (4π × 10^−7 H/m), and
+       [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+       displaystyle="true" scriptlevel="0"> <msub> <mi>ε</mi> <mrow
+       class="MJX-TeXAtom-ORD"> <mn>0</mn> </mrow> </msub> </mstyle>
+       </mrow> <annotation encoding="application/x-tex">{\displaystyle
+       \varepsilon _{0}}</annotation> </semantics> :MATH]
+       {\displaystyle \varepsilon _{0}} is the permittivity of a vacuum
+       (8.85 × 10^−12 F/m);
+
+   Besides the trivial solution
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD"> <mi
+   mathvariant="bold">E</mi> </mrow> <mo>=</mo> <mrow
+   class="MJX-TeXAtom-ORD"> <mi mathvariant="bold">B</mi> </mrow>
+   <mo>=</mo> <mrow class="MJX-TeXAtom-ORD"> <mn mathvariant="bold">0</mn>
+   </mrow> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle \mathbf {E} =\mathbf {B}
+   =\mathbf {0} }</annotation> </semantics> :MATH]
+   {\displaystyle \mathbf {E} =\mathbf {B} =\mathbf {0} } , useful
+   solutions can be derived with the following vector identity, valid for
+   all vectors
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD"> <mi
+   mathvariant="bold">A</mi> </mrow> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle \mathbf {A} }</annotation>
+   </semantics> :MATH]
+   {\displaystyle \mathbf {A} } in some vector field:
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi mathvariant="normal">∇</mi>
+   <mo>×</mo> <mrow> <mo>(</mo> <mrow> <mi mathvariant="normal">∇</mi>
+   <mo>×</mo> <mrow class="MJX-TeXAtom-ORD"> <mi mathvariant="bold">A</mi>
+   </mrow> </mrow> <mo>)</mo> </mrow> <mo>=</mo> <mi
+   mathvariant="normal">∇</mi> <mrow> <mo>(</mo> <mrow> <mi
+   mathvariant="normal">∇</mi> <mo>⋅</mo> <mrow class="MJX-TeXAtom-ORD">
+   <mi mathvariant="bold">A</mi> </mrow> </mrow> <mo>)</mo> </mrow>
+   <mo>−</mo> <msup> <mi mathvariant="normal">∇</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow> </msup> <mrow
+   class="MJX-TeXAtom-ORD"> <mi mathvariant="bold">A</mi> </mrow>
+   <mo>.</mo> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle \nabla \times \left(\nabla
+   \times \mathbf {A} \right)=\nabla \left(\nabla \cdot \mathbf {A}
+   \right)-\nabla ^{2}\mathbf {A} .}</annotation> </semantics> :MATH]
+   {\displaystyle \nabla \times \left(\nabla \times \mathbf {A}
+   \right)=\nabla \left(\nabla \cdot \mathbf {A} \right)-\nabla
+   ^{2}\mathbf {A} .} Taking the curl of the second Maxwell's equation (2)
+   yields:
+
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi mathvariant="normal">∇</mi>
+   <mo>×</mo> <mrow> <mo>(</mo> <mrow> <mi mathvariant="normal">∇</mi>
+   <mo>×</mo> <mrow class="MJX-TeXAtom-ORD"> <mi mathvariant="bold">E</mi>
+   </mrow> </mrow> <mo>)</mo> </mrow> <mo>=</mo> <mi
+   mathvariant="normal">∇</mi> <mo>×</mo> <mrow> <mo>(</mo> <mrow>
+   <mo>−</mo> <mrow class="MJX-TeXAtom-ORD"> <mfrac> <mrow> <mi
+   mathvariant="normal">∂</mi> <mrow class="MJX-TeXAtom-ORD"> <mi
+   mathvariant="bold">B</mi> </mrow> </mrow> <mrow> <mi
+   mathvariant="normal">∂</mi> <mi>t</mi> </mrow> </mfrac> </mrow> </mrow>
+   <mo>)</mo> </mrow> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle \nabla \times \left(\nabla
+   \times \mathbf {E} \right)=\nabla \times \left(-{\frac {\partial
+   \mathbf {B} }{\partial t}}\right)}</annotation> </semantics> :MATH]
+   {\displaystyle \nabla \times \left(\nabla \times \mathbf {E}
+   \right)=\nabla \times \left(-{\frac {\partial \mathbf {B} }{\partial
+   t}}\right)}                                                          5
+
+   Evaluating the left hand side of (5) with the above identity and
+   simplifying using (1), yields:
+
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi mathvariant="normal">∇</mi>
+   <mo>×</mo> <mrow> <mo>(</mo> <mrow> <mi mathvariant="normal">∇</mi>
+   <mo>×</mo> <mrow class="MJX-TeXAtom-ORD"> <mi mathvariant="bold">E</mi>
+   </mrow> </mrow> <mo>)</mo> </mrow> <mo>=</mo> <mi
+   mathvariant="normal">∇</mi> <mrow> <mo>(</mo> <mrow> <mi
+   mathvariant="normal">∇</mi> <mo>⋅</mo> <mrow class="MJX-TeXAtom-ORD">
+   <mi mathvariant="bold">E</mi> </mrow> </mrow> <mo>)</mo> </mrow>
+   <mo>−</mo> <msup> <mi mathvariant="normal">∇</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow> </msup> <mrow
+   class="MJX-TeXAtom-ORD"> <mi mathvariant="bold">E</mi> </mrow>
+   <mo>=</mo> <mo>−</mo> <msup> <mi mathvariant="normal">∇</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow> </msup> <mrow
+   class="MJX-TeXAtom-ORD"> <mi mathvariant="bold">E</mi> </mrow>
+   <mo>.</mo> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle \nabla \times \left(\nabla
+   \times \mathbf {E} \right)=\nabla \left(\nabla \cdot \mathbf {E}
+   \right)-\nabla ^{2}\mathbf {E} =-\nabla ^{2}\mathbf {E} .}</annotation>
+   </semantics> :MATH]
+   {\displaystyle \nabla \times \left(\nabla \times \mathbf {E}
+   \right)=\nabla \left(\nabla \cdot \mathbf {E} \right)-\nabla
+   ^{2}\mathbf {E} =-\nabla ^{2}\mathbf {E} .} 6
+
+   Evaluating the right hand side of (5) by exchanging the sequence of
+   derivatives and inserting the fourth Maxwell's equation (4), yields:
+
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi mathvariant="normal">∇</mi>
+   <mo>×</mo> <mrow> <mo>(</mo> <mrow> <mo>−</mo> <mrow
+   class="MJX-TeXAtom-ORD"> <mfrac> <mrow> <mi mathvariant="normal">∂</mi>
+   <mrow class="MJX-TeXAtom-ORD"> <mi mathvariant="bold">B</mi> </mrow>
+   </mrow> <mrow> <mi mathvariant="normal">∂</mi> <mi>t</mi> </mrow>
+   </mfrac> </mrow> </mrow> <mo>)</mo> </mrow> <mo>=</mo> <mo>−</mo> <mrow
+   class="MJX-TeXAtom-ORD"> <mfrac> <mi mathvariant="normal">∂</mi> <mrow>
+   <mi mathvariant="normal">∂</mi> <mi>t</mi> </mrow> </mfrac> </mrow>
+   <mrow> <mo>(</mo> <mrow> <mi mathvariant="normal">∇</mi> <mo>×</mo>
+   <mrow class="MJX-TeXAtom-ORD"> <mi mathvariant="bold">B</mi> </mrow>
+   </mrow> <mo>)</mo> </mrow> <mo>=</mo> <mo>−</mo> <msub> <mi>μ</mi>
+   <mrow class="MJX-TeXAtom-ORD"> <mn>0</mn> </mrow> </msub> <msub>
+   <mi>ε</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>0</mn> </mrow> </msub>
+   <mrow class="MJX-TeXAtom-ORD"> <mfrac> <mrow> <msup> <mi
+   mathvariant="normal">∂</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>2</mn>
+   </mrow> </msup> <mrow class="MJX-TeXAtom-ORD"> <mi
+   mathvariant="bold">E</mi> </mrow> </mrow> <mrow> <mi
+   mathvariant="normal">∂</mi> <msup> <mi>t</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow> </msup> </mrow> </mfrac>
+   </mrow> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle \nabla \times \left(-{\frac
+   {\partial \mathbf {B} }{\partial t}}\right)=-{\frac {\partial
+   }{\partial t}}\left(\nabla \times \mathbf {B} \right)=-\mu
+   _{0}\varepsilon _{0}{\frac {\partial ^{2}\mathbf {E} }{\partial
+   t^{2}}}}</annotation> </semantics> :MATH]
+   {\displaystyle \nabla \times \left(-{\frac {\partial \mathbf {B}
+   }{\partial t}}\right)=-{\frac {\partial }{\partial t}}\left(\nabla
+   \times \mathbf {B} \right)=-\mu _{0}\varepsilon _{0}{\frac {\partial
+   ^{2}\mathbf {E} }{\partial t^{2}}}} 7
+
+   Combining (6) and (7) again, gives a vector-valued differential
+   equation for the electric field, solving the homogeneous Maxwell's
+   equations:
+
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <msup> <mi
+   mathvariant="normal">∇</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>2</mn>
+   </mrow> </msup> <mrow class="MJX-TeXAtom-ORD"> <mi
+   mathvariant="bold">E</mi> </mrow> <mo>=</mo> <msub> <mi>μ</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mn>0</mn> </mrow> </msub> <msub> <mi>ε</mi>
+   <mrow class="MJX-TeXAtom-ORD"> <mn>0</mn> </mrow> </msub> <mrow
+   class="MJX-TeXAtom-ORD"> <mfrac> <mrow> <msup> <mi
+   mathvariant="normal">∂</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>2</mn>
+   </mrow> </msup> <mrow class="MJX-TeXAtom-ORD"> <mi
+   mathvariant="bold">E</mi> </mrow> </mrow> <mrow> <mi
+   mathvariant="normal">∂</mi> <msup> <mi>t</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow> </msup> </mrow> </mfrac>
+   </mrow> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle \nabla ^{2}\mathbf {E} =\mu
+   _{0}\varepsilon _{0}{\frac {\partial ^{2}\mathbf {E} }{\partial
+   t^{2}}}}</annotation> </semantics> :MATH]
+   {\displaystyle \nabla ^{2}\mathbf {E} =\mu _{0}\varepsilon _{0}{\frac
+   {\partial ^{2}\mathbf {E} }{\partial t^{2}}}}
+
+   Taking the curl of the fourth Maxwell's equation (4) results in a
+   similar differential equation for a magnetic field solving the
+   homogeneous Maxwell's equations:
+
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <msup> <mi
+   mathvariant="normal">∇</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>2</mn>
+   </mrow> </msup> <mrow class="MJX-TeXAtom-ORD"> <mi
+   mathvariant="bold">B</mi> </mrow> <mo>=</mo> <msub> <mi>μ</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mn>0</mn> </mrow> </msub> <msub> <mi>ε</mi>
+   <mrow class="MJX-TeXAtom-ORD"> <mn>0</mn> </mrow> </msub> <mrow
+   class="MJX-TeXAtom-ORD"> <mfrac> <mrow> <msup> <mi
+   mathvariant="normal">∂</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>2</mn>
+   </mrow> </msup> <mrow class="MJX-TeXAtom-ORD"> <mi
+   mathvariant="bold">B</mi> </mrow> </mrow> <mrow> <mi
+   mathvariant="normal">∂</mi> <msup> <mi>t</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow> </msup> </mrow> </mfrac>
+   </mrow> <mo>.</mo> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle \nabla ^{2}\mathbf {B} =\mu
+   _{0}\varepsilon _{0}{\frac {\partial ^{2}\mathbf {B} }{\partial
+   t^{2}}}.}</annotation> </semantics> :MATH]
+   {\displaystyle \nabla ^{2}\mathbf {B} =\mu _{0}\varepsilon _{0}{\frac
+   {\partial ^{2}\mathbf {B} }{\partial t^{2}}}.}
+
+   Both differential equations have the form of the general wave equation
+   for waves propagating with speed
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <msub> <mi>c</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mn>0</mn> </mrow> </msub> <mo>,</mo>
+   </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle c_{0},}</annotation>
+   </semantics> :MATH]
+   {\displaystyle c_{0},} where
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>f</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle f}</annotation>
+   </semantics> :MATH]
+   {\displaystyle f} is a function of time and location, which gives the
+   amplitude of the wave at some time at a certain location:
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <msup> <mi
+   mathvariant="normal">∇</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>2</mn>
+   </mrow> </msup> <mi>f</mi> <mo>=</mo> <mrow class="MJX-TeXAtom-ORD">
+   <mfrac> <mn>1</mn> <msup> <mrow class="MJX-TeXAtom-ORD"> <msub>
+   <mi>c</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>0</mn> </mrow> </msub>
+   </mrow> <mrow class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow> </msup>
+   </mfrac> </mrow> <mrow class="MJX-TeXAtom-ORD"> <mfrac> <mrow> <msup>
+   <mi mathvariant="normal">∂</mi> <mrow class="MJX-TeXAtom-ORD">
+   <mn>2</mn> </mrow> </msup> <mi>f</mi> </mrow> <mrow> <mi
+   mathvariant="normal">∂</mi> <msup> <mi>t</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow> </msup> </mrow> </mfrac>
+   </mrow> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle \nabla ^{2}f={\frac
+   {1}{{c_{0}}^{2}}}{\frac {\partial ^{2}f}{\partial t^{2}}}}</annotation>
+   </semantics> :MATH]
+   {\displaystyle \nabla ^{2}f={\frac {1}{{c_{0}}^{2}}}{\frac {\partial
+   ^{2}f}{\partial t^{2}}}} This is also written as:
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>◻</mi> <mi>f</mi> <mo>=</mo>
+   <mn>0</mn> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle \Box f=0}</annotation>
+   </semantics> :MATH]
+   {\displaystyle \Box f=0} where
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>◻</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle \Box
+   }</annotation> </semantics> :MATH]
+   {\displaystyle \Box } denotes the so-called d'Alembert operator, which
+   in Cartesian coordinates is given as:
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>◻</mi> <mo>=</mo> <msup> <mi
+   mathvariant="normal">∇</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>2</mn>
+   </mrow> </msup> <mo>−</mo> <mrow class="MJX-TeXAtom-ORD"> <mfrac>
+   <mn>1</mn> <msup> <mrow class="MJX-TeXAtom-ORD"> <msub> <mi>c</mi>
+   <mrow class="MJX-TeXAtom-ORD"> <mn>0</mn> </mrow> </msub> </mrow> <mrow
+   class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow> </msup> </mfrac> </mrow>
+   <mrow class="MJX-TeXAtom-ORD"> <mfrac> <msup> <mi
+   mathvariant="normal">∂</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>2</mn>
+   </mrow> </msup> <mrow> <mi mathvariant="normal">∂</mi> <msup>
+   <mi>t</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow> </msup>
+   </mrow> </mfrac> </mrow> <mo>=</mo> <mrow class="MJX-TeXAtom-ORD">
+   <mfrac> <msup> <mi mathvariant="normal">∂</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow> </msup> <mrow> <mi
+   mathvariant="normal">∂</mi> <msup> <mi>x</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow> </msup> </mrow> </mfrac>
+   </mrow> <mo>+</mo> <mrow class="MJX-TeXAtom-ORD"> <mfrac> <msup> <mi
+   mathvariant="normal">∂</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>2</mn>
+   </mrow> </msup> <mrow> <mi mathvariant="normal">∂</mi> <msup>
+   <mi>y</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow> </msup>
+   </mrow> </mfrac> </mrow> <mo>+</mo> <mrow class="MJX-TeXAtom-ORD">
+   <mfrac> <msup> <mi mathvariant="normal">∂</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow> </msup> <mrow> <mi
+   mathvariant="normal">∂</mi> <msup> <mi>z</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow> </msup> </mrow> </mfrac>
+   </mrow> <mo>−</mo> <mrow class="MJX-TeXAtom-ORD"> <mfrac> <mn>1</mn>
+   <msup> <mrow class="MJX-TeXAtom-ORD"> <msub> <mi>c</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mn>0</mn> </mrow> </msub> </mrow> <mrow
+   class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow> </msup> </mfrac> </mrow>
+   <mrow class="MJX-TeXAtom-ORD"> <mfrac> <msup> <mi
+   mathvariant="normal">∂</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>2</mn>
+   </mrow> </msup> <mrow> <mi mathvariant="normal">∂</mi> <msup>
+   <mi>t</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow> </msup>
+   </mrow> </mfrac> </mrow> <mtext> </mtext> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle \Box =\nabla ^{2}-{\frac
+   {1}{{c_{0}}^{2}}}{\frac {\partial ^{2}}{\partial t^{2}}}={\frac
+   {\partial ^{2}}{\partial x^{2}}}+{\frac {\partial ^{2}}{\partial
+   y^{2}}}+{\frac {\partial ^{2}}{\partial z^{2}}}-{\frac
+   {1}{{c_{0}}^{2}}}{\frac {\partial ^{2}}{\partial t^{2}}}\
+   }</annotation> </semantics> :MATH]
+   {\displaystyle \Box =\nabla ^{2}-{\frac {1}{{c_{0}}^{2}}}{\frac
+   {\partial ^{2}}{\partial t^{2}}}={\frac {\partial ^{2}}{\partial
+   x^{2}}}+{\frac {\partial ^{2}}{\partial y^{2}}}+{\frac {\partial
+   ^{2}}{\partial z^{2}}}-{\frac {1}{{c_{0}}^{2}}}{\frac {\partial
+   ^{2}}{\partial t^{2}}}\ }
+
+   Comparing the terms for the speed of propagation, yields in the case of
+   the electric and magnetic fields:
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <msub> <mi>c</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mn>0</mn> </mrow> </msub> <mo>=</mo> <mrow
+   class="MJX-TeXAtom-ORD"> <mfrac> <mn>1</mn> <msqrt> <msub> <mi>μ</mi>
+   <mrow class="MJX-TeXAtom-ORD"> <mn>0</mn> </mrow> </msub> <msub>
+   <mi>ε</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>0</mn> </mrow> </msub>
+   </msqrt> </mfrac> </mrow> <mo>.</mo> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle c_{0}={\frac {1}{\sqrt {\mu
+   _{0}\varepsilon _{0}}}}.}</annotation> </semantics> :MATH]
+   {\displaystyle c_{0}={\frac {1}{\sqrt {\mu _{0}\varepsilon _{0}}}}.}
+
+   This is the speed of light in vacuum. Thus Maxwell's equations connect
+   the vacuum permittivity
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <msub> <mi>ε</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mn>0</mn> </mrow> </msub> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle \varepsilon
+   _{0}}</annotation> </semantics> :MATH]
+   {\displaystyle \varepsilon _{0}} , the vacuum permeability
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <msub> <mi>μ</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mn>0</mn> </mrow> </msub> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle \mu
+   _{0}}</annotation> </semantics> :MATH]
+   {\displaystyle \mu _{0}} , and the speed of light, c[0], via the above
+   equation. This relationship had been discovered by Wilhelm Eduard Weber
+   and Rudolf Kohlrausch prior to the development of Maxwell's
+   electrodynamics, however Maxwell was the first to produce a field
+   theory consistent with waves traveling at the speed of light.
+
+   These are only two equations versus the original four, so more
+   information pertains to these waves hidden within Maxwell's equations.
+   A generic vector wave for the electric field has the form
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD"> <mi
+   mathvariant="bold">E</mi> </mrow> <mo>=</mo> <msub> <mrow
+   class="MJX-TeXAtom-ORD"> <mi mathvariant="bold">E</mi> </mrow> <mrow
+   class="MJX-TeXAtom-ORD"> <mn>0</mn> </mrow> </msub> <mi>f</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mrow> <mo>(</mo> <mrow> <mrow
+   class="MJX-TeXAtom-ORD"> <mrow class="MJX-TeXAtom-ORD"> <mover> <mrow
+   class="MJX-TeXAtom-ORD"> <mi mathvariant="bold">k</mi> </mrow> <mo
+   stretchy="false">^</mo> </mover> </mrow> </mrow> <mo>⋅</mo> <mrow
+   class="MJX-TeXAtom-ORD"> <mi mathvariant="bold">x</mi> </mrow>
+   <mo>−</mo> <msub> <mi>c</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>0</mn>
+   </mrow> </msub> <mi>t</mi> </mrow> <mo>)</mo> </mrow> </mrow> </mstyle>
+   </mrow> <annotation encoding="application/x-tex">{\displaystyle \mathbf
+   {E} =\mathbf {E} _{0}f{\left({\hat {\mathbf {k} }}\cdot \mathbf {x}
+   -c_{0}t\right)}}</annotation> </semantics> :MATH]
+   {\displaystyle \mathbf {E} =\mathbf {E} _{0}f{\left({\hat {\mathbf {k}
+   }}\cdot \mathbf {x} -c_{0}t\right)}} Here,
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <msub> <mrow
+   class="MJX-TeXAtom-ORD"> <mi mathvariant="bold">E</mi> </mrow> <mrow
+   class="MJX-TeXAtom-ORD"> <mn>0</mn> </mrow> </msub> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle \mathbf {E}
+   _{0}}</annotation> </semantics> :MATH]
+   {\displaystyle \mathbf {E} _{0}} is a constant vector,
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>f</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle f}</annotation>
+   </semantics> :MATH]
+   {\displaystyle f} is any second differentiable function,
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD">
+   <mrow class="MJX-TeXAtom-ORD"> <mover> <mrow class="MJX-TeXAtom-ORD">
+   <mi mathvariant="bold">k</mi> </mrow> <mo stretchy="false">^</mo>
+   </mover> </mrow> </mrow> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle {\hat {\mathbf {k}
+   }}}</annotation> </semantics> :MATH]
+   {\displaystyle {\hat {\mathbf {k} }}} is a unit vector in the direction
+   of propagation, and
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD">
+   <mrow class="MJX-TeXAtom-ORD"> <mi mathvariant="bold">x</mi> </mrow>
+   </mrow> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle {\mathbf {x}
+   }}</annotation> </semantics> :MATH]
+   {\displaystyle {\mathbf {x} }} is a position vector.
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>f</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mrow> <mo>(</mo> <mrow> <mrow
+   class="MJX-TeXAtom-ORD"> <mrow class="MJX-TeXAtom-ORD"> <mover> <mrow
+   class="MJX-TeXAtom-ORD"> <mi mathvariant="bold">k</mi> </mrow> <mo
+   stretchy="false">^</mo> </mover> </mrow> </mrow> <mo>⋅</mo> <mrow
+   class="MJX-TeXAtom-ORD"> <mi mathvariant="bold">x</mi> </mrow>
+   <mo>−</mo> <msub> <mi>c</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>0</mn>
+   </mrow> </msub> <mi>t</mi> </mrow> <mo>)</mo> </mrow> </mrow> </mstyle>
+   </mrow> <annotation encoding="application/x-tex">{\displaystyle
+   f{\left({\hat {\mathbf {k} }}\cdot \mathbf {x}
+   -c_{0}t\right)}}</annotation> </semantics> :MATH]
+   {\displaystyle f{\left({\hat {\mathbf {k} }}\cdot \mathbf {x}
+   -c_{0}t\right)}} is a generic solution to the wave equation. In other
+   words,
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <msup> <mi
+   mathvariant="normal">∇</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>2</mn>
+   </mrow> </msup> <mi>f</mi> <mrow class="MJX-TeXAtom-ORD"> <mrow>
+   <mo>(</mo> <mrow> <mrow class="MJX-TeXAtom-ORD"> <mrow
+   class="MJX-TeXAtom-ORD"> <mover> <mrow class="MJX-TeXAtom-ORD"> <mi
+   mathvariant="bold">k</mi> </mrow> <mo stretchy="false">^</mo> </mover>
+   </mrow> </mrow> <mo>⋅</mo> <mrow class="MJX-TeXAtom-ORD"> <mi
+   mathvariant="bold">x</mi> </mrow> <mo>−</mo> <msub> <mi>c</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mn>0</mn> </mrow> </msub> <mi>t</mi> </mrow>
+   <mo>)</mo> </mrow> </mrow> <mo>=</mo> <mrow class="MJX-TeXAtom-ORD">
+   <mfrac> <mn>1</mn> <msup> <mrow class="MJX-TeXAtom-ORD"> <msub>
+   <mi>c</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>0</mn> </mrow> </msub>
+   </mrow> <mrow class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow> </msup>
+   </mfrac> </mrow> <mrow class="MJX-TeXAtom-ORD"> <mfrac> <msup> <mi
+   mathvariant="normal">∂</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>2</mn>
+   </mrow> </msup> <mrow> <mi mathvariant="normal">∂</mi> <msup>
+   <mi>t</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow> </msup>
+   </mrow> </mfrac> </mrow> <mi>f</mi> <mrow class="MJX-TeXAtom-ORD">
+   <mrow> <mo>(</mo> <mrow> <mrow class="MJX-TeXAtom-ORD"> <mrow
+   class="MJX-TeXAtom-ORD"> <mover> <mrow class="MJX-TeXAtom-ORD"> <mi
+   mathvariant="bold">k</mi> </mrow> <mo stretchy="false">^</mo> </mover>
+   </mrow> </mrow> <mo>⋅</mo> <mrow class="MJX-TeXAtom-ORD"> <mi
+   mathvariant="bold">x</mi> </mrow> <mo>−</mo> <msub> <mi>c</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mn>0</mn> </mrow> </msub> <mi>t</mi> </mrow>
+   <mo>)</mo> </mrow> </mrow> <mo>,</mo> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle \nabla ^{2}f{\left({\hat
+   {\mathbf {k} }}\cdot \mathbf {x} -c_{0}t\right)}={\frac
+   {1}{{c_{0}}^{2}}}{\frac {\partial ^{2}}{\partial t^{2}}}f{\left({\hat
+   {\mathbf {k} }}\cdot \mathbf {x} -c_{0}t\right)},}</annotation>
+   </semantics> :MATH]
+   {\displaystyle \nabla ^{2}f{\left({\hat {\mathbf {k} }}\cdot \mathbf
+   {x} -c_{0}t\right)}={\frac {1}{{c_{0}}^{2}}}{\frac {\partial
+   ^{2}}{\partial t^{2}}}f{\left({\hat {\mathbf {k} }}\cdot \mathbf {x}
+   -c_{0}t\right)},} for a generic wave traveling in the
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD">
+   <mrow class="MJX-TeXAtom-ORD"> <mover> <mrow class="MJX-TeXAtom-ORD">
+   <mi mathvariant="bold">k</mi> </mrow> <mo stretchy="false">^</mo>
+   </mover> </mrow> </mrow> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle {\hat {\mathbf {k}
+   }}}</annotation> </semantics> :MATH]
+   {\displaystyle {\hat {\mathbf {k} }}} direction.
+
+   From the first of Maxwell's equations, we get
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi mathvariant="normal">∇</mi>
+   <mo>⋅</mo> <mrow class="MJX-TeXAtom-ORD"> <mi mathvariant="bold">E</mi>
+   </mrow> <mo>=</mo> <mrow class="MJX-TeXAtom-ORD"> <mrow
+   class="MJX-TeXAtom-ORD"> <mover> <mrow class="MJX-TeXAtom-ORD"> <mi
+   mathvariant="bold">k</mi> </mrow> <mo stretchy="false">^</mo> </mover>
+   </mrow> </mrow> <mo>⋅</mo> <msub> <mrow class="MJX-TeXAtom-ORD"> <mi
+   mathvariant="bold">E</mi> </mrow> <mrow class="MJX-TeXAtom-ORD">
+   <mn>0</mn> </mrow> </msub> <msup> <mi>f</mi> <mo>′</mo> </msup> <mrow
+   class="MJX-TeXAtom-ORD"> <mrow> <mo>(</mo> <mrow> <mrow
+   class="MJX-TeXAtom-ORD"> <mrow class="MJX-TeXAtom-ORD"> <mover> <mrow
+   class="MJX-TeXAtom-ORD"> <mi mathvariant="bold">k</mi> </mrow> <mo
+   stretchy="false">^</mo> </mover> </mrow> </mrow> <mo>⋅</mo> <mrow
+   class="MJX-TeXAtom-ORD"> <mi mathvariant="bold">x</mi> </mrow>
+   <mo>−</mo> <msub> <mi>c</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>0</mn>
+   </mrow> </msub> <mi>t</mi> </mrow> <mo>)</mo> </mrow> </mrow>
+   <mo>=</mo> <mn>0</mn> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle \nabla \cdot \mathbf {E}
+   ={\hat {\mathbf {k} }}\cdot \mathbf {E} _{0}f'{\left({\hat {\mathbf {k}
+   }}\cdot \mathbf {x} -c_{0}t\right)}=0}</annotation> </semantics> :MATH]
+   {\displaystyle \nabla \cdot \mathbf {E} ={\hat {\mathbf {k} }}\cdot
+   \mathbf {E} _{0}f'{\left({\hat {\mathbf {k} }}\cdot \mathbf {x}
+   -c_{0}t\right)}=0} Thus,
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD"> <mi
+   mathvariant="bold">E</mi> </mrow> <mo>⋅</mo> <mrow
+   class="MJX-TeXAtom-ORD"> <mrow class="MJX-TeXAtom-ORD"> <mover> <mrow
+   class="MJX-TeXAtom-ORD"> <mi mathvariant="bold">k</mi> </mrow> <mo
+   stretchy="false">^</mo> </mover> </mrow> </mrow> <mo>=</mo> <mn>0</mn>
+   </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle \mathbf {E} \cdot {\hat
+   {\mathbf {k} }}=0}</annotation> </semantics> :MATH]
+   {\displaystyle \mathbf {E} \cdot {\hat {\mathbf {k} }}=0} which implies
+   that the electric field is orthogonal to the direction the wave
+   propagates. The second of Maxwell's equations yields the magnetic
+   field, namely,
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi mathvariant="normal">∇</mi>
+   <mo>×</mo> <mrow class="MJX-TeXAtom-ORD"> <mi mathvariant="bold">E</mi>
+   </mrow> <mo>=</mo> <mrow class="MJX-TeXAtom-ORD"> <mrow
+   class="MJX-TeXAtom-ORD"> <mover> <mrow class="MJX-TeXAtom-ORD"> <mi
+   mathvariant="bold">k</mi> </mrow> <mo stretchy="false">^</mo> </mover>
+   </mrow> </mrow> <mo>×</mo> <msub> <mrow class="MJX-TeXAtom-ORD"> <mi
+   mathvariant="bold">E</mi> </mrow> <mrow class="MJX-TeXAtom-ORD">
+   <mn>0</mn> </mrow> </msub> <msup> <mi>f</mi> <mo>′</mo> </msup> <mrow
+   class="MJX-TeXAtom-ORD"> <mrow> <mo>(</mo> <mrow> <mrow
+   class="MJX-TeXAtom-ORD"> <mrow class="MJX-TeXAtom-ORD"> <mover> <mrow
+   class="MJX-TeXAtom-ORD"> <mi mathvariant="bold">k</mi> </mrow> <mo
+   stretchy="false">^</mo> </mover> </mrow> </mrow> <mo>⋅</mo> <mrow
+   class="MJX-TeXAtom-ORD"> <mi mathvariant="bold">x</mi> </mrow>
+   <mo>−</mo> <msub> <mi>c</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>0</mn>
+   </mrow> </msub> <mi>t</mi> </mrow> <mo>)</mo> </mrow> </mrow>
+   <mo>=</mo> <mo>−</mo> <mrow class="MJX-TeXAtom-ORD"> <mfrac> <mrow> <mi
+   mathvariant="normal">∂</mi> <mrow class="MJX-TeXAtom-ORD"> <mi
+   mathvariant="bold">B</mi> </mrow> </mrow> <mrow> <mi
+   mathvariant="normal">∂</mi> <mi>t</mi> </mrow> </mfrac> </mrow>
+   </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle \nabla \times \mathbf {E}
+   ={\hat {\mathbf {k} }}\times \mathbf {E} _{0}f'{\left({\hat {\mathbf
+   {k} }}\cdot \mathbf {x} -c_{0}t\right)}=-{\frac {\partial \mathbf {B}
+   }{\partial t}}}</annotation> </semantics> :MATH]
+   {\displaystyle \nabla \times \mathbf {E} ={\hat {\mathbf {k} }}\times
+   \mathbf {E} _{0}f'{\left({\hat {\mathbf {k} }}\cdot \mathbf {x}
+   -c_{0}t\right)}=-{\frac {\partial \mathbf {B} }{\partial t}}} Thus,
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD"> <mi
+   mathvariant="bold">B</mi> </mrow> <mo>=</mo> <mrow
+   class="MJX-TeXAtom-ORD"> <mfrac> <mn>1</mn> <msub> <mi>c</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mn>0</mn> </mrow> </msub> </mfrac> </mrow>
+   <mrow class="MJX-TeXAtom-ORD"> <mrow class="MJX-TeXAtom-ORD"> <mover>
+   <mrow class="MJX-TeXAtom-ORD"> <mi mathvariant="bold">k</mi> </mrow>
+   <mo stretchy="false">^</mo> </mover> </mrow> </mrow> <mo>×</mo> <mrow
+   class="MJX-TeXAtom-ORD"> <mi mathvariant="bold">E</mi> </mrow>
+   </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle \mathbf {B} ={\frac
+   {1}{c_{0}}}{\hat {\mathbf {k} }}\times \mathbf {E} }</annotation>
+   </semantics> :MATH]
+   {\displaystyle \mathbf {B} ={\frac {1}{c_{0}}}{\hat {\mathbf {k}
+   }}\times \mathbf {E} } The remaining equations will be satisfied by
+   this choice of
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD"> <mi
+   mathvariant="bold">E</mi> </mrow> <mo>,</mo> <mrow
+   class="MJX-TeXAtom-ORD"> <mi mathvariant="bold">B</mi> </mrow>
+   </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle \mathbf {E} ,\mathbf {B}
+   }</annotation> </semantics> :MATH]
+   {\displaystyle \mathbf {E} ,\mathbf {B} } .
+
+   The electric and magnetic field waves in the far-field travel at the
+   speed of light. They have a special restricted orientation and
+   proportional magnitudes,
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <msub> <mi>E</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mn>0</mn> </mrow> </msub> <mo>=</mo> <msub>
+   <mi>c</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>0</mn> </mrow> </msub>
+   <msub> <mi>B</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>0</mn> </mrow>
+   </msub> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle
+   E_{0}=c_{0}B_{0}}</annotation> </semantics> :MATH]
+   {\displaystyle E_{0}=c_{0}B_{0}} , which can be seen immediately from
+   the Poynting vector. The electric field, magnetic field, and direction
+   of wave propagation are all orthogonal, and the wave propagates in the
+   same direction as
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD"> <mi
+   mathvariant="bold">E</mi> </mrow> <mo>×</mo> <mrow
+   class="MJX-TeXAtom-ORD"> <mi mathvariant="bold">B</mi> </mrow>
+   </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle \mathbf {E} \times \mathbf
+   {B} }</annotation> </semantics> :MATH]
+   {\displaystyle \mathbf {E} \times \mathbf {B} } . Also E and B
+   far-fields in free space, which as wave solutions depend primarily on
+   these two Maxwell's equations to remain in phase with each other. This
+   is guaranteed since the generic wave solution is first order in both
+   space and time, and the curl operator on one side of these equations
+   results in first-order spatial derivatives of the wave solution, while
+   the time-derivative on the other side of the equations, which gives the
+   other field, is first-order in time, resulting in the same phase shift
+   for both fields in each mathematical operation.
+
+   From the viewpoint of an electromagnetic wave traveling forward, the
+   electric field might be oscillating up and down, while the magnetic
+   field oscillates right and left. This picture can be rotated with the
+   electric field oscillating right and left and the magnetic field
+   oscillating down and up. This is a different solution that is traveling
+   in the same direction. This arbitrariness in the orientation with
+   respect to propagation direction is known as polarization. On a quantum
+   level, it is described as photon polarization. The direction of the
+   polarization is defined as the direction of the electric field.
+
+   More general forms of the second-order wave equations given above are
+   available, allowing for both non-vacuum propagation media and sources.
+   Many competing derivations exist, all with varying levels of
+   approximation and intended applications. One very general example is a
+   form of the electric field equation,^[73] which was factorized into a
+   pair of explicitly directional wave equations, and then efficiently
+   reduced into a single uni-directional wave equation by means of a
+   simple slow-evolution approximation.
+
+See also
+
+   [edit]
+
+     * Antenna measurement
+     * Bioelectromagnetics
+     * Bolometer
+     * CONELRAD
+     * Electromagnetic pulse
+     * Electromagnetic radiation and health
+     * Evanescent wave coupling
+     * Finite-difference time-domain method
+     * Gravitational wave
+     * Helicon
+     * Impedance of free space
+     * Radiation reaction
+     * Health effects of sunlight exposure
+     * Sinusoidal plane-wave solutions of the electromagnetic wave
+       equation
+
+References
+
+   [edit]
+
+    1. ^ Purcell and Morin, Harvard University. (2013). Electricity and
+       Magnetism (3rd ed.). Cambridge University Press, New York. p. 430.
+       ISBN 978-1-107-01402-2. ""These waves... require no medium to
+       support their propagation. Traveling electromagnetic waves carry
+       energy,..."
+    2. ^ "What Is Electromagnetic Radiation?". ThoughtCo. Archived from
+       the original on 25 September 2024. Retrieved 25 September 2024.
+    3. ^ * Browne, Michael (2013). Physics for Engineering and Science,
+       p427 (2nd ed.). McGraw Hill/Schaum, New York.
+       ISBN 978-0-07-161399-6.; p319: "For historical reasons, different
+       portions of the EM spectrum are given different names, although
+       they are all the same kind of thing. Visible light constitutes a
+       narrow range of the spectrum, from wavelengths of about 400-800
+       nm.... ;p 320 "An electromagnetic wave carries forward momentum...
+       If the radiation is absorbed by a surface, the momentum drops to
+       zero and a force is exerted on the surface... Thus the radiation
+       pressure of an electromagnetic wave is (formula)."
+    4. ^ "The Dual Nature of Light as Reflected in the Nobel Archives".
+       nobelprize.org. Archived from the original on 15 July 2017.
+       Retrieved 4 September 2017.
+    5. ^ "Electromagnetic Spectrum facts, information, pictures |
+       Encyclopedia.com articles about Electromagnetic Spectrum".
+       encyclopedia.com. Archived from the original on 13 June 2017.
+       Retrieved 4 September 2017.
+    6. ^ Tipler, Paul A. (1999). Physics for Scientists and Engineers:
+       Vol. 1: Mechanics, Oscillations and Waves, Thermodynamics.
+       MacMillan. p. 454. ISBN 978-1-57259-491-3.
+    7. ^ Cloude, Shane (1995). An Introduction to Electromagnetic Wave
+       Propagation and Antennas. Springer Science and Business Media.
+       pp. 28–33. ISBN 978-0-387-91501-2.
+    8. ^ Bettini, Alessandro (2016). A Course in Classical Physics, Vol. 4
+       – Waves and Light. Springer. pp. 95, 103. ISBN 978-3-319-48329-0.
+    9. ^ "What Is Electromagnetic Radiation?". Live Science. Archived from
+       the original on 4 September 2017. Retrieved 4 September 2017.
+   10. ^ The Michigan Technic. UM Libraries. 1960.
+   11. ^ "Anatomy of an Electromagnetic Wave". NASA Science. 10 August
+       2016. Retrieved 25 March 2025.
+   12. ^ Purcell, p442: "Any number of electromagnetic waves can propagate
+       through the same region without affecting one another. The field E
+       at a space time point is the vector sum of the electric fields of
+       the individual waves, and the same goes for B".
+   13. ^ "PV Performance Modeling Collaborative | Plane of Array (POA)
+       Irradiance". Archived from the original on 14 January 2022.
+       Retrieved 14 January 2022.
+   14. ^ Chen, Szu-yuan; Maksimchuk, Anatoly; Umstadter, Donald (17
+       December 1998). "Experimental observation of relativistic nonlinear
+       Thomson scattering". Nature. 396 (6712): 653–655.
+       arXiv:physics/9810036. Bibcode:1998Natur.396..653C.
+       doi:10.1038/25303. S2CID 16080209.
+   15. ^ Crowther, James Arnold (1920). The life and discoveries of
+       Michael Faraday. Society for promoting Christian knowledge.
+       pp. 54–57. Retrieved 15 June 2014.
+   16. ^ "Prisms". Spectroscopy. Spectroscopy-09-01-2008. 23 (9).
+       September 2008. Archived from the original on 22 January 2021.
+       Retrieved 17 January 2021.
+   17. ^ Carmichael, H. J. "Einstein and the Photoelectric Effect" (PDF).
+       Quantum Optics Theory Group, University of Auckland. Archived from
+       the original (PDF) on 27 June 2007. Retrieved 22 December 2009.
+   18. ^ "DATE". galileo.phys.virginia.edu. Archived from the original on
+       12 May 2015. Retrieved 4 September 2017.
+   19. ^ "Physics – Waves". www-jcsu.jesus.cam.ac.uk. Archived from the
+       original on 4 September 2017. Retrieved 4 September 2017.
+   20. ^ "Wave Behaviors | Science Mission Directorate". science.nasa.gov.
+       10 August 2016. Archived from the original on 14 May 2017.
+       Retrieved 4 September 2017.
+   21. ^ Thorn, J. J.; Neel, M. S.; Donato, V. W.; Bergreen, G. S.;
+       Davies, R. E.; Beck, M. (2004). "Observing the quantum behavior of
+       light in an undergraduate laboratory" (PDF). American Journal of
+       Physics. 72 (9): 1210. Bibcode:2004AmJPh..72.1210T.
+       doi:10.1119/1.1737397. Archived (PDF) from the original on 1
+       February 2016.
+   22. ^ Stratton, Julius Adams (2007) [1941]. "Chapter V Plane waves in
+       unbounded, isotropic media". Electromagnetic Theory. McGraw-Hill
+       Book Company, New York, NY. ISBN 978-0-470-13153-4.
+   23. ^ "Electromagnetic Radiation | COSMOS". astronomy.swin.edu.au.
+       Archived from the original on 19 March 2020. Retrieved 29 March
+       2020.
+   24. ^ She, Alan; Capasso, Federico (17 May 2016). "Parallel
+       Polarization State Generation". Scientific Reports. 6 26019.
+       arXiv:1602.04463. Bibcode:2016NatSR...626019S.
+       doi:10.1038/srep26018. PMC 4869035. PMID 27184813.
+   25. ^ Elert, Glenn. "Electromagnetic Waves". The Physics Hypertextbook.
+       Archived from the original on 2 April 2019. Retrieved 4 June 2018.
+   26. ^ "The Impact of James Clerk Maxwell's Work".
+       clerkmaxwellfoundation.org. Archived from the original on 17
+       September 2017. Retrieved 4 September 2017.
+   27. ^ "Maxwell's equations and the secrets of nature". plus.maths.org.
+       18 December 2015. Archived from the original on 2 May 2021.
+       Retrieved 2 May 2021.
+   28. ^ Suárez, Álvaro; Martí, Arturo C.; Zuza, Kristina; Guisasola,
+       Jenaro (17 August 2023). "Electromagnetic field presented in
+       introductory physics textbooks and consequences for its teaching".
+       Physical Review Physics Education Research. 19 (2) 020113.
+       arXiv:2305.05431. Bibcode:2023PRPER..19b0113S.
+       doi:10.1103/PhysRevPhysEducRes.19.020113. hdl:10810/63511.
+       ISSN 2469-9896.
+   29. ^ "Electromagnetic radiation | Spectrum, Examples, & Types |
+       Britannica". www.britannica.com. 15 September 2023. Archived from
+       the original on 2 May 2015. Retrieved 16 October 2023.
+   30. ^ Capps, Charles (16 August 2001). "Near field or far field?"
+       (PDF). Designfeature: 96.
+   31. ^ "10.1: Liénard-Wiechert Potentials". Physics LibreTexts. 9
+       December 2021. Archived from the original on 26 July 2024.
+       Retrieved 26 July 2024.
+   32. ^ Paul M. S. Monk (2004). Physical Chemistry. John Wiley and Sons.
+       p. 435. ISBN 978-0-471-49180-4.
+   33. ^ Weinberg, S. (1995). The Quantum Theory of Fields. Vol. 1.
+       Cambridge University Press. pp. 15–17. ISBN 978-0-521-55001-7.
+   34. ^ Commins, Eugene (2014). Quantum Mechanics; An Experimentalist's
+       Approach. Cambridge University Press. ISBN 978-1-107-06399-0.
+   35. ^ Ling, Samuel J.; Sanny, Jeff; Moebs, William (2016). "The Compton
+       Effect". University physics. Volume 3. OpenStax.
+       ISBN 978-1-947172-22-7.
+   36. ^ Haneef, Deena T. Kochunni, Jazir. "7 Differences between
+       Fluorescence and Phosphorescence". Archived from the original on 4
+       September 2017. Retrieved 4 September 2017.{{cite web}}: CS1 maint:
+       multiple names: authors list (link)
+   37. ^ Meredith, W. J.; Massey, J. B. (22 October 2013). Fundamental
+       Physics of Radiology. Butterworth-Heinemann.
+       ISBN 978-1-4832-8435-4.
+   38. ^ Browne, p 376: "Radiation is emitted or absorbed only when the
+       electron jumps from one orbit to the other, and the frequency of
+       radiation depends only upon on the energies of the electron in the
+       initial and final orbits.
+   39. ^ Hunter, Tim B.; Dobek, Gerald O. (19 July 2023). "Nebulae: An
+       Overview". The Barnard Objects: Then and Now. Springer Cham.
+       Bibcode:2023botn.book.....H. doi:10.1007/978-3-031-31485-8.
+       ISBN 978-3-031-31485-8.
+   40. ^ Longair, Malcolm S. (2023). Galaxy Formation. Astronomy and
+       Astrophysics Library. Berlin, Heidelberg: Springer Berlin
+       Heidelberg. Bibcode:2023gafo.book.....L.
+       doi:10.1007/978-3-662-65891-8. ISBN 978-3-662-65890-1.
+   41. ^ ^a ^b ^c Griffiths, David J. (2017). Introduction to
+       Electrodynamics, Vol. 2. Cambridge Univ. Press. ISBN 9781108420419.
+   42. ^ Herschel, William (1 January 1800). "Experiments on the
+       Refrangibility of the Invisible Rays of the Sun. By William
+       Herschel, LL. D. F. R. S". Philosophical Transactions of the Royal
+       Society of London. 90: 284–292. Bibcode:1800RSPT...90..284H.
+       doi:10.1098/rstl.1800.0015. JSTOR 107057.
+   43. ^ Holzer, Aton M.; Elmets, Craig A. (2010). "The Other End of the
+       Rainbow: Infrared and Skin". The Journal of Investigative
+       Dermatology. 130 (6): 1496–1499. doi:10.1038/jid.2010.79.
+       ISSN 0022-202X. PMC 2926798. PMID 20463675.
+   44. ^ "Ultraviolet | COSMOS". astronomy.swin.edu.au. Archived from the
+       original on 1 March 2021. Retrieved 29 September 2021.
+   45. ^ Davidson, Michael W. (March 2014). "Pioneers in Optics: Johann
+       Wilhelm Ritter and Ernest Rutherford". Microscopy Today. 22 (2):
+       48–51. doi:10.1017/S1551929514000029. ISSN 1551-9295.
+       S2CID 135584871.
+   46. ^ ^a ^b ^c Jeans, James (1947) The Growth of Physical Science.
+       Cambridge University Press
+   47. ^ Henderson, Roy. "Wavelength considerations". Instituts für
+       Umform- und Hochleistungs. Archived from the original on 28 October
+       2007. Retrieved 18 October 2007.
+   48. ^ "Near, Mid and Far-Infrared". NASA IPAC. Archived from the
+       original on 4 April 2007. Retrieved 4 April 2007.
+   49. ^ Byrnes, James (2009). Unexploded Ordnance Detection and
+       Mitigation. Springer. pp. 21–22. Bibcode:2009uodm.book.....B.
+       ISBN 978-1-4020-9252-7.
+   50. ^ Gracheva, Elena O.; Ingolia, Nicholas T.; Kelly, Yvonne M.;
+       Cordero-Morales, Julio F.; Hollopeter, Gunther; Chesler, Alexander
+       T.; Sánchez, Elda E.; Perez, John C.; Weissman, Jonathan S.;
+       Julius, David (2010). "Molecular basis of infrared detection by
+       snakes". Nature. 464 (7291): 1006–1011.
+       Bibcode:2010Natur.464.1006G. doi:10.1038/nature08943.
+       ISSN 0028-0836. PMC 2855400. PMID 20228791.
+   51. ^ Liebel, F.; Kaur, S.; Ruvolo, E.; Kollias, N.; Southall, M. D.
+       (2012). "Irradiation of Skin with Visible Light Induces Reactive
+       Oxygen Species and Matrix-Degrading Enzymes". Journal of
+       Investigative Dermatology. 132 (7): 1901–1907.
+       doi:10.1038/jid.2011.476. PMID 22318388.
+   52. ^ "Solar and Ultraviolet Radiation", Radiation, International
+       Agency for Research on Cancer, 2012, retrieved 24 March 2025
+   53. ^ ^a ^b Baeyens, Ans; Abrantes, Ana Margarida; Ahire, Vidhula;
+       Ainsbury, Elizabeth A.; Baatout, Sarah; Baselet, Bjorn; Botelho,
+       Maria Filomena; Boterberg, Tom; Chevalier, Francois (2023),
+       Baatout, Sarah (ed.), "Basic Concepts of Radiation Biology",
+       Radiobiology Textbook, Cham: Springer International Publishing,
+       pp. 25–81, doi:10.1007/978-3-031-18810-7_2,
+       hdl:1854/LU-01HB6GSWBNSND2YG9VWSGB95TY, ISBN 978-3-031-18810-7,
+       retrieved 24 March 2025{{citation}}: CS1 maint: work parameter with
+       ISBN (link)
+   54. ^ Tao, Jiasheng (2023). "Radiation Source and Optical Atmospheric
+       Transmission". Space Optical Remote Sensing. Advances in Optics and
+       Optoelectronics. Springer, Singapore. pp. 111–188.
+       doi:10.1007/978-981-99-3318-1_4. ISBN 978-981-99-3318-1.
+   55. ^ Chaplin, Martin (15 May 2013). "Infared Spectroscopy" (PDF).
+       p. water.lsbu.ac.uk. Archived from the original (PDF) on 24 March
+       2022. Retrieved 19 April 2022.
+   56. ^ Dabas, R S (July 2000). "Ionosphere and its influence on radio
+       communications". Resonance. 5 (7): 28–43. doi:10.1007/bf02867245.
+       ISSN 0971-8044. S2CID 121347063.
+   57. ^ ^a ^b "CANDU textbook". nuceng.ca. Archived from the original on
+       20 April 2017. Retrieved 24 March 2017.
+   58. ^ "Blackbody Radiation". docs.kde.org. Archived from the original
+       on 8 August 2017. Retrieved 24 March 2017.
+   59. ^ "Thermodynamics Part 1: Work, Heat, Internal Energy and
+       Enthalpy". www2.southeastern.edu. Archived from the original on 24
+       March 2017. Retrieved 24 March 2017.
+   60. ^ "Planck's law" (PDF). astro.lu.se. Archived from the original
+       (PDF) on 30 November 2016. Retrieved 24 March 2017.
+   61. ^ ^a ^b Binhi, Vladimir N (2002). Magnetobiology: Underlying
+       Physical Problems. Repiev, A & Edelev, M (translators from
+       Russian). San Diego: Academic Press. pp. 1–16.
+       ISBN 978-0-12-100071-4. OCLC 49700531.
+   62. ^ Delgado, J. M.; Leal, J.; Monteagudo, J. L.; Gracia, M. G.
+       (1982). "Embryological changes induced by weak, extremely low
+       frequency electromagnetic fields". Journal of Anatomy. 134 (Pt 3):
+       533–551. PMC 1167891. PMID 7107514.
+   63. ^ Harland, J. D.; Liburdy, R. P. (1997). "Environmental magnetic
+       fields inhibit the antiproliferative action of tamoxifen and
+       melatonin in a human breast cancer cell line". Bioelectromagnetics.
+       18 (8): 555–562.
+       doi:10.1002/(SICI)1521-186X(1997)18:8<555::AID-BEM4>3.0.CO;2-1.
+       PMID 9383244. Archived from the original on 16 December 2019.
+       Retrieved 30 June 2019.
+   64. ^ Aalto, S.; Haarala, C.; Brück, A.; Sipilä, H.; Hämäläinen, H.;
+       Rinne, J. O. (2006). "Mobile phone affects cerebral blood flow in
+       humans". Journal of Cerebral Blood Flow & Metabolism. 26 (7):
+       885–890. doi:10.1038/sj.jcbfm.9600279. PMID 16495939.
+   65. ^ Cleary, S. F.; Liu, L. M.; Merchant, R. E. (1990). "In vitro
+       lymphocyte proliferation induced by radio-frequency electromagnetic
+       radiation under isothermal conditions". Bioelectromagnetics. 11
+       (1): 47–56. doi:10.1002/bem.2250110107. PMID 2346507.
+   66. ^ Narayanan, DL; Saladi, RN; Fox, JL (September 2010). "Ultraviolet
+       radiation and skin cancer". International Journal of Dermatology.
+       49 (9): 978–86. doi:10.1111/j.1365-4632.2010.04474.x.
+       PMID 20883261. S2CID 22224492.
+   67. ^ Saladi, RN; Persaud, AN (January 2005). "The causes of skin
+       cancer: a comprehensive review". Drugs of Today. 41 (1): 37–53.
+       doi:10.1358/dot.2005.41.1.875777. PMID 15753968.
+   68. ^ Guan, Linna L.; Lim, Henry W.; Mohammad, Tasneem F. (November
+       2021). "Sunscreens and Photoaging: A Review of Current Literature".
+       American Journal of Clinical Dermatology. 22 (6): 819–828.
+       doi:10.1007/s40257-021-00632-5. ISSN 1175-0561. PMC 8361399.
+       PMID 34387824.
+   69. ^ IARC classifies Radiofrequency Electromagnetic Fields as possibly
+       carcinogenic to humans Archived 1 June 2011 at the Wayback Machine.
+       World Health Organization. 31 May 2011
+   70. ^ "Trouble with cell phone radiation standard". CBS News. Archived
+       from the original on 9 May 2013.
+   71. ^ "DVIDS – News – New Marine Corps non-lethal weapon heats things
+       up". DVIDS. Archived from the original on 2 November 2014.
+       Retrieved 1 November 2014.
+   72. ^ "Effects on the human body: Extremely low frequency RF | Radio
+       Frequency | Radio Spectrum". Scribd. Archived from the original on
+       11 October 2021. Retrieved 8 March 2021.
+   73. ^ Kinsler, Paul (2010). "Optical pulse propagation with minimal
+       approximations". Phys. Rev. A. 81 (1) 013819. arXiv:0810.5689.
+       Bibcode:2010PhRvA..81a3819K. doi:10.1103/PhysRevA.81.013819.
+
+     *
+
+   "Light: Electromagnetic waves, the electromagnetic spectrum and photons
+   (article)". Khan Academy. Retrieved 2 May 2021.
+
+Further reading
+
+   [edit]
+
+     *
+
+   Hecht, Eugene (2001). Optics (4th ed.). Pearson Education.
+   ISBN 978-0-8053-8566-3.
+
+     Serway, Raymond A.; Jewett, John W. (2004). Physics for Scientists
+   and Engineers (6th ed.). Brooks Cole. ISBN 978-0-534-40842-8.
+
+     Tipler, Paul (2004). Physics for Scientists and Engineers:
+   Electricity, Magnetism, Light, and Elementary Modern Physics (5th ed.).
+   W. H. Freeman. ISBN 978-0-7167-0810-0.
+
+     Reitz, John; Milford, Frederick; Christy, Robert (1992). Foundations
+   of Electromagnetic Theory (4th ed.). Addison Wesley.
+   ISBN 978-0-201-52624-0.
+
+     Jackson, John David (1999). Classical Electrodynamics (3rd ed.). John
+   Wiley & Sons. ISBN 978-0-471-30932-1.
+
+     Taflove, Allen; Hagness, Susan C. (2005). Computational
+   Electrodynamics: The Finite-Difference Time-Domain Method, 3rd ed.
+   Artech House Publishers. ISBN 978-1-58053-832-9.
+
+     Maxwell, J. Clerk (1865). "A Dynamical Theory of the Electromagnetic
+   Field". Philosophical Transactions of the Royal Society of London. 155:
+   459–512. ISSN 0261-0523. Maxwell's original paper.
+
+External links
+
+   [edit]
+
+   Wikisource logo
+   English Wikisource has original text related to this article:
+   Pictured Electro-Magnetic Waves
+
+   Library resources about
+   Electromagnetic radiation
+     __________________________________________________________________
+
+     * Resources in your library
+
+     * The Feynman Lectures on Physics Vol. I Ch. 28: Electromagnetic
+       Radiation
+     * Wikimedia Commons logo Media related to Electromagnetic radiation
+       at Wikimedia Commons
+     * Electromagnetic Waves from Maxwell's Equations on Project PHYSNET.
+
+     * v
+     * t
+     * e
+
+   Fundamental interactions of physics
+
+   Physical forces
+
+     * Strong interaction
+          + fundamental
+          + residual
+     * Electroweak interaction
+          + weak interaction
+          + electromagnetism
+     * Gravitation
+
+   Hypothetical forces
+
+     * Fifth force
+     * Quintessence
+
+     * Glossary of physics
+     * Particle physics
+     * Philosophy of physics
+     * Universe
+
+     * v
+     * t
+     * e
+
+   Radiation (physics and health)
+
+   Main articles
+
+   Non-ionizing radiation
+     * Acoustic radiation force
+     * Infrared
+     * Light
+     * Starlight
+     * Sunlight
+     * Microwave
+     * Radio waves
+     * Ultraviolet
+
+   Ionizing radiation
+     * Radioactive decay
+     * Cluster decay
+     * Background radiation
+     * Alpha particle
+     * Beta particle
+     * Gamma ray
+     * Cosmic ray
+     * Neutron radiation
+     * Nuclear fission
+     * Nuclear fusion
+     * Nuclear reactors
+     * Nuclear weapons
+     * Particle accelerators
+     * Radioactive materials
+     * X-ray
+
+     * Earth's energy budget
+     * Electromagnetic radiation
+     * Synchrotron radiation
+     * Thermal radiation
+     * Black-body radiation
+     * Particle radiation
+     * Gravitational radiation
+     * Cosmic background radiation
+     * Cherenkov radiation
+     * Askaryan radiation
+     * Bremsstrahlung
+     * Unruh radiation
+     * Dark radiation
+     * Radiation exposure
+
+   Radiation
+   and health
+
+     * Radiation syndrome
+          + acute
+          + chronic
+     * Health physics
+     * Dosimetry
+     * Electromagnetic radiation and health
+     * Laser safety
+     * Lasers and aviation safety
+     * Medical radiography
+     * Radiation protection
+     * Radiation therapy
+     * Radiation damage
+     * Radioactivity in the life sciences
+     * Radioactive contamination
+     * Radiobiology
+     * Biological dose units and quantities
+     * Wireless device radiation and health
+     * Wireless electronic devices and health
+     * Radiation heat-transfer
+     * Linear energy transfer
+
+   Radiation incidents
+
+     * List of civilian radiation accidents
+     * 1996 Costa Rica accident
+     * 1987 Goiânia accident
+     * 1984 Moroccan accident
+     * 1990 Zaragoza accident
+
+   Related articles
+
+     * Half-life
+     * Nuclear physics
+     * Radioactive source
+     * Radiation hardening
+
+   See also the categories Radiation effects, Radioactivity, Radiobiology,
+   and Radiation protection
+
+     * v
+     * t
+     * e
+
+   ... in space
+
+   Biology
+
+   Human
+     * The human body
+     * Hygiene
+     * Locomotion
+     * Medicine
+     * Neuroscience
+     * Psychology
+          + Psychological and sociological effects
+     * Sex
+     * Sleep
+
+   Non-
+   human
+     * Animals
+          + Cats
+          + Cockroaches
+          + Dogs
+          + Frogs
+          + Fruit flies
+          + Mice
+          + Primates
+          + Tardigrades
+          + Tortoises
+     * Extraterrestrial life
+     * Microorganisms
+     * Plants
+          + Astrobotany
+
+   STS-39 in Earth orbit
+
+   Environment
+
+     * Climate
+     * Corrosion
+     * Debris
+     * Dust
+     * Magnetosphere
+     * Weather
+          + Weathering
+
+   Society
+
+     * Advertising
+     * Alcohol
+     * Archaeology
+          + of Earth
+          + of items in space
+     * Art
+     * Burial
+     * Colonization
+     * Economy
+          + Mining
+          + Trade
+     * Ethics
+     * Exploration
+     * Food
+     * Law
+     * Military
+     * Music
+     * Religion
+          + Christmas
+     * Selfies
+     * Tourism
+     * Voting
+     * War
+     * Women
+
+   Technology
+
+   Human
+   spaceflight
+     * Accidents
+     * Architecture
+     * Farming
+     * Food
+          + Carbonated drinks
+     * Toilets
+     * Writing
+
+   Other
+   technologies
+     * Logistics
+     * Manufacturing
+     * Mining
+     * Power
+          + Batteries
+          + Nuclear
+          + Solar
+               o for Earth
+               o for spacecraft
+     * Radar
+     * Telescopes
+     * Weapons
+
+   Outer space portal
+
+   Authority control databases Edit this at Wikidata
+   International
+     * GND
+     * FAST
+
+   National
+     * United States
+     * Czech Republic
+     * Israel
+
+       Other
+     * Encyclopedia of Modern Ukraine
+     * Yale LUX
+
+   Portal:
+     * icon Physics
+
+   Retrieved from
+   "https://en.wikipedia.org/w/index.php?title=Electromagnetic_radiation&o
+   ldid=1358484587"
+
+   Categories:
+     * Electromagnetic radiation
+     * Heinrich Hertz
+     * Radiation
+
+   Hidden categories:
+     * CS1 maint: multiple names: authors list
+     * CS1 maint: work parameter with ISBN
+     * Webarchive template wayback links
+     * Articles with short description
+     * Short description is different from Wikidata
+     * Use dmy dates from March 2022
+     * Articles linking to deprecated archival repositories
+     * Wikisource templates with missing id
+     * Commons category link from Wikidata
+
+     * This page was last edited on 9 June 2026, at 00:23 (UTC).
+     * Text is available under the Creative Commons Attribution-ShareAlike
+       4.0 License; additional terms may apply. By using this site, you
+       agree to the Terms of Use and Privacy Policy. Wikipedia® is a
+       registered trademark of the Wikimedia Foundation, Inc., a
+       non-profit organization.
+
+     * Privacy policy
+     * About Wikipedia
+     * Disclaimers
+     * Contact Wikipedia
+     * Legal & safety contacts
+     * Code of Conduct
+     * Developers
+     * Statistics
+     * Cookie statement
+     * Mobile view
+
+     * Wikimedia Foundation
+     * Powered by MediaWiki
+
+   (BUTTON) Search
+   ____________________
+   (BUTTON) Search
+
+   [ ] Toggle the table of contents
+   Electromagnetic radiation
+   (BUTTON) 120 languages Add topic

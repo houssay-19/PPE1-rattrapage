@@ -1,0 +1,283 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Démarche technique — PPE1</title>
+  <link rel="stylesheet" href="style.css">
+  <style>
+    .step {
+      display: flex;
+      gap: 20px;
+      align-items: flex-start;
+      margin-bottom: 22px;
+    }
+    .step-num {
+      background: #2c4a7c;
+      color: white;
+      border-radius: 50%;
+      width: 40px;
+      height: 40px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-weight: bold;
+      font-size: 1.1em;
+      flex-shrink: 0;
+    }
+    .step-content h3 { color: #1a2744; margin-bottom: 6px; font-size:1.05em; }
+    .step-content p  { font-size:.94em; }
+    pre {
+      background: #1e2744;
+      color: #ccd6f6;
+      padding: 14px 18px;
+      border-radius: 6px;
+      font-size: .88em;
+      overflow-x: auto;
+      margin: 10px 0;
+      line-height: 1.5;
+    }
+    code { font-family: 'Courier New', monospace; }
+    .tool-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+      gap: 14px;
+      margin-top: 16px;
+    }
+    .tool-item {
+      background: #f0f3fb;
+      border: 1px solid #d0d8ee;
+      border-radius: 6px;
+      padding: 14px 16px;
+      font-size: .92em;
+    }
+    .tool-item strong { color: #2c4a7c; display: block; margin-bottom: 4px; }
+  </style>
+</head>
+<body>
+
+<nav>
+  <a class="logo" href="index.html">
+    <img src="images/plurital-logo.jpg" alt="PluriTAL">
+  </a>
+  <a href="index.html">Accueil</a>
+  <a href="technique.html" class="active">Démarche technique</a>
+  <div class="dropdown">
+    <a href="#">Résultats ▾</a>
+    <div class="dropdown-menu">
+      <a href="resultats-fr.html">🇫🇷 Français — lumière</a>
+      <a href="resultats-en.html">🇬🇧 English — light</a>
+    </div>
+  </div>
+  <a href="analyse.html">Analyse comparative</a>
+</nav>
+
+<div class="page-header">
+  <h1>Démarche technique</h1>
+  <p>Pipeline de traitement des données textuelles — outils et scripts</p>
+</div>
+
+<div class="container">
+
+  <!-- ── Vue d'ensemble ── -->
+  <div class="card">
+    <h2>Vue d'ensemble du pipeline</h2>
+    <p>
+      Le pipeline est entièrement automatisé et reproductible. Il se divise en
+      deux parties : un script bash (<code>pipeline.sh</code>) qui gère
+      l'acquisition et l'extraction des données, et cinq scripts Python qui
+      produisent les analyses et les visualisations.
+    </p>
+    <pre>bash programmes/pipeline.sh [fr|en] [mot_cible]
+  │
+  ├── Étape 1 : Aspiration (curl) ──────► aspirations/[lang]/
+  ├── Étape 2 : Extraction texte (lynx) ► dumps-txt/[lang]/
+  ├── Étape 3 : Contextes (grep) ────────► contextes/[lang]/
+  └── Étape 4 : Textes propres ──────────► pals/[lang]/
+
+python3 programmes/concordances.py [lang] [mot] ► concordances/[lang]/
+python3 programmes/bigrammes.py    [lang] [mot] ► bigrammes/[lang]/
+python3 programmes/cooccurrents.py [lang] [mot] ► cooccurrents/[lang]/
+python3 programmes/nuage_mots.py   [lang] [mot] ► nuages/[lang]/
+python3 programmes/tableaux.py     [lang] [mot] ► tableaux/[lang]/</pre>
+  </div>
+
+  <!-- ── Étapes détaillées ── -->
+  <div class="card">
+    <h2>Étapes du pipeline bash</h2>
+
+    <div class="step">
+      <div class="step-num">1</div>
+      <div class="step-content">
+        <h3>Aspiration des pages web (<code>curl</code>)</h3>
+        <p>
+          Chaque URL du fichier <code>URLS/urls-[lang].txt</code> est téléchargée
+          avec <code>curl</code>. Le code HTTP retourné (200, 301, 404…) et
+          l'encodage déclarés dans les en-têtes sont enregistrés dans
+          <code>aspirations/[lang]/infos.txt</code>.
+        </p>
+        <pre>curl -s -o page_01.html -w "%{http_code}" -L --max-time 30 URL</pre>
+      </div>
+    </div>
+
+    <div class="step">
+      <div class="step-num">2</div>
+      <div class="step-content">
+        <h3>Extraction du texte (<code>lynx</code>)</h3>
+        <p>
+          Le navigateur en ligne de commande <code>lynx</code> convertit chaque
+          page HTML en texte brut lisible : il supprime les balises, les menus
+          de navigation, et reformate le contenu. L'option
+          <code>-display_charset=utf-8</code> garantit l'encodage.
+        </p>
+        <pre>lynx -dump -nolist -display_charset=utf-8 page_01.html &gt; page_01.txt</pre>
+      </div>
+    </div>
+
+    <div class="step">
+      <div class="step-num">3</div>
+      <div class="step-content">
+        <h3>Extraction des contextes (<code>grep</code>)</h3>
+        <p>
+          On extrait toutes les lignes contenant le mot cible (insensible à la
+          casse) depuis chaque dump textuel. Ces lignes forment le corpus de
+          contextes utilisé ensuite pour les concordances et les cooccurrents.
+        </p>
+        <pre>grep -i "lumière" page_01.txt &gt; page_01_contextes.txt</pre>
+      </div>
+    </div>
+
+    <div class="step">
+      <div class="step-num">4</div>
+      <div class="step-content">
+        <h3>Textes propres — PALS</h3>
+        <p>
+          Les dumps sont nettoyés : passage en minuscules, suppression des URLs,
+          des chiffres et de la ponctuation, pour obtenir un texte utilisable
+          pour les analyses de fréquence (bigrammes, nuage de mots).
+        </p>
+        <pre>cat page_01.txt | tr '[:upper:]' '[:lower:]' | sed 's/[^a-zA-ZÀ-ÿ ]/ /g' ...</pre>
+      </div>
+    </div>
+  </div>
+
+  <!-- ── Scripts Python ── -->
+  <div class="card">
+    <h2>Scripts Python</h2>
+
+    <div class="step">
+      <div class="step-num">5</div>
+      <div class="step-content">
+        <h3><code>concordances.py</code> — Concordancier KWiC</h3>
+        <p>
+          Pour chaque fichier de dumps, le script localise toutes les occurrences
+          du mot cible et extrait une fenêtre de ±5 tokens de contexte de chaque
+          côté. Le résultat est un tableau HTML au format KWIC
+          (<em>KeyWord In Context</em>) : contexte gauche | mot cible | contexte droit.
+        </p>
+      </div>
+    </div>
+
+    <div class="step">
+      <div class="step-num">6</div>
+      <div class="step-content">
+        <h3><code>bigrammes.py</code> — Bigrammes</h3>
+        <p>
+          Lit les textes propres (PALS), tokenise, filtre les mots vides
+          (<em>stopwords</em>), et calcule les fréquences de toutes les paires de
+          mots consécutifs. Les 30 bigrammes les plus fréquents sont affichés
+          dans un tableau HTML avec barres de fréquence.
+        </p>
+      </div>
+    </div>
+
+    <div class="step">
+      <div class="step-num">7</div>
+      <div class="step-content">
+        <h3><code>cooccurrents.py</code> — Cooccurrents</h3>
+        <p>
+          À partir des fichiers de contextes, identifie les mots apparaissant
+          dans une fenêtre de ±5 tokens autour du mot cible. Produit un classement
+          des 40 cooccurrents les plus fréquents (stopwords exclus).
+        </p>
+      </div>
+    </div>
+
+    <div class="step">
+      <div class="step-num">8</div>
+      <div class="step-content">
+        <h3><code>nuage_mots.py</code> — Nuage de mots</h3>
+        <p>
+          Utilise la bibliothèque <code>wordcloud</code> pour générer une
+          visualisation de la fréquence des mots dans l'ensemble du corpus
+          (textes propres). Produit une image PNG haute résolution.
+        </p>
+        <pre>pip3 install wordcloud matplotlib</pre>
+      </div>
+    </div>
+
+    <div class="step">
+      <div class="step-num">9</div>
+      <div class="step-content">
+        <h3><code>tableaux.py</code> — Tableau récapitulatif</h3>
+        <p>
+          Agrège les méta-données de chaque URL aspirée (code HTTP, encodage,
+          nombre de mots) et compte les occurrences du mot cible par page.
+          Génère un tableau HTML avec liens vers les fichiers de résultats.
+        </p>
+      </div>
+    </div>
+  </div>
+
+  <!-- ── Outils ── -->
+  <div class="card">
+    <h2>Outils utilisés</h2>
+    <div class="tool-grid">
+      <div class="tool-item"><strong>curl</strong>Téléchargement de pages web et récupération des codes HTTP</div>
+      <div class="tool-item"><strong>lynx</strong>Navigateur en ligne de commande pour convertir HTML → texte</div>
+      <div class="tool-item"><strong>grep / sed / tr</strong>Traitement de texte en ligne de commande (Unix)</div>
+      <div class="tool-item"><strong>Python 3</strong>Scripts d'analyse, génération des tableaux HTML</div>
+      <div class="tool-item"><strong>wordcloud</strong>Génération du nuage de mots (bibliothèque Python)</div>
+      <div class="tool-item"><strong>matplotlib</strong>Sauvegarde des visualisations au format PNG</div>
+      <div class="tool-item"><strong>git / GitHub</strong>Versionnage et hébergement du projet</div>
+      <div class="tool-item"><strong>macOS (Apple Silicon)</strong>Environnement d'exécution</div>
+    </div>
+  </div>
+
+  <!-- ── Organisation Git ── -->
+  <div class="card">
+    <h2>Organisation Git</h2>
+    <p>
+      Le projet est versionné sur GitHub dans le dépôt
+      <code>houssay-19/PPE1-rattrapage</code>.
+      Les commits suivent une logique incrémentale : structure, URLs, scripts,
+      données, site.
+    </p>
+    <pre>git init
+git add .
+git commit -m "Init : structure du projet"
+
+# Après chaque étape :
+git add programmes/pipeline.sh
+git commit -m "Ajout du script principal bash"
+
+git add aspirations/ dumps-txt/ contextes/ pals/
+git commit -m "Données : aspiration et extraction FR + EN"
+
+git add concordances/ bigrammes/ cooccurrents/ nuages/ tableaux/
+git commit -m "Analyses : concordances, bigrammes, cooccurrents"
+
+git add index.html technique.html resultats-fr.html resultats-en.html analyse.html style.css
+git commit -m "Site web complet"
+
+git push -u origin main</pre>
+  </div>
+
+</div><!-- /.container -->
+
+<footer>
+  PPE1 Rattrapage 2025-2026 — Houssaynatou Diallo — M1 PluriTAL
+</footer>
+
+</body>
+</html>

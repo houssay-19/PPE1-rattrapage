@@ -1,0 +1,71 @@
+          + 3.6 Non-visual light detection
+   [250px-Light_dispersion_of_a_mercury-vapor_lamp_with_a_flint_glass_pris
+   m_IPNr%C2%B00125.jpg] White light is dispersed by a glass prism into
+   wavelengths is called visible light (or simply light). The optical
+   light more than red light, and so the midday sky appears blue (apart
+   from the area around the Sun which appears white because the light is
+   sRGB rendering of the spectrum of visible light sRGB rendering of the
+   spectrum of visible light
+   Colors that can be produced by visible light of a narrow band of
+   wavelengths (monochromatic light) are called spectral colors. The
+   colors are observed when red and violet light are mixed.
+   by a similar process to the passage of light through glass or
+   disassemble and reassemble white light, and described the phenomenon in
+   narrow beam of sunlight strikes the face of a glass prism at an angle,
+   glass, emerging as different-colored bands. Newton hypothesized light
+   different colors of light moving at different speeds in transparent
+   matter, red light moving more quickly than violet in glass. The result
+   is that red light is bent (refracted) less sharply than violet as it
+   prismatic colors with a color image of the visible light spectrum shows
+   light to isolate the phenomenon, Goethe observed that a wider aperture
+   more definite, as light outside the visible range was discovered and
+   light, in 1802.^[18]
+   Insensitivity to UV light is generally limited by transmission through
+   the lens. Insensitivity to IR light is limited by the spectral
+   each of two visual systems, one for photopic vision, used in daylight,
+   dim light, which is mediated by rod cells. Each of these functions have
+   which is the range of light that can pass through the atmosphere. The
+   ozone layer absorbs almost all UV light (below 315 nm).^[19] However,
+   this only affects cosmic light (e.g. sunlight), not terrestrial light
+   light as it passes through the ocular media, namely after the cornea
+   Before reaching the retina, light must first transmit through the
+   cornea and lens. UVB light (< 315 nm) is filtered mostly by the cornea,
+   and UVA light (315–400 nm) is filtered mostly by the lens.^[20] The
+   as a slight truncation of the short-wave (blue) limit of the visible
+   spectrum. Subjects with aphakia are missing a lens, so UVA light can
+   1,050 nm light than 700 nm light.^[25]
+   Under ideal laboratory conditions, subjects may perceive infrared light
+   up to at least 1,064 nm.^[25] While 1,050 nm NIR light can evoke red,
+   about 310–313 nm,^[26]^[27]^[28] but detection of light below 380 nm
+   absorption of UV light by the opsins. As UVA light is absorbed by the
+   opsins. For example, when the lens absorbs 350 nm light, the
+Non-visual light detection
+   systems for detecting light that do not contribute to the primary
+   allowing UV light to reach the retina can lead to retinal damage, the
+   cone opsins at 428 nm and 539 nm, yielding a slightly more truncated
+   to UV light. The LWS opsin of birds is sometimes reported to have a
+   and ultraviolet light^[38] is incorrect, because goldfish cannot see
+   infrared light.^[39]
+   detect ultraviolet light, which helps them find nectar in flowers.
+   success to their appearance in ultraviolet light rather than how
+   radiation, but in visible light it is mostly transparent
+   they emit, absorb or reflect. Visible-light spectroscopy is an
+     * Blue light spectrum
+     * High-energy visible light
+    2. ^ ^a ^b "What Is the Visible Light Spectrum?". ThoughtCo. Archived
+    5. ^ D. H. Sliney (February 2016). "What is light? The visible
+    6. ^ W. C. Livingston (2001). Color and light in nature (2nd ed.).
+   16. ^ Waldman, Gary (2002). Introduction to light: the physics of
+       light, vision, and color (Dover ed.). Mineola: Dover Publications.
+   18. ^ John C. D. Brand (1995). Lines of light: the sources of
+       Light in Nature (2nd ed.). Cambridge: Cambridge University Press.
+       to light rays from 390 to 760 nm. This can be extended to a range
+       sensitivity of melanopsin photoreceptors to polychromatic lights".
+       see both infra-red and ultra-violet light."". Skeptive. 2013.
+     * Light
+     * Starlight
+     * Sunlight
+          + Light
+     * Light-on-dark
+          + Lightness
+     * Lighting

@@ -1,0 +1,180 @@
+                    # 2.2.5.2 Natural light
+   Branch of physics that studies light
+   infrared light.^[2]^[3] The study of optics extends to other forms of
+   electromagnetic description of light, however, complete electromagnetic
+   descriptions of light are often difficult to apply in practice.
+   common of these, geometric optics, treats light as a collection of rays
+   light, which includes wave effects such as diffraction and interference
+   ray-based model of light was developed first, followed by the wave
+   model of light. Progress in electromagnetic theory in the 19th century
+   led to the discovery that light waves were in fact electromagnetic
+   Some phenomena depend on light having both wave-like and particle-like
+   When considering light's particle-like properties, the light is
+   of theories of light and vision by ancient Greek and Indian
+   questioned that a beam of light from the eye could instantaneously
+   light up the stars every time someone blinked.^[14] Euclid stated the
+   principle of the shortest trajectory of light, and considered multiple
+   vision and light based on observation and experiment.^[18] He rejected
+   by the eye, and instead put forward the idea that light reflected in
+   light from four different perspectives: an epistemology of light, a
+   metaphysics or cosmogony of light, an etiology or physics of light, and
+   a theology of light,^[22] basing it on the works of Aristotle and
+   demonstrate that light reflects from objects rather than being released
+   governing the intensity of light, and the optical explanations of
+   light was emitted by objects which produced it.^[33] This differed
+   corpuscle theory of light, famously determining that white light was a
+   prism. In 1690, Christiaan Huygens proposed a wave theory for light
+   himself publicly criticised Newton's theories of light and the feud
+   over the nature of light.^[33]
+   the interference of light that firmly established light's wave nature.
+   Young's famous double slit experiment showed that light followed the
+   light and opened an entire area of study in physical optics.^[34] Wave
+   energy between light and matter only occurred in discrete amounts he
+   light itself.^[37]^[38] In 1913, Niels Bohr showed that atoms could
+   of the interaction between light and matter that followed from these
+   detailed understanding of photodetection and the statistics of light.
+   ray) optics and physical (or wave) optics. In geometrical optics, light
+   light is considered as an electromagnetic wave.
+   that applies when the wavelength of the light used is much smaller than
+   refraction of light rays
+   Geometrical optics, or ray optics, describes the propagation of light
+   When a ray of light hits the boundary between two transparent
+       of light. If the first material is air or vacuum, n is the
+   of light is the path that can be traversed in the least time.^[43]
+   such as mirrors, which reflect light in a simple, predictable way. This
+   statistically, with the exact distribution of the reflected light
+   may also focus light, but with aberrations due to the diverging shape
+   Refraction occurs when light travels through an area of space that has
+   the focusing of light. The simplest case of refraction occurs when
+   situations, Snell's Law describes the resulting deflection of the light
+   light in that medium by
+   {\displaystyle n=c/v,} where c is the speed of light in vacuum.
+   Snell's Law can be used to predict the deflection of light rays as they
+   geometry of the media are known. For example, the propagation of light
+   through a prism results in the light ray being deflected depending on
+   refraction varies with the frequency of the light, known as dispersion.
+   prism will disperse light into a spectrum.^[48] The discovery of this
+   phenomenon when passing light through a prism is famously attributed to
+   position and, therefore, light rays in the medium are curved. This
+   of refraction air with height causes light rays to bend, creating the
+   For light rays travelling from a material with a high index of
+   transmission occurs; all the light is reflected. This phenomenon is
+   technology. As light travels down an optical fibre, it undergoes total
+   internal reflection allowing for essentially no light to be lost over
+   A device that produces converging or diverging light rays due to
+   the lens varies with the wavelength of the light.^[54]
+   In physical optics, light is considered to propagate as waves. This
+   are not explained by geometric optics. The speed of light waves in air
+   wavelength of visible light waves varies between 400 and 700 nm, but
+   the term "light" is also often applied to infrared (0.7–300 μm) and
+   believed in an "ethereal" medium in which the light disturbance
+   light and have varying electric and magnetic fields which are
+   the waves.^[56] Light waves are now generally treated as
+   to represent the electric field of the light wave, rather than using a
+   magnetic fields of the light wave, are required when dealing with
+   of light with the material. For instance, the behaviour of a light wave
+   be used to model polarised light.
+   used to model the propagation of light in systems which cannot be
+   amplitude of the wave, which for light is associated with a brightening
+   which for light is associated with a dimming of the waveform at that
+   to accurately measure the speed of light.^[64]
+   incident light. The reflected wave from the top of the film and the
+   of light in a range of wavelengths, which can be narrow or broad
+   Diffraction is the process by which light interference is most commonly
+   the angular separation of light and dark fringes due to light of a
+   This equation is modified slightly to take into account a variety of
+   optically resolve separate light sources. In general, light that is
+   angular resolution, λ is the wavelength of the light, and D is the
+   that is, to the first place where no light is seen) can be considered
+   [250px-Light_dispersion_conceptual_waves.gif] Conceptual animation of
+   light dispersion through a prism. High frequency (blue) light is
+   wavelength of light is similar to other distances, as a kind of
+   the limit of Thomson scattering, in which the wavelike nature of light
+   is evident, light is dispersed independent of the frequency, in
+   strictly a quantum mechanical process, involving the nature of light as
+   particles. In a statistical sense, elastic scattering of light by
+   numerous particles much smaller than the wavelength of the light is a
+   observed result. A small proportion of light scattering from atoms or
+   occurs when the frequency of light changes due to local changes with
+   Dispersion occurs when different frequencies of light have different
+   not absorb light.^[80] In wavelength ranges where a medium has
+   light incident at an angle θ to the normal will be refracted at an
+   angle arcsin(sin (θ) / n). Thus, blue light, with its higher refractive
+   index, is bent more strongly than red light, resulting in the
+   where n is the index of refraction and c is the speed of light in a
+   negative dispersion. If a light pulse is propagated through a normally
+   light the least refracted and blue/violet light the most refracted.
+   In the leftmost figure above, the x and y components of the light wave
+   linear polarisation of light beams, include the use of prismatic
+   linearly polarised light. In this picture, θ[1] – θ[0] = θ[i].
+   polariser is placed in a linear polarised beam of light, the intensity,
+   I, of the light that passes through is given by
+   the initial intensity, and θ[i] is the angle between the light's
+   A beam of unpolarised light can be thought of as containing a uniform
+   In practice, some light is lost in the polariser and the actual
+   transmission of unpolarised light will be somewhat lower than this,
+   Brewster's angle.^[97] When light reflects from a thin film on a
+   can produce polarisation in the reflected and transmitted light.
+Natural light
+   of the scattered blue light from the sky.
+   atoms or molecules that emit light. The orientation of the electric
+   the light is said to be unpolarised. If there is partial correlation
+   between the emitters, the light is partially polarised. If the
+   polarised light can be described as a superposition of a completely
+   describe the light in terms of the degree of polarisation, and the
+   Light reflected by shiny transparent materials is partly or fully
+   polarised, except when the light is normal (perpendicular) to the
+   development of the first mathematical models for polarised light.
+   Polarisation occurs when light is scattered in the atmosphere. The
+   scattered light produces the brightness and colour in clear skies. This
+   partial polarisation of scattered light can be taken advantage of using
+   typically relate to the electromagnetic or quantum properties of light
+   optics, deals with specifically quantum mechanical properties of light.
+   Light detectors, such as photomultipliers and channeltrons, respond to
+   Light-emitting diodes and photovoltaic cells, too, cannot be understood
+   Specialty areas of optics research include the study of how light
+   subjects' terms that mean slightly different things in different parts
+   A laser is a device that emits light, a kind of electromagnetic
+   is an acronym for 'Light Amplification by Stimulated Emission of
+   Radiation'.^[102] Laser light is usually spatially coherent, which
+   means that the light either is emitted in a narrow, low-divergence
+   to transmit large amounts of information at the speed of light. Other
+   bubblegrams, laser light shows, and laser hair removal.^[109]
+   result of meeting a standing wave of light. Light can be used to
+   is a living optical device. The iris (light brown region), pupil (black
+   The human eye functions by focusing light onto a layer of photoreceptor
+   Light entering the eye passes first through the cornea, which provides
+   much of the eye's optical power. The light then continues through the
+   the pupil. The light then passes through the lens, which focuses the
+   light further and allows adjustment of focus. The light then passes
+   sensitive to different aspects of light.^[110] Rod cells are sensitive
+   to the intensity of light over a wide frequency range, thus are
+   light. There are, however, twenty times more rod cells than cone cells
+   light, but come in three varieties that are sensitive to different
+   light as rod cells, most night vision is limited to rod cells.
+   converging and diverging lines, in the same way that parallel light
+   the conservation of energy and the spreading of light rays over a
+   and enhance image stability.^[118] A slightly different variety of
+   the collection of light which is determined by the physical size of the
+   mirror, the more light collected, and the magnification is still equal
+   focus), the less light coming in, so the length of time has to be
+   in daylight.^[123]
+   The required exposure time depends on how sensitive to light the medium
+   very low light sensitivity, and so exposure times had to be long even
+   of light off particulates and pollution, as in this photograph of a
+   sunlight back into the field of view of the observer. Because blue
+   light is scattered more easily than red light, the sun takes on a
+   sunlight, and sun dogs. The variation in these kinds of phenomena is
+   Mirages are optical phenomena in which light rays are bent due to
+   dispersive refraction of light in raindrops. A single reflection off
+   Light Across Arts and Sciences: Theories and Practices. V&R unipress
+     ^ ^a ^b A.I. Sabra (1981). Theories of light, from Descartes to
+   production and transformation of light". In Ter Haar, D. (ed.). The Old
+   viewpoint concerning the production and transformation of light].
+     ^ R. Feynman (1985). "Chapter 1". QED: The Strange Theory of Light
+   Light by Small Particles. Wiley. ISBN 978-0-471-29340-8.
+     ^ W. Crawford (1979). The Keepers of Light: A History and Working
+   Engineers: Electricity, Magnetism, Light, and Elementary Modern
+     * Light and Matter – an open-source textbook, containing a treatment
+     * Physics of Light and Optics – Brigham Young University
+     * Light

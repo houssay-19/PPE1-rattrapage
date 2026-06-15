@@ -1,0 +1,2019 @@
+edit this page wikipedia en wikipedia atom feed
+jump to content
+main menu
+main menu
+button move to sidebar button hide
+navigation
+main page
+contents
+current events
+random article
+about wikipedia
+contact us
+contribute
+learn to edit
+community portal
+recent changes
+upload file
+special pages
+wikipedia free encyclopedia
+search
+button search
+appearance
+donate
+create account
+log
+personal tools
+donate
+create account
+log
+contents
+button move to sidebar button hide
+physical properties
+button toggle physical properties subsection
+energy and momentum
+polarization and spin angular momentum
+antiparticle annihilation
+experimental checks on photon mass
+historical development
+nomenclature
+wave particle duality and uncertainty principles
+bose einstein model a photon gas
+stimulated and spontaneous emission
+quantum field theory
+button toggle quantum field theory subsection
+quantization electromagnetic field
+as a gauge boson
+hadronic properties
+contributions to mass a system
+matter
+technological applications
+quantum optics and computation
+see also
+notes
+references
+further reading
+external links
+toggle table contents
+photon
+languages
+afrikaans
+aragonés
+asturianu
+az rbaycanca
+boarisch
+bosanski
+català
+e tina
+cymraeg
+dansk
+deutsch
+esperanto
+español
+eesti
+euskara
+suomi
+võro
+français
+gaeilge
+kriyòl gwiyannen
+galego
+hrvatski
+kreyòl ayisyen
+magyar
+interlingua
+bahasa indonesia
+Íslenska
+italiano
+patois
+kurdî
+latina
+limburgs
+lombard
+lietuvi
+latvie u
+malagasy
+bahasa melayu
+plattdüütsch
+nederlands
+norsk nynorsk
+norsk bokmål
+occitan
+oromoo
+polski
+português
+runa simi
+român
+sicilianu
+srpskohrvatski
+simple english
+sloven ina
+sloven ina
+shqip
+srpski
+seeltersk
+sunda
+svenska
+kiswahili
+tagalog
+toki pona
+türkçe
+tatarça
+o zbekcha
+ti ng vi t
+winaray
+bân lâm gí
+isizulu
+edit links
+article
+english
+view history
+tools
+tools
+button move to sidebar button hide
+actions
+view history
+general
+what links here
+related changes
+upload file
+permanent link
+page information
+cite this page
+get shortened url
+print export
+download as pdf
+printable version
+other projects
+abstract wikipedia
+wikimedia commons
+wikiquote
+wikidata item
+appearance
+button move to sidebar button hide
+from wikipedia free encyclopedia
+elementary particle or quantum light
+this article is about elementary particle or quantum light for
+other uses see photon disambiguation
+caption photon
+composition elementary particle
+statistics bose einstein statistics
+family gauge boson
+interactions electromagnetic gravity
+symbol
+theorized albert einstein
+name photon is generally attributed to gilbert n lewis
+mass theoretical value
+× ev c experimental limit
+mean lifetime stable
+electric charge
+× e experimental limit
+color charge no
+spin
+spin states
+parity
+c parity
+condensed i j pc
+a photon from ancient greek phôs ph tós light is an
+elementary particle that is a quantum electromagnetic field
+including electromagnetic radiation such as light and radio waves and
+force carrier for electromagnetic force photons are massless
+particles that can only move at one speed speed light measured
+a vacuum photon belongs to boson particles
+as with other elementary particles photons are best explained by
+quantum mechanics and exhibit wave particle duality their behavior
+featuring properties both waves and particles modern photon
+concept originated during first two decades th century
+with work albert einstein who built upon research max
+planck while planck was trying to explain how matter and
+electromagnetic radiation could be thermal equilibrium with one
+another he proposed that energy stored within a material object
+should be regarded as composed an integer number discrete
+equal sized parts to explain photoelectric effect einstein
+introduced idea that light itself is made discrete units
+energy gilbert n lewis popularized term photon for these
+energy units subsequently many other experiments
+validated einstein s approach
+standard model particle physics photons and other elementary
+particles are described as a necessary consequence physical laws
+having a certain symmetry at every point spacetime intrinsic
+properties particles such as charge mass and spin are determined
+by gauge symmetry photon concept has led to momentous advances
+experimental and theoretical physics including lasers bose einstein
+condensation quantum field theory and probabilistic
+interpretation quantum mechanics it has been applied to
+photochemistry high resolution microscopy and measurements
+molecular distances moreover photons have been studied as elements
+quantum computers and for applications optical imaging and optical
+communication such as quantum cryptography
+physical properties
+photon has no electric charge is generally considered to
+have zero rest mass and is a stable particle experimental
+upper limit on photon mass is very small on order
+g its lifetime would be more than years for
+comparison age universe is about × years
+single photons have been shown to travel at speed light
+vacuum measurement uses a heralded single photon source
+a vacuum a photon has two possible polarization states
+photon is gauge boson for electromagnetism and
+therefore all other quantum numbers photon such as lepton
+number baryon number and flavour quantum numbers are zero
+also photons obey bose einstein statistics and not fermi dirac
+statistics that is they do not obey pauli exclusion
+principle and more than one photon can occupy same
+bound quantum state
+photons are emitted when a charge is accelerated and emits synchrotron
+radiation during a molecular atomic or nuclear transition to a lower
+energy level photons emitted have characteristic energies ranging
+from radio waves to gamma rays photons can also be emitted when a
+particle and its corresponding antiparticle are annihilated for
+example electron positron annihilation
+energy and momentum
+see also photon energy and special relativity
+px light cone colour png cone shows possible values
+wave vector a photon time axis gives angular frequency
+rad s and space axis represents angular wavenumber
+rad m green and indigo represent left and right polarization
+a quantum mechanical model electromagnetic waves transfer energy
+photons with energy proportional to frequency
+scriptlevel
+x nu
+nu
+scriptlevel e
+h
+x e h nu
+e h nu
+where h is planck constant a fundamental physical constant
+energy can be written with angular frequency
+scriptlevel
+x omega
+omega or wavelength
+scriptlevel e
+variant mspace thinmathspace
+mspace thinmathspace h mspace
+thinmathspace c mspace
+thinmathspace
+x e hbar omega
+frac h c lambda
+e hbar omega frac h c lambda
+where h
+is called reduced planck constant and c is speed light
+momentum a photon
+scriptlevel
+p
+variant
+k
+x
+boldsymbol p hbar boldsymbol k
+boldsymbol p hbar boldsymbol k
+where k is wave vector where
+k k is wave number
+since
+scriptlevel
+p
+x boldsymbol
+p
+boldsymbol p points direction
+photon s propagation magnitude its momentum is
+scriptlevel p
+p
+variant k
+mspace
+thinmathspace h mspace
+thinmathspace c
+mspace
+thinmathspace h mspace
+thinmathspace
+x p equiv
+left boldsymbol p right hbar k frac h nu
+c frac h lambda
+p equiv left boldsymbol p right hbar
+k frac h nu c frac h lambda
+photon energy can be written as e pc where p is magnitude
+momentum vector p this is consistent with energy momentum
+relation special relativity
+scriptlevel e
+p
+c
+m
+c
+x
+e p c m c
+e p c m c
+when m
+polarization and spin angular momentum
+main articles photon polarization and spin angular momentum light
+photon also carries spin angular momentum which is related to
+photon polarization beams light also exhibit properties described
+as orbital angular momentum light
+angular momentum photon has two possible values either
+or these two possible values correspond to two possible pure
+states circular polarization collections photons a light beam
+may have mixtures these two values a linearly polarized light beam
+will act as if it were composed equal numbers two possible
+angular momenta
+spin angular momentum light does not depend on its frequency
+and was experimentally verified by c v raman and suri bhagavantam
+antiparticle annihilation
+main articles annihilation and electron positron annihilation
+collision a particle with its antiparticle can create photons
+free space at least two photons must be created since center
+momentum frame colliding antiparticles have no net momentum
+whereas a single photon always has momentum determined by photon s
+frequency or wavelength which cannot be zero hence conservation
+momentum or equivalently translational invariance requires that at
+least two photons are created with zero net momentum
+energy two photons or equivalently their frequency may
+be determined from conservation four momentum
+seen another way photon can be considered as its own antiparticle
+thus an antiphoton is simply a normal photon with opposite momentum
+equal polarization and ° out phase reverse process pair
+production is dominant mechanism by which high energy photons such
+as gamma rays lose energy while passing through matter that
+process is reverse annihilation to one photon allowed
+electric field an atomic nucleus
+classical formulae for energy and momentum electromagnetic
+radiation can be re expressed terms photon events for example
+pressure electromagnetic radiation on an object derives from
+transfer photon momentum per unit time and unit area to that object
+since pressure is force per unit area and force is change
+momentum per unit time
+experimental checks on photon mass
+current commonly accepted physical theories imply or assume photon
+to be strictly massless citation needed if photons were not purely
+massless their speeds would vary with frequency with lower energy
+redder photons moving slightly slower than higher energy photons
+relativity would be unaffected by this so called speed light
+c would then not be actual speed at which light moves but a
+constant nature which is upper bound on speed that any object
+could theoretically attain spacetime thus it would still be
+speed spacetime ripples gravitational waves and gravitons but
+it would not be speed photons
+if a photon did have non zero mass there would be other effects as
+well coulomb s law would be modified and electromagnetic field
+would have an extra physical degree freedom these effects yield
+more sensitive experimental probes photon mass than
+frequency dependence speed light if coulomb s law is not
+exactly valid then that would allow presence an electric field
+to exist within a hollow conductor when it is subjected to an external
+electric field this provides a means for precision tests coulomb s
+law a null result such an experiment has set a limit m
+ev c
+sharper upper limits on mass light have been obtained
+experiments designed to detect effects caused by galactic vector
+potential although galactic vector potential is large because
+galactic magnetic field exists on great length scales only
+magnetic field would be observable if photon is massless
+case that photon has mass mass term
+m a a would affect galactic plasma fact that no such
+effects are seen implies an upper bound on photon mass m
+× ev c galactic vector potential can also be probed
+directly by measuring torque exerted on a magnetized ring
+such methods were used to obtain sharper upper limit
+× ev c da given by particle group
+these sharp limits from non observation effects caused by
+galactic vector potential have been shown to be
+model dependent if photon mass is generated via higgs
+mechanism then upper limit m ev c from test
+coulomb s law is valid
+historical development
+main article light
+px young diffraction png thomas young s sketch interference
+based on observations water waves young reasoned that
+similar effects observed with light supported a wave model and not
+newton s particle theory light
+most theories up to eighteenth century light was pictured as
+being made particles since particle models cannot easily account
+for refraction diffraction and birefringence light wave
+theories light were proposed by rené descartes robert
+hooke and christiaan huygens however
+particle models remained dominant chiefly due to influence
+isaac newton early th century thomas young and august
+fresnel clearly demonstrated interference and diffraction light
+and by wave models were generally accepted james clerk
+maxwell s prediction that light was an electromagnetic wave
+which was confirmed experimentally by heinrich hertz s
+detection radio waves seemed to be final blow to particle
+models light
+px light wave png maxwell s theoretical model
+light as oscillating electric and magnetic fields seemed complete
+however several observations could not be explained by any wave model
+electromagnetic radiation leading to idea that light energy was
+packaged into quanta described by e h later experiments showed that
+these light quanta also carry momentum and thus can be considered
+particles photon concept was born leading to a deeper
+understanding electric and magnetic fields themselves
+maxwell wave theory however does not account for all properties
+light maxwell theory predicts that energy a light wave
+depends only on its intensity not on its frequency nevertheless
+several independent types experiments show that energy imparted
+by light to atoms depends only on light s frequency not on its
+intensity for example some chemical reactions are provoked only by
+light frequency higher than a certain threshold light frequency
+lower than threshold no matter how intense does not initiate
+reaction similarly electrons can be ejected from a metal plate by
+shining light sufficiently high frequency on it photoelectric
+effect energy ejected electron is related only to
+light s frequency not to its intensity
+at same time investigations black body radiation carried out
+over four decades by various researchers culminated
+max planck s hypothesis that energy any system that
+absorbs or emits electromagnetic radiation frequency is an integer
+multiple an energy quantum e h as shown by albert
+einstein some form energy quantization must be assumed to
+account for thermal equilibrium observed between matter and
+electromagnetic radiation for this explanation photoelectric
+effect einstein received nobel prize physics
+since maxwell theory light allows for all possible energies
+electromagnetic radiation most physicists assumed initially that
+energy quantization resulted from some unknown constraint on matter
+that absorbs or emits radiation einstein was first to
+propose that energy quantization was a property electromagnetic
+radiation itself although he accepted validity maxwell s
+theory einstein pointed out that many anomalous experiments could be
+explained if energy a maxwellian light wave were localized into
+point like quanta that move independently one another even if
+wave itself is spread continuously over space and
+einstein showed that if planck s law regarding black body
+radiation is accepted energy quanta must also carry momentum p
+h
+making them full fledged particles px bohr atom model png up
+to most physicists were reluctant to accept that light itself was
+quantized instead they tried to explain photon behaviour by
+quantizing only matter as bohr model hydrogen atom
+shown here even though these semiclassical models were only a first
+approximation they were accurate for simple systems and they led to
+quantum mechanics
+as recounted robert millikan s nobel lecture einstein s
+predicted energy relationship was verified experimentally by but
+local concept quanta remained unsettled most
+physicists were reluctant to believe that electromagnetic radiation
+itself might be particulate and thus an example wave particle
+duality then arthur compton experiment showed
+that photons carried momentum proportional to their wave number and
+therefore energy an effect now called compton scattering that
+appeared to clearly support a localized quantum model at least for
+millikan this settled matter compton received nobel
+prize for his scattering work
+even after compton s experiment niels bohr hendrik kramers and john
+slater made one last attempt to preserve maxwellian continuous
+electromagnetic field model light so called bks theory an
+important feature bks theory is how it treated conservation
+energy and conservation momentum bks theory energy
+and momentum are only conserved on average across many interactions
+between matter and radiation however refined compton experiments
+showed that conservation laws hold for individual
+interactions accordingly bohr and his co workers gave their
+model as honorable a funeral as possible nevertheless
+failures bks model inspired werner heisenberg his development
+matrix mechanics
+by late pivotal question was how to unify maxwell s wave
+theory light with its experimentally observed particle nature
+answer to this question occupied albert einstein for rest his
+life and was solved quantum electrodynamics and its successor
+standard model see § quantum field theory and § as a gauge boson
+below
+a few physicists persisted developing semiclassical models
+which electromagnetic radiation is not quantized but matter appears to
+obey laws quantum mechanics although evidence from chemical
+and physical experiments for existence photons was overwhelming
+by s this evidence could not be considered as absolutely
+definitive since it relied on interaction light with matter
+and a sufficiently complete theory matter could principle account
+for evidence
+s and s photon correlation experiments definitively
+demonstrated quantum photon effects these experiments produce results
+that cannot be explained by any classical theory light since they
+involve anticorrelations that result from quantum measurement
+process first such experiment was carried out by clauser
+who reported a violation a classical cauchy schwarz inequality
+kimble et al demonstrated an analogous anti bunching effect
+photons interacting with a beam splitter this approach was simplified
+and sources error eliminated photon anticorrelation
+experiment grangier roger aspect this work is
+reviewed and simplified further thorn neel et al
+nomenclature
+photoelectric effect emission electrons from a metal plate
+caused by light quanta photons
+word quanta singular quantum latin for how much was used before
+to mean particles or amounts different quantities including
+electricity german physicist max planck was studying
+black body radiation and he suggested that experimental
+observations specifically at shorter wavelengths would be explained
+if energy was made up a completely determinate number finite
+equal parts which he called energy elements albert
+einstein published a paper which he proposed that many light related
+phenomena including black body radiation and photoelectric
+effect would be better explained by modelling electromagnetic waves as
+consisting spatially localized discrete energy quanta he
+called these a light quantum german ein lichtquant
+name photon derives from greek word for light
+transliterated phôs name was used by american physicist
+and psychologist leonard t troland for a unit illumination
+retina and several other contexts before being adopted for
+physics use term photon for light quantum was
+popularized by gilbert n lewis who used term a letter to
+nature on december arthur compton who had performed a
+key experiment demonstrating light quanta cited lewis
+solvay conference proceedings for suggesting name photon einstein
+never did use term
+physics a photon is usually denoted by symbol greek
+letter gamma this symbol for photon probably derives from gamma
+rays which were discovered by paul villard named by
+ernest rutherford and shown to be a form electromagnetic
+radiation by rutherford and edward andrade chemistry
+and optical engineering photons are usually symbolized by h which is
+photon energy where h is planck constant and greek letter
+nu is photon s frequency
+wave particle duality and uncertainty principles
+photons obey laws quantum mechanics and so their behavior has
+both wave like and particle like aspects when a photon is detected by
+a measuring instrument it is registered as a single particulate unit
+however probability detecting a photon is calculated by
+equations that describe waves this combination aspects is known as
+wave particle duality for example probability distribution for
+location at which a photon might be detected displays clearly
+wave like phenomena such as diffraction and interference a single
+photon passing through a double slit has its energy received at a point
+on screen with a probability distribution given by its interference
+pattern determined by maxwell s wave equations however
+experiments confirm that photon is not a short pulse
+electromagnetic radiation a photon s maxwell waves will diffract but
+photon energy does not spread out as it propagates nor does this
+energy divide when it encounters a beam splitter rather
+received photon acts like a point like particle since it is absorbed or
+emitted as a whole by arbitrarily small systems including systems much
+smaller than its wavelength such as an atomic nucleus m
+across or even point like electron
+while many introductory texts treat photons using mathematical
+techniques non relativistic quantum mechanics this is some ways
+an awkward oversimplification as photons are by nature intrinsically
+relativistic because photons have zero rest mass no wave function
+defined for a photon can have all properties familiar from wave
+functions non relativistic quantum mechanics a order to avoid
+these difficulties physicists employ second quantized theory
+photons described below quantum electrodynamics which photons are
+quantized excitations electromagnetic modes
+another difficulty is finding proper analogue for uncertainty
+principle an idea frequently attributed to heisenberg who introduced
+concept analyzing a thought experiment involving an electron and
+a high energy photon however heisenberg did not give precise
+mathematical definitions what uncertainty these
+measurements meant precise mathematical statement
+position momentum uncertainty principle is due to kennard pauli and
+weyl uncertainty principle applies to situations where
+an experimenter has a choice measuring either one two
+canonically conjugate quantities like position and momentum
+a particle according to uncertainty principle no matter how
+particle is prepared it is not possible to make a precise
+prediction for both two alternative measurements if outcome
+position measurement is made more certain outcome
+momentum measurement becomes less so and vice versa a coherent
+state minimizes overall uncertainty as far as quantum mechanics
+allows quantum optics makes use coherent states for modes
+electromagnetic field there is a tradeoff reminiscent
+position momentum uncertainty relation between measurements an
+electromagnetic wave s amplitude and its phase this is sometimes
+informally expressed terms uncertainty number
+photons present electromagnetic wave
+scriptlevel normal
+n
+x delta n
+delta n and uncertainty phase
+scriptlevel normal
+x delta phi
+delta phi however this cannot be an uncertainty
+relation kennard pauli weyl type since unlike position and
+momentum phase
+scriptlevel
+x phi
+phi cannot be represented by a hermitian
+operator
+bose einstein model a photon gas
+main articles bose gas bose einstein statistics spin statistics
+theorem gas a box and photon gas
+satyendra nath bose derived planck s law black body
+radiation without using any electromagnetism but rather by using a
+modification coarse grained counting phase space einstein
+showed that this modification is equivalent to assuming that photons
+are rigorously identical and that it implied a mysterious non local
+interaction now understood as requirement for a
+symmetric quantum mechanical state this work led to concept
+coherent states and development laser same papers
+einstein extended bose s formalism to material particles bosons and
+predicted that they would condense into their lowest quantum state at
+low enough temperatures this bose einstein condensation was observed
+experimentally it was later used by lene hau to slow and
+then completely stop light and
+modern view on this is that photons are by virtue their integer
+spin bosons as opposed to fermions with half integer spin by
+spin statistics theorem all bosons obey bose einstein statistics
+whereas all fermions obey fermi dirac statistics
+stimulated and spontaneous emission
+main articles stimulated emission and laser
+px stimulatedemission png stimulated emission which photons
+clone themselves was predicted by einstein his kinetic analysis
+and led to development laser einstein s derivation inspired
+further developments quantum treatment light which led to
+statistical interpretation quantum mechanics
+albert einstein showed that planck s radiation law could be
+derived from a semi classical statistical treatment photons and
+atoms which implies a link between rates at which atoms emit and
+absorb photons condition follows from assumption that
+functions emission and absorption radiation by atoms are
+independent each other and that thermal equilibrium is made by way
+radiation s interaction with atoms consider a cavity
+thermal equilibrium with all parts itself and filled with
+electromagnetic radiation and that atoms can emit and absorb that
+radiation thermal equilibrium requires that energy density
+scriptlevel
+stretchy stretchy
+x rho nu
+rho nu photons with frequency
+scriptlevel
+x nu
+nu which is proportional to their number density
+is on average constant time hence rate at which photons
+any particular frequency are emitted must equal rate at which they
+are absorbed
+einstein began by postulating simple proportionality relations for
+different reaction rates involved his model rate
+scriptlevel r
+j i
+x r ji
+r ji for a system to absorb a photon frequency
+scriptlevel
+x nu
+nu and transition from a lower energy
+scriptlevel e
+j
+x
+e j
+e j to a higher energy
+scriptlevel e
+i
+x
+e i
+e i is proportional to number
+scriptlevel n
+j
+x
+n j
+n j atoms with energy
+scriptlevel e
+j
+x
+e j
+e j and to energy density
+scriptlevel
+stretchy stretchy
+x rho nu
+rho nu ambient photons that frequency
+scriptlevel r
+j i
+n
+j b
+j i
+stretchy
+stretchy mspace negativethinmathspace
+x
+r ji n j b ji rho nu
+r ji n j b ji rho nu
+where
+scriptlevel b
+j i
+x b ji
+b ji is rate constant for absorption for
+reverse process there are two possibilities spontaneous emission a
+photon or emission a photon initiated by interaction
+atom with a passing photon and return atom to
+lower energy state following einstein s approach corresponding
+scriptlevel r
+i j
+x r ij
+r ij for emission photons frequency
+scriptlevel
+x nu
+nu and transition from a higher energy
+scriptlevel e
+i
+x
+e i
+e i to a lower energy
+scriptlevel e
+j
+x
+e j
+e j is
+scriptlevel r
+i j
+n
+i a
+i j
+n
+i b
+i j
+stretchy
+stretchy mspace negativethinmathspace
+x
+r ij n i a ij n i b ij rho nu
+r ij n i a ij n i b ij rho nu
+where
+scriptlevel a
+i j
+x a ij
+a ij is rate constant for emitting a photon
+spontaneously and
+scriptlevel b
+i j
+x b ij
+b ij is rate constant for emissions response
+to ambient photons induced or stimulated emission thermodynamic
+equilibrium number atoms state
+scriptlevel i
+x i
+i and those state
+scriptlevel j
+x j
+j must on average be constant hence rates
+scriptlevel r
+j i
+x r ji
+r ji and
+scriptlevel r
+i j
+x r ij
+r ij must be equal also by arguments analogous to
+derivation boltzmann statistics ratio
+scriptlevel n
+i
+x
+n i
+n i and
+scriptlevel n
+j
+x
+n j
+n j is
+scriptlevel g
+i
+g
+j exp
+stretchy
+e j
+e
+i stretchy
+stretchy
+k t stretchy
+x g i g j exp
+e j e i kt
+g i g j exp e j e i kt where
+scriptlevel g
+i
+x
+g i
+g i and
+scriptlevel g
+j
+x
+g j
+g j are degeneracy state
+scriptlevel i
+x i
+i and that
+scriptlevel j
+x j
+j respectively
+scriptlevel e
+i
+x
+e i
+e i and
+scriptlevel e
+j
+x
+e j
+e j their energies
+scriptlevel k
+x k
+k boltzmann constant and
+scriptlevel t
+x t
+t system s temperature from this it is readily
+derived that
+scriptlevel g
+i
+b i j
+g
+j
+b j i
+x
+g i b ij g j b ji
+g i b ij g j b ji
+scriptlevel a
+i j
+h
+c
+b
+i j
+x a ij frac pi
+h nu c b ij
+a ij frac pi h nu c b ij
+scriptlevel a
+i j
+x a ij
+a ij and
+scriptlevel b
+i j
+x b ij
+b ij are collectively known as einstein
+coefficients
+einstein could not fully justify his rate equations but claimed that
+it should be possible to calculate coefficients
+scriptlevel a
+i j
+x a ij
+a ij
+scriptlevel b
+j i
+x b ji
+b ji and
+scriptlevel b
+i j
+x b ij
+b ij once physicists had obtained mechanics and
+electrodynamics modified to accommodate quantum hypothesis
+not long thereafter paul dirac derived
+scriptlevel b
+i j
+x b ij
+b ij rate constants by using a semiclassical
+approach and succeeded deriving all rate
+constants from first principles within framework quantum
+theory dirac s work was foundation quantum
+electrodynamics i e quantization electromagnetic field
+itself dirac s approach is also called second quantization or quantum
+field theory earlier quantum mechanical treatments only
+treat material particles as quantum mechanical not electromagnetic
+field
+einstein was troubled by fact that his theory seemed incomplete
+since it did not determine direction a spontaneously emitted
+photon a probabilistic nature light particle motion was first
+considered by newton his treatment birefringence and more
+generally splitting light beams at interfaces into a
+transmitted beam and a reflected beam newton hypothesized that hidden
+variables light particle determined which two paths a
+single photon would take similarly einstein hoped for a more
+complete theory that would leave nothing to chance beginning his
+separation from quantum mechanics ironically max born s
+probabilistic interpretation wave function was
+inspired by einstein s later work searching for a more complete
+theory
+quantum field theory
+quantization electromagnetic field
+main article quantum field theory
+px visibleemrwavelengths png different electromagnetic modes
+such as those depicted here can be treated as independent simple
+harmonic oscillators a photon corresponds to a unit energy e h
+its electromagnetic mode
+peter debye derived planck s law black body radiation from
+a relatively simple assumption he decomposed electromagnetic
+field a cavity into its fourier modes and assumed that energy
+any mode was an integer multiple
+scriptlevel h
+x h nu
+h nu where
+scriptlevel
+x nu
+nu is frequency electromagnetic mode
+planck s law black body radiation follows immediately as a geometric
+sum however debye s approach failed to give correct formula for
+energy fluctuations black body radiation which were derived by
+einstein
+born heisenberg and jordan reinterpreted debye s concept a
+key way as may be shown classically fourier modes
+electromagnetic field a complete set electromagnetic plane waves
+indexed by their wave vector k and polarization state are equivalent to
+a set uncoupled simple harmonic oscillators treated quantum
+mechanically energy levels such oscillators are known to be
+scriptlevel e n
+h
+x e nh nu
+e nh nu where
+scriptlevel
+x nu
+nu is oscillator frequency key new step was
+to identify an electromagnetic mode with energy
+scriptlevel e n
+h
+x e nh nu
+e nh nu as a state with
+scriptlevel n
+x n
+n photons each energy
+scriptlevel h
+x h nu
+h nu this approach gives correct energy
+fluctuation formula
+px electron scattering png feynman diagram two electrons
+interacting by exchange a virtual photon
+dirac took this one step further he treated interaction
+between a charge and an electromagnetic field as a small perturbation
+that induces transitions photon states changing numbers
+photons modes while conserving energy and momentum overall
+dirac was able to derive einstein s
+scriptlevel a
+i j
+x a ij
+a ij and
+scriptlevel b
+i j
+x b ij
+b ij coefficients from first principles and showed
+that bose einstein statistics photons is a natural consequence
+quantizing electromagnetic field correctly bose s reasoning
+went opposite direction he derived planck s law black body
+radiation by assuming b e statistics dirac s time it was not yet
+known that all bosons including photons must obey bose einstein
+statistics citation needed
+dirac s second order perturbation theory can involve virtual photons
+transient intermediate states electromagnetic field static
+electric and magnetic interactions are mediated by such virtual
+photons such quantum field theories probability amplitude
+observable events is calculated by summing over all possible
+intermediate steps even ones that are unphysical hence virtual
+photons are not constrained to satisfy
+scriptlevel e p
+c
+x e pc
+e pc and may have extra polarization states
+depending on gauge used virtual photons may have three or four
+polarization states instead two states real photons
+although these transient virtual photons can never be observed they
+contribute measurably to probabilities observable events
+second order and higher order perturbation calculations can give
+infinite contributions to sum such unphysical results are
+corrected for using technique renormalization
+other virtual particles may contribute to summation as well for
+example two photons may interact indirectly through virtual
+electron positron pairs such photon photon scattering see
+two photon physics as well as electron photon scattering is meant to
+be one modes operations planned particle accelerator
+international linear collider
+modern physics notation quantum state electromagnetic
+field is written as a fock state a tensor product states for
+each electromagnetic mode
+scriptlevel
+stretchy
+n
+k
+fence
+stretchy
+stretchy
+n
+k
+fence
+stretchy
+stretchy
+n
+k n
+fence
+stretchy
+x n k rangle
+otimes n k rangle otimes dots otimes
+n k n rangle dots
+n k rangle otimes n k rangle
+otimes dots otimes n k n rangle dots
+where
+scriptlevel
+stretchy n
+k
+i
+fence stretchy
+x n k i rangle
+n k i rangle represents state which
+scriptlevel mspace thinmathspace
+n k
+i
+x n k i
+n k i photons are mode
+scriptlevel k
+i
+x
+k i
+k i this notation creation a new photon
+mode
+scriptlevel k
+i
+x
+k i
+k i e g emitted from an atomic transition is
+written as
+scriptlevel
+stretchy n
+k
+i
+fence stretchy stretchy
+stretchy
+n k
+i
+fence stretchy
+x n k i rangle
+rightarrow n k i rangle
+n k i rangle rightarrow n k i rangle
+this notation merely expresses concept born heisenberg and
+jordan described above and does not add any physics
+as a gauge boson
+main article gauge theory
+electromagnetic field can be understood as a gauge field i e as
+a field that results from requiring that a gauge symmetry holds
+independently at every position spacetime for
+electromagnetic field this gauge symmetry is abelian u symmetry
+complex numbers absolute value which reflects ability to
+vary phase a complex field without affecting observables or real
+valued functions made from it such as energy or lagrangian
+quanta an abelian gauge field must be massless uncharged
+bosons as long as symmetry is not broken hence photon is
+predicted to be massless and to have zero electric charge and integer
+spin particular form electromagnetic interaction specifies
+that photon must have spin ± thus its helicity must be
+scriptlevel ±
+variant
+x pm hbar
+pm hbar these two spin components correspond to
+classical concepts right handed and left handed circularly
+polarized light however transient virtual photons quantum
+electrodynamics may also adopt unphysical polarization states
+prevailing standard model physics photon is one four
+gauge bosons electroweak interaction other three are
+denoted w w and z and are responsible for weak interaction
+unlike photon these gauge bosons have mass owing to a mechanism
+that breaks their su gauge symmetry unification photon
+with w and z gauge bosons electroweak interaction was
+accomplished by sheldon glashow abdus salam and steven weinberg for
+which they were awarded nobel prize
+physics physicists continue to hypothesize grand
+unified theories that connect these four gauge bosons with eight
+gluon gauge bosons quantum chromodynamics however key predictions
+these theories such as proton decay have not been observed
+experimentally
+hadronic properties
+main article photon structure function
+measurements interaction between energetic photons and hadrons
+show that interaction is much more intense than expected by
+interaction merely photons with hadron s electric charge
+furthermore interaction energetic photons with protons is
+similar to interaction photons with neutrons spite
+fact that electrical charge structures protons and neutrons
+are substantially different a theory called vector meson dominance
+vmd was developed to explain this effect according to vmd
+photon is a superposition pure electromagnetic photon which
+interacts only with electric charges and vector mesons which mediate
+residual nuclear force however if experimentally probed at
+very short distances intrinsic structure photon appears to
+have as components a charge neutral flux quarks and gluons
+quasi free according to asymptotic freedom qcd that flux is
+described by photon structure function a review by
+nisius presented a comprehensive comparison with
+theoretical predictions
+contributions to mass a system
+see also mass special relativity and mass general relativity
+energy a system that emits a photon is decreased by energy
+scriptlevel e
+x e
+e photon as measured rest frame
+emitting system which may result a reduction mass amount
+scriptlevel
+e
+c
+x
+e c
+e c similarly mass a system that
+absorbs a photon is increased by a corresponding amount as an
+energy balance nuclear reactions involving photons
+is commonly written terms masses nuclei involved and
+terms form
+scriptlevel
+e
+c
+x
+e c
+e c for gamma photons and for other
+relevant energies such as recoil energy nuclei
+this concept is applied key predictions quantum electrodynamics
+qed see above that theory mass electrons or more
+generally leptons is modified by including mass contributions
+virtual photons a technique known as renormalization such
+radiative corrections contribute to a number predictions qed
+such as magnetic dipole moment leptons lamb shift and
+hyperfine structure bound lepton pairs such as muonium and
+positronium
+since photons contribute to stress energy tensor they exert a
+gravitational attraction on other objects according to theory
+general relativity conversely photons are themselves affected by
+gravity their normally straight trajectories may be bent by warped
+spacetime as gravitational lensing and their frequencies may be
+lowered by moving to a higher gravitational potential as
+pound rebka experiment however these effects are not specific to
+photons exactly same effects would be predicted for classical
+electromagnetic waves
+matter
+see also refractive index group velocity and photochemistry
+light that travels through transparent matter does so at a lower speed
+than c speed light vacuum factor by which speed is
+decreased is called refractive index material a
+classical wave picture slowing can be explained by light
+inducing electric polarization matter polarized matter
+radiating new light and that new light interfering with original
+light wave to form a delayed wave a particle picture slowing
+can instead be described as a blending photon with quantum
+excitations matter to produce quasi particles known as
+polaritons polaritons have a nonzero effective mass which means that
+they cannot travel at c light different frequencies may travel
+through matter at different speeds this is called dispersion not to
+be confused with scattering some cases it can result extremely
+slow speeds light matter effects photon interactions with
+other quasi particles may be observed directly raman scattering and
+brillouin scattering
+photons can be scattered by matter for example photons scatter so
+many times solar radiative zone after leaving core
+sun that radiant energy takes about a million years to reach
+convection zone however photons emitted from sun s
+photosphere take only minutes to reach earth
+photons can also be absorbed by nuclei atoms or molecules provoking
+transitions between their energy levels a classic example is
+molecular transition retinal c h o which is responsible for
+vision as discovered by nobel laureate biochemist george wald
+and co workers absorption provokes a cis trans isomerization that
+combination with other such transitions is transduced into nerve
+impulses absorption photons can even break chemical bonds as
+photodissociation chlorine this is subject
+photochemistry
+technological applications
+photons have many applications technology these examples are chosen
+to illustrate applications photons per se rather than general
+optical devices such as lenses etc that could operate under a
+classical theory light laser is an important and is
+discussed above under stimulated emission
+individual photons can be detected by several methods classic
+photomultiplier tube exploits photoelectric effect a photon
+sufficient energy strikes a metal plate and knocks free an electron
+initiating an ever amplifying avalanche electrons semiconductor
+charge coupled device chips use a similar effect an incident photon
+generates a charge on a microscopic capacitor that can be detected
+other detectors such as geiger counters use ability photons to
+ionize gas molecules contained device causing a detectable
+change conductivity gas
+planck s energy formula
+scriptlevel e h
+x e h nu
+e h nu is often used by engineers and chemists
+design both to compute change energy resulting from a photon
+absorption and to determine frequency light emitted from a
+given photon emission for example emission spectrum a
+gas discharge lamp can be altered by filling it with mixtures
+gases with different electronic energy level configurations
+under some conditions an energy transition can be excited by two
+photons that individually would be insufficient this allows for higher
+resolution microscopy because sample absorbs energy only
+spectrum where two beams different colors overlap significantly
+which can be made much smaller than excitation volume a single
+beam see two photon excitation microscopy moreover these photons
+cause less damage to sample since they are lower energy
+some cases two energy transitions can be coupled so that as one
+system absorbs a photon another nearby system steals its energy and
+re emits a photon a different frequency this is basis
+fluorescence resonance energy transfer a technique that is used
+molecular biology to study interaction suitable proteins
+several different kinds hardware random number generators involve
+detection single photons one example for each bit
+random sequence that is to be produced a photon is sent to a
+beam splitter such a situation there are two possible outcomes
+equal probability actual outcome is used to determine whether
+next bit sequence is or
+quantum optics and computation
+much research has been devoted to applications photons field
+quantum optics photons seem well suited to be elements an
+extremely fast quantum computer and quantum entanglement
+photons is a focus research nonlinear optical processes are another
+active research area with topics such as two photon absorption
+self phase modulation modulational instability and optical parametric
+oscillators however such processes generally do not require
+assumption photons per se they may often be modeled by treating
+atoms as nonlinear oscillators nonlinear process spontaneous
+parametric down conversion is often used to produce single photon
+states finally photons are essential some aspects optical
+communication especially for quantum cryptography
+two photon physics studies interactions between photons which are
+rare massachusetts institute technology researchers
+announced discovery bound photon triplets which may involve
+polaritons
+see also
+icon physics portal
+advanced photon source at argonne national laboratory
+ballistic photon
+dirac equation
+doppler effect
+epr paradox
+high energy x ray imaging technology
+luminiferous aether
+medipix
+phonon
+photography
+photon counting
+photon epoch
+photonic molecule
+photonics
+single photon source
+static forces and virtual particle exchange
+variable speed light
+notes
+issue was first formulated by theodore duddell newton and
+eugene wigner challenges arise from
+fundamental nature lorentz group which describes
+symmetries spacetime special relativity unlike
+generators galilean transformations generators lorentz
+boosts do not commute and so simultaneously assigning low
+uncertainties to all coordinates a relativistic particle s
+position becomes problematic
+references
+a b c d e f amsler c et al particle group
+review particle physics gauge and higgs bosons pdf
+physics letters b bibcode phlb a
+doi j physletb hdl lu
+s cid from original on
+retrieved
+joos george theoretical physics london and glasgow
+blackie and son limited p
+december gilbert lewis coins photon letter to
+nature www aps org from original on
+retrieved
+gilbert n lewis atomic heritage foundation from
+original on retrieved
+a b c kragh helge photon new light on an old name
+arxiv physics hist ph
+compton arthur h dec x rays as a branch
+optics pdf from nobel lectures physics amsterdam
+elsevier publishing company pdf from original on
+may retrieved january
+kimble h j dagenais m mandel l photon
+anti bunching resonance fluorescence pdf physical review
+letters bibcode phrvl k
+doi physrevlett pdf from original on
+retrieved
+grangier p roger g aspect a experimental
+evidence for a photon anticorrelation effect on a beam splitter a
+new light on single photon interferences europhysics letters
+bibcode el g
+citeseerx doi
+s cid
+frisch david h thorndike alan m elementary
+particles princeton new jersey david van nostrand p
+kobychev v v popov s b constraints on photon
+charge from observations extragalactic sources astronomy
+letters arxiv hep ph
+bibcode astl k doi
+s cid
+baez john what is mass a photon pers academic
+site u c riverside from original on
+retrieved
+tu liang cheng luo jun gillies george t
+mass photon reports on progress physics
+bibcode rpph t
+doi r issn
+goldhaber alfred scharff nieto michael martin
+photon and graviton mass limits reviews modern physics
+arxiv bibcode rvmp g
+doi revmodphys issn from
+original on retrieved
+heeck julian how stable is photon physical
+review letters arxiv
+bibcode phrvl b h doi physrevlett
+issn pmid from original on
+retrieved
+voss david june single photons obey speed
+limits physics from original on
+zhang shanchao chen j f liu chang loy m m t wong g
+k l du shengwang june optical precursor a
+single photon physical review letters
+doi physrevlett issn
+schwartz matthew d quantum field theory and
+standard model cambridge university press p
+as gauge boson and polarization § aitchison i j r
+hey a j g gauge theories particle physics iop
+publishing isbn from original on
+retrieved
+amsler c et al review particle physics pdf
+physics letters b bibcode phlb a
+doi j physletb hdl lu
+pmid s cid pdf from original on
+retrieved
+a b c halliday david resnick robert walker jerl
+fundamental physics th ed john wiley and sons inc
+a b hecht eugene optics rd ed reading
+massachusetts harlow addison wesley isbn
+soper davison e electromagnetic radiation is made photons
+institute theoretical science university oregon
+from original on retrieved
+see alonso finn section
+raman c v bhagavantam s experimental proof
+spin photon pdf indian journal physics
+bibcode natur r doi a
+hdl s cid from original pdf on
+retrieved
+griffiths david j introduction to elementary particles
+nd revised ed wiley vch isbn
+alonso finn section
+born max blin stoyle roger john radcliffe j m
+appendix xxxii atomic physics courier corporation
+mermin david february relativity without light
+american journal physics
+bibcode amjph m doi
+plimpton s lawton w a very accurate test
+coulomb s law force between charges physical review
+bibcode phrv p doi physrev
+williams e faller j hill h new experimental test
+coulomb s law a laboratory upper limit on photon rest
+mass physical review letters
+bibcode phrvl w doi physrevlett
+chibisov g v astrophysical upper limits on photon
+rest mass soviet physics uspekhi
+bibcode svphu c doi pu v n abeh
+lakes roderic experimental limits on photon mass
+and cosmic magnetic vector potential physical review letters
+bibcode phrvl l
+doi physrevlett
+amsler c doser m antonelli m asner d babu k baer h
+band h barnett r et al review particle physics
+pdf physics letters b
+bibcode phlb a doi j physletb
+hdl lu s cid pdf from
+original on retrieved summary table
+at wayback machine
+adelberger eric dvali gia gruzinov andrei
+photon mass bound destroyed by vortices physical review letters
+arxiv hep ph bibcode phrvl a a
+doi physrevlett pmid s cid
+rothman t everything s relative and other fables
+science and technology john wiley sons isbn
+descartes rené discours de la méthode discourse on
+method french imprimerie de ian maire
+isbn cite book isbn date incompatibility
+hooke robert micrographia or some physiological
+descriptions minute bodies made by magnifying glasses with
+observations and inquiries thereupon london uk royal society
+london isbn from original on
+retrieved cite book isbn date
+incompatibility help
+huygens christiaan traité de la lumière french an
+english translation is available from project gutenberg
+a b newton isaac opticks th ed dover new
+york dover publications book ii part iii propositions xii xx
+queries isbn cite book isbn date
+incompatibility help
+buchwald j z rise wave theory light
+optical theory and experiment early nineteenth century
+physics today university chicago press
+bibcode pht d b doi
+isbn oclc
+maxwell james clerk a dynamical theory
+electromagnetic field philosophical transactions royal
+society bibcode rspt m
+doi rstl s cid this article followed
+a presentation by maxwell on december to royal society
+hertz heinrich Über strahlen elektrischer kraft
+sitzungsberichte der preussischen akademie der wissenschaften
+german berlin deutschland
+frequency dependence luminiscence pp ff §
+photoelectric effect alonso finn
+wien w wilhelm wien nobel lecture nobelprize org
+from original on retrieved
+planck max Über das gesetz der energieverteilung im
+normalspectrum annalen der physik german
+bibcode anp p doi andp english
+translation
+planck max max planck s nobel lecture nobelprize org
+from original on retrieved
+a b c d einstein albert Über einen die erzeugung
+und verwandlung des lichtes betreffenden heuristischen
+gesichtspunkt pdf annalen der physik german
+bibcode anp e doi andp
+pdf from original on retrieved
+according to this picture energy a light wave
+emitted from a point source is not spread continuously over ever
+larger volumes but consists a finite number energy quanta
+that are spatially localized at points space move without
+dividing and are absorbed or generated only as a whole an english
+translation is available from wikisource
+a b c einstein albert Über die entwicklung unserer
+anschauungen über das wesen und die konstitution der strahlung
+pdf physikalische zeitschrift german
+pdf from original on retrieved an
+english translation is available from wikisource
+presentation speech by svante arrhenius for nobel prize
+physics december online text at
+wayback machine from nobelprize org nobel foundation
+access date
+einstein albert zur quantentheorie der strahlung
+mitteilungen der physikalischen gesellschaft zu zürich german
+also physikalische zeitschrift german
+a b millikan robert a robert a millikan s nobel
+lecture from original on retrieved
+hendry j development attitudes to
+wave particle duality light and quantum theory
+annals science doi
+compton arthur a quantum theory scattering
+x rays by light elements physical review
+bibcode phrv c doi physrev
+from original on retrieved
+bohr niels kramers hendrik anthony slater john c
+quantum theory radiation philosophical magazine
+doi also zeitschrift für
+physik german p
+howard don december who invented copenhagen
+interpretation a study mythology philosophy science
+doi issn
+jstor s cid
+a b c pais a subtle is lord science and
+life albert einstein oxford university press
+heisenberg werner heisenberg nobel lecture
+from original on retrieved
+mandel leonard wolf e ed ii case for and
+against semiclassical radiation theory progress optics
+vol north holland pp bibcode propt m
+doi s isbn cite
+book journal ignored help
+grangier p roger g aspect a experimental
+evidence for a photon anticorrelation effect on a beam splitter a
+new light on single photon interferences europhysics letters
+bibcode el g
+citeseerx doi
+s cid
+thorn j j neel m s donato v w bergreen g s davies
+r e beck m observing quantum behavior light
+an undergraduate laboratory pdf american journal physics
+bibcode amjph t doi
+pdf from original on retrieved
+kragh helge max planck reluctant
+revolutionary physics world
+planck max via google books origin and
+development quantum theory clarendon press via internet
+archive archive org
+lewis gilbert n december conservation
+photons nature bibcode natur l
+doi a eissn s cid
+villard paul ulrich sur la réflexion et la réfraction
+des rayons cathodiques et des rayons déviables du radium comptes
+rendus des séances de l académie des sciences french
+villard paul ulrich sur le rayonnement du radium
+comptes rendus des séances de l académie des sciences french
+rutherford ernest andrade edward n c wavelength
+soft gamma rays from radium b philosophical magazine
+doi from
+original on retrieved
+liddle andrew an introduction to modern cosmology john
+wiley sons p isbn from
+original on retrieved
+taylor g i interference fringes with feeble light
+mathematical proceedings cambridge philosophical society
+retrieved december
+saleh b e a teich m c fundamentals photonics
+wiley isbn
+newton t d wigner e p localized states for
+elementary particles pdf reviews modern physics
+bibcode rvmp n
+doi revmodphys pdf from original on
+retrieved
+bialynicki birula i on wave function
+photon acta physica polonica a
+bibcode acppa b doi aphyspola
+sipe j e photon wave functions physical review a
+bibcode phrva s
+doi physreva pmid
+bialynicki birula i v photon wave function progress
+optics vol pp bibcode propt b
+doi s isbn
+s cid cite book journal ignored help
+a b c scully m o zubairy m s quantum optics
+cambridge england cambridge university press
+isbn from original on
+retrieved
+busch paul lahti pekka werner reinhard f
+proof heisenberg s error disturbance relation pdf physical
+review letters arxiv
+bibcode phrvl p b doi physrevlett
+issn pmid s cid
+appleby david marcus quantum errors and
+disturbances response to busch lahti and werner entropy
+arxiv bibcode entrp a
+doi e
+landau lev d lifschitz evgeny m quantum mechanics
+non relativistic theory vol rd ed pergamon press
+isbn oclc
+busch p grabowski m lahti p j january who is
+afraid pov measures unified approach to quantum phase
+observables annals physics
+bibcode anphy b doi aphy
+bose satyendra nath plancks gesetz und
+lichtquantenhypothese zeitschrift für physik german
+bibcode zphy b doi bf
+s cid
+einstein albert quantentheorie des einatomigen idealen
+gases sitzungsberichte der preussischen akademie der
+wissenschaften berlin physikalisch mathematische klasse
+german
+einstein albert quantentheorie des einatomigen idealen
+gases zweite abhandlung german vol pp
+doi ch isbn cite book
+isbn date incompatibility help journal ignored help
+anderson m h ensher j r matthews m r wieman carl e
+cornell eric allin observation bose einstein
+condensation a dilute atomic vapor science
+bibcode sci a
+doi science jstor pmid
+s cid
+cuneo michael physicists slow speed light
+harvard gazette from original on
+retrieved
+light changed to matter then stopped and moved
+www photonics com from original on
+retrieved
+streater r f wightman a s pct spin and
+statistics and all that addison wesley isbn
+einstein albert strahlungs emission und absorption
+nach der quantentheorie verhandlungen der deutschen
+physikalischen gesellschaft german
+bibcode dphyg e
+wilson j hawkes f j b lasers principles and
+applications new york prentice hall section
+einstein albert strahlungs emission und absorption
+nach der quantentheorie verhandlungen der deutschen
+physikalischen gesellschaft german
+bibcode dphyg e p die konstanten
+scriptlevel msubsup a
+m
+n msubsup
+x
+a m n
+a m n and
+scriptlevel msubsup b
+m
+n msubsup
+x
+b m n
+b m n würden sich direkt berechnen lassen wenn
+wir im besitz einer im sinne der quantenhypothese modifizierten
+elektrodynamik und mechanik wären
+dirac paul a m on theory quantum mechanics
+proceedings royal society a
+bibcode rspsa d doi rspa
+a b dirac paul a m quantum theory
+emission and absorption radiation proceedings royal
+society a bibcode rspsa d
+doi rspa
+a b dirac paul a m b quantum theory
+dispersion proceedings royal society a
+bibcode rspsa d doi rspa
+heisenberg werner pauli wolfgang zur quantentheorie
+der wellenfelder zeitschrift für physik german
+bibcode zphy h doi bf
+s cid
+heisenberg werner pauli wolfgang zur quantentheorie
+der wellenfelder zeitschrift für physik german
+bibcode zphy h doi bf
+s cid
+fermi enrico quantum theory radiation reviews
+modern physics bibcode rvmp f
+doi revmodphys
+born max zur quantenmechanik der stossvorgänge
+zeitschrift für physik german
+bibcode zphy b doi bf
+s cid
+born max quantenmechanik der stossvorgänge
+zeitschrift für physik german
+bibcode zphy b doi bf
+s cid
+pais a inward bound matter and forces
+physical world oxford university press p
+isbn specifically born claimed to have been
+inspired by einstein s never published attempts to develop a
+ghost field theory which point like photons are guided
+probabilistically by ghost fields that follow maxwell s equations
+debye peter der wahrscheinlichkeitsbegriff der
+theorie der strahlung annalen der physik german
+bibcode anp d
+doi andp from original on
+retrieved
+born max heisenberg werner jordan pascual
+quantenmechanik ii zeitschrift für physik german
+bibcode zphy b doi bf
+s cid
+jaeger gregg are virtual particles less real pdf
+entropy bibcode entrp j
+doi e pmc pmid pdf
+from original on retrieved
+zee anthony quantum field theory a nutshell
+princeton new jersey princeton university press
+isbn oclc
+itzykson c zuber j b quantum field theory
+mcgraw hill photon photon scattering section
+renormalization chapter isbn
+weiglein g electroweak physics at ilc journal
+physics conference series arxiv
+bibcode jphcs d w doi
+s cid
+a b ryder l h quantum field theory nd ed
+england cambridge university press isbn
+sheldon glashow nobel lecture at wayback
+machine delivered december
+abdus salam nobel lecture at wayback
+machine delivered december
+steven weinberg nobel lecture at wayback
+machine delivered december
+e g chapter hughes i s elementary particles
+nd ed cambridge university press isbn
+bauer t h spital r d yennie d r pipkin f m
+hadronic properties photon high energy
+interactions reviews modern physics
+bibcode rvmp b doi revmodphys
+sakurai j j theory strong interactions annals
+physics bibcode anphy s
+walsh t f zerwas p two photon processes
+parton model physics letters b
+bibcode phlb w doi
+witten e anomalous cross section for photon photon
+scattering gauge theories nuclear physics b
+bibcode nuphb w doi
+nisius r photon structure from deep inelastic
+electron photon scattering physics reports
+arxiv hep ex bibcode phr n
+doi s s cid
+e g section dunlap r a an introduction to
+physics nuclei and particles brooks cole
+radiative correction to electron mass section anomalous
+magnetic moments section lamb shift section and
+hyperfine splitting positronium section itzykson c
+zuber j b quantum field theory mcgraw hill
+e g sections gravitational contribution photons and
+influence gravity on light stephani h stewart j
+general relativity an introduction to theory
+gravitational field cambridge university press pp ff ff
+polaritons section raman and brillouin scattering
+section patterson j d bailey b c
+solid state physics introduction to theory springer
+solar interior marshall space flight center solar
+physics national aeronautics and space commission retrieved
+december
+koupelis theo kuhn karl f quest universe
+jones and bartlett canada p isbn
+from original on retrieved
+e g section c pine s h hendrickson j b cram d
+j hammond g s organic chemistry th ed
+mcgraw hill isbn
+nobel lecture given by g wald on december online at
+nobelprize org molecular basis visual excitation
+at wayback machine
+photomultiplier section ccds section geiger
+counters section kitchin c r astrophysical
+techniques boca raton florida crc press isbn
+waymouth john electric discharge lamps cambridge
+massachusetts m i t press isbn
+denk w svoboda k photon upmanship why multiphoton
+imaging is more than a gimmick neuron
+doi s pmid s cid
+lakowicz j r principles fluorescence spectroscopy
+springer pp ff isbn
+jennewein t achleitner u weihs g weinfurter h
+zeilinger a a fast and compact quantum random number
+generator review scientific instruments
+arxiv quant ph bibcode rsci j
+doi s cid
+stefanov a gisin n guinnard o guinnard l zbiden h
+optical quantum random number generator journal
+modern optics doi
+introductory level material on various sub fields quantum
+optics can be found fox m quantum optics an
+introduction oxford university press isbn via
+google books
+hignett katherine february physics creates new form
+light that could drive quantum computing revolution
+newsweek from original on april retrieved
+february
+liang qi yu et al february observation
+three photon bound states a quantum nonlinear medium science
+arxiv bibcode sci l
+doi science aao pmc pmid
+further reading
+by date publication
+alonso m finn e j fundamental university physics
+vol iii quantum and statistical physics addison wesley
+clauser j f experimental distinction between quantum
+and classical field theoretic predictions for photoelectric
+effect physical review d
+bibcode phrvd c doi physrevd
+s cid from original on retrieved
+pais abraham subtle is lord science and life
+albert einstein oxford university press
+feynman richard qed strange theory light and matter
+princeton university press isbn
+grangier p roger g aspect a experimental evidence
+for a photon anticorrelation effect on a beam splitter a new light on
+single photon interferences europhysics letters
+bibcode el g citeseerx
+doi s cid
+lamb willis e anti photon applied physics b
+bibcode apphb l doi bf
+s cid
+special supplemental issue pdf optics and photonics news
+vol october from original pdf on june
+roychoudhuri c rajarshi r nature light what is a
+photon optics and photonics news vol pp s supplement
+zajonc a light reconsidered optics and photonics news
+vol pp s s supplement
+loudon r what is a photon optics and photonics news
+vol pp s s supplement
+finkelstein d what is a photon optics and photonics
+news vol pp s s supplement
+muthukrishnan a scully m o zubairy m s concept
+photon revisited optics and photonics news vol
+pp s s supplement
+mack h schleich wolfgang p a photon viewed from wigner
+phase space optics and photonics news vol pp s s
+supplement
+glauber r one hundred years light quanta pdf nobel
+prize physics lecture from original pdf on
+retrieved
+hentschel k light quanta maturing a concept by
+stepwise accretion meaning physics and philosophy
+from original on retrieved
+education with single photons
+thorn j j neel m s donato v w bergreen g s davies r
+e beck m observing quantum behavior light an
+undergraduate laboratory pdf american journal physics
+bibcode amjph t doi
+pdf from original on retrieved
+bronner p strunz andreas silberhorn christine meyn jan peter
+interactive screen experiments with single photons european
+journal physics bibcode ejph b
+doi s cid from
+original on retrieved
+external links
+quotations related to photon at wikiquote
+wiktionary logo dictionary definition photon at wiktionary
+wikimedia commons logo media related to photon at wikimedia commons
+particles physics
+elementary
+fermions
+quarks
+up quark
+antiquark
+down quark
+antiquark
+charm quark
+antiquark
+strange quark
+antiquark
+top quark
+antiquark
+bottom quark
+antiquark
+leptons
+electron
+positron
+antimuon
+antitau
+neutrino
+electron neutrino
+electron antineutrino
+muon neutrino
+muon antineutrino
+tau neutrino
+tau antineutrino
+bosons
+gauge
+photon
+gluon
+w and z bosons
+scalar
+higgs boson
+ghost fields
+faddeev popov ghosts
+hypothetical
+superpartners
+gauginos
+gluino
+gravitino
+photino
+others
+axino
+chargino
+higgsino
+neutralino
+sfermion stop squark
+others
+axion
+curvaton
+dilaton
+dual graviton
+graviphoton
+graviton
+inflaton
+leptoquark
+magnetic monopole
+majoron
+majorana fermion
+dark photon
+preon
+sterile neutrino
+tachyon
+w and z bosons
+x and y bosons
+composite
+hadrons
+baryons
+nucleon
+proton
+antiproton
+neutron
+antineutron
+delta baryon
+lambda baryon
+sigma baryon
+xi baryon
+omega baryon
+mesons
+rho meson
+eta and eta prime mesons
+bottom eta meson
+phi meson
+j psi meson
+omega meson
+upsilon meson
+b meson
+d meson
+quarkonium
+exotic hadrons
+tetraquark double charm tetraquark
+pentaquark
+others
+atomic nuclei
+atoms
+exotic atoms
+positronium
+muonium
+tauonium
+pionium
+protonium
+antihydrogen
+superatoms
+molecules
+hypothetical
+baryons
+hexaquark
+heptaquark
+skyrmion
+mesons
+glueball
+theta meson
+t meson
+others
+mesonic molecule
+pomeron
+diquark
+r hadron
+quasiparticles
+anyon
+davydov soliton
+dropleton
+exciton
+fracton
+magnon
+phonon
+plasmaron
+plasmon
+polariton
+polaron
+roton
+trion
+lists
+baryons
+mesons
+particles
+quasiparticles
+timeline particle discoveries
+related
+history subatomic physics
+timeline
+standard model
+mathematical formulation
+subatomic particles
+particles
+antiparticles
+nuclear physics
+eightfold way
+quark model
+exotic matter
+massless particle
+relativistic particle
+virtual particle
+wave particle duality
+particle chauvinism
+physics portal
+quantum electrodynamics
+formalism
+euler heisenberg lagrangian
+feynman diagram
+gupta bleuler formalism
+path integral formulation
+particles
+dual photon
+electron
+faddeev popov ghost
+photon
+positron
+positronium
+virtual particles
+concepts
+anomalous magnetic dipole moment
+furry s theorem
+klein nishina formula
+landau pole
+qed vacuum
+self energy
+schwinger limit
+uehling potential
+vacuum polarization
+vertex function
+ward takahashi identity
+processes
+bhabha scattering
+breit wheeler process
+bremsstrahlung
+compton scattering
+delbrück scattering
+lamb shift
+møller scattering
+schwinger effect
+photon photon scattering
+see also template quantum mechanics topics
+authority control databases edit this at wikidata
+international
+national
+united states
+france
+bnf
+japan
+czech republic
+israel
+other
+idref
+yale lux
+retrieved from
+https en wikipedia org w index php title photon oldid
+categories
+bosons
+gauge bosons
+elementary particles
+electromagnetism
+optics
+quantum electrodynamics
+photons
+force carriers
+subatomic particles with spin
+hidden categories
+webarchive template wayback links
+cs errors isbn date
+cs french language sources fr
+cs german language sources de
+cs errors periodical ignored
+articles with short description
+short description is different from wikidata
+all articles with unsourced statements
+articles with unsourced statements from february
+articles containing ancient greek to language text
+articles with unsourced statements from september
+cs long volume value
+commons category link from wikidata
+this page was last edited on june at utc
+text is available under creative commons attribution sharealike
+license additional terms may apply by using this site you
+agree to terms use and privacy policy wikipedia® is a
+registered trademark wikimedia foundation inc a
+non profit organization
+privacy policy
+about wikipedia
+disclaimers
+contact wikipedia
+legal safety contacts
+code conduct
+developers
+statistics
+cookie statement
+mobile view
+wikimedia foundation
+powered by mediawiki
+button search
+button search
+toggle table contents
+photon
+button languages add topic

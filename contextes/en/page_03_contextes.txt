@@ -1,0 +1,89 @@
+   Elementary particle or quantum of light
+   This article is about the elementary particle or quantum of light. For
+   A photon (from Ancient Greek φῶς, φωτός (phôs, phōtós) 'light') is an
+   including electromagnetic radiation such as light and radio waves, and
+   particles that can only move at one speed, the speed of light measured
+   introduced the idea that light itself is made of discrete units of
+   Single photons have been shown to travel at the speed of light in
+   [250px-Light_cone_colour.svg.png] The cone shows possible values of
+   is called the reduced Planck constant and c is the speed of light.
+   Main articles: Photon polarization and Spin angular momentum of light
+   photon polarization. (Beams of light also exhibit properties described
+   as orbital angular momentum of light).
+   states of circular polarization. Collections of photons in a light beam
+   may have mixtures of these two values; a linearly polarized light beam
+   The spin angular momentum of light does not depend on its frequency,
+   (redder) photons moving slightly slower than higher-energy photons.
+   Relativity would be unaffected by this; the so-called speed of light,
+   c, would then not be the actual speed at which light moves, but a
+   frequency dependence of the speed of light. If Coulomb's law is not
+   Sharper upper limits on the mass of light have been obtained in
+   Main article: Light
+   similar effects observed with light supported a wave model and not
+   Newton's particle theory of light.^[20]^: 964 
+   In most theories up to the eighteenth century, light was pictured as
+   for the refraction, diffraction and birefringence of light, wave
+   theories of light were proposed by René Descartes (1637),^[36] Robert
+   Fresnel clearly demonstrated the interference and diffraction of light,
+   Maxwell's 1865 prediction^[41] that light was an electromagnetic wave –
+   models of light.
+   [330px-Light-wave.svg.png] In 1900, Maxwell's theoretical model of
+   light as oscillating electric and magnetic fields seemed complete.
+   of electromagnetic radiation, leading to the idea that light-energy was
+   these light-quanta also carry momentum and, thus, can be considered
+   of light. The Maxwell theory predicts that the energy of a light wave
+   by light to atoms depends only on the light's frequency, not on its
+   light of frequency higher than a certain threshold; light of frequency
+   shining light of sufficiently high frequency on it (the photoelectric
+   light's frequency, not to its intensity.^[43]
+   Since the Maxwell theory of light allows for all possible energies of
+   explained if the energy of a Maxwellian light wave were localized into
+   to 1923, most physicists were reluctant to accept that light itself was
+   electromagnetic field model of light, the so-called BKS theory.^[54] An
+   theory of light with its experimentally observed particle nature. The
+   definitive; since it relied on the interaction of light with matter,
+   that cannot be explained by any classical theory of light, since they
+   caused by light quanta – photons
+   Einstein published a paper in which he proposed that many light-related
+   called these a light quantum (German: ein Lichtquant).^[62]
+   The name photon derives from the Greek word for light, φῶς
+   physics.^[5] The use of the term photon for the light quantum was
+   key experiment demonstrating light quanta, cited Lewis in the 1927
+   then completely stop, light in 1999^[83] and 2001.^[84]
+   further developments in the quantum treatment of light, which led to
+   photon. A probabilistic nature of light-particle motion was first
+   generally, of the splitting of light beams at interfaces into a
+   variables in the light particle determined which of the two paths a
+   polarized light. However, the transient virtual photons of quantum
+   Light that travels through transparent matter does so at a lower speed
+   than c, the speed of light in vacuum. The factor by which the speed is
+   classical wave picture, the slowing can be explained by the light
+   radiating new light, and that new light interfering with the original
+   light wave to form a delayed wave. In a particle picture, the slowing
+   they cannot travel at c. Light of different frequencies may travel
+   slow speeds of light in matter. The effects of photon interactions with
+   classical theory of light. The laser is an important application and is
+   absorption and to determine the frequency of the light emitted from a
+     * Variable speed of light
+    5. ^ ^a ^b ^c Kragh, Helge (2014). "Photon: New light on an old name".
+       New Light on Single-Photon Interferences". Europhysics Letters. 1
+   28. ^ Mermin, David (February 1984). "Relativity without light".
+   40. ^ Buchwald, J. Z. (1989). "The Rise of the Wave Theory of Light:
+       2010-08-25. "According to this picture, the energy of a light wave
+       wave–particle duality of light and quantum theory, 1900–1920".
+       X-rays by light elements". Physical Review. 21 (5): 483–502.
+       new light on single-photon interferences". Europhysics Letters. 1
+       R.E.; Beck, M. (2004). "Observing the quantum behavior of light in
+   68. ^ Taylor, G. I. (1909). "Interference Fringes with Feeble Light".
+   83. ^ Cuneo, Michael (1999-02-18). "Physicists Slow Speed of Light".
+   84. ^ "Light Changed to Matter, Then Stopped and Moved".
+       10.5 (influence of gravity on light) in Stephani, H.; Stewart, J.
+   118. ^ "The Solar Interior". Marshall Space Flight Center: Solar
+       of light that could drive the quantum computing revolution".
+     Feynman, Richard (1985). QED: The Strange Theory of Light and Matter.
+   for a photon anticorrelation effect on a beam splitter: A new light on
+   Roychoudhuri, C.; Rajarshi, R. (2003). "The nature of light: What is a
+     Zajonc, A. (2003). "Light reconsidered". Optics and Photonics News.
+     Glauber, R. (2005). "One Hundred Years of Light Quanta" (PDF). Nobel
+     Hentschel, K. (2007). "Light quanta: The maturing of a concept by the
+   E.; Beck, M. (2004). "Observing the quantum behavior of light in an

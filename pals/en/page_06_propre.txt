@@ -1,0 +1,521 @@
+wikipedia en wikipedia atom feed
+jump to content
+main menu
+main menu
+button move to sidebar button hide
+navigation
+main page
+contents
+current events
+random article
+about wikipedia
+contact us
+contribute
+learn to edit
+community portal
+recent changes
+upload file
+special pages
+wikipedia free encyclopedia
+search
+button search
+appearance
+donate
+create account
+log
+personal tools
+donate
+create account
+log
+contents
+button move to sidebar button hide
+general explanation
+button toggle general explanation subsection
+slowing light
+bending light
+dispersion light
+on water
+atmospheric
+eye care
+mechanical waves
+button toggle mechanical waves subsection
+water
+sound
+gallery
+see also
+references
+external links
+toggle table contents
+refraction
+languages
+afrikaans
+alemannisch
+asturianu
+az rbaycanca
+betawi
+català
+e tina
+cymraeg
+dansk
+deutsch
+esperanto
+español
+eesti
+euskara
+suomi
+français
+gaeilge
+galego
+hrvatski
+kreyòl ayisyen
+magyar
+bahasa indonesia
+Íslenska
+italiano
+latina
+lëtzebuergesch
+lombard
+lietuvi
+latvie u
+bahasa melayu
+nederlands
+norsk nynorsk
+norsk bokmål
+occitan
+oromoo
+naijá
+polski
+piemontèis
+português
+român
+sicilianu
+scots
+srpskohrvatski
+simple english
+sloven ina
+chishona
+srpski
+svenska
+türkçe
+o zbekcha
+ti ng vi t
+bân lâm gí
+edit links
+article
+english
+view source
+view history
+tools
+tools
+button move to sidebar button hide
+actions
+view source
+view history
+general
+what links here
+related changes
+upload file
+permanent link
+page information
+cite this page
+get shortened url
+print export
+download as pdf
+printable version
+other projects
+wikimedia commons
+wikidata item
+appearance
+button move to sidebar button hide
+page semi protected
+from wikipedia free encyclopedia
+physical phenomenon relating to direction waves
+for heat tolerant metals and ceramics see refractory metals and
+refractory
+for runaways episode see refraction runaways
+not to be confused with diffraction change direction a wave
+around an obstacle
+px refraction photo png a ray light being refracted a
+plastic block
+physics refraction is redirection a wave as it passes from
+one medium to another redirection can be caused by wave s
+change speed or by a change medium refraction light
+is most commonly observed phenomenon but other waves such as sound
+waves and water waves also experience refraction how much a wave is
+refracted is determined by change wave speed and initial
+direction wave propagation relative to direction change
+speed
+optical prisms and lenses use refraction to redirect light as does
+human eye refractive index materials varies with wavelength
+light and thus angle refraction also varies
+correspondingly this is called dispersion and allows certain
+prisms and raindrops rainbows to divide white light into its
+constituent spectral colors
+px snells law png refraction light at interface between
+two media different refractive indices with n n since
+phase velocity is lower second medium v v angle
+refraction is less than angle incidence that is
+ray higher index medium is closer to normal
+for light refraction follows snell s law which states that for a
+given pair media ratio sines angle incidence
+scriptlevel
+x theta
+theta and angle refraction
+scriptlevel
+x theta
+theta is equal to ratio phase velocities
+scriptlevel
+v
+v
+x frac
+v v
+frac v v two media or equivalently
+to refractive indices
+scriptlevel
+n
+n
+x frac
+n n
+frac n n two media
+scriptlevel
+sin
+sin
+v
+v
+n
+n
+x frac sin
+theta sin theta frac v v frac
+n n
+frac sin theta sin theta frac
+v v frac n n
+px pen water jpg a pen partially submerged a bowl water
+appears bent due to refraction at water surface
+general explanation
+px refraction animation gif when a wave moves into a slower medium
+wavefronts get compressed for wavefronts to stay connected at
+boundary wave must change direction
+refraction involves two related parts both a result wave nature
+light a reduced speed an optical medium and a change angle
+when a wave front crosses between different media at an angle
+light slows as it travels through a medium other than vacuum such
+as air glass or water this is not because scattering or
+absorption rather it is because as an electromagnetic
+oscillation light itself causes other electrically charged
+particles such as electrons to oscillate oscillating
+electrons emit their own electromagnetic waves which interact with
+original light resulting combined wave has a lower speed
+when light returns to a vacuum and there are no electrons nearby
+this slowing effect ends and its speed returns to c
+when light enters a slower medium at an angle one side
+wavefront is slowed before other this asymmetrical slowing
+light causes it to change angle its travel once light
+is within new medium with constant properties it travels a
+straight line again
+slowing light
+as described above speed light is slower a medium other than
+vacuum this slowing applies to any medium such as air water or
+glass and is responsible for phenomena such as refraction on
+other side medium its speed will again be speed light
+vacuum c
+a correct explanation rests on light s nature as an electromagnetic
+wave because light is an oscillating electrical magnetic wave
+light traveling a medium causes electrically charged electrons
+material to also oscillate material s protons also
+oscillate but as they are around times more massive their
+movement and therefore their effect is far smaller a moving
+electrical charge emits electromagnetic waves its own
+electromagnetic waves emitted by oscillating electrons interact
+with electromagnetic waves that make up original light similar
+to water waves on a pond a process known as constructive interference
+when two waves interfere this way resulting combined wave may
+have wave packets that pass an observer at a slower rate light has
+effectively been slowed when light leaves material this
+interaction with electrons no longer happens and therefore wave
+packet rate and therefore its speed return to normal
+bending light
+consider a wave going from one material to another where its speed is
+slower as figure if it reaches interface between
+materials at an angle one side wave will reach second
+material first and therefore slow down earlier with one side
+wave going slower whole wave will pivot towards that side this is
+why a wave will bend away from surface or toward normal when
+going into a slower material opposite case a wave reaching a
+material where speed is higher one side wave will speed up
+and wave will pivot away from that side
+another way understanding same thing is to consider change
+wavelength at interface when wave goes from one material to
+another where wave has a different speed v frequency f
+wave will stay same but distance between wavefronts or
+wavelength v f will change if speed is decreased such as
+figure to right wavelength will also decrease with an
+angle between wave fronts and interface and change distance
+between wave fronts angle must change over interface to
+keep wave fronts intact from these considerations relationship
+between angle incidence angle transmission and
+wave speeds v and v two materials can be derived this is
+law refraction or snell s law and can be written as
+scriptlevel
+sin
+sin
+v
+v
+mspace thinmathspace
+x frac sin theta
+sin theta frac v v
+frac sin theta sin theta frac
+phenomenon refraction can a more fundamental way be derived
+from or dimensional wave equation boundary condition at
+interface will then require tangential component wave
+vector to be identical on two sides interface since
+magnitude wave vector depend on wave speed this requires a
+change direction wave vector
+relevant wave speed discussion above is phase velocity
+wave this is typically close to group velocity which can be
+seen as truer speed a wave but when they differ it is important
+to use phase velocity all calculations relating to refraction
+a wave traveling perpendicular to a boundary i e having its
+wavefronts parallel to boundary will not change direction even if
+speed wave changes
+dispersion light
+px hetch hetchy releases jpg rainbows are formed
+by dispersion light which refraction angle depends on
+light s frequency
+refraction is also responsible for rainbows and for splitting
+white light into a rainbow spectrum as it passes through a glass prism
+glass and water have higher refractive indexes than air when a beam
+white light passes from air into a material having an index
+refraction that varies with frequency and wavelength a phenomenon
+known as dispersion occurs which different coloured components
+white light are refracted at different angles i e they bend by
+different amounts at interface so that they become separated
+different colors correspond to different frequencies and different
+wavelengths
+on water
+px pencil a bowl water png a pencil part immersed
+water looks bent due to refraction light waves from x change
+direction and so seem to originate at y
+refraction occurs when light goes through a water surface since water
+has a refractive index and air has a refractive index about
+looking at a straight object such as a pencil figure here
+which is placed at a slant partially water object appears
+to bend at water s surface this is due to bending light
+rays as they move from water to air once rays reach
+eye eye traces them back as straight lines lines sight
+lines sight shown as dashed lines intersect at a higher position
+than where actual rays originated this causes pencil to appear
+higher and water to appear shallower than it really is
+depth that water appears to be when viewed from above is known
+as apparent depth this is an important consideration for
+spearfishing from surface because it will make target fish
+appear to be a different place and fisher must aim lower to
+catch fish conversely an object above water has a higher
+apparent when viewed from below water opposite
+correction must be made by an archer fish
+for small angles incidence measured from normal when sin is
+approximately same as tan ratio apparent to real depth
+is ratio refractive indexes air to that water but as
+angle incidence approaches ° apparent depth approaches
+zero albeit reflection increases which limits observation at high
+angles incidence conversely apparent approaches
+infinity as angle incidence from below increases but even
+earlier as angle total internal reflection is approached
+albeit image also fades from view as this limit is approached
+px ggb reflection raindrops jpg an image golden gate
+bridge is refracted and bent by many differing three dimensional drops
+water
+atmospheric
+main article atmospheric refraction
+px mirage principle png comparison inferior and superior
+mirages due to differing air refractive indices
+n px blackbird sunset jpg sun appears slightly flattened
+when close to horizon due to refraction atmosphere
+refractive index air depends on air density and thus vary
+with air temperature and pressure since pressure is lower at
+higher altitudes refractive index is also lower causing light
+rays to refract towards earth surface when traveling long distances
+through atmosphere this shifts apparent positions stars
+slightly when they are close to horizon and makes sun visible
+before it geometrically rises above horizon during a sunrise
+px c tupton jpg heat haze engine exhaust above a
+diesel locomotive
+temperature variations air can also cause refraction light
+this can be seen as a heat haze when hot and cold air is mixed e g
+over a fire engine exhaust or when opening a window on a cold day
+this makes objects viewed through mixed air appear to shimmer or
+move around randomly as hot and cold air moves this effect is also
+visible from normal variations air temperature during a sunny day
+when using high magnification telephoto lenses and is often limiting
+image quality these cases a similar way atmospheric
+turbulence gives rapidly varying distortions images
+astronomical telescopes limiting resolution terrestrial
+telescopes not using adaptive optics or other techniques for overcoming
+these atmospheric distortions
+px mirage over a hot road jpg mirage over a hot road
+air temperature variations close to surface can give rise to other
+optical phenomena such as mirages and fata morgana most commonly air
+heated by a hot road on a sunny day deflects light approaching at a
+shallow angle towards a viewer this makes road appear reflecting
+giving an illusion water covering road
+eye care
+medicine particularly optometry ophthalmology and orthoptics
+refraction also known as refractometry is a clinical test which a
+phoropter may be used by appropriate eye care professional to
+determine eye s refractive error and best corrective lenses to
+be prescribed a series test lenses graded optical powers or
+focal lengths are presented to determine which provides sharpest
+clearest vision refractive surgery is a medical procedure to
+treat common vision disorders
+mechanical waves
+water
+main article water wave refraction
+px beach and waves jpg water waves are almost
+parallel to beach when they hit it because they gradually refract
+towards land as water gets shallower
+water waves travel slower shallower water this can be used to
+demonstrate refraction ripple tanks and also explains why waves on a
+shoreline tend to strike shore close to a perpendicular angle as
+waves travel from deep water into shallower water near shore
+they are refracted from their original direction travel to an angle
+more normal to shoreline
+sound
+main article refraction sound
+underwater acoustics refraction is bending or curving a
+sound ray that results when ray passes through a sound speed
+gradient from a region one sound speed to a region a different
+speed amount ray bending is dependent on amount
+difference between sound speeds that is variation temperature
+salinity and pressure water similar acoustics effects are
+also found earth s atmosphere phenomenon refraction
+sound atmosphere has been known for centuries beginning
+early s widespread analysis this effect came into vogue
+through designing urban highways and noise barriers to address
+meteorological effects bending sound rays lower
+atmosphere
+gallery
+d simulation refraction a wave packet from a potential step
+black half background is zero potential gray half is a
+higher potential white blur represents probability distribution
+finding a particle a given place if measured
+px f c a nyt c b r c a s jpg
+px just a refraction jpg
+px r dsc wmc jpg
+px light refraction gif
+px sz c adnsz c b r c b d c a s prizm c a n jpg
+px refraction png
+px reading and drinking tea sunlight jpg
+see also
+birefringence double refraction
+geometrical optics
+huygens fresnel principle
+list indices refraction
+negative refraction
+reflection
+schlieren photography
+seismic refraction
+super refraction
+references
+editors encyclopaedia britannica refraction
+encyclopaedia britannica retrieved
+r paschotta article on chromatic dispersion
+at wayback machine encyclopedia laser physics and
+technology at wayback machine accessed on
+carl r nave page on dispersion at
+wayback machine hyperphysics at wayback
+machine department physics and astronomy georgia state
+university accessed on
+rainbow education nationalgeographic org retrieved
+born and wolf principles optics new york ny
+pergamon press inc p
+why does light slow down water fermilab
+hecht eugene optics addison wesley p
+refraction rp photonics encyclopedia rp photonics consulting
+gmbh dr rüdiger paschotta april doi vke
+retrieved it results from boundary conditions
+which incoming and transmitted wave need to fulfill at
+boundary between two media essentially tangential
+components wave vectors need to be identical as otherwise
+phase difference between waves at boundary would be
+position dependent and wavefronts could not be continuous as
+magnitude wave vector depends on refractive index
+medium said condition can general only be fulfilled
+with different propagation directions
+dill lawrence m refraction and spitting behavior
+archerfish toxotes chatareus behavioral ecology and
+sociobiology bibcode becos d
+doi bf jstor s cid
+effect heat haze on image quality nikon
+retrieved
+refraction eyeglossary net from original on
+retrieved
+shoaling refraction and diffraction waves university
+delaware center for applied coastal research from
+original on retrieved
+navy supplement to dod dictionary military and associated
+terms pdf department navy august ntrp dead
+mary somerville on connexion physical
+sciences j murray publishers originally by harvard university
+hogan c michael analysis highway noise water
+air soil pollution bibcode wasp h
+doi bf s cid
+external links
+wikimedia commons logo
+wikimedia commons has media related to refraction
+reflections and refractions ray tracing a simple but thorough
+discussion mathematics behind refraction and reflection
+flash refraction simulation includes source explains refraction
+and snell s law
+refraction encyclopædia britannica vol th ed
+pp
+authority control databases edit this at wikidata
+international
+national
+united states
+france
+bnf
+spain
+israel
+other
+idref
+yale lux
+retrieved from
+https en wikipedia org w index php title refraction oldid
+categories
+refraction
+physical phenomena
+geometrical optics
+physical optics
+hidden categories
+webarchive template wayback links
+all articles with dead external links
+articles with dead external links from april
+articles with short description
+short description is different from wikidata
+wikipedia indefinitely move protected pages
+wikipedia indefinitely semi protected pages
+commons link from wikidata
+wikipedia articles incorporating a citation from
+encyclopaedia britannica with wikisource reference
+this page was last edited on april at utc
+text is available under creative commons attribution sharealike
+license additional terms may apply by using this site you
+agree to terms use and privacy policy wikipedia® is a
+registered trademark wikimedia foundation inc a
+non profit organization
+privacy policy
+about wikipedia
+disclaimers
+contact wikipedia
+legal safety contacts
+code conduct
+developers
+statistics
+cookie statement
+mobile view
+wikimedia foundation
+powered by mediawiki
+button search
+button search
+toggle table contents
+refraction
+button languages add topic

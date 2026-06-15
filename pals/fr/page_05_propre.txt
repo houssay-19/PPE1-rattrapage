@@ -1,0 +1,754 @@
+wikipédia fr flux atom de wikipédia
+aller au contenu
+menu principal
+menu principal
+button déplacer vers la barre latérale button masquer
+navigation
+page d accueil
+portails thématiques
+article au hasard
+contact
+contribuer
+débuter sur wikipédia
+communauté
+pages spéciales
+modifications récentes
+wikipédia l encyclopédie libre
+rechercher
+button rechercher
+apparence
+faire un don
+créer un compte
+se connecter
+outils personnels
+faire un don
+créer un compte
+se connecter
+sommaire
+button déplacer vers la barre latérale button masquer
+début
+introduction
+les différentes approches
+button afficher masquer la sous section les différentes
+approches
+optique géométrique
+optique ondulatoire ou optique physique
+optique quantique
+optique des particules chargées
+optique et biologie
+optique moderne
+button afficher masquer la sous section optique moderne
+lasers
+effet kapitsa dirac
+optique appliquée
+button afficher masquer la sous section optique appliquée
+optique physiologique
+optique photographique
+optronique
+optique atmosphérique
+notes et références
+voir aussi
+button afficher masquer la sous section voir aussi
+articles connexes
+o thèmes apparentés
+liens externes
+basculer la table des matières
+optique
+langues
+afrikaans
+asturianu
+az rbaycanca
+boarisch
+emait ka
+bikol central
+bosanski
+català
+e tina
+cymraeg
+dansk
+deutsch
+english
+esperanto
+español
+eesti
+euskara
+estremeñu
+suomi
+võro
+na vosa vakaviti
+nordfriisk
+furlan
+gaeilge
+kriyòl gwiyannen
+galego
+hrvatski
+magyar
+interlingua
+bahasa indonesia
+Íslenska
+italiano
+kurdî
+latina
+lëtzebuergesch
+lietuvi
+latvie u
+bahasa melayu
+mirandés
+nederlands
+norsk nynorsk
+norsk bokmål
+occitan
+polski
+piemontèis
+português
+român
+sicilianu
+srpskohrvatski
+tacl it
+simple english
+sloven ina
+sloven ina
+soomaaliga
+shqip
+srpski
+seeltersk
+svenska
+tagalog
+türkçe
+tatarça
+o zbekcha
+vepsän kel
+ti ng vi t
+winaray
+wolof
+isizulu
+les liens
+article
+discussion
+français
+le code
+voir l historique
+outils
+outils
+button déplacer vers la barre latérale button masquer
+actions
+le code
+voir l historique
+général
+pages liées
+suivi des pages liées
+téléverser un fichier
+lien permanent
+informations sur la page
+citer cette page
+obtenir l url raccourcie
+imprimer exporter
+créer un livre
+télécharger comme pdf
+version imprimable
+dans d autres projets
+wikimedia commons
+wikilivres
+Élément wikidata
+apparence
+button déplacer vers la barre latérale button masquer
+un article de wikipédia l encyclopédie libre
+page d aide sur l homonymie
+pour les articles homonymes voir optique homonymie
+optique
+px light dispersion a mercury vapor lamp with a flint glass pris
+m ipnr c b jpg
+l optique inclut l étude de la dispersion de la lumière
+partie de
+science de la nature voir et les données sur wikidata
+pratiqué par
+opticien d voir et les données sur wikidata
+objets
+lumière
+phénomène optique voir et les données sur wikidata
+histoire
+histoire de l optique voir et les données sur wikidata
+le code wikidata documentation du modèle
+l optique est la branche de la physique qui traite de la lumière de
+son comportement et de ses propriétés du rayonnement électromagnétique
+à la vision en passant par les systèmes utilisant ou émettant de la
+lumière du fait de ses propriétés ondulatoires le domaine de la
+lumière peut couvrir le lointain uv jusqu au lointain ir en passant par
+les longueurs d onde visibles ces propriétés recouvrent alors le
+domaine des ondes radio micro ondes des rayons x et des radiations
+électromagnétiques
+la plupart des phénomènes optiques peuvent être expliqués en utilisant
+la description électromagnétique classique cependant cette
+description bien que complète est souvent difficile à appliquer en
+pratique on utilise plus souvent des modèles simplifiés le plus
+commun d entre eux l optique géométrique considère la lumière comme
+un ensemble de rayons voyageant en droite et qui s incurvent
+quand ils traversent ou se réfléchissent sur des surfaces l optique
+physique est un modèle plus complet incluant les effets ondulatoires
+comme la diffraction et les interférences qui ne sont pas prises en
+compte dans le modèle géométrique historiquement le modèle fondé sur
+les rayons a été développé en premier suivi par le modèle ondulatoire
+des progrès dans la théorie électromagnétique au cours du xix e siècle
+ont conduit à la découverte du fait que la lumière est un rayonnement
+électromagnétique
+certains phénomènes dépendent du fait que la lumière possède à la fois
+des propriétés corpusculaires et des propriétés ondulatoires
+l explication de ces effets est possible grâce à la mécanique
+quantique lorsqu on considère la lumière comme une particule on peut
+la modéliser comme un ensemble de photons l optique quantique traite
+de l de la mécanique quantique aux systèmes optiques
+l optique trouve des applications et est étudiée dans beaucoup de
+domaines incluant l astronomie différents champs de l ingénierie la
+photographie ou encore la médecine les applications pratiques de
+l optique peuvent se retrouver dans un grand nombre de technologies et
+d objets du quotidien comme les miroirs les lentilles les lasers la
+fibre optique les microscopes ou encore les télescopes optiques
+introduction
+le code
+px kepler ad vitellionem paralipomena quibus astronomiae pars opt
+ica traditur c f jpg le premier traité d optique par
+johannes kepler ad vitellionem paralipomena quibus astronomiae pars
+optica traditur
+historiquement l optique apparaît dès l antiquité puis est développée
+par les érudits musulmans dont des perses elle est d abord
+géométrique ibn al haytham scientifique perse connu par
+les occidentaux sous le nom d alhazen est considéré comme le père de
+l optique moderne de la physique expérimentale et de la méthode
+scientifique une traduction latine d une partie
+de ses travaux le traité d optique a exercé une grande influence
+sur la science occidentale
+l optique géométrique propose une analyse de la propagation de la
+lumière basée sur des principes simples la propagation rectiligne et
+le retour inverse elle a pu expliquer les phénomènes de la réflexion
+et de la réfraction elle s est perfectionnée jusqu au xviii e siècle
+où la découverte de nouveaux phénomènes tels que la déformation de la
+lumière au voisinage d obstacles ou le dédoublement de la lumière lors
+de la traversée de certains cristaux a conduit au xix e siècle au
+développement de l optique physique ou ondulatoire
+l optique physique considère la lumière comme une onde elle prend en
+compte les phénomènes d interférence de diffraction et de
+polarisation
+au début du xx e siècle les théories d einstein sur la nature
+corpusculaire de la lumière donneront naissance au photon et à
+l optique quantique les physiciens sont alors contraints d admettre
+que la lumière présente à la fois les propriétés d une onde et d un
+corpuscule À partir de là louis de broglie considère au travers de
+la mécanique ondulatoire que si le photon peut se comporter comme un
+corpuscule alors à l inverse les corpuscules tels que les électrons
+ou les protons peuvent se comporter comme des ondes
+les différentes approches
+le code
+optique géométrique
+le code
+article détaillé optique géométrique
+l optique géométrique introduite par alhazen s est développée sur la
+base d observations simples et repose sur deux principes et des lois
+empiriques
+la propagation rectiligne dans un milieu homogène et isotrope
+le principe du retour inverse qui exprime la réciprocité du trajet
+lumineux entre source et destination
+les lois de snell descartes pour la réflexion et la réfraction
+la résolution des problèmes se fait à l aide de constructions
+géométriques tracés de droites matérialisant les rayons calculs
+d angles d où le nom d optique géométrique elle donne de bons
+résultats tant que l on ne cherche pas à modéliser des phénomènes liés
+à la polarisation ou aux interférences et qu aucune dimension du
+système n est comparable ou inférieure à la longueur d onde de la
+lumière utilisée
+l optique géométrique permet de retrouver la quasi totalité des
+résultats concernant les miroirs les dioptres et les lentilles ou
+leurs combinaisons en doublet et systèmes optiques constituant
+notamment les instruments d optique
+de plus dans le cadre de l approximation de gauss l optique
+géométrique donne des relations mathématiques linéaires permettant
+l usage d outils mathématiques tels que les matrices et la
+systématisation des calculs par ordinateur
+optique ondulatoire ou optique physique
+le code
+article détaillé optique physique
+alors que l optique géométrique est une optique purement
+phénoménologique et ne fait pas d hypothèse sur la nature de la
+lumière hormis éventuellement qu elle transporte de l énergie
+l optique ondulatoire parfois appelée « optique physique » modélise
+la lumière par une onde
+le modèle de l onde scalaire principe de huygens fresnel permet
+d interpréter les phénomènes de diffraction lors du passage par un
+trou une fente étroite près d un bord et d interférences les
+calculs reposent alors sur la somme des amplitudes d ondes sinusoïdales
+qui se superposent somme qui suivant le déphasage peut conduire à un
+résultat nul la superposition de deux faisceaux peut ainsi donner
+l obscurité c est ce qu on observe au niveau des zones sombres des
+figures d interférence ou de diffraction
+il faut ensuite considérer qu il s agit d une onde transversale si
+l on veut interpréter les phénomènes de polarisation enfin maxwell
+permettra de comprendre que les ondes lumineuses ne sont que des ondes
+électromagnétiques caractérisées par un domaine de longueurs d onde qui
+les rend visibles pour l homme
+l optique physique est le nom d une approximation haute fréquence
+petite longueur d onde couramment utilisée en optique en physique
+appliquée ou en ingénierie électrique dans ces contextes c est une
+méthode intermédiaire entre l optique géométrique qui ignore les
+effets ondulatoires et l optique ondulatoire qui est une théorie
+physique exacte
+cette approximation consiste à utiliser les rayons de l optique
+géométrique pour estimer les champs sur une surface puis intégrer ces
+champs sur toute la surface éclairée pour déterminer les champs
+transmis et réfléchis
+dans les domaines optiques et radiofréquences cette approximation est
+utilisée pour calculer les effets d interférences et de polarisation et
+estimer les effets de diffraction comme toutes les approximations
+hautes fréquences l approximation de l optique physique gagne en
+pertinence à mesure que l on travaille avec de hautes fréquences
+la méthode consiste généralement à approcher la densité surfacique de
+courant électrique
+scriptlevel
+j
+stretchy
+x vec
+j
+vec j à la surface d un objet par la densité de
+courant
+scriptlevel
+j stretchy
+o p
+x vec
+j op
+vec j op induite par le champ magnétique
+incident
+scriptlevel
+h stretchy
+i
+x vec
+h i
+vec h i comme c est le cas sur un plan
+métallique infini c est pour cela que l approximation de l optique
+physique est parfois appelée « hypothèse du plan tangent »
+la densité de courant électrique au point q de la surface éclairée est
+alors calculée par la relation
+scriptlevel
+j stretchy
+o p
+stretchy q
+stretchy
+n stretchy
+stretchy q
+stretchy ×
+h stretchy
+i
+stretchy q stretchy
+x vec
+j op q hat n q times vec
+h i q
+vec j op q hat n q times vec
+h i q
+scriptlevel
+n
+stretchy
+stretchy q stretchy
+x hat n q
+hat n q correspond au vecteur normal unitaire
+extérieur à la surface éclairée dans les zones d ombre surfaces
+non éclairées selon l hypothèse de l optique géométrique la densité
+de courant est considérée comme nulle les champs rayonnés par la
+surface sont ensuite calculés en intégrant la densité de courant
+électrique sur la surface éclairée avec des expressions intégrales des
+équations de maxwell par exemple les équations intégrales de
+stratton chu de kottler ou de franz
+À cause de l hypothèse effectuée sur la densité de courant électrique à
+la surface d un objet cette approximation est d autant plus correcte
+lorsque les objets étudiés sont grands devant la longueur d onde et
+avec des surfaces lisses pour la même raison cette densité de courant
+approchée est inexacte à proximité des discontinuités comme des arêtes
+ou les frontières entre la zone éclairée et les zones d ombre de plus
+cette approximation ne rend pas compte des ondes rampantes
+optique quantique
+le code
+article détaillé optique quantique
+les problèmes liés au rayonnement du corps noir et à l effet
+photoélectrique ont amené à considérer que la lumière était composée de
+paquets d énergie licht quanta en allemand d après einstein
+plus tard l effet compton a conduit à considérer la lumière comme
+constituée de particules à part entière les photons
+ceux ci sont caractérisés par une masse nulle une vitesse égale à c
+célérité de la lumière une énergie
+scriptlevel e h
+x e h nu
+e h nu où
+scriptlevel
+x nu
+nu est la fréquence de l onde électromagnétique
+associée et une quantité de mouvement
+scriptlevel p
+variant k
+x p hbar k
+p hbar k avec
+scriptlevel variant
+h
+x hbar h pi
+hbar h pi où h désigne la constante de planck et k
+le vecteur d onde
+la théorie quantique de l optique ou optique quantique a été créée pour
+concilier les deux aspects apparemment incompatibles de la lumière
+l aspect ondulatoire phénomènes d interférence de diffraction et
+l aspect corpusculaire effet photoélectrique émission spontanée
+l optique quantique est essentiellement une reformulation de l optique
+ondulatoire dans laquelle le champ électromagnétique est quantifié
+avec l optique quantique on abandonne toute certitude on raisonne
+uniquement en termes de probabilités
+probabilité qu un photon soit émis ou absorbé par un atome
+probabilité qu un photon émis par un atome ait une énergie donnée
+probabilité qu un photon se désintègre
+optique des particules chargées
+le code
+article détaillé optique des particules chargées
+l optique des particules chargées optique électronique et optique
+ionique correspond à la production d images à l aide de faisceaux
+d électrons ou d ions réfractés à l aide de champs électriques et ou
+magnétiques lentilles magnétiques avantages petitesse des
+longueurs d onde associées à ces faisceaux qui permettent ainsi
+d obtenir des pouvoirs de résolution très supérieurs à ceux obtenus
+avec des instruments utilisant la lumière visible
+optique et biologie
+le code
+la lumière joue un rôle primordial dans le vivant qui a développé de
+nombreux moyens de l utiliser voire de la produire bioluminescence
+la bio optique utilise la lumière et son absorption par le vivant
+étudier les milieux aquatiques notamment
+les écologues et biologistes étudient la manière dont les organismes
+vivant ont appris au cours de l évolution à utiliser et manipuler à
+leur profit l absorption de lumière base de la photosynthèse
+notamment mais aussi de la vision la transparence la diffraction
+l interférence la réflexion et l antireflet la diffusion la lumière
+le guidage optique et la lentille le camouflage dynamique
+chez le caméléon la pieuvre et la seiche notamment ou encore la
+bioluminescence
+ces « solutions » développées par le vivant pour utiliser la lumière
+ou en produire via la bioluminescence intéressent aussi la
+biomimétique
+optique moderne
+le code
+l optique moderne englobe les éléments de l optique en tant que
+science mais aussi de l ingénierie liée qui sont devenus populaires au
+cours du xx e siècle ces domaines sont typiquement reliés aux
+propriétés électromagnétiques et quantiques de la lumière mais incluent
+d autres sujets un sous champ de l optique moderne l optique
+quantique traite spécialement des propriétés quantiques de la lumière
+l optique quantique n est pas seulement théorique certains appareils
+modernes tels que les lasers ont des principes opératoires qui
+relèvent justement de la mécanique quantique les détecteurs de
+lumière comme les photomultiplicateurs ou les channeltrons réagissent
+à des photons uniques des capteurs d image électroniques comme les
+capteurs ccd manifestent un bruit de grenaille correspondant aux
+statistiques des bruits de photons individuels les diodes
+électroluminescentes led et les panneaux photovoltaïques eux aussi
+ne pourraient être compris sans la mécanique quantique lorsqu on
+étudie ces dispositifs il arrive souvent que l optique quantique se
+chevauche avec l électronique quantique
+les champs de recherche spécialisée en optique incluent l étude de
+l interaction lumière matière mais aussi l optique non imageante
+l optique non linéaire l optique statistique et la radiométrie en
+outre les ingénieurs informatiques ont pris un intérêt dans l optique
+intégrée la vision industrielle et l ordinateur optique en tant
+qu éléments possibles inclus dans la « prochaine génération »
+d ordinateurs
+les sous champs éminents de l ingénierie optique comprennent
+l ingénierie d éclairage la photonique et l optoélectronique avec des
+applications pratiques telles que la conception de lentilles la
+fabrication et les tests de composants optiques et le traitement
+d image certains de ces champs se chevauchent avec des frontières
+floues une communauté professionnelle des chercheurs en optique non
+linéaire s est développée au cours des dernières décennies en raison
+des progrès de la technologie laser
+lasers
+le code
+px military laser experiment jpg les expériences comme celle ci
+avec des lasers puissants font partie de la recherche moderne en
+optique
+un laser est un appareil qui émet de la lumière rayonnement
+électromagnétique par un processus appelé l émission stimulée le
+terme laser est un acronyme pour light amplification by stimulated
+emission radiation la lumière laser est généralement cohérente dans
+l espace c est à dire qu elle est émise dans un faisceau étroit de
+faible divergence ou qu on peut la convertir en un tel faisceau à
+l aide de composants optiques tels que des lentilles parce que
+l équivalent du laser dans le domaine des micro ondes le maser a été
+développé en premier lieu des dispositifs qui émettent des fréquences
+micro ondes et radio sont généralement appelés masers
+px vlt e s artificial star jpg Étoile artificielle créée
+par un laser à des fins de calibration au vlt
+le premier laser fonctionnel a été réalisé le mai par théodore
+maiman au sein des hughes research laboratories lors de leur
+invention ils étaient surnommés la « solution à la recherche d un
+problème » depuis lors les lasers sont devenus une industrie de
+plusieurs milliards de dollars trouvant une utilité dans des milliers
+d applications très variées la première des lasers
+visibles dans la vie quotidienne était le scanner de code barres dans
+les supermarchés introduit en le c d disque compact a été le
+premier dispositif de stockage fonctionnant grâce au laser qui se soit
+largement diffusé dans les foyers des consommateurs à partir de
+ces dispositifs de stockage optique utilisent un laser ayant un
+faisceau de beaucoup moins d un millimètre de diamètre du spot environ
+m pour balayer la surface du disque afin de récupérer les
+données inscrites à sa surface la communication à fibre optique repose
+aussi sur les lasers pour transmettre de grandes quantités
+d informations à la vitesse de la lumière d autres applications
+courantes de lasers comprennent les imprimantes laser et les pointeurs
+laser ils sont aussi utilisés en médecine dans des domaines tels que
+la chirurgie oculaire au laser et dans des applications militaires
+telles que les systèmes de défense anti missiles les contre mesures
+électro optiques eocm et le lidar les lasers sont également utilisés
+dans les hologrammes la gravure d dans du verre les shows laser et
+l épilation au laser
+effet kapitsa dirac
+le code
+l effet kapitsa dirac en provoque la diffraction des faisceaux de
+particules résultant de la rencontre entre ondes de lumière
+stationnaire réf nécessaire la lumière peut être utilisée pour
+positionner la matière en utilisant divers phénomènes évasif
+optique appliquée
+le code
+l optique et ses domaines d peuvent constituer des
+approches particulières de l optique les restrictions propres au
+domaine d vont la manière d utiliser les lois de
+l optique les notations les approximations utilisées etc
+non exhaustivement on retrouve les grands domaines suivants
+optique physiologique
+le code
+article détaillé optique physiologique
+l optique physiologique définie comme la « science de la vision »
+fait appel à l anatomie pour la disposition matérielle de l il à la
+physiologie pour son fonctionnement à la médecine quant à ses
+maladies aux différentes spécialités de l optique physique pour la
+propagation dans le globe oculaire des rayons lumineux à la chimie
+pour l étude des colorants et l élucidation de la conversion de
+l énergie lumineuse en influx nerveux à la psychologie expérimentale
+pour l étude de l appareil visuel globalement et à la psychologie
+cognitive pour l étude de son éducation amenant les individus à la
+capacité de voir
+optique photographique
+le code
+domaine très similaire à l optique géométrique l optique appliquée à
+la photographie diffère par sa terminologie et par le fait qu elle peut
+lier aussi des notions d électronique du fait de l existence d un
+capteur dans l appareil photographique ou d une pellicule
+l optique géométrique demeure un domaine général tournant autour d une
+certaine idée de la propagation de la lumière là où l optique
+photographique va s intéresser de manière très poussée à la qualité de
+l image aux aberrations et à la luminosité donc inclure des notions
+importantes de radiométrie
+optronique
+le code
+article détaillé optronique
+l optronique est une technique permettant de mettre en uvre des
+équipements ou des systèmes utilisant à la fois l optique et
+l électronique elle associe généralement un capteur optique un
+système de traitement d images et un système d affichage ou de
+mémorisation
+optique atmosphérique
+le code
+les propriétés optiques uniques de l atmosphère provoquent une large
+gamme de phénomènes optiques spectaculaires la couleur bleue du ciel
+est le résultat direct de la diffusion de rayleigh qui redirige la
+lumière du soleil de haute fréquence bleue dans le champ de vision de
+l observateur parce que la lumière bleue est plus facilement dispersée
+que la lumière rouge le soleil prend une teinte rougeâtre lorsqu il
+est observé dans une atmosphère épaisse comme au lever ou au coucher
+du soleil des particules supplémentaires dans le ciel peuvent
+disperser différentes couleurs sous différents angles créant un ciel
+rougeoyant coloré au crépuscule et à l aube la diffusion des cristaux
+de glace et d autres particules dans l atmosphère sont responsables des
+halos des rémanences des couronnes des rayons du soleil la
+variation de ces types de phénomènes est due à différentes tailles de
+particules et à différentes géométries
+les mirages sont des phénomènes optiques dans lesquels les rayons
+lumineux sont courbés en raison des variations thermiques de l indice
+de réfraction de l air produisant des images déplacées ou fortement
+déformées d objets éloignés d autres phénomènes optiques associés
+incluent l effet novaya zemlya où le soleil semble se lever plus tôt
+que prévu avec une forme déformée une forme spectaculaire de
+réfraction se produit avec une inversion de température appelée fata
+morgana où les objets à l horizon ou même au delà de l horizon comme
+les îles les falaises les navires ou les icebergs semblent allongés
+et élevés
+les arcs en ciel sont le résultat d une combinaison de réflexion
+interne et de réfraction dispersive de la lumière dans les gouttes de
+pluie une seule réflexion sur une série de gouttes de pluie produit
+un arc en ciel avec une taille angulaire sur le ciel qui varie de ° à
+° avec du rouge à l extérieur les arcs en ciel doubles sont produits
+par deux réflexions internes avec une taille angulaire de ° à °
+avec du violet à l extérieur
+notes et références
+le code
+de abhandlung über das licht j baarmann ed
+zeitschrift der deutschen morgenländischen gesellschaft vol
+en first scientist sur le site news bbc co uk
+en thiele rüdiger memoriam matthias schramm
+arabic sciences and philosophy cambridge university press
+doi s
+thiele rüdiger august memoriam matthias schramm
+historia mathematica
+doi j hm
+en grant p notes book optics has also been
+denoted as opticae thesaurus alhazen arabis as de aspectibus and
+also as perspectiva
+horst stöcker francis jundt georges guillaume toute la
+physique dunod
+vantrepotte v caractérisation bio optique des eaux
+côtières en manche orientale pour l estimation de la production
+primaire et le suivi des poussées phytoplanctoniques à
+la télédétection satellitaire couleur de l eau en milieu côtier
+littoral résumé
+gernez p analyse de la variabilité temporelle des
+propriétés optiques en mer ligure depuis un mouillage instrumenté
+site boussole fluctuations à haute fréquence cyclicité diurne
+changements saisonniers et variabilité interannuelle doctoral
+dissertation paris résumé
+paolin m etude des facteurs contrôlant l atténuation
+lumineuse dans une lagune semi fermée calibration d un modèle
+bio optique pour le bassin d arcachon
+niewiadomska k couplage physique biogéochimie à
+différentes échelles spatiales et temporelles le cas du courant
+ligure étudié par un planeur sous marin bio optique doctoral
+dissertation paris résumé
+pikul j h al stretchable surfaces with programmable d
+texture morphing for synthetic camouflaging skins science oct
+vol issue pp doi
+science aan résumé
+octo camouflage sweetrandomscience consulté le oct
+d f walls and g j milburn quantum optics springer
+voir aussi
+le code
+sur les autres projets wikimedia
+optique sur le wiktionnaire
+une catégorie est consacrée à ce sujet optique
+articles connexes
+le code
+optique métaxiale
+optogénétique
+perspective visuelle
+perspective conique
+miroirs lentille doublet optique stigmatisme caustique image
+spectroscopie prisme optique
+système optique pour les éléments constitutifs basiques des
+instruments
+instruments d optique microscope optique lunette télescope
+interféromètre
+phénomène optique
+rayonnement électromagnétique onde longueur d onde fréquence
+phase
+spectre électromagnétique couleur couleur primaire
+disque optique
+fibre optique
+biréfringence
+optique adaptative
+faisceau gaussien
+rétine
+histoire de l optique
+thèmes apparentés
+le code
+anaglyphe stéréogramme
+anamorphose
+holographie
+imagerie lenticulaire
+lunettes de vue
+lentilles de contact
+moems
+ophtalmologie
+optronique
+optoélectronique
+photoacoustique
+photonique
+photographie
+réfractomètre à rti réflexion totale interne
+stéréoscopie
+vision accommodation
+verre correcteur
+liens externes
+le code
+ressources relatives à la santé voir et les données sur
+wikidata
+nci thesaurus
+wikiskripta
+notices dans des dictionnaires ou encyclopédies généralistes voir
+et les données sur wikidata
+britannica
+den store danske encyklopædi
+enciclopedia italiana
+enciclopedia de agostini
+internetowa encyklopedia pwn
+larousse
+store norske leksikon
+treccani
+universalis
+notices d autorité voir et les données sur wikidata
+bnf données
+japon
+espagne
+israël
+tchéquie
+fondements de la projection fondements optiques de la projection
+glossaire d optique glossaire illustré des termes de l optique
+anamorphose d multiple illusions optiques animées
+icône décorative portail de la physique
+icône décorative portail de l optique
+ce document provient de
+« https fr wikipedia org w index php title optique oldid »
+catégorie
+optique
+catégories cachées
+page utilisant p
+page utilisant p
+page utilisant p
+page utilisant p
+article utilisant l infobox discipline
+article utilisant une infobox
+article contenant un appel à traduction en anglais
+article à référence nécessaire
+page utilisant p
+page utilisant p
+page pointant vers des bases externes
+page pointant vers des bases relatives à la santé
+page utilisant p
+page utilisant p
+page utilisant p
+page utilisant p
+page utilisant p
+page utilisant p
+page utilisant p
+page utilisant p
+page utilisant p
+page pointant vers des dictionnaires ou encyclopédies généralistes
+article de wikipédia avec notice d autorité
+portail physique articles liés
+portail sciences articles liés
+portail optique articles liés
+article de qualité en macédonien
+bon article en tatar
+article de qualité en bosnien
+la dernière modification de cette page a été faite le novembre
+droit d auteur les textes sont disponibles sous licence creative
+commons attribution partage dans les mêmes conditions d autres
+conditions peuvent s appliquer voyez les conditions d utilisation
+pour plus de détails ainsi que les crédits graphiques en cas de
+réutilisation des textes de cette page voyez comment citer les
+auteurs et mentionner la licence
+wikipedia® est une marque déposée de la wikimedia foundation inc
+organisation de bienfaisance régie par le paragraphe c du
+code fiscal des États unis
+politique de confidentialité
+À propos de wikipédia
+avertissements
+contact
+contacts juridiques sécurité
+code de conduite
+développeurs
+statistiques
+déclaration sur les témoins cookies
+version mobile
+wikimedia foundation
+powered by mediawiki
+button rechercher
+button rechercher
+basculer la table des matières
+optique
+button langues ajouter un sujet

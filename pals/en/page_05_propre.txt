@@ -1,0 +1,1921 @@
+edit this page wikipedia en wikipedia atom feed
+jump to content
+main menu
+main menu
+button move to sidebar button hide
+navigation
+main page
+contents
+current events
+random article
+about wikipedia
+contact us
+contribute
+learn to edit
+community portal
+recent changes
+upload file
+special pages
+wikipedia free encyclopedia
+search
+button search
+appearance
+donate
+create account
+log
+personal tools
+donate
+create account
+log
+contents
+button move to sidebar button hide
+history
+classical optics
+button toggle classical optics subsection
+geometrical optics
+o approximations
+o reflections
+o refractions
+lenses
+physical optics
+o modelling and design optical systems using
+physical optics
+o superposition and interference
+o diffraction and optical resolution
+o dispersion and scattering
+o polarisation
+changing polarisation
+natural light
+modern optics
+button toggle modern optics subsection
+lasers
+kapitsa dirac effect
+applications
+button toggle applications subsection
+human eye
+o visual effects
+o optical instruments
+photography
+atmospheric optics
+see also
+references
+button toggle references subsection
+works cited
+further reading
+external links
+toggle table contents
+optics
+languages
+afrikaans
+asturianu
+az rbaycanca
+boarisch
+emait ka
+bikol central
+bosanski
+català
+e tina
+cymraeg
+dansk
+deutsch
+esperanto
+español
+eesti
+euskara
+estremeñu
+suomi
+võro
+na vosa vakaviti
+français
+nordfriisk
+furlan
+gaeilge
+kriyòl gwiyannen
+galego
+hrvatski
+magyar
+interlingua
+bahasa indonesia
+Íslenska
+italiano
+kurdî
+latina
+lëtzebuergesch
+lietuvi
+latvie u
+bahasa melayu
+mirandés
+nederlands
+norsk nynorsk
+norsk bokmål
+occitan
+polski
+piemontèis
+português
+român
+sicilianu
+srpskohrvatski
+tacl it
+simple english
+sloven ina
+sloven ina
+soomaaliga
+shqip
+srpski
+seeltersk
+svenska
+tagalog
+türkçe
+tatarça
+o zbekcha
+vepsän kel
+ti ng vi t
+winaray
+wolof
+isizulu
+edit links
+article
+english
+view history
+tools
+tools
+button move to sidebar button hide
+actions
+view history
+general
+what links here
+related changes
+upload file
+permanent link
+page information
+cite this page
+get shortened url
+print export
+download as pdf
+printable version
+other projects
+wikimedia commons
+wikibooks
+wikiquote
+wikidata item
+appearance
+button move to sidebar button hide
+from wikipedia free encyclopedia
+branch physics that studies light
+this article is about branch physics for book by sir isaac
+newton see opticks for other uses see optics disambiguation
+part a series on
+physics
+px stylised atom with three bohr model orbits and stylised nucleus
+png
+index
+outline
+glossary
+history timeline
+branches
+acoustics
+astrophysics
+atomic physics
+biophysics
+classical physics
+electromagnetism
+geophysics
+mechanics
+modern physics
+nuclear physics
+optics
+thermodynamics
+research
+physicist list
+list physics awards
+list journals
+list unsolved problems
+icon physics portal
+category
+optics is branch physics that studies behaviour
+manipulation and detection electromagnetic radiation including its
+interactions with matter and instruments that use or detect it
+optics usually describes behaviour visible ultraviolet and
+infrared light study optics extends to other forms
+electromagnetic radiation including radio waves
+microwaves and x rays term optics is also applied to
+technology for manipulating beams elementary charged particles
+most optical phenomena can be accounted for by using classical
+electromagnetic description light however complete electromagnetic
+descriptions light are often difficult to apply practice
+practical optics is usually done using simplified models most
+common these geometric optics treats light as a collection rays
+that travel straight lines and bend when they pass through or
+reflect from surfaces physical optics is a more comprehensive model
+light which includes wave effects such as diffraction and interference
+that cannot be accounted for geometric optics historically
+ray based model light was developed first followed by wave
+model light progress electromagnetic theory th century
+led to discovery that light waves were fact electromagnetic
+radiation
+some phenomena depend on light having both wave like and particle like
+properties explanation these effects requires quantum mechanics
+when considering light s particle like properties light is
+modelled as a collection particles called photons quantum optics
+deals with quantum mechanics to optical systems
+optical science is relevant to and studied many related disciplines
+including astronomy various engineering fields photography and
+medicine especially radiographic methods such as beam radiation
+therapy and ct scans and physiological optical fields
+ophthalmology and optometry practical applications optics are found
+a variety technologies and everyday objects including mirrors
+lenses telescopes microscopes lasers and fibre optics
+history
+main article history optics
+see also timeline electromagnetism and classical optics
+px nimrud lens british museum jpg nimrud lens
+optics began with development lenses by ancient egyptians
+and mesopotamians earliest known lenses made from polished
+crystal often quartz date from as early as bc from crete
+archaeological museum heraclion greece lenses from rhodes date
+around bc as do assyrian lenses such as nimrud lens
+ancient romans and greeks filled glass spheres with water to make
+lenses these practical developments were followed by development
+theories light and vision by ancient greek and indian
+philosophers and development geometrical optics
+greco roman world word optics comes from ancient greek word
+optik appearance look
+greek philosophy on optics broke down into two opposing theories on how
+vision worked intromission theory and emission theory
+intromission approach saw vision as coming from objects casting off
+copies themselves called eidola that were captured by eye
+with many propagators including democritus epicurus aristotle and
+their followers this theory seems to have some contact with modern
+theories what vision really is but it remained only speculation
+lacking any experimental foundation
+plato first articulated emission theory idea that visual
+perception is accomplished by rays emitted by eyes he also
+commented on parity reversal mirrors timaeus some
+hundred years later euclid th rd century bc wrote a treatise
+entitled optics where he linked vision to geometry creating
+geometrical optics he based his work on plato s emission theory
+wherein he described mathematical rules perspective and
+described effects refraction qualitatively although he
+questioned that a beam light from eye could instantaneously
+light up stars every time someone blinked euclid stated
+principle shortest trajectory light and considered multiple
+reflections on flat and spherical mirrors ptolemy his treatise
+optics held an extramission intromission theory vision rays
+or flux from eye formed a cone vertex being within eye
+and base defining visual field rays were sensitive and
+conveyed information back to observer s intellect about
+distance and orientation surfaces he summarized much euclid and
+went on to describe a way to measure angle refraction though he
+failed to notice empirical relationship between it and angle
+incidence plutarch st nd century ad described multiple
+reflections on spherical mirrors and discussed creation
+magnified and reduced images both real and imaginary including
+case chirality images
+px ibn sahl manuscript jpg reproduction a page ibn sahl s
+manuscript showing his knowledge law refraction
+during middle ages greek ideas about optics were resurrected and
+extended by writers muslim world one earliest these
+was al kindi c who wrote on merits aristotelian and
+euclidean ideas optics favouring emission theory since it could
+better quantify optical phenomena persian
+mathematician ibn sahl wrote treatise on burning mirrors and
+lenses correctly describing a law refraction equivalent to snell s
+law he used this law to compute optimum shapes for lenses and
+curved mirrors early th century alhazen ibn al haytham
+wrote book optics kitab al manazir which he explored
+reflection and refraction and proposed a new system for explaining
+vision and light based on observation and experiment he rejected
+emission theory ptolemaic optics with its rays being emitted
+by eye and instead put forward idea that light reflected
+all directions straight lines from all points objects being
+viewed and then entered eye although he was unable to correctly
+explain how eye captured rays alhazen s work was largely
+ignored arabic world but it was anonymously translated into
+latin around a d and further summarised and expanded on by
+polish monk witelo making it a standard text on optics europe
+for next years
+th century medieval europe english bishop robert
+grosseteste wrote on a wide range scientific topics and discussed
+light from four different perspectives an epistemology light a
+metaphysics or cosmogony light an etiology or physics light and
+a theology light basing it on works aristotle and
+platonism grosseteste s most famous disciple roger bacon wrote works
+citing a wide range recently translated optical and philosophical
+works including those alhazen aristotle avicenna averroes
+euclid al kindi ptolemy tideus and constantine african bacon
+was able to use parts glass spheres as magnifying glasses to
+demonstrate that light reflects from objects rather than being released
+from them
+first wearable eyeglasses were invented italy around
+this was start optical industry grinding and polishing
+lenses for these spectacles first venice and florence
+thirteenth century and later spectacle making centres
+both netherlands and germany spectacle makers created
+improved types lenses for correction vision based more on
+empirical knowledge gained from observing effects lenses
+rather than using rudimentary optical theory day theory
+which for most part could not even adequately explain how
+spectacles worked this practical development mastery and
+experimentation with lenses led directly to invention
+compound optical microscope around and refracting telescope
+both which appeared spectacle making centres
+netherlands
+px kepler ad vitellionem paralipomena quibus astronomiae pars opt
+ica traditur c f jpg first treatise about optics by
+johannes kepler ad vitellionem paralipomena quibus astronomiae pars
+optica traditur generally recognized as foundation
+modern optics px opticks jpg cover first edition
+newton s opticks
+px table opticks c cyclopaedia c volume jpg board
+with optical devices cyclopaedia
+early th century johannes kepler expanded on geometric optics
+his writings covering lenses reflection by flat and curved
+mirrors principles pinhole cameras inverse square law
+governing intensity light and optical explanations
+astronomical phenomena such as lunar and solar eclipses and
+astronomical parallax he was also able to correctly deduce
+retina as actual organ that recorded images finally being able
+to scientifically quantify effects different types lenses
+that spectacle makers had been observing over previous
+years after invention telescope kepler set out
+theoretical basis on how they worked and described an improved version
+known as keplerian telescope using two convex lenses to produce
+higher magnification
+optical theory progressed mid th century with treatises
+written by philosopher rené descartes which explained a variety
+optical phenomena including reflection and refraction by assuming that
+light was emitted by objects which produced it this differed
+substantively from ancient greek emission theory late s
+and early s isaac newton expanded descartes s ideas into a
+corpuscle theory light famously determining that white light was a
+mix colours that can be separated into its component parts with a
+prism christiaan huygens proposed a wave theory for light
+based on suggestions that had been made by robert hooke hooke
+himself publicly criticised newton s theories light and feud
+between two lasted until hooke s death newton published
+opticks and at time partly because his success other areas
+physics he was generally considered to be victor debate
+over nature light
+newtonian optics was generally accepted until early th century
+when thomas young and augustin jean fresnel conducted experiments on
+interference light that firmly established light s wave nature
+young s famous double slit experiment showed that light followed
+superposition principle which is a wave like property not predicted by
+newton s corpuscle theory this work led to a theory diffraction for
+light and opened an entire area study physical optics wave
+optics was successfully unified with electromagnetic theory by james
+clerk maxwell s
+next development optical theory came when max planck
+correctly modelled blackbody radiation by assuming that exchange
+energy between light and matter only occurred discrete amounts he
+called quanta albert einstein published theory
+photoelectric effect that firmly established quantization
+light itself niels bohr showed that atoms could
+only emit discrete amounts energy thus explaining discrete
+lines seen emission and absorption spectra understanding
+interaction between light and matter that followed from these
+developments not only formed basis quantum optics but also was
+crucial for development quantum mechanics as a whole
+ultimate culmination theory quantum electrodynamics explains
+all optics and electromagnetic processes general as result
+exchange real and virtual photons quantum optics gained
+practical importance with inventions maser and
+laser
+following work paul dirac quantum field theory george
+sudarshan roy j glauber and leonard mandel applied quantum theory to
+electromagnetic field s and s to gain a more
+detailed understanding photodetection and statistics light
+classical optics
+px classical optics png classical optics
+classical optics is divided into two main branches geometrical or
+ray optics and physical or wave optics geometrical optics light
+is considered to travel straight lines while physical optics
+light is considered as an electromagnetic wave
+geometrical optics can be viewed as an approximation physical optics
+that applies when wavelength light used is much smaller than
+size optical elements system being modelled
+geometrical optics
+main article geometrical optics
+px reflection and refraction png geometry reflection and
+refraction light rays
+geometrical optics or ray optics describes propagation light
+terms rays which travel straight lines and whose paths are
+governed by laws reflection and refraction at interfaces between
+different media these laws were discovered empirically as far
+back as ad and have been used design optical
+components and instruments from then until present day they can be
+summarised as follows
+when a ray light hits boundary between two transparent
+materials it is divided into a reflected and a refracted ray
+law reflection says that reflected ray lies plane
+incidence and angle reflection equals angle
+incidence
+law refraction says that refracted ray lies plane
+incidence and sine angle incidence divided by
+sine angle refraction is a constant
+scriptlevel
+sin
+sin
+n
+x frac sin theta
+sin theta n
+frac sin theta sin theta n
+where n is a constant for any two materials and a given wavelength
+light if first material is air or vacuum n is
+refractive index second material
+laws reflection and refraction can be derived from fermat s
+principle which states that path taken between two points by a ray
+light is path that can be traversed least time
+approximations
+geometric optics is often simplified by making paraxial
+approximation or small angle approximation mathematical
+behaviour then becomes linear allowing optical components and systems
+to be described by simple matrices this leads to techniques
+gaussian optics and paraxial ray tracing which are used to find basic
+properties optical systems such as approximate image and object
+positions and magnifications
+reflections
+main article reflection physics
+px reflection angles png diagram specular reflection
+reflections can be divided into two types specular reflection and
+diffuse reflection specular reflection describes gloss surfaces
+such as mirrors which reflect light a simple predictable way this
+allows for production reflected images that can be associated
+with an actual real or extrapolated virtual location space
+diffuse reflection describes non glossy materials such as paper or
+rock reflections from these surfaces can only be described
+statistically with exact distribution reflected light
+depending on microscopic structure material many diffuse
+reflectors are described or can be approximated by lambert s cosine
+law which describes surfaces that have equal luminance when viewed
+from any angle glossy surfaces can give both specular and diffuse
+reflection
+specular reflection direction reflected ray is
+determined by angle incident ray makes with surface normal
+a line perpendicular to surface at point where ray hits
+incident and reflected rays and normal lie a single plane
+and angle between reflected ray and surface normal is
+same as that between incident ray and normal this is
+known as law reflection
+for flat mirrors law reflection implies that images objects
+are upright and same distance behind mirror as objects are
+front mirror image size is same as object size
+law also implies that mirror images are parity inverted which we
+perceive as a left right inversion images formed from reflection
+two or any even number mirrors are not parity inverted corner
+reflectors produce reflected rays that travel back direction
+from which incident rays came this is called retroreflection
+mirrors with curved surfaces can be modelled by ray tracing and using
+law reflection at each point on surface for mirrors with
+parabolic surfaces parallel rays incident on mirror produce
+reflected rays that converge at a common focus other curved surfaces
+may also focus light but with aberrations due to diverging shape
+causing focus to be smeared out space particular spherical
+mirrors exhibit spherical aberration curved mirrors can form images
+with a magnification greater than or less than one and
+magnification can be negative indicating that image is inverted
+an upright image formed by reflection a mirror is always virtual
+while an inverted image is real and can be projected onto a
+screen
+refractions
+main article refraction
+px snells law png illustration snell s law for case
+n n such as air water interface
+refraction occurs when light travels through an area space that has
+a changing index refraction this principle allows for lenses and
+focusing light simplest case refraction occurs when
+there is an interface between a uniform medium with index refraction
+n and another medium with index refraction n such
+situations snell s law describes resulting deflection light
+scriptlevel n
+sin
+n
+sin
+x n sin theta
+n sin theta
+n sin theta n sin theta
+where and are angles between normal to
+interface and incident and refracted waves respectively
+index refraction a medium is related to speed v
+light that medium by
+scriptlevel n c
+v
+x n c v
+n c v where c is speed light vacuum
+snell s law can be used to predict deflection light rays as they
+pass through linear media as long as indexes refraction and
+geometry media are known for example propagation light
+through a prism results light ray being deflected depending on
+shape and orientation prism most materials index
+refraction varies with frequency light known as dispersion
+taking this into account snell s law can be used to predict how a
+prism will disperse light into a spectrum discovery this
+phenomenon when passing light through a prism is famously attributed to
+isaac newton
+some media have an index refraction which varies gradually with
+position and therefore light rays medium are curved this
+effect is responsible for mirages seen on hot days a change index
+refraction air with causes light rays to bend creating
+appearance specular reflections distance as if on
+surface a pool water optical materials with varying indexes
+refraction are called gradient index grin materials such materials
+are used to make gradient index optics
+for light rays travelling from a material with a high index
+refraction to a material with a low index refraction snell s law
+predicts that there is no when is large this case no
+transmission occurs all light is reflected this phenomenon is
+called total internal reflection and allows for fibre optics
+technology as light travels down an optical fibre it undergoes total
+internal reflection allowing for essentially no light to be lost over
+length cable
+lenses
+main article lens optics
+px lens b png a ray tracing diagram for a converging lens
+a device that produces converging or diverging light rays due to
+refraction is known as a lens lenses are characterized by their focal
+length a converging lens has positive focal length while a diverging
+lens has negative focal length smaller focal length indicates that
+lens has a stronger converging or diverging effect focal length
+a simple lens air is given by lensmaker s equation
+ray tracing can be used to show how images are formed by a lens for a
+thin lens air location image is given by simple
+equation
+scriptlevel
+s
+s
+f
+x frac s frac
+s frac f
+frac s frac s frac f
+where s is distance from object to lens s is
+distance from lens to image and f is focal length
+lens sign convention used here object and image distances
+are positive if object and image are on opposite sides
+px lens png
+incoming parallel rays are focused by a converging lens onto a spot one
+focal length from lens on far side lens this is called
+rear focal point lens rays from an object at a finite
+distance are focused further from lens than focal distance
+closer object is to lens further image is from
+with diverging lenses incoming parallel rays diverge after going
+through lens such a way that they seem to have originated at a
+spot one focal length front lens this is lens s front
+focal point rays from an object at a finite distance are associated
+with a virtual image that is closer to lens than focal point
+and on same side lens as object closer object
+is to lens closer virtual image is to lens as with
+mirrors upright images produced by a single lens are virtual while
+inverted images are real
+lenses suffer from aberrations that distort images monochromatic
+aberrations occur because geometry lens does not perfectly
+direct rays from each object point to a single point on image
+while chromatic aberration occurs because index refraction
+lens varies with wavelength light
+px thin lens images png images black letters a thin
+convex lens focal length f are shown red selected rays are shown
+for letters e i and k blue green and orange respectively note
+that e at f has an equal size real and inverted image i at f has
+its image at infinity and k at f has a double size virtual and
+upright image
+physical optics
+main article physical optics
+physical optics light is considered to propagate as waves this
+model predicts phenomena such as interference and diffraction which
+are not explained by geometric optics speed light waves air
+is approximately × m s exactly m s vacuum
+wavelength visible light waves varies between and nm but
+term light is also often applied to infrared m and
+ultraviolet radiation nm
+wave model can be used to make predictions about how an optical
+system will behave without requiring an explanation what is waving
+what medium until middle th century most physicists
+believed an ethereal medium which light disturbance
+propagated existence electromagnetic waves was predicted
+by maxwell s equations these waves propagate at speed
+light and have varying electric and magnetic fields which are
+orthogonal to one another and also to direction propagation
+waves light waves are now generally treated as
+electromagnetic waves except when quantum mechanical effects have to be
+considered
+modelling and design optical systems using physical optics
+many simplified approximations are available for analysing and
+designing optical systems most these use a single scalar quantity
+to represent electric field light wave rather than using a
+vector model with orthogonal electric and magnetic vectors
+huygens fresnel equation is one such model this was derived
+empirically by fresnel based on huygens hypothesis that each
+point on a wavefront generates a secondary spherical wavefront which
+fresnel combined with principle superposition waves
+kirchhoff diffraction equation which is derived using maxwell s
+equations puts huygens fresnel equation on a firmer physical
+foundation examples huygens fresnel principle
+can be found articles on diffraction and fraunhofer diffraction
+more rigorous models involving modelling both electric and
+magnetic fields light wave are required when dealing with
+materials whose electric and magnetic properties affect interaction
+light with material for instance behaviour a light wave
+interacting with a metal surface is quite different from what happens
+when it interacts with a dielectric material a vector model must also
+be used to model polarised light
+numerical modeling techniques such as finite element method
+boundary element method and transmission line matrix method can be
+used to model propagation light systems which cannot be
+solved analytically such models are computationally demanding and are
+normally only used to solve small scale problems that require accuracy
+beyond that which can be achieved with analytical solutions
+all results from geometrical optics can be recovered using
+techniques fourier optics which apply many same mathematical
+and analytical techniques used acoustic engineering and signal
+processing
+gaussian beam propagation is a simple paraxial physical optics model
+for propagation coherent radiation such as laser beams this
+technique partially accounts for diffraction allowing accurate
+calculations rate at which a laser beam expands with distance
+and minimum size to which beam can be focused gaussian beam
+propagation thus bridges gap between geometric and physical
+optics
+superposition and interference
+main articles superposition principle and interference optics
+absence nonlinear effects superposition principle can be
+used to predict shape interacting waveforms through simple
+addition disturbances this interaction waves to produce
+a resulting pattern is generally termed interference and can result
+a variety outcomes if two waves same wavelength and
+frequency are phase both wave crests and wave troughs align
+this results constructive interference and an increase
+amplitude wave which for light is associated with a brightening
+waveform that location alternatively if two waves
+same wavelength and frequency are out phase then wave
+crests will align with wave troughs and vice versa this results
+destructive interference and a decrease amplitude wave
+which for light is associated with a dimming waveform at that
+location see below for an illustration this effect
+combined
+waveform px interference two waves png
+two waves phase two waves ° out
+phase
+px dieselrainbow jpg when oil or fuel is spilled colourful
+patterns are formed by thin film interference
+since huygens fresnel principle states that every point a
+wavefront is associated with production a new disturbance it is
+possible for a wavefront to interfere with itself constructively or
+destructively at different locations producing bright and dark fringes
+regular and predictable patterns interferometry is science
+measuring these patterns usually as a means making precise
+determinations distances or angular resolutions michelson
+interferometer was a famous instrument which used interference effects
+to accurately measure speed light
+appearance thin films and coatings is directly affected by
+interference effects antireflective coatings use destructive
+interference to reduce reflectivity surfaces they coat and
+can be used to minimise glare and unwanted reflections simplest
+case is a single layer with a thickness one fourth wavelength
+incident light reflected wave from top film and
+reflected wave from film material interface are then exactly °
+out phase causing destructive interference waves are only
+exactly out phase for one wavelength which would typically be
+chosen to be near centre visible spectrum around nm
+more complex designs using multiple layers can achieve low reflectivity
+over a broad band or extremely low reflectivity at a single
+wavelength
+constructive interference thin films can create a strong reflection
+light a range wavelengths which can be narrow or broad
+depending on design coating these films are used to make
+dielectric mirrors interference filters heat reflectors and filters
+for colour separation colour television cameras this interference
+effect is also what causes colourful rainbow patterns seen oil
+slicks
+diffraction and optical resolution
+main articles diffraction and optical resolution
+px double slit diffraction png diffraction on two slits
+separated by distance d bright fringes occur along lines where
+black lines intersect with black lines and white lines intersect with
+white lines these fringes are separated by angle and are numbered as
+order n
+diffraction is process by which light interference is most commonly
+observed effect was first described by francesco maria
+grimaldi who also coined term from latin diffringere to break
+into pieces later that century robert hooke and isaac
+newton also described phenomena now known to be diffraction newton s
+rings while james gregory recorded his observations diffraction
+patterns from bird feathers
+first physical optics model diffraction that relied on
+huygens fresnel principle was developed by thomas young his
+interference experiments with interference patterns two closely
+spaced slits young showed that his results could only be explained if
+two slits acted as two unique sources waves rather than
+corpuscles and augustin jean fresnel firmly
+established mathematics how wave interference can account for
+diffraction
+simplest physical models diffraction use equations that describe
+angular separation light and dark fringes due to light a
+particular wavelength general equation takes form
+scriptlevel m
+d sin
+x m lambda d sin
+theta
+m lambda d sin theta where d is separation
+between two wavefront sources case young s experiments it
+was two slits is angular separation between central fringe
+and m th order fringe where central maximum is m
+this equation is modified slightly to take into account a variety
+situations such as diffraction through a single gap diffraction
+through multiple slits or diffraction through a diffraction grating
+that contains a large number slits at equal spacing more
+complicated models diffraction require working with mathematics
+fresnel or fraunhofer diffraction
+x ray diffraction makes use fact that atoms a crystal have
+regular spacing at distances that are on order one angstrom to
+see diffraction patterns x rays with similar wavelengths to that
+spacing are passed through crystal since crystals are
+three dimensional objects rather than two dimensional gratings
+associated diffraction pattern varies two directions according to
+bragg reflection with associated bright spots occurring unique
+patterns and d being twice spacing between atoms
+diffraction effects limit ability an optical detector to
+optically resolve separate light sources general light that is
+passing through an aperture will experience diffraction and best
+images that can be created as described diffraction limited optics
+appear as a central spot with surrounding bright rings separated by
+dark nulls this pattern is known as an airy pattern and central
+bright lobe as an airy disk size such a disk is given by
+scriptlevel sin
+d
+x sin theta frac
+lambda d
+sin theta frac lambda d where is
+angular resolution is wavelength light and d is
+diameter lens aperture if angular separation two
+points is significantly less than airy disk angular radius then
+two points cannot be resolved image but if their angular
+separation is much greater than this distinct images two points
+are formed and they can therefore be resolved rayleigh defined
+somewhat arbitrary rayleigh criterion that two points whose angular
+separation is equal to airy disk radius measured to first null
+that is to first place where no light is seen can be considered
+to be resolved it can be seen that greater diameter
+lens or its aperture finer resolution interferometry
+with its ability to mimic extremely large baseline apertures allows
+for greatest angular resolution possible
+for astronomical imaging atmosphere prevents optimal resolution
+from being achieved visible spectrum due to atmospheric
+scattering and dispersion which cause stars to twinkle astronomers
+refer to this effect as quality astronomical seeing techniques
+known as adaptive optics have been used to eliminate atmospheric
+disruption images and achieve results that approach diffraction
+limit
+dispersion and scattering
+main articles dispersion optics and scattering
+px light dispersion conceptual waves gif conceptual animation
+light dispersion through a prism high frequency blue light is
+deflected most and low frequency red least
+refractive processes take place physical optics limit where
+wavelength light is similar to other distances as a kind
+scattering simplest type scattering is thomson scattering which
+occurs when electromagnetic waves are deflected by single particles
+limit thomson scattering which wavelike nature light
+is evident light is dispersed independent frequency
+contrast to compton scattering which is frequency dependent and
+strictly a quantum mechanical process involving nature light as
+particles a statistical sense elastic scattering light by
+numerous particles much smaller than wavelength light is a
+process known as rayleigh scattering while similar process for
+scattering by particles that are similar or larger wavelength is
+known as mie scattering with tyndall effect being a commonly
+observed result a small proportion light scattering from atoms or
+molecules may undergo raman scattering wherein frequency changes
+due to excitation atoms and molecules brillouin scattering
+occurs when frequency light changes due to local changes with
+time and movements a dense material
+dispersion occurs when different frequencies light have different
+phase velocities due either to material properties material
+dispersion or to geometry an optical waveguide waveguide
+dispersion most familiar form dispersion is a decrease
+index refraction with increasing wavelength which is seen most
+transparent materials this is called normal dispersion it occurs
+all dielectric materials wavelength ranges where material does
+not absorb light wavelength ranges where a medium has
+significant absorption index refraction can increase with
+wavelength this is called anomalous dispersion
+separation colours by a prism is an example normal
+dispersion at surfaces prism snell s law predicts that
+light incident at an angle to normal will be refracted at an
+angle arcsin sin n thus blue light with its higher refractive
+index is bent more strongly than red light resulting
+well known rainbow pattern
+wave group gif dispersion two sinusoids propagating at different
+speeds make a moving interference pattern red dot moves with
+phase velocity and green dots propagate with group velocity
+this case phase velocity is twice group velocity red
+dot overtakes two green dots when moving from left to right
+figure effect individual waves which travel with
+phase velocity escape from wave packet which travels with
+group velocity
+material dispersion is often characterised by abbe number which
+gives a simple measure dispersion based on index refraction
+at three specific wavelengths waveguide dispersion is dependent on
+propagation constant both kinds dispersion cause changes
+group characteristics wave features wave packet
+that change with same frequency as amplitude
+electromagnetic wave group velocity dispersion manifests as a
+spreading out signal envelope radiation and can be
+quantified with a group dispersion delay parameter
+scriptlevel d
+msubsup v
+normal g
+msubsup
+d
+v
+normal g
+d
+x d frac v mathrm g
+frac dv mathrm g d lambda
+d frac v mathrm g frac dv mathrm
+g d lambda
+where v g is group velocity for a uniform medium group
+velocity is
+scriptlevel v
+normal g
+c n
+d
+n d
+x v mathrm g
+c left n lambda frac dn d lambda right
+v mathrm g c left n lambda frac dn d lambda
+right
+where n is index refraction and c is speed light a
+vacuum this gives a simpler form for dispersion delay
+parameter
+scriptlevel d
+c
+mspace thinmathspace
+d
+n d
+x d frac lambda
+c frac d n d lambda
+d frac lambda c frac d n d lambda
+if d is less than zero medium is said to have positive dispersion
+or normal dispersion if d is greater than zero medium has
+negative dispersion if a light pulse is propagated through a normally
+dispersive medium result is higher frequency components slow
+down more than lower frequency components pulse therefore
+becomes positively chirped or up chirped increasing frequency with
+time this causes spectrum coming out a prism to appear with red
+light least refracted and blue violet light most refracted
+conversely if a pulse travels through an anomalously negatively
+dispersive medium high frequency components travel faster than
+lower ones and pulse becomes negatively chirped or down chirped
+decreasing frequency with time
+result group velocity dispersion whether negative or positive
+is ultimately temporal spreading pulse this makes dispersion
+management extremely important optical communications systems based
+on optical fibres since if dispersion is too high a group pulses
+representing information will each spread time and merge making it
+impossible to extract signal
+polarisation
+main article polarisation waves
+polarisation is a general property waves that describes
+orientation their oscillations for transverse waves such as many
+electromagnetic waves it describes orientation oscillations
+plane perpendicular to wave s direction travel
+oscillations may be oriented a single direction linear
+polarisation or oscillation direction may rotate as wave
+travels circular or elliptical polarisation circularly polarised
+waves can rotate rightward or leftward direction travel and
+which those two rotations is present a wave is called wave s
+chirality
+typical way to consider polarisation is to keep track
+orientation electric field vector as electromagnetic wave
+propagates electric field vector a plane wave may be
+arbitrarily divided into two perpendicular components labeled x and y
+with z indicating direction travel shape traced out
+x y plane by electric field vector is a lissajous figure that
+describes polarisation state following figures show some
+examples evolution electric field vector blue with
+time vertical axes at a particular point space along with
+its x and y components red left and green right and path traced
+by vector plane purple same evolution would occur
+when looking at electric field at a particular time while evolving
+point space along direction opposite to propagation
+linear polarisation diagram linear polarisation diagram
+linear
+circular polarisation diagram circular polarisation diagram
+circular
+elliptical polarisation diagram elliptical polarisation diagram
+elliptical polarisation
+leftmost figure above x and y components light wave
+are phase this case ratio their strengths is constant
+so direction electric vector vector sum these two
+components is constant since tip vector traces out a
+single line plane this special case is called linear
+polarisation direction this line depends on relative
+amplitudes two components
+middle figure two orthogonal components have same
+amplitudes and are ° out phase this case one component is
+zero when other component is at maximum or minimum amplitude there
+are two possible phase relationships that satisfy this requirement
+x component can be ° ahead y component or it can be ° behind
+y component this special case electric vector traces out a
+circle plane so this polarisation is called circular
+polarisation rotation direction circle depends on which
+two phase relationships exists and corresponds to right hand
+circular polarisation and left hand circular polarisation
+all other cases where two components either do not have
+same amplitudes and or their phase difference is neither zero nor a
+multiple ° polarisation is called elliptical polarisation
+because electric vector traces out an ellipse plane
+polarisation ellipse this is shown above figure on
+right detailed mathematics polarisation is done using jones
+calculus and is characterised by stokes parameters
+changing polarisation
+media that have different indexes refraction for different
+polarisation modes are called birefringent well known
+manifestations this effect appear optical wave plates retarders
+linear modes and faraday rotation optical rotation circular
+modes if path length birefringent medium is
+sufficient plane waves will exit material with a significantly
+different propagation direction due to refraction for example this
+is case with macroscopic crystals calcite which present
+viewer with two offset orthogonally polarised images whatever is
+viewed through them it was this effect that provided first
+discovery polarisation by erasmus bartholinus addition
+phase shift and thus change polarisation state is usually
+frequency dependent which combination with dichroism often gives
+rise to bright colours and rainbow like effects mineralogy such
+properties known as pleochroism are frequently exploited for
+purpose identifying minerals using polarisation microscopes
+additionally many plastics that are not normally birefringent will
+become so when subject to mechanical stress a phenomenon which is
+basis photoelasticity non birefringent methods to rotate
+linear polarisation light beams include use prismatic
+polarisation rotators which use total internal reflection a prism
+set designed for efficient collinear transmission
+px malus law png a polariser changing orientation
+linearly polarised light this picture i
+media that reduce amplitude certain polarisation modes are
+called dichroic with devices that block nearly all radiation
+one mode known as polarising filters or simply polarisers malus
+law which is named after Étienne louis malus says that when a perfect
+polariser is placed a linear polarised beam light intensity
+i light that passes through is given by
+scriptlevel i
+i
+cos
+normal i
+x i i cos theta
+mathrm i
+i i cos theta mathrm i where i is
+initial intensity and i is angle between light s
+initial polarisation direction and axis polariser
+a beam unpolarised light can be thought as containing a uniform
+mixture linear polarisations at all possible angles since
+average value cos is transmission coefficient becomes
+scriptlevel
+i i
+mspace thinmathspace
+x frac
+i i frac
+frac i i frac
+practice some light is lost polariser and actual
+transmission unpolarised light will be somewhat lower than this
+around for polaroid type polarisers but considerably higher
+for some birefringent prism types
+addition to birefringence and dichroism extended media
+polarisation effects can also occur at reflective interface
+between two materials different refractive index these effects are
+treated by fresnel equations part wave is transmitted and
+part is reflected with ratio depending on angle incidence
+and angle refraction this way physical optics recovers
+brewster s angle when light reflects from a thin film on a
+surface interference between reflections from film s surfaces
+can produce polarisation reflected and transmitted light
+natural light
+px circularpolarizer jpg effects a polarising filter on
+sky a photograph left picture is taken without polariser for
+right picture filter was adjusted to eliminate certain polarisations
+scattered blue light from sky
+most sources electromagnetic radiation contain a large number
+atoms or molecules that emit light orientation electric
+fields produced by these emitters may not be correlated which case
+light is said to be unpolarised if there is partial correlation
+between emitters light is partially polarised if
+polarisation is consistent across spectrum source partially
+polarised light can be described as a superposition a completely
+unpolarised component and a completely polarised one one may then
+describe light terms degree polarisation and
+parameters polarisation ellipse
+light reflected by shiny transparent materials is partly or fully
+polarised except when light is normal perpendicular to
+surface it was this effect that allowed mathematician
+Étienne louis malus to make measurements that allowed for his
+development first mathematical models for polarised light
+polarisation occurs when light is scattered atmosphere
+scattered light produces brightness and colour clear skies this
+partial polarisation scattered light can be taken advantage using
+polarising filters to darken sky photographs optical
+polarisation is principally importance chemistry due to circular
+dichroism and optical rotation circular birefringence exhibited by
+optically active chiral molecules
+modern optics
+main articles optical physics and optical engineering
+modern optics encompasses areas optical science and engineering
+that became popular th century these areas optical science
+typically relate to electromagnetic or quantum properties light
+but do include other topics a major subfield modern optics quantum
+optics deals with specifically quantum mechanical properties light
+quantum optics is not just theoretical some modern devices such as
+lasers have principles operation that depend on quantum mechanics
+light detectors such as photomultipliers and channeltrons respond to
+individual photons electronic image sensors such as ccds exhibit
+shot noise corresponding to statistics individual photon events
+light emitting diodes and photovoltaic cells too cannot be understood
+without quantum mechanics study these devices quantum
+optics often overlaps with quantum electronics
+specialty areas optics research include study how light
+interacts with specific materials as crystal optics and
+metamaterials other research focuses on phenomenology
+electromagnetic waves as singular optics non imaging optics
+non linear optics statistical optics and radiometry additionally
+computer engineers have taken an interest integrated optics machine
+vision and photonic computing as possible components next
+generation computers
+today pure science optics is called optical science or optical
+physics to distinguish it from applied optical sciences which are
+referred to as optical engineering prominent subfields optical
+engineering include illumination engineering photonics and
+optoelectronics with practical applications like lens design
+fabrication and testing optical components and image processing
+some these fields overlap with nebulous boundaries between
+subjects terms that mean slightly different things different parts
+world and different areas industry a professional
+community researchers nonlinear optics has developed last
+several decades due to advances laser technology
+lasers
+main article laser
+px military laser experiment jpg experiments such as this one with
+high power lasers are part modern optics research
+a laser is a device that emits light a kind electromagnetic
+radiation through a process called stimulated emission term laser
+is an acronym for light amplification by stimulated emission
+radiation laser light is usually spatially coherent which
+means that light either is emitted a narrow low divergence
+beam or can be converted into one with help optical components
+such as lenses because microwave equivalent laser
+maser was developed first devices that emit microwave and radio
+frequencies are usually called masers
+px vlt e s artificial star jpg vlt s laser guide
+first working laser was demonstrated on may by theodore
+maiman at hughes research laboratories when first invented they
+were called a solution looking for a problem since then
+lasers have become a multibillion dollar industry finding utility
+thousands highly varied applications first
+lasers visible daily lives general population was
+supermarket barcode scanner introduced laserdisc
+player introduced was first successful consumer product
+to include a laser but compact disc player was first
+laser equipped device to become truly common consumers homes
+beginning these optical storage devices use a
+semiconductor laser less than a millimetre wide to scan surface
+disc for retrieval fibre optic communication relies on lasers
+to transmit large amounts information at speed light other
+common applications lasers include laser printers and laser
+pointers lasers are used medicine areas such as bloodless
+surgery laser eye surgery and laser capture microdissection and
+military applications such as missile defence systems electro optical
+countermeasures eocm and lidar lasers are also used holograms
+bubblegrams laser light shows and laser hair removal
+kapitsa dirac effect
+kapitsa dirac effect causes beams particles to diffract as
+result meeting a standing wave light light can be used to
+position matter using various phenomena see optical tweezers
+applications
+further information optical phenomenon
+optics is part everyday life ubiquity visual systems
+biology indicates central optics plays as science one
+five senses many people benefit from eyeglasses or contact
+lenses and optics are integral to functioning many consumer
+goods including cameras rainbows and mirages are examples optical
+phenomena optical communication provides backbone for both
+internet and modern telephony
+human eye
+px eye diagram no circles border png model a human eye
+features mentioned this article are vitreous humour ciliary
+muscle pupil anterior chamber cornea lens cortex
+optic nerve fovea retina
+main articles human eye and photometry optics
+px human eye with limbal ring c anterior view jpg human eye
+is a living optical device iris light brown region pupil black
+circle centre and sclera white surrounding area are visible
+this image along with eyelids and eyelashes which protect
+human eye functions by focusing light onto a layer photoreceptor
+cells called retina which forms inner lining back
+eye focusing is accomplished by a series transparent media
+light entering eye passes first through cornea which provides
+much eye s optical power light then continues through
+fluid just behind cornea anterior chamber then passes through
+pupil light then passes through lens which focuses
+light further and allows adjustment focus light then passes
+through main body fluid eye vitreous humour and
+reaches retina cells retina line back eye
+except for where optic nerve exits this results a blind spot
+there are two types photoreceptor cells rods and cones which are
+sensitive to different aspects light rod cells are sensitive
+to intensity light over a wide frequency range thus are
+responsible for black and white vision rod cells are not present on
+fovea area retina responsible for central vision and
+are not as responsive as cone cells to spatial and temporal changes
+light there are however twenty times more rod cells than cone cells
+retina because rod cells are present across a wider area
+because their wider distribution rods are responsible for
+peripheral vision
+contrast cone cells are less sensitive to overall intensity
+light but come three varieties that are sensitive to different
+frequency ranges and thus are used perception colour and
+photopic vision cone cells are highly concentrated fovea and
+have a high visual acuity meaning that they are better at spatial
+resolution than rod cells since cone cells are not as sensitive to dim
+light as rod cells most night vision is limited to rod cells
+likewise since cone cells are fovea central vision including
+vision needed to do most reading fine detail work such as sewing
+or careful examination objects is done by cone cells
+ciliary muscles around lens allow eye s focus to be adjusted
+this process is known as accommodation near point and far point
+define nearest and farthest distances from eye at which an
+object can be brought into sharp focus for a person with normal
+vision far point is located at infinity near point s location
+depends on how much muscles can increase curvature lens
+and how inflexible lens has become with age optometrists
+ophthalmologists and opticians usually consider an appropriate near
+point to be closer than normal reading distance approximately
+defects vision can be explained using optical principles as people
+age lens becomes less flexible and near point recedes from
+eye a condition known as presbyopia similarly people suffering from
+hyperopia cannot decrease focal length their lens enough to
+allow for nearby objects to be imaged on their retina conversely
+people who cannot increase focal length their lens enough to
+allow for distant objects to be imaged on retina suffer from myopia
+and have a far point that is considerably closer than infinity a
+condition known as astigmatism results when cornea is not spherical
+but instead is more curved one direction this causes horizontally
+extended objects to be focused on different parts retina than
+vertically extended objects and results distorted images
+all these conditions can be corrected using corrective lenses for
+presbyopia and hyperopia a converging lens provides extra
+curvature necessary to bring near point closer to eye while for
+myopia a diverging lens provides curvature necessary to send
+far point to infinity astigmatism is corrected with a cylindrical
+surface lens that curves more strongly one direction than
+another compensating for non uniformity cornea
+optical power corrective lenses is measured diopters a value
+equal to reciprocal focal length measured metres with a
+positive focal length corresponding to a converging lens and a negative
+focal length corresponding to a diverging lens for lenses that correct
+for astigmatism as well three numbers are given one for spherical
+power one for cylindrical power and one for angle
+orientation astigmatism
+visual effects
+main articles optical illusion and perspective graphical
+for visual effects used film video and computer graphics see
+visual effects
+ponzo illusion gif ponzo illusion relies on fact that
+parallel lines appear to converge as they approach infinity
+optical illusions also called visual illusions are characterized by
+visually perceived images that differ from objective reality
+information gathered by eye is processed brain to give a
+percept that differs from object being imaged optical illusions
+can be result a variety phenomena including physical effects
+that create images that are different from objects that make them
+physiological effects on eyes and brain excessive
+stimulation e g brightness tilt colour movement and cognitive
+illusions where eye and brain make unconscious inferences
+cognitive illusions include some which result from unconscious
+misapplication certain optical principles for example ames
+room hering müller lyer orbison ponzo sander and wundt illusions
+all rely on suggestion appearance distance by using
+converging and diverging lines same way that parallel light
+rays or indeed any set parallel lines appear to converge at a
+vanishing point at infinity two dimensionally rendered images with
+artistic perspective this suggestion is also responsible for
+famous moon illusion where moon despite having essentially
+same angular size appears much larger near horizon than it does at
+zenith this illusion so confounded ptolemy that he incorrectly
+attributed it to atmospheric refraction when he described it his
+treatise optics
+another type optical illusion exploits broken patterns to trick
+mind into perceiving symmetries or asymmetries that are not present
+examples include café wall ehrenstein fraser spiral poggendorff
+and zöllner illusions related but not strictly illusions are
+patterns that occur due to superimposition periodic structures
+for example transparent tissues with a grid structure produce shapes
+known as moiré patterns while superimposition periodic
+transparent patterns comprising parallel opaque lines or curves
+produces line moiré patterns
+optical instruments
+px table opticks c cyclopaedia c volume jpg illustrations
+various optical instruments from cyclopaedia
+main article optical instruments
+single lenses have a variety applications including photographic
+lenses corrective lenses and magnifying glasses while single mirrors
+are used parabolic reflectors and rear view mirrors combining a
+number mirrors prisms and lenses produces compound optical
+instruments which have practical uses for example a periscope is
+simply two plane mirrors aligned to allow for viewing around
+obstructions most famous compound optical instruments science
+are microscope and telescope which were both invented by
+dutch late th century
+microscopes were first developed with just two lenses an objective
+lens and an eyepiece objective lens is essentially a magnifying
+glass and was designed with a very small focal length while
+eyepiece generally has a longer focal length this has effect
+producing magnified images close objects generally an additional
+source illumination is used since magnified images are dimmer due to
+conservation energy and spreading light rays over a
+larger surface area modern microscopes known as compound microscopes
+have many lenses them typically four to optimize functionality
+and enhance image stability a slightly different variety
+microscope comparison microscope looks at side by side images to
+produce a stereoscopic binocular view that appears three dimensional
+when used by humans
+first telescopes called refracting telescopes were also developed
+with a single objective and eyepiece lens contrast to
+microscope objective lens telescope was designed with a
+large focal length to avoid optical aberrations objective focuses
+an image a distant object at its focal point which is adjusted to be
+at focal point an eyepiece a much smaller focal length
+main goal a telescope is not necessarily magnification but rather
+collection light which is determined by physical size
+objective lens thus telescopes are normally indicated by
+diameters their objectives rather than by magnification which
+can be changed by switching eyepieces because magnification a
+telescope is equal to focal length objective divided by
+focal length eyepiece smaller focal length eyepieces cause
+greater magnification
+since crafting large lenses is much more difficult than crafting large
+mirrors most modern telescopes are reflecting telescopes that is
+telescopes that use a primary mirror rather than an objective lens
+same general optical considerations apply to reflecting telescopes that
+applied to refracting telescopes namely larger primary
+mirror more light collected and magnification is still equal
+to focal length primary mirror divided by focal length
+eyepiece professional telescopes generally do not have
+eyepieces and instead place an instrument often a charge coupled
+device at focal point instead
+photography
+main article science photography
+px jonquil flowers at f jpg photograph taken with aperture
+f px jonquil flowers at f jpg photograph taken with aperture
+optics photography involves both lenses and medium which
+electromagnetic radiation is recorded whether it be a plate film
+or charge coupled device photographers must consider reciprocity
+camera and shot which is summarized by relation
+exposure aperturearea × exposuretime × sceneluminance
+other words smaller aperture giving greater depth
+focus less light coming so length time has to be
+increased leading to possible blurriness if motion occurs an example
+use law reciprocity is sunny rule which gives a
+rough estimate for settings needed to estimate proper exposure
+daylight
+a camera s aperture is measured by a unitless number called
+f number or f stop
+f often notated as
+scriptlevel n
+x n
+n and given by
+scriptlevel f
+normal n
+f d
+x f n frac
+f d
+f n frac f d
+where
+scriptlevel f
+x f
+f is focal length and
+scriptlevel d
+x d
+d is diameter entrance pupil by convention
+f is treated as a single symbol and specific values f are
+written by replacing number sign with value two ways to
+increase f stop are to either decrease diameter entrance
+pupil or change to a longer focal length case a zoom lens
+this can be done by simply adjusting lens higher f numbers also
+have a larger depth field due to lens approaching limit a
+pinhole camera which is able to focus all images perfectly regardless
+distance but requires very long exposure times
+field view that lens will provide changes with focal
+length lens there are three basic classifications based on
+relationship to diagonal size film or sensor size
+camera to focal length lens
+normal lens angle view about ° called normal because this
+angle considered roughly equivalent to human vision and a
+focal length approximately equal to diagonal film or
+sensor
+wide angle lens angle view wider than ° and focal length
+shorter than a normal lens
+long focus lens angle view narrower than a normal lens this is
+any lens with a focal length longer than diagonal measure
+film or sensor most common type long focus lens
+is telephoto lens a design that uses a special telephoto group
+to be physically shorter than its focal length
+modern zoom lenses may have some or all these attributes
+required exposure time depends on how sensitive to light medium
+being used is measured by film speed or for digital media by
+quantum efficiency early photography used media that had
+very low light sensitivity and so exposure times had to be long even
+for very bright shots as technology has improved so has
+sensitivity through film cameras and digital cameras
+other results from physical and geometrical optics apply to camera
+optics for example maximum resolution capability a particular
+camera set up is determined by diffraction limit associated with
+pupil size and given roughly by rayleigh criterion
+atmospheric optics
+main article atmospheric optics
+px firesunset edit jpg a colourful sky is often due to scattering
+light off particulates and pollution as this photograph a
+sunset during october california wildfires
+unique optical properties atmosphere cause a wide range
+spectacular optical phenomena blue colour sky is a direct
+result rayleigh scattering which redirects higher frequency blue
+sunlight back into field view observer because blue
+light is scattered more easily than red light sun takes on a
+reddish hue when it is observed through a thick atmosphere as during a
+sunrise or sunset additional particulate matter sky can scatter
+different colours at different angles creating colourful glowing skies
+at dusk and dawn scattering off ice crystals and other particles
+atmosphere are responsible for halos afterglows coronas rays
+sunlight and sun dogs variation these kinds phenomena is
+due to different particle sizes and geometries
+mirages are optical phenomena which light rays are bent due to
+thermal variations refraction index air producing displaced
+or heavily distorted images distant objects other dramatic optical
+phenomena associated with this include novaya zemlya effect where
+sun appears to rise earlier than predicted with a distorted shape
+a spectacular form refraction occurs with a temperature inversion
+called fata morgana where objects on horizon or even beyond
+horizon such as islands cliffs ships or icebergs appear elongated
+and elevated like fairy tale castles
+rainbows are result a combination internal reflection and
+dispersive refraction light raindrops a single reflection off
+backs an array raindrops produces a rainbow with an angular
+size on sky that ranges from ° to ° with red on outside
+double rainbows are produced by two internal reflections with angular
+size ° to ° with violet on outside because rainbows are
+seen with sun ° away from centre rainbow rainbows
+are more prominent closer sun is to horizon
+see also
+icon physics portal
+ion optics
+important publications optics
+list optical topics
+list textbooks electromagnetism
+references
+a b mcgraw hill encyclopedia science and technology
+th ed mcgraw hill
+kasha m transmission filters for ultraviolet
+journal optical society america
+bibcode josa k doi josa
+frerichs rudolf new optical glasses with good
+transparency infrared journal optical society
+america bibcode josa f
+doi josa
+merritt ernest optics radio transmission
+journal optical society america
+doi josa
+brown john microwave optics advances electronics
+and electron physics bibcode aeep b
+doi s
+spiller e x rays optical elements hoffman
+craig driggers ronald eds encyclopedia optical engineering
+nd ed taylor francis doi e eoe
+ehrenberg werner siday raymond e refractive
+index electron optics and principles dynamics
+proceedings physical society section b
+bibcode ppsb e doi
+born max emil wolf image reconstruction from
+projections computerized tomography principles optics
+th ed cambridge university press
+world s oldest telescope bbc news july
+from original on february retrieved jan
+t f hoad concise oxford dictionary english
+etymology isbn
+a history eye at wayback machine
+stanford edu retrieved
+t l heath a manual greek mathematics courier dover
+publications pp isbn
+william r uttal visual form detection dimensional
+space psychology press pp isbn
+from original on
+euclid elaheh kheirandish ed arabic version
+euclid s optics kit b uql dis f ikhtil f al man ir new york
+springer isbn cite book cs maint
+publisher location link
+a b ptolemy a mark smith ed ptolemy s theory
+visual perception an english translation optics with
+introduction and commentary diane publishing
+adamson peter al kindi¯ and reception greek
+philosophy adamson peter taylor r cambridge companion
+to arabic philosophy cambridge university press p
+a b rashed roshdi a pioneer anaclastics ibn sahl
+on burning mirrors and lenses isis
+bibcode isis r doi jstor
+s cid
+hogendijk jan p sabra abdelhamid i eds
+enterprise science islam new perspectives mit press
+pp isbn oclc
+g hatfield was scientific revolution really a revolution
+science f j ragep p sally s j livesey eds tradition
+transmission transformation proceedings two conferences on
+pre modern science held at university oklahoma brill
+publishers p isbn from original
+nader el bizri a philosophical perspective on alhazen s
+optics arabic sciences and philosophy
+doi s s cid
+nader el bizri defence sovereignty philosophy
+al baghdadi s critique ibn al haytham s geometrisation place
+arabic sciences and philosophy
+doi s s cid
+g simon gaze ibn al haytham medieval history
+journal doi s cid
+ian p howard brian j rogers binocular vision and
+stereopsis oxford university press p isbn
+from original on
+elena agazzi enrico giannetto franco giudice representing
+light across arts and sciences theories and practices v r unipress
+gmbh p isbn from original on
+el bizri nader classical optics and perspectiva
+traditions leading to renaissance hendrix john shannon
+carman charles h eds renaissance theories vision visual
+culture early modernity farnham surrey ashgate publishing
+pp isbn el bizri nader seeing
+reality perspective art optics and science
+painting lupacchini rossella angelini annarita eds art
+science from perspective drawing to quantum randomness doredrecht
+springer pp
+d c lindberg theories vision from al kindi to kepler
+chicago univ chicago pr pp
+ilardi vincent renaissance vision from spectacles to
+telescopes philadelphia american philosophical society pp
+galileo project science telescope by al van helden
+at wayback machine galileo rice edu retrieved
+henry c king history telescope courier dover
+publications p isbn from original
+paul s agutter denys n wheatley thinking about life
+history and philosophy biology and other sciences springer p
+isbn from original on
+ilardi p
+microscopes time line at wayback machine
+nobel foundation retrieved april
+watson fred stargazer life and times
+telescope allen unwin p isbn from
+original on
+caspar max first published kepler dover
+publications pp isbn
+ilardi p
+caspar pp
+a b a i sabra theories light from descartes to
+newton cup archive isbn
+w f magie a source book physics harvard university
+press p
+j c maxwell a dynamical theory electromagnetic
+field philosophical transactions royal society london
+bibcode rspt m
+doi rstl s cid
+for a solid approach to complexity planck s intellectual
+motivations for quantum for his reluctant acceptance its
+implications see h kragh max planck reluctant revolutionary
+at wayback machine physics world december
+einstein a on a heuristic viewpoint concerning
+production and transformation light ter haar d ed old
+quantum theory pergamon pp oclc chapter is an
+english translation einstein s paper on photoelectric
+effect
+einstein a Über einen die erzeugung und verwandlung des
+lichtes betreffenden heuristischen gesichtspunkt on a heuristic
+viewpoint concerning production and transformation light
+annalen der physik german
+bibcode anp e doi andp
+on constitution atoms and molecules philosophical
+magazine series from original on july
+landmark paper laying bohr model atom and
+molecular bonding
+r feynman chapter qed strange theory light
+and matter princeton university press p isbn
+n taylor laser inventor nobel laureate and
+thirty year patent war new york simon schuster
+ariel lipson stephen g lipson henry lipson october
+optical physics cambridge university press p
+isbn from original on may
+retrieved july
+arthur schuster an introduction to theory optics e
+arnold p
+j e greivenkamp field guide to geometrical optics spie
+field guides vol fg spie pp isbn
+a b young freedman p
+young freedman pp
+young freedman pp
+a b young freedman p
+marchand e w gradient index optics new york academic
+press
+young freedman pp
+hecht p
+hecht p
+young freedman p
+young freedman p
+mv klein te furtak optics john wiley sons new york
+maxwell james clerk a dynamical theory
+electromagnetic field pdf philosophical transactions royal
+society london bibcode rspt m
+doi rstl s cid pdf from
+original on this article accompanied a december
+presentation by maxwell to royal society see also a dynamical
+theory electromagnetic field
+m born and e wolf principles optics cambridge
+cambridge university press isbn
+j goodman introduction to fourier optics rd ed
+roberts co publishers isbn
+a e siegman lasers university science books
+isbn chapter
+young freedman pp
+young freedman p
+young freedman pp
+a b p hariharan optical interferometry pdf nd ed
+san diego us academic press isbn pdf
+from original on
+e r hoover cradle greatness national and world
+achievements ohio s western reserve cleveland shaker savings
+association
+young freedman pp
+aubert j l memoires pour l histoire des sciences et des
+beaux arts memoirs for history science and fine arts
+french paris impr de s a s chez e ganeau p
+brewster d a treatise on optics london longman rees
+orme brown green and john taylor p
+hooke r micrographia or some physiological descriptions
+minute bodies made by magnifying glasses london j martyn and j
+allestry isbn cite book isbn date
+incompatibility help
+turnbull h w early scottish relations with
+royal society i james gregory f r s notes and records
+royal society london doi rsnr
+rothman t everything s relative and other fables
+science and technology new jersey wiley isbn
+hecht p
+hecht pp young freedman p
+hecht pp young freedman pp
+longhurst r s geometrical and physical optics nd ed
+london longmans bibcode gpo book l
+hecht p young freedman pp
+hecht p
+hecht p young freedman p
+tubbs robert nigel september lucky exposures diffraction
+limited astronomical imaging through atmosphere phd thesis
+cambridge university from original on
+c f bohren d r huffman absorption and scattering
+light by small particles wiley isbn
+a b j d jackson classical electrodynamics nd ed
+wiley p isbn
+hecht pp
+a b r ramaswami k n sivarajan optical networks a
+practical perspective london academic press isbn
+from original on
+brillouin léon wave propagation and group velocity academic
+press inc new york
+m born e wolf principle optics cambridge cambridge
+university press pp isbn
+hecht pp young freedman pp
+a b hecht p
+hecht pp young freedman p
+hecht pp young freedman p
+hecht pp young freedman p
+hecht pp
+young freedman p
+hecht pp
+hecht p young freedman pp
+f j duarte tunable laser optics nd ed new york crc
+pp isbn from original on
+hecht p young freedman pp
+hecht pp
+hecht pp
+hecht pp
+walls daniel frank milburn g j quantum optics
+springer
+mcaulay alastair d january optical computer
+architectures optical concepts to next generation
+computers wiley isbn
+shen y r principles nonlinear optics new york
+wiley interscience isbn
+laser reference com from original on
+retrieved
+charles h townes nobel lecture at
+wayback machine nobelprize org
+vlt s artificial star eso picture week from
+original on july retrieved june
+c h townes first laser university chicago
+from original on retrieved
+c h townes first laser laura garwin tim lincoln
+eds a century nature twenty one discoveries that changed
+science and world university chicago press pp
+what is a bar code at wayback machine
+denso wave com
+how cd was developed bbc news from
+original on retrieved
+j wilson j f b hawkes lasers principles and
+applications prentice hall international series optoelectronics
+prentice hall isbn
+a b c d atchison g smith optics human eye
+elsevier isbn
+a b e r kandel j h schwartz t m jessell principles
+neural science th ed new york mcgraw hill pp
+a b d meister ophthalmic lens design opticampus com
+from original on december retrieved november
+j bryner key to all optical illusions discovered
+livescience from original on
+geometry vanishing point at wayback
+machine at convergence at wayback machine
+moon illusion explained at wayback
+machine don mccready university wisconsin whitewater
+a k jain m figueiredo j zerubia energy minimization
+methods computer vision and pattern recognition springer
+young freedman pp
+young freedman pp
+p e nothnagle w chambers m w davidson introduction to
+stereomicroscopy nikon microscopyu from original on
+young freedman p
+young freedman pp
+samuel edward sheppard charles edward kenneth mees
+investigations on theory photographic process longmans
+green and co p
+b j suess mastering black and white photography allworth
+communications isbn
+m j langford basic photography focal press
+a b warren bruce photography cengage learning p
+isbn from original on
+leslie d stroebel view camera technique focal press
+s simmons using view camera amphoto books p
+sidney f ray applied photographic optics lenses and
+optical systems for photography film video electronic and digital
+imaging focal press p isbn from
+original on
+new york times staff new york times guide to essential
+knowledge macmillan isbn
+r r carlton a mckenna adler principles radiographic
+imaging an art and a science thomson delmar learning
+w crawford keepers light a history and working
+guide to early photographic processes dobbs ferry ny morgan
+morgan p isbn
+j m cowley diffraction physics amsterdam north holland
+c d ahrens meteorology today an introduction to weather
+climate and environment th ed west publishing company
+pp isbn
+a young an introduction to mirages from original
+young freedman pp
+works cited
+hecht eugene optics th ed pearson education
+young hugh d freedman roger a university physics
+extended version with modern physics th ed pearson education
+further reading
+born max wolf emil principles optics cambridge
+university press isbn
+fowles grant r introduction to modern optics th ed
+addison wesley longman
+lipson stephen g lipson henry tannhauser david stefan
+optical physics cambridge university press isbn
+serway raymond a jewett john w physics for scientists
+and engineers th illustrated ed belmont california
+thomson brooks cole isbn
+tipler paul a mosca gene physics for scientists and
+engineers electricity magnetism light and elementary modern
+physics vol w h freeman isbn
+external links
+wikimedia commons logo
+wikimedia commons has media related to optics
+wikiversity logo
+wikiversity has learning resources about optics
+wikibooks logo
+wikibooks has a book on topic optics
+wikibooks logo
+wikibooks has a book on topic physics study guide optics
+relevant discussions
+optics on our time at bbc
+textbooks and tutorials
+light and matter an open source textbook containing a treatment
+optics ch
+optics optics library and community
+fundamental optics melles griot technical guide
+physics light and optics brigham young university
+undergraduate book
+optics for pv a step by step introduction to classical optics
+further reading
+optics and photonics physics enhancing our lives by institute
+physics publications
+societies
+european optical society link
+optical society osa link
+spie link
+european photonics industry consortium link
+major branches physics
+divisions
+applied
+engineering
+approaches
+experimental
+theoretical
+computational
+classical
+classical mechanics
+newtonian
+analytical
+celestial
+continuum
+acoustics
+classical electromagnetism
+classical optics
+thermodynamics
+statistical
+non equilibrium
+modern
+relativistic mechanics
+special
+general
+nuclear physics
+particle physics
+quantum mechanics
+atomic molecular and optical physics
+atomic
+molecular
+modern optics
+condensed matter physics
+solid state physics
+crystallography
+interdisciplinary
+astrophysics outline
+atmospheric physics
+biophysics
+chemical physics
+geophysics
+materials science
+mathematical physics
+medical physics
+ocean physics
+quantum information science
+related
+history physics
+nobel prize physics
+philosophy physics
+physics education
+research
+timeline physics discoveries
+glass science topics
+basics
+glass
+glass transition
+supercooling
+formulation
+aginsbte
+bioglass
+borophosphosilicate glass
+borosilicate glass
+ceramic glaze
+chalcogenide glass
+cobalt glass
+cranberry glass
+crown glass
+flint glass
+fluorosilicate glass
+fused quartz
+gesbte
+gold ruby glass
+lead glass
+milk glass
+phosphosilicate glass
+photochromic lens glass
+silicate glass
+soda lime glass
+sodium hexametaphosphate
+soluble glass
+tellurite glass
+thoriated glass
+ultra low expansion glass
+uranium glass
+vitreous enamel
+wood s glass
+zblan
+glass ceramics
+bioactive glass
+corningware
+glass ceramic to metal seals
+macor
+zerodur
+preparation
+annealing
+chemical vapor deposition
+glass batch calculation
+glass forming
+glass melting
+glass modeling
+ion implantation
+liquidus temperature
+sol gel technique
+viscosity
+vitrification
+optics
+achromat
+dispersion
+gradient index optics
+hydrogen darkening
+optical amplifier
+optical fiber
+optical lens design
+photochromic lens
+photosensitive glass
+refraction
+transparent materials
+surface
+modification
+anti reflective coating
+chemically strengthened glass
+corrosion
+dealkalization
+dna microarray
+hydrogen darkening
+insulated glazing
+porous glass
+self cleaning glass
+sol gel technique
+tempered glass
+diverse
+topics
+conservation and restoration glass objects
+glass coated wire
+safety glass
+glass databases
+glass electrode
+glass fiber reinforced concrete
+glass ionomer cement
+glass microspheres
+glass reinforced plastic
+glass cloth
+glass to metal seal
+porous glass
+pre preg
+prince rupert s drops
+radioactive waste vitrification
+windshield
+glass fiber
+authority control databases edit this at wikidata
+international
+national
+united states
+france
+bnf
+japan
+czech republic
+spain
+israel
+other
+slâm ansiklopedisi
+yale lux
+retrieved from
+https en wikipedia org w index php title optics oldid
+categories
+optics
+light
+electromagnetic radiation
+applied and interdisciplinary physics
+atomic molecular and optical physics
+natural philosophy
+hidden categories
+webarchive template wayback links
+cs maint publisher location
+cs german language sources de
+cs long volume value
+cs french language sources fr
+cs errors isbn date
+articles with short description
+short description is different from wikidata
+articles containing ancient greek to language text
+articles containing latin language text
+commons category link is on wikidata
+this page was last edited on june at utc
+text is available under creative commons attribution sharealike
+license additional terms may apply by using this site you
+agree to terms use and privacy policy wikipedia® is a
+registered trademark wikimedia foundation inc a
+non profit organization
+privacy policy
+about wikipedia
+disclaimers
+contact wikipedia
+legal safety contacts
+code conduct
+developers
+statistics
+cookie statement
+mobile view
+wikimedia foundation
+powered by mediawiki
+button search
+button search
+toggle table contents
+optics
+button languages add topic

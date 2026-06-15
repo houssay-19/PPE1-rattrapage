@@ -1,0 +1,219 @@
+     * 1 Electromagnetic spectrum and visible light
+     * 2 Speed of light
+     * 4 Light sources
+     * 6 Light pressure
+     * 7 Historical theories about light, in chronological order
+       (BUTTON) Toggle Historical theories about light, in chronological
+     * 8 Use for light on Earth
+Light
+   For other uses, see Light (disambiguation). "Visible light" redirects
+   here. For other uses, see Visible light (disambiguation).
+   dispersing a beam of white light. The longer wavelengths (red) and the
+     * Light
+   Light, visible light, or visible radiation is electromagnetic radiation
+   that can be perceived by the human eye.^[1]^[2] Visible light spans the
+   In physics, the term "light" may refer more broadly to electromagnetic
+   sense, gamma rays, X-rays, microwaves and radio waves are also light.
+   This is why visible radiation is commonly termed visible light.^[7]^[8]
+   The primary properties of light are intensity, propagation direction,
+   quanta, of light called photons can be detected with specialized
+   everyday interactions with light can be understood using geometrical
+   The main source of natural light on Earth is the Sun. Historically,
+   another important source of light for humans has been fire, from
+   electric lights and power systems, electric lighting has effectively
+   replaced firelight.
+Electromagnetic spectrum and visible light
+   visible portion highlighted. The bottom graph (Visible spectrum) is
+   perceive as light, ultraviolet, X-rays and gamma rays. The designation
+   EMR in the visible light region consists of quanta (called photons)
+   light spectrum, EMR becomes invisible to humans (infrared) because its
+   Above the frequency range of visible light, ultraviolet light becomes
+   light.
+   Various sources define visible light as narrowly as
+   Plant growth is also affected by the colour spectrum of light, a
+Speed of light
+   Main article: Speed of light
+   of sun light inside the cavity of Rocca ill'Abissu at
+   The speed of light in vacuum is defined to be exactly 299792458 m/s
+   of light in SI units results from the fact that the metre is now
+   defined in terms of the speed of light. All forms of electromagnetic
+   Different physicists have attempted to measure the speed of light
+   throughout history. Galileo attempted to measure the speed of light in
+   light was conducted by Ole Rømer, a Danish physicist, in 1676. Using a
+   calculated that light takes about 22 minutes to traverse the diameter
+   Another more accurate measurement of the speed of light was performed
+   light at a mirror several kilometers away. A rotating cog wheel was
+   placed in the path of the light beam as it traveled from the source, to
+   of rotation, Fizeau was able to calculate the speed of light as
+   conducted experiments on the speed of light from 1877 until his death
+   mirrors to measure the time it took light to make a round trip from
+   The effective velocity of light in various transparent substances
+   speed of light in water is about 3/4 of that in vacuum.
+   Two independent teams of physicists were said to bring light to a
+   However, the popular description of light being "stopped" in these
+   experiments refers only to light being stored in the excited states of
+   be light.
+   The study of light and the interaction of light and matter is termed
+   the wavelength of light is small in comparison to the objects it
+   A transparent object allows light to transmit or pass through.
+   Conversely, an opaque object does not allow light to transmit through
+   and instead reflecting or absorbing the light it receives. Most objects
+   do not reflect or transmit light specularly and to some degree scatters
+   the incoming light, which is called glossiness. Surface scattering is
+   objects, translucent objects allow light to transmit through, but
+   translucent objects also scatter certain wavelength of light via
+   Refraction is the bending of light rays when passing through a surface
+   When a beam of light crosses the boundary between a vacuum and another
+   medium, or between two different media, the wavelength of the light
+   changes, but the frequency remains constant. If the beam of light is
+   The refractive quality of lenses is frequently used to manipulate light
+Light sources
+   "Lightsource" redirects here. For the solar energy developer named
+   Lightsource, see Lightsource Renewable Energy. For a particle
+   accelerator used to generate X-rays, see Synchrotron light source.
+   Further information: List of light sources
+   There are many sources of light. A body at a given temperature emits a
+   source is sunlight, the radiation emitted by the chromosphere of the
+   the ground is visible.^[25] Another example is incandescent light
+   bulbs, which emit only around 10% of their energy as visible light and
+   the remainder as infrared. A common thermal light source in history is
+   Atoms emit and absorb light at characteristic energies. This produces
+   spontaneous, as in light-emitting diodes, gas discharge lamps (such as
+   neon lamps and neon signs, mercury-vapor lamps, etc.) and flames (light
+   characteristic yellow light). Emission can also be stimulated, as in a
+   through a medium faster than the speed of light in that medium can
+   called bioluminescence. For example, fireflies produce light by this
+   Certain substances produce light when they are illuminated by more
+   emit light slowly after excitation by more energetic radiation. This is
+   [250px-Colorful_artificial_lighting_at_night.jpg] Hong Kong illuminated
+   by colourful artificial lighting
+   Certain other mechanisms can produce light:
+   When the concept of light is intended to include very-high-energy
+   Light is measured with two main alternative sets of units: radiometry
+   consists of measurements of light power at all wavelengths, while
+   photometry measures light with wavelength weighted with respect to a
+   useful, for example, to quantify Illumination (lighting) intended for
+   in that they take into account how the human eye responds to light. The
+   peaks at a wavelength of around 555 nm. Therefore, two sources of light
+   which produce the same intensity (W/m^2) of visible light do not
+   "bright" a light appears to be than raw intensity. They relate to raw
+Light pressure
+   Light exerts physical pressure on objects in its path, a phenomenon
+   explained by the particle nature of light: photons strike and transfer
+   their momentum. Light pressure is equal to the power of the light beam
+   divided by c, the speed of light.  Due to the magnitude of c, the
+   effect of light pressure is negligible for everyday objects.  For
+   of light pressure is more significant and exploiting light pressure to
+   scales, light pressure can cause asteroids to spin faster,^[28] acting
+   to light pressure, this interpretation is incorrect; the characteristic
+   not be confused with the Nichols radiometer, in which the (slight)
+   friction) is directly caused by light pressure.^[32] As a consequence
+   of light pressure, Einstein in 1909 predicted the existence of
+   Usually light momentum is aligned with its direction of motion.
+Historical theories about light, in chronological order
+   properties of light. Euclid postulated that light travelled in straight
+   atomists, wrote that "The light & heat of the sun; these are composed
+   refraction of light in his book Optics.^[37]
+   around the early centuries AD developed theories on light. According to
+   the Samkhya school, light is one of the five fundamental "subtle"
+   Purana refers to sunlight as "the seven rays of the sun".^[38]
+   momentary flashes of light or energy. They viewed light as being an
+   René Descartes (1596–1650) held that light was a mechanical property of
+   of light that assumed, incorrectly, that light travelled faster in a
+   was correct in assuming that light behaved like a wave and in
+   concluding that refraction could be explained by the speed of light in
+   he clearly asserts that light is only a mechanical property of the
+   luminous body and the transmitting medium, Descartes's theory of light
+   Main article: Corpuscular theory of light
+   light which was published posthumously in the 1660s. Isaac Newton
+   Descartes's theory of the plenum. He stated in his Hypothesis of Light
+   of 1675 that light was composed of corpuscles (particles of matter)
+   arguments against the wave nature of light was that waves were known to
+   bend around obstacles, while light travelled only in straight lines. He
+   did, however, explain the phenomenon of the diffraction of light (which
+   had been observed by Francesco Grimaldi) by allowing that a light
+   Newton's theory could be used to predict the reflection of light, but
+   could only explain refraction by incorrectly assuming that light
+   his Opticks of 1704. His reputation helped the particle theory of light
+   light led Pierre-Simon Laplace to argue that a body could be so massive
+   that light could not escape from it. In other words, it would become
+   after a wave theory of light became firmly established as the model for
+   light (as has been explained, neither a particle or wave theory is
+   fully correct). A translation of Newton's essay on light appears in The
+   The fact that light could be polarized was for the first time
+   explained all known phenomena of light polarization. At that time the
+   "pulse theory" and compared the spreading of light to that of waves in
+   suggested that light's vibrations could be perpendicular to the
+   mathematical wave theory of light in 1678 and published it in his
+   Treatise on Light in 1690. He proposed that light was emitted in all
+   The wave theory predicted that light waves could interfere with each
+   showed by means of numerous diffraction experiments that light behaved
+   wavelengths of light and explained colour vision in terms of
+   polarization of light can be explained by the wave theory if light were
+   wave theory of light and presented it to the Académie des Sciences in
+   suggesting that light must be transverse waves, not the longitudinal
+   transverse wave theory of light with no longitudinal
+   The weakness of the wave theory was that light waves, like sound waves,
+   Newton's corpuscular theory implied that light would travel faster in a
+   opposite. At that time, the speed of light could not be measured
+   linearly polarized light is rotated when the light rays travel along
+   first evidence that light was related to electromagnetism. In 1846 he
+   speculated that light might be some form of disturbance propagating
+   along magnetic field lines.^[47] Faraday proposed in 1847 that light
+   radiation and light. Maxwell discovered that self-propagating
+   which happened to be equal to the previously measured speed of light.
+   From this, Maxwell concluded that light was a form of electromagnetic
+   demonstrating that these waves behaved exactly like visible light,
+   needed to explain effects even with visual light that Maxwell's
+   suggested that although light was a wave, these waves could gain or
+   called these "lumps" of light energy "quanta" (from a Latin word for
+   "how much"). In 1905, Albert Einstein used the idea of light quanta to
+   explain the photoelectric effect and suggested that these light quanta
+   Lewis named these light quanta particles photons.^[49]
+   Eventually quantum mechanics came to picture light as (in some sense)
+   approximations light can be described sometimes with mathematics
+   loses all qualities of one or the other. Visible light, which occupies
+   In 1924–1925, Satyendra Nath Bose showed that light followed different
+   statistics of light (see degree of coherence). This led to the
+   variations between laser light, thermal light, exotic squeezed states,
+   etc. as it became understood that light cannot be fully described just
+   light consists of photons. Previously unknown quantum states of light
+   with characteristics unlike classical states, such as squeezed light
+   (e.g. Raman spectroscopy) were found, and mechanical forces of light on
+Use for light on Earth
+   Sunlight provides the energy that green plants use to create sugars
+   generate their own light, a process called bioluminescence. For
+   example, fireflies use light to locate mates and vampire squid use it
+     * Light beam – in particular about light beams visible from the side
+     * Light Fantastic (TV series)
+     * Light mill
+     * List of light sources
+    1. ^ CIE (1987). International Lighting Vocabulary Archived 27
+       By the International Lighting Vocabulary, the definition of light
+    2. ^ CIE JTC 8. "light, <photometric> noun". CIE S 017/E:2020 ILV:
+       International Lighting Vocabulary, 2nd Edition. International
+       respond to all the wavelengths of light from 400–700 nm. This is
+       p. 50. ISBN 978-0-262-02336-8. Retrieved 11 October 2013. "Light is
+       Light in Nature (2nd ed.). Cambridge: Cambridge University Press.
+       to light rays from 390 to 760 nm. This can be extended to a range
+       Statistical Method and the Speed of Light". Statistical Science. 15
+   19. ^ ^a ^b Newcomb, Simon (1911). "Light" . In Chisholm, Hugh (ed.).
+       light between Mount Wilson and Mount San Antonio". Astrophysical
+       Researchers now able to stop, restart light". News.harvard.edu.
+   26. ^ Tang, Hong (1 October 2009). "May The Force of Light Be With
+   36. ^ O'Connor, J J; Robertson, E F (August 2002). "Light through the
+   39. ^ ^a ^b Theories of light, from Descartes to Newton A.I. Sabra CUP
+   45. ^ James R. Hofmann, André-Marie Ampère: Enlightenment and
+     * Wikimedia Commons logo Media related to Light at Wikimedia Commons
+   Wiktionary logo The dictionary definition of light at Wiktionary
+     Quotations related to Light at Wikiquote
+     * Light
+     * Starlight
+     * Sunlight
+          + Light
+     * Light-on-dark
+          + Lightness
+     * Lighting
+   "https://en.wikipedia.org/w/index.php?title=Light&oldid=1353471500"
+     * Light
+   Light

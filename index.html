@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>PPE1 — Lumière / Light</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<nav>
+  <a class="logo" href="index.html">
+    <img src="images/plurital-logo.jpg" alt="PluriTAL">
+  </a>
+  <a href="index.html" class="active">Accueil</a>
+  <a href="technique.html">Démarche technique</a>
+  <div class="dropdown">
+    <a href="#">Résultats ▾</a>
+    <div class="dropdown-menu">
+      <a href="resultats-fr.html">🇫🇷 Français — lumière</a>
+      <a href="resultats-en.html">🇬🇧 English — light</a>
+    </div>
+  </div>
+  <a href="analyse.html">Analyse comparative</a>
+</nav>
+
+<div class="page-header">
+  <h1>Projet de Programmation Encadré — PPE1</h1>
+  <p>
+    Corpus web bilingue autour du mot
+    <strong>lumière</strong> (FR) / <strong>light</strong> (EN)
+  </p>
+  <p style="font-size:.9em;margin-top:8px;color:#a8b8d8">
+    Houssaynatou Diallo — M1 PluriTAL 2025-2026
+  </p>
+</div>
+
+<div class="container">
+
+  <!-- ── Le projet ── -->
+  <div class="card">
+    <h2>Le projet</h2>
+    <p>
+      Ce projet de programmation encadré s'inscrit dans le cadre du Master 1
+      Traitement Automatique des Langues (PluriTAL), organisé conjointement entre
+      l'Université Sorbonne Nouvelle, l'INALCO et l'Université Paris Nanterre.
+    </p>
+    <p>
+      L'objectif est de constituer et d'analyser un corpus web bilingue centré sur
+      un même concept : la <strong>lumière</strong> en français et le <strong>light</strong>
+      en anglais. Pour chaque langue, une chaîne de traitement automatisée (aspiration
+      de pages, extraction de texte, concordances, bigrammes, cooccurrents, nuage de mots)
+      a été mise en place à l'aide de scripts bash et Python. Une analyse comparative
+      croise ensuite les résultats obtenus dans les deux langues.
+    </p>
+    <div style="margin-top:16px">
+      <a class="btn" href="technique.html">Démarche technique</a>
+      <a class="btn btn-orange" href="analyse.html">Analyse comparative</a>
+    </div>
+  </div>
+
+  <!-- ── Le mot ── -->
+  <h2 style="color:#1a2744;margin-bottom:16px;font-size:1.5em">Notre mot d'étude</h2>
+  <div class="grid-2">
+
+    <!-- Français -->
+    <div class="lang-col fr">
+      <h3><span class="badge badge-fr">FR</span> Lumière</h3>
+      <p>
+        Le mot <strong>lumière</strong> /ly.mjɛʁ/ est un substantif féminin issu
+        du latin <em>lumen, luminis</em>. En physique, il désigne le rayonnement
+        électromagnétique visible par l'œil humain (longueurs d'onde entre 380
+        et 780 nm). Au sens figuré, il renvoie à la clarté de l'esprit,
+        à la connaissance, à l'illumination métaphorique.
+      </p>
+      <p>
+        En France, le terme est indissociable du <em>Siècle des Lumières</em>
+        (XVIII<sup>e</sup> siècle) et des frères <em>Lumière</em>, inventeurs du
+        cinématographe. Il entre dans de nombreuses expressions : <em>mettre en
+        lumière</em>, <em>à la lumière de</em>, <em>faire la lumière sur</em>.
+        Contrairement à son équivalent anglais, « lumière » est sémantiquement
+        plus spécifique, son sens premier étant presque exclusivement lié à
+        l'illumination et à la physique optique.
+      </p>
+      <p>
+        <strong>Étymologie :</strong> latin <em>lumen</em> → ancien français
+        <em>lumiere</em> → français <em>lumière</em>.
+      </p>
+      <div style="margin-top:14px">
+        <a class="btn" href="resultats-fr.html">Voir les résultats FR</a>
+      </div>
+    </div>
+
+    <!-- Anglais -->
+    <div class="lang-col en">
+      <h3><span class="badge badge-en">EN</span> Light</h3>
+      <p>
+        Le mot anglais <strong>light</strong> /laɪt/ est remarquable par sa
+        haute polysémie. Comme substantif, il désigne le rayonnement visible
+        (sens partagé avec le français). Comme adjectif, il signifie
+        « léger (not heavy) » ou « pâle (in color) ». Comme verbe, il signifie
+        « allumer » ou « éclairer ». Cette triple nature grammaticale n'a pas
+        d'équivalent exact en français.
+      </p>
+      <p>
+        Son étymologie remonte au vieil anglais <em>lēoht</em>, issu du
+        proto-germanique <em>*liuhtam</em>. Il entre dans de très nombreux
+        composés : <em>sunlight</em>, <em>moonlight</em>, <em>highlight</em>,
+        <em>spotlight</em>, <em>daylight</em>, <em>flashlight</em>. On le
+        retrouve dans des idiomes : <em>to come to light</em>, <em>to see the
+        light</em>, <em>in light of</em>.
+      </p>
+      <p>
+        <strong>Étymologie :</strong> vieil anglais <em>lēoht</em>
+        → moyen anglais <em>light</em>.
+      </p>
+      <div style="margin-top:14px">
+        <a class="btn btn-orange" href="resultats-en.html">Voir les résultats EN</a>
+      </div>
+    </div>
+
+  </div><!-- /.grid-2 -->
+
+  <!-- ── Accès rapide ── -->
+  <div class="card">
+    <h2>Accès aux résultats</h2>
+    <table>
+      <thead>
+        <tr>
+          <th>Langue</th>
+          <th>Mot cible</th>
+          <th>Concordances</th>
+          <th>Bigrammes</th>
+          <th>Cooccurrents</th>
+          <th>Nuage de mots</th>
+          <th>Tableau</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td><span class="badge badge-fr">FR</span></td>
+          <td><strong>lumière</strong></td>
+          <td><a href="concordances/fr/concordances.html">voir</a></td>
+          <td><a href="bigrammes/fr/bigrammes.html">voir</a></td>
+          <td><a href="cooccurrents/fr/cooccurrents.html">voir</a></td>
+          <td><a href="nuages/fr/nuage.png">voir</a></td>
+          <td><a href="tableaux/fr/tableau.html">voir</a></td>
+        </tr>
+        <tr>
+          <td><span class="badge badge-en">EN</span></td>
+          <td><strong>light</strong></td>
+          <td><a href="concordances/en/concordances.html">voir</a></td>
+          <td><a href="bigrammes/en/bigrammes.html">voir</a></td>
+          <td><a href="cooccurrents/en/cooccurrents.html">voir</a></td>
+          <td><a href="nuages/en/nuage.png">voir</a></td>
+          <td><a href="tableaux/en/tableau.html">voir</a></td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+
+</div><!-- /.container -->
+
+<footer>
+  PPE1 Rattrapage 2025-2026 — Houssaynatou Diallo — M1 PluriTAL
+  (Sorbonne Nouvelle / INALCO / Paris Nanterre)
+</footer>
+
+</body>
+</html>

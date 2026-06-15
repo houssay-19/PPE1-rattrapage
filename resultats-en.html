@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Results EN — light</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<nav>
+  <a class="logo" href="index.html">
+    <img src="images/plurital-logo.jpg" alt="PluriTAL">
+  </a>
+  <a href="index.html">Accueil</a>
+  <a href="technique.html">Démarche technique</a>
+  <div class="dropdown">
+    <a href="#" class="active">Résultats ▾</a>
+    <div class="dropdown-menu">
+      <a href="resultats-fr.html">🇫🇷 Français — lumière</a>
+      <a href="resultats-en.html" class="active">🇬🇧 English — light</a>
+    </div>
+  </div>
+  <a href="analyse.html">Analyse comparative</a>
+</nav>
+
+<div class="page-header" style="background:linear-gradient(135deg, #1a2744 0%, #6b1a1a 100%)">
+  <h1><span class="badge badge-en" style="font-size:.6em;vertical-align:middle;margin-right:8px">EN</span>
+    Results — <em>light</em>
+  </h1>
+  <p>English corpus — 10 Wikipedia pages</p>
+</div>
+
+<div class="container">
+
+  <!-- ── Statistiques rapides ── -->
+  <div class="stats-row">
+    <div class="stat-card" style="border-top-color:#c62828">
+      <span class="nb" style="color:#c62828">10</span>
+      <span class="label">URLs collected</span>
+    </div>
+    <div class="stat-card" style="border-top-color:#c62828">
+      <span class="nb" id="nb-occ-en" style="color:#c62828">–</span>
+      <span class="label">Occurrences of <em>light</em></span>
+    </div>
+    <div class="stat-card" style="border-top-color:#c62828">
+      <span class="nb" id="nb-mots-en" style="color:#c62828">–</span>
+      <span class="label">Words in corpus</span>
+    </div>
+    <div class="stat-card" style="border-top-color:#c62828">
+      <span class="nb" style="color:#c62828">±5</span>
+      <span class="label">Context tokens</span>
+    </div>
+  </div>
+
+  <!-- ── Tableau récapitulatif ── -->
+  <div class="card">
+    <h2>Summary table</h2>
+    <p>
+      Overview of collected pages: HTTP status, encoding, word count and
+      occurrences of the target word per page.
+    </p>
+    <div class="info-box">
+      📄 <a href="tableaux/en/tableau.html" target="_blank">Open full table</a>
+    </div>
+    <iframe class="sub-frame" src="tableaux/en/tableau.html" title="Summary table EN"></iframe>
+  </div>
+
+  <!-- ── Nuage de mots ── -->
+  <div class="card">
+    <h2>Word cloud</h2>
+    <p>
+      Most frequent words in the English corpus, stopwords and target word
+      <em>light</em> excluded.
+    </p>
+    <img
+      class="result-img"
+      src="nuages/en/nuage.png"
+      alt="Word cloud — light (EN)"
+      onerror="this.style.display='none';this.nextElementSibling.style.display='block'"
+    >
+    <div class="info-box" style="display:none">
+      ⚠ Word cloud image not yet generated.
+      Run: <code>python3 programmes/nuage_mots.py en light</code>
+    </div>
+  </div>
+
+  <!-- ── Concordances ── -->
+  <div class="card">
+    <h2>KWiC Concordancer</h2>
+    <p>
+      Every occurrence of <em>light</em> in the corpus, with 5 context tokens
+      on each side. KWiC (KeyWord In Context) format.
+    </p>
+    <div class="info-box">
+      📄 <a href="concordances/en/concordances.html" target="_blank">Open concordancer</a>
+    </div>
+    <iframe class="sub-frame" src="concordances/en/concordances.html" title="Concordances EN"></iframe>
+  </div>
+
+  <!-- ── Cooccurrents ── -->
+  <div class="card">
+    <h2>Co-occurrents of <em>light</em></h2>
+    <p>
+      Words appearing most frequently within ±5 tokens of <em>light</em>.
+    </p>
+    <div class="info-box">
+      📄 <a href="cooccurrents/en/cooccurrents.html" target="_blank">Open co-occurrents table</a>
+    </div>
+    <iframe class="sub-frame" src="cooccurrents/en/cooccurrents.html" title="Co-occurrents EN"></iframe>
+  </div>
+
+  <!-- ── Bigrammes ── -->
+  <div class="card">
+    <h2>Most frequent bigrams</h2>
+    <p>
+      Top 30 consecutive word pairs in the English corpus, stopwords excluded.
+    </p>
+    <div class="info-box">
+      📄 <a href="bigrammes/en/bigrammes.html" target="_blank">Open bigrams table</a>
+    </div>
+    <iframe class="sub-frame" src="bigrammes/en/bigrammes.html" title="Bigrams EN"></iframe>
+  </div>
+
+</div><!-- /.container -->
+
+<footer>
+  PPE1 Rattrapage 2025-2026 — Houssaynatou Diallo — M1 PluriTAL
+</footer>
+
+</body>
+</html>

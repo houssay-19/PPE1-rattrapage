@@ -1,0 +1,2244 @@
+   #Edit this page Wikipedia (en) Wikipedia Atom feed
+
+   Jump to content
+
+   [ ] Main menu
+   Main menu
+   (BUTTON) move to sidebar (BUTTON) hide
+   Navigation
+     * Main page
+     * Contents
+     * Current events
+     * Random article
+     * About Wikipedia
+     * Contact us
+
+   Contribute
+     * Help
+     * Learn to edit
+     * Community portal
+     * Recent changes
+     * Upload file
+     * Special pages
+
+   Wikipedia The Free Encyclopedia
+   Search
+   ____________________
+   (BUTTON) Search
+
+   [ ] Appearance
+
+     * Donate
+     * Create account
+     * Log in
+
+   [ ] Personal tools
+     * Donate
+     * Create account
+     * Log in
+
+Contents
+
+   (BUTTON) move to sidebar (BUTTON) hide
+     * (Top)
+     * 1 Measurement
+     * 2 Composition and power
+       (BUTTON) Toggle Composition and power subsection
+          + 2.1 Published tables
+     * 3 Intensity in the Solar System
+     * 4 Variations in solar irradiance
+       (BUTTON) Toggle Variations in solar irradiance subsection
+          + 4.1 Seasonal and orbital variation
+          + 4.2 Solar intensity variation
+     * 5 Solar irradiance
+       (BUTTON) Toggle Solar irradiance subsection
+          + 5.1 Solar constant
+          + 5.2 Total solar irradiance (TSI) and spectral solar irradiance
+            (SSI) upon Earth
+     * 6 Surface illumination and spectrum
+       (BUTTON) Toggle Surface illumination and spectrum subsection
+          + 6.1 Spectral composition of sunlight at Earth's surface
+     * 7 Life on Earth
+     * 8 Cultural aspects
+       (BUTTON) Toggle Cultural aspects subsection
+          + 8.1 Sunbathing
+     * 9 Effects on human health
+     * 10 Effect on plant genomes
+     * 11 See also
+     * 12 References
+     * 13 Further reading
+     * 14 External links
+
+   [ ] Toggle the table of contents
+
+Sunlight
+
+   [ ] 64 languages
+     * Afrikaans
+     * العربية
+     * الدارجة
+     * অসমীয়া
+     * Български
+     * भोजपुरी
+     * বাংলা
+     * Català
+     * کوردی
+     * Čeština
+     * Dansk
+     * Deutsch
+     * Ελληνικά
+     * Esperanto
+     * Español
+     * Euskara
+     * فارسی
+     * Suomi
+     * Na Vosa Vakaviti
+     * Gàidhlig
+     * Galego
+     * 客家語 / Hak-kâ-ngî
+     * עברית
+     * हिन्दी
+     * Hrvatski
+     * Kreyòl ayisyen
+     * Bahasa Indonesia
+     * 日本語
+     * ಕನ್ನಡ
+     * 한국어
+     * کٲشُر
+     * Kurdî
+     * Malagasy
+     * Македонски
+     * മലയാളം
+     * मराठी
+     * Bahasa Melayu
+     * မြန်မာဘာသာ
+     * مازِرونی
+     * Nederlands
+     * Norsk bokmål
+     * Polski
+     * پنجابی
+     * پښتو
+     * Português
+     * Română
+     * سنڌي
+     * Srpskohrvatski / српскохрватски
+     * Simple English
+     * Shqip
+     * Српски / srpski
+     * Svenska
+     * Kiswahili
+     * தமிழ்
+     * తెలుగు
+     * ไทย
+     * Türkçe
+     * Українська
+     * اردو
+     * Tiếng Việt
+     * Winaray
+     * 粵語
+     * 中文
+     * IsiZulu
+
+   Edit links
+
+     * Article
+     * Talk
+
+   [ ] English
+
+     * Read
+     * Edit
+     * View history
+
+   [ ] Tools
+   Tools
+   (BUTTON) move to sidebar (BUTTON) hide
+   Actions
+     * Read
+     * Edit
+     * View history
+
+   General
+     * What links here
+     * Related changes
+     * Upload file
+     * Permanent link
+     * Page information
+     * Cite this page
+     * Get shortened URL
+
+   Print/export
+     * Download as PDF
+     * Printable version
+
+   In other projects
+     * Wikimedia Commons
+     * Wikidata item
+
+   Appearance
+   (BUTTON) move to sidebar (BUTTON) hide
+   From Wikipedia, the free encyclopedia
+   Light emitted by the Sun
+   For other uses, see Sunlight (disambiguation).
+   "Sunshine" redirects here. For other uses, see Sunshine
+   (disambiguation).
+   [250px-STS-134_EVA4_view_to_the_Russian_Orbital_Segment.jpg] The Sun,
+   as seen from low Earth orbit overlooking the International Space
+   Station. This sunlight is not filtered by the lower atmosphere, which
+   blocks much of the solar spectrum.
+   [250px-Spring_Lake%2C_New_Jersey_Beach_at_Sunrise.jpg]
+   [250px-Cape_may.jpg]
+   Sunlight shining upon two different sides of the U.S. state of New
+   Jersey. Sunrise on the Jersey Shore at Spring Lake, Monmouth County
+   (above), and sunset on the Shore at Sunset Beach, Cape May County
+   (below). Both are filtered through high stratus clouds.
+   [250px-Apollo_7_Florida.jpg] Sunrise over the Gulf of Mexico and
+   Florida. Taken on 20 October 1968 from Apollo 7.
+
+   Sunlight is the portion of the electromagnetic radiation which is
+   emitted by the Sun (i.e. solar radiation) and received by the Earth, in
+   particular the visible light perceptible to the human eye as well as
+   invisible infrared (typically perceived by humans as warmth) and
+   ultraviolet (which can have physiological effects such as sunburn)
+   lights. However, according to the American Meteorological Society,
+   there are "conflicting conventions as to whether all three [...] are
+   referred to as light, or whether that term should only be applied to
+   the visible portion of the spectrum".^[1]
+
+   Upon reaching the Earth, sunlight is scattered and filtered through the
+   Earth's atmosphere as daylight when the Sun is above the horizon. When
+   direct solar radiation is not blocked by clouds, it is experienced as
+   sunshine, a combination of bright light and radiant heat (atmospheric).
+   When blocked by clouds or reflected off other objects, sunlight is
+   diffused. Sources estimate a global average of between 164 watts to 340
+   watts^[2] per square meter over a 24-hour day;^[3] this figure is
+   estimated by NASA to be about a quarter of Earth's average total solar
+   irradiance.
+
+   Sunlight takes about 8.3 minutes to reach Earth from the surface of the
+   Sun.^[4] A photon starting at the center of the Sun and changing
+   direction every time it encounters a charged particle would take
+   between 10,000 and 170,000 years to get to the surface.^[5] Sunlight is
+   a key factor in photosynthesis, the process used by plants and other
+   autotrophic organisms to convert light energy, normally from the Sun,
+   into chemical energy that can be used to synthesize carbohydrates and
+   fuel the organisms' activities. The ultraviolet radiation in sunlight
+   has both positive and negative health effects, as it is both a
+   requisite for vitamin D[3] synthesis and a mutagen.
+
+   Daylighting is the natural lighting of interior spaces by admitting
+   sunlight. Solar irradiance is the rate of solar energy received by a
+   unit area from sunlight.
+
+Measurement
+
+   [edit]
+
+   Researchers can measure the intensity of sunlight using a sunshine
+   recorder, pyranometer, or pyrheliometer. To calculate the amount of
+   sunlight reaching the ground, both the eccentricity of Earth's elliptic
+   orbit and the attenuation by Earth's atmosphere have to be taken into
+   account. The extraterrestrial solar illuminance (E[ext]), corrected for
+   the elliptic orbit by using the day number of the year (dn), is given
+   to a good approximation by^[6]
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <msub> <mi>E</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mrow class="MJX-TeXAtom-ORD"> <mi
+          mathvariant="normal">e</mi> <mi mathvariant="normal">x</mi> <mi
+          mathvariant="normal">t</mi> </mrow> </mrow> </msub> <mo>=</mo>
+          <msub> <mi>E</mi> <mrow class="MJX-TeXAtom-ORD"> <mrow
+          class="MJX-TeXAtom-ORD"> <mi mathvariant="normal">s</mi> <mi
+          mathvariant="normal">c</mi> </mrow> </mrow> </msub> <mo>⋅</mo>
+          <mrow> <mo>(</mo> <mrow> <mn>1</mn> <mo>+</mo> <mn>0.033412</mn>
+          <mo>⋅</mo> <mi>cos</mi> <mo>⁡</mo> <mrow> <mo>(</mo> <mrow>
+          <mn>2</mn> <mi>π</mi> <mrow class="MJX-TeXAtom-ORD"> <mfrac>
+          <mrow> <mrow class="MJX-TeXAtom-ORD"> <mrow
+          class="MJX-TeXAtom-ORD"> <mi mathvariant="normal">d</mi> <mi
+          mathvariant="normal">n</mi> </mrow> </mrow> <mo>−</mo>
+          <mn>3</mn> </mrow> <mn>365</mn> </mfrac> </mrow> </mrow>
+          <mo>)</mo> </mrow> </mrow> <mo>)</mo> </mrow> <mo>,</mo>
+          </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle E_{\rm {ext}}=E_{\rm
+          {sc}}\cdot \left(1+0.033412\cdot \cos \left(2\pi {\frac {{\rm
+          {dn}}-3}{365}}\right)\right),}</annotation> </semantics> :MATH]
+          {\displaystyle E_{\rm {ext}}=E_{\rm {sc}}\cdot
+          \left(1+0.033412\cdot \cos \left(2\pi {\frac {{\rm
+          {dn}}-3}{365}}\right)\right),}
+
+   where dn=1 on January 1; dn=32 on February 1; dn=59 on March 1 (except
+   on leap years, where dn=60), etc. In this formula dn–3 is used, because
+   in modern times Earth's perihelion, the closest approach to the Sun
+   and, therefore, the maximum E[ext] occurs around January 3 each year.
+   The value of 0.033412 is determined knowing that the ratio between the
+   perihelion (0.98328989 AU) squared and the aphelion (1.01671033 AU)
+   squared should be approximately 0.935338.
+
+   The solar illuminance constant (E[sc]), is equal to 128×10^3 lux. The
+   direct normal illuminance (E[dn]), corrected for the attenuating
+   effects of the atmosphere is given by:
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <msub> <mi>E</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mrow class="MJX-TeXAtom-ORD"> <mi
+          mathvariant="normal">d</mi> <mi mathvariant="normal">n</mi>
+          </mrow> </mrow> </msub> <mo>=</mo> <msub> <mi>E</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mrow class="MJX-TeXAtom-ORD"> <mi
+          mathvariant="normal">e</mi> <mi mathvariant="normal">x</mi> <mi
+          mathvariant="normal">t</mi> </mrow> </mrow> </msub> <mspace
+          width="thinmathspace" /> <msup> <mi>e</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mo>−</mo> <mi>c</mi> <mi>m</mi>
+          </mrow> </msup> <mo>,</mo> </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle E_{\rm {dn}}=E_{\rm
+          {ext}}\,e^{-cm},}</annotation> </semantics> :MATH]
+          {\displaystyle E_{\rm {dn}}=E_{\rm {ext}}\,e^{-cm},}
+
+   where c is the atmospheric extinction and m is the relative optical
+   airmass. The atmospheric extinction brings the number of lux down to
+   around 100,000 lux.
+
+   The total amount of energy received at ground level from the Sun at the
+   zenith depends on the distance to the Sun and thus on the time of year.
+   It is about 3.3% higher than average in January and 3.3% lower in July
+   (see below). If the extraterrestrial solar radiation is 1,367 watts per
+   square meter (the value when the Earth–Sun distance is 1 astronomical
+   unit), then the direct sunlight at Earth's surface when the Sun is at
+   the zenith is about 1,050 W/m^2, but the total amount (direct and
+   indirect from the atmosphere) hitting the ground is around 1,120
+   W/m^2.^[7] In terms of energy, sunlight at Earth's surface is around 52
+   to 55 percent infrared (above 700 nm), 42 to 43 percent visible (400 to
+   700 nm), and 3 to 5 percent ultraviolet (below 400 nm).^[8] At the top
+   of the atmosphere, sunlight is about 30% more intense, having about 8%
+   ultraviolet (UV),^[9] with most of the extra UV consisting of
+   biologically damaging short-wave ultraviolet.^[10]
+
+   Direct sunlight has a luminous efficacy of about 93 lumens per watt of
+   radiant flux. This is higher than the efficacy (of source) of
+   artificial lighting other than LEDs, which means using sunlight for
+   illumination heats up a room less than fluorescent or incandescent
+   lighting. Multiplying the figure of 1,050 watts per square meter by 93
+   lumens per watt indicates that bright sunlight provides an illuminance
+   of approximately 98,000 lux (lumens per square meter) on a
+   perpendicular surface at sea level. The illumination of a horizontal
+   surface will be considerably less than this if the Sun is not very high
+   in the sky. Averaged over a day, the highest amount of sunlight on a
+   horizontal surface occurs in January at the South Pole (see
+   insolation).
+
+   Dividing the irradiance of 1,050 W/m^2 by the size of the Sun's disk in
+   steradians gives an average radiance of 15.4 MW per square metre per
+   steradian. (However, the radiance at the center of the Sun's disk is
+   somewhat higher than the average over the whole disk due to limb
+   darkening.) Multiplying this by π gives an upper limit to the
+   irradiance which can be focused on a surface using mirrors:
+   48.5 MW/m^2.^[11]
+
+Composition and power
+
+   [edit]
+   [500px-Solar_spectrum_compared_to_black-body.gif] Solar spectrum
+   compared to black-body at 5775 K
+   See also: Ultraviolet, Infrared, and Light
+
+   The spectrum of the Sun's solar radiation can be compared to that of a
+   black body^[12]^[13] with a temperature of about 5,800 K^[14] (see
+   graph). The Sun emits EM radiation across most of the electromagnetic
+   spectrum. Although the radiation created in the solar core consists
+   mostly of x rays, internal absorption and thermalization convert these
+   super-high-energy photons to lower-energy photons before they reach the
+   Sun's surface and are emitted out into space. As a result, the
+   photosphere of the Sun does not emit much X radiation (solar X-rays),
+   although it does emit such "hard radiations" as X-rays and even gamma
+   rays during solar flares.^[15] The quiet (non-flaring) Sun, including
+   its corona, emits a broad range of wavelengths: X-rays, ultraviolet,
+   visible light, infrared, and radio waves.^[16] Different depths in the
+   photosphere have different temperatures, and this partially explains
+   the deviations from a black-body spectrum.^[17]
+
+   There is also a flux of gamma rays from the quiescent Sun, obeying a
+   power law between 0.5 and 2.6 TeV. Some gamma rays are caused by cosmic
+   rays interacting with the solar atmosphere, but this does not explain
+   these findings.^[18]^[19]^[20]
+
+   The only direct signature of the nuclear processes in the core of the
+   Sun is via the very weakly interacting neutrinos.
+   [330px-Solar_spectrum_en.svg.png] Solar spectral irradiance (watts per
+   square metre per nanometre) above atmosphere (yellow) and at surface
+   (red). Extreme UV and X-rays are produced (left of wavelength range)
+   but comprise very small amounts of the Sun's total output power (area
+   under the curve).[330px-Spectral_Distribution_of_Sunlight.svg.png]
+   Spectral distribution of sunlight. The different curves reflect 3
+   different equally valid ways of characterizing the same sunlight. These
+   curves have peaks at different wavelengths, which demonstrates that the
+   notion of a location where the "peak" amount of sunlight is emitted is
+   not meaningful, and is not a characteristic of the light itself (but is
+   merely an artifact of how the spectrum is represented). Percentiles
+   offer a way of thinking about the distribution of energy which is
+   independent of the representation. 50 percent of solar irradiance is
+   associated with wavelengths less than about 711 nm (based on
+   approximating sunlight by the emissions of a 5775 K blackbody).
+
+   Although the solar corona is a source of extreme ultraviolet and X-ray
+   radiation, these rays make up only a very small amount of the power
+   output of the Sun (see spectrum at right). The spectrum of nearly all
+   (roughly 98.7%) of the solar electromagnetic radiation striking the
+   Earth's atmosphere spans a range of 200 nm to about 4000 nm.^[21] This
+   band of significant radiation power can be divided into five regions in
+   increasing order of wavelengths:^[22]
+     * Ultraviolet C or (UVC) range, which spans a range of 100 to 280 nm.
+       The term ultraviolet refers to the fact that the radiation is at
+       higher frequency than violet light (and, hence, also invisible to
+       the human eye). Due to absorption by the atmosphere very little
+       reaches Earth's surface. This spectrum of radiation has germicidal
+       properties, as used in germicidal lamps.
+     * Ultraviolet B or (UVB) range spans 280 to 315 nm. It is also
+       greatly absorbed by the Earth's atmosphere, and along with UVC
+       causes the photochemical reaction leading to the production of the
+       ozone layer. It directly damages DNA and causes sunburn.^[23] In
+       addition to this short-term effect it enhances skin ageing and
+       significantly promotes the development of skin cancer,^[24] but is
+       also required for vitamin D synthesis in the skin of mammals.^[23]
+     * Ultraviolet A or (UVA) spans 315 to 400 nm. This band was
+       once^[when?] held to be less damaging to DNA, and hence is used in
+       cosmetic artificial sun tanning (tanning booths and tanning beds)
+       and PUVA therapy for psoriasis. However, UVA is now known to cause
+       significant damage to DNA via indirect routes (formation of free
+       radicals and reactive oxygen species), and can cause cancer.^[25]
+     * Visible range or light spans 380 to 700 nm.^[26] As the name
+       suggests, this range is visible to the naked eye.
+     * Infrared range that spans 700 nm to 1,000,000 nm (1 mm). It
+       comprises an important part of the electromagnetic radiation that
+       reaches Earth. Scientists divide the infrared range into three
+       types on the basis of wavelength:
+          + Infrared-A: 700 nm to 1,400 nm
+          + Infrared-B: 1,400 nm to 3,000 nm
+          + Infrared-C: 3,000 nm to 1 mm.
+
+   The sunlight reaching Earth's surface is 49.4% infrared, 42.3% visible,
+   and 8% ultraviolet.^[27]
+
+   It is sometimes asserted that the Sun's maximum output is in the
+   visible range. However, this statement is a misconception based on only
+   seeing the solar spectral irradiance plotted on a per-wavelength basis.
+   When plotted that way, the power spectral density of sunlight peaks at
+   a wavelength of about 501 nm, which is in the visible range. However,
+   the solar spectral irradiance can with equal validity be calculated on
+   a per-frequency basis, in which case the maximum is at 3.40×10^14 Hz,
+   corresponding to a wavelength of about 882 nm, which is in the near
+   infrared (Infrared-A) range. Counterintuitively, it is not meaningful
+   to assert that the solar output is greatest at some precise location in
+   the spectrum.^[28]
+
+Published tables
+
+   [edit]
+
+   Tables of direct solar radiation on various slopes from 0 to 60 degrees
+   north latitude, in calories per square centimetre, issued in 1972 and
+   published by Pacific Northwest Forest and Range Experiment Station,
+   Forest Service, U.S. Department of Agriculture, Portland, Oregon, USA,
+   appear on the web.^[29]
+
+Intensity in the Solar System
+
+   [edit]
+   [Mars_sunset_PIA00920.jpg] Sunlight on Mars is dimmer than on Earth.
+   This photo of a Martian sunset was imaged by Mars Pathfinder.
+
+   Different bodies of the Solar System receive light of an intensity
+   inversely proportional to the square of their distance from the Sun.
+
+   A table comparing the amount of solar radiation received by each planet
+   in the Solar System at the top of its atmosphere:^[30]
+   Planet or dwarf planet   distance (AU)     Solar radiation (W/m^2)
+                          Perihelion Aphelion maximum minimum
+   Mercury                0.3075     0.4667   14,446  6,272
+   Venus                  0.7184     0.7282   2,647   2,576
+   Earth                  0.9833     1.017    1,413   1,321
+   Mars                   1.382      1.666    715     492
+   Jupiter                4.950      5.458    55.8    45.9
+   Saturn                 9.048      10.12    16.7    13.4
+   Uranus                 18.38      20.08    4.04    3.39
+   Neptune                29.77      30.44    1.54    1.47
+   Pluto                  29.66      48.87    1.55    0.57
+
+   The actual brightness of sunlight that would be observed at the surface
+   also depends on the presence and composition of an atmosphere. For
+   example, Venus's thick atmosphere reflects more than 60% of the solar
+   light it receives. The actual illumination of the surface is about
+   14,000 lux, comparable to that on Earth "in the daytime with overcast
+   clouds".^[31]
+
+   Sunlight on Mars would be more or less like daylight on Earth during a
+   slightly overcast day, and, as can be seen in the pictures taken by the
+   rovers, there is enough diffuse sky radiation that shadows would not
+   seem particularly dark. Thus, it would give perceptions and "feel" very
+   much like Earth daylight. The spectrum on the surface is slightly
+   redder than that on Earth, due to scattering by reddish dust in the
+   Martian atmosphere.
+
+   For comparison, sunlight on Saturn is slightly brighter than Earth
+   sunlight at the average sunset or sunrise. Even on Pluto, the sunlight
+   would still be bright enough to almost match the average living room.
+   To see sunlight as dim as full moonlight on Earth, a distance of about
+   500 AU (~69 light-hours) is needed; only a handful of objects in the
+   Solar System have been discovered that are known to orbit farther than
+   such a distance, among them 90377 Sedna and (87269) 2000 OO67.
+
+Variations in solar irradiance
+
+   [edit]
+
+Seasonal and orbital variation
+
+   [edit]
+   Further information: Insolation and Sunshine duration
+
+   On Earth, the solar radiation varies with the angle of the Sun above
+   the horizon, with longer sunlight duration at high latitudes during
+   summer, varying to no sunlight at all in winter near the pertinent
+   pole. When the direct radiation is not blocked by clouds, it is
+   experienced as sunshine. The warming of the ground (and other objects)
+   depends on the absorption of the electromagnetic radiation in the form
+   of heat.
+
+   The amount of radiation intercepted by a planetary body varies
+   inversely with the square of the distance between the star and the
+   planet. Earth's orbit and obliquity change with time (over thousands of
+   years), sometimes forming a nearly perfect circle, and at other times
+   stretching out to an orbital eccentricity of 5% (currently 1.67%). As
+   the orbital eccentricity changes, the average distance from the Sun
+   (the semimajor axis does not significantly vary, and so the total
+   insolation over a year remains almost constant due to Kepler's second
+   law,
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mrow
+          class="MJX-TeXAtom-ORD"> <mstyle displaystyle="false"
+          scriptlevel="0"> <mfrac> <mrow> <mn>2</mn> <mi>A</mi> </mrow>
+          <msup> <mi>r</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>2</mn>
+          </mrow> </msup> </mfrac> </mstyle> </mrow> <mi>d</mi> <mi>t</mi>
+          <mo>=</mo> <mi>d</mi> <mi>θ</mi> <mo>,</mo> </mstyle> </mrow>
+          <annotation encoding="application/x-tex">{\displaystyle {\tfrac
+          {2A}{r^{2}}}dt=d\theta ,}</annotation> </semantics> :MATH]
+          {\displaystyle {\tfrac {2A}{r^{2}}}dt=d\theta ,}
+
+   where
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>A</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle A}</annotation>
+   </semantics> :MATH]
+   {\displaystyle A} is the "areal velocity" invariant. That is, the
+   integration over the orbital period (also invariant) is a constant.
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <msubsup> <mo>∫</mo> <mrow
+          class="MJX-TeXAtom-ORD"> <mn>0</mn> </mrow> <mrow
+          class="MJX-TeXAtom-ORD"> <mi>T</mi> </mrow> </msubsup> <mrow
+          class="MJX-TeXAtom-ORD"> <mstyle displaystyle="false"
+          scriptlevel="0"> <mfrac> <mrow> <mn>2</mn> <mi>A</mi> </mrow>
+          <msup> <mi>r</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>2</mn>
+          </mrow> </msup> </mfrac> </mstyle> </mrow> <mi>d</mi> <mi>t</mi>
+          <mo>=</mo> <msubsup> <mo>∫</mo> <mrow class="MJX-TeXAtom-ORD">
+          <mn>0</mn> </mrow> <mrow class="MJX-TeXAtom-ORD"> <mn>2</mn>
+          <mi>π</mi> </mrow> </msubsup> <mi>d</mi> <mi>θ</mi> <mo>=</mo>
+          <mrow class="MJX-TeXAtom-ORD"> <mi mathvariant="normal">c</mi>
+          <mi mathvariant="normal">o</mi> <mi mathvariant="normal">n</mi>
+          <mi mathvariant="normal">s</mi> <mi mathvariant="normal">t</mi>
+          <mi mathvariant="normal">a</mi> <mi mathvariant="normal">n</mi>
+          <mi mathvariant="normal">t</mi> </mrow> <mo>.</mo> </mstyle>
+          </mrow> <annotation encoding="application/x-tex">{\displaystyle
+          \int _{0}^{T}{\tfrac {2A}{r^{2}}}dt=\int _{0}^{2\pi }d\theta
+          =\mathrm {constant} .}</annotation> </semantics> :MATH]
+          {\displaystyle \int _{0}^{T}{\tfrac {2A}{r^{2}}}dt=\int
+          _{0}^{2\pi }d\theta =\mathrm {constant} .}
+
+   If we assume the solar radiation power P as a constant over time and
+   the solar irradiation given by the inverse-square law, we obtain also
+   the average insolation as a constant. However, the seasonal and
+   latitudinal distribution and intensity of solar radiation received at
+   Earth's surface does vary.^[32] The effect of Sun angle on climate
+   results in the change in solar energy in summer and winter. For
+   example, at latitudes of 65 degrees, this can vary by more than 25% as
+   a result of Earth's orbital variation. Because changes in winter and
+   summer tend to offset, the change in the annual average insolation at
+   any given location is near zero, but the redistribution of energy
+   between summer and winter does strongly affect the intensity of
+   seasonal cycles. Such changes associated with the redistribution of
+   solar energy are considered a likely cause for the coming and going of
+   recent ice ages (see: Milankovitch cycles).
+
+Solar intensity variation
+
+   [edit]
+   Further information: Solar variation
+
+   Space-based observations of solar irradiance started in 1978. These
+   measurements show that the solar constant is not constant. It varies on
+   many time scales, including the 11-year sunspot solar cycle.^[33] When
+   going further back in time, one has to rely on irradiance
+   reconstructions, using sunspots for the past 400 years or cosmogenic
+   radionuclides for going back 10,000 years. Such reconstructions have
+   been done.^[34]^[35]^[36]^[37] These studies show that in addition to
+   the solar irradiance variation with the solar cycle (the (Schwabe)
+   cycle), the solar activity varies with longer cycles, such as the
+   proposed 88 year (Gleisberg cycle), 208 year (DeVries cycle) and 1,000
+   year (Eddy cycle).
+
+Solar irradiance
+
+   [edit]
+   Main article: Solar irradiance
+
+Solar constant
+
+   [edit]
+   [330px-Solar_irradiance_spectrum_1992.gif] Solar irradiance spectrum at
+   top of atmosphere, on a linear scale and plotted against wavenumber
+
+   Main article: Solar constant
+
+   The solar constant is a measure of flux density, is the amount of
+   incoming solar electromagnetic radiation per unit area that would be
+   incident on a plane perpendicular to the rays, at a distance of one
+   astronomical unit (AU) (roughly the mean distance from the Sun to
+   Earth). The "solar constant" includes all types of solar radiation, not
+   just the visible light. Its average value was thought to be
+   approximately 1,366 W/m^2,^[38] varying slightly with solar activity,
+   but recent recalibrations of the relevant satellite observations
+   indicate a value closer to 1,361 W/m^2 is more realistic.^[39]
+
+Total solar irradiance (TSI) and spectral solar irradiance (SSI) upon Earth
+
+   [edit]
+
+   Since 1978, a series of overlapping NASA and ESA satellite experiments
+   have measured total solar irradiance (TSI) – the amount of solar
+   radiation received at the top of Earth's atmosphere – as 1.365
+   kilo⁠watts per square meter (kW/m^2).^[38]^[40]^[41]^[42] TSI
+   observations continue with the ACRIMSAT/ACRIM3, SOHO/VIRGO and
+   SORCE/TIM satellite experiments.^[43] Observations have revealed
+   variation of TSI on many timescales, including the solar magnetic
+   cycle^[33] and many shorter periodic cycles.^[44] TSI provides the
+   energy that drives Earth's climate, so continuation of the TSI
+   time-series database is critical to understanding the role of solar
+   variability in climate change.
+
+   Since 2003, the SORCE Spectral Irradiance Monitor (SIM) has monitored
+   Spectral solar irradiance (SSI) – the spectral distribution of the TSI.
+   Data indicate that SSI at UV (ultraviolet) wavelength corresponds in a
+   less clear, and probably more complicated fashion, with Earth's climate
+   responses than earlier assumed, fueling broad avenues of new research
+   in "the connection of the Sun and stratosphere, troposphere, biosphere,
+   ocean, and Earth's climate".^[45]
+
+Surface illumination and spectrum
+
+   [edit]
+
+   See also: Diffuse sky radiation
+
+   [330px-Sun_over_Lake_Hawea%2C_New_Zealand.jpg] Sunlight shining through
+   clouds, giving rise to crepuscular rays
+
+   The spectrum of surface illumination depends upon solar elevation due
+   to atmospheric effects, with the blue spectral component dominating
+   during twilight before and after sunrise and sunset, respectively, and
+   red dominating during sunrise and sunset. These effects are apparent in
+   natural light photography where the principal source of illumination is
+   sunlight as mediated by the atmosphere.
+
+   While the color of the sky is usually determined by Rayleigh
+   scattering, an exception occurs at sunset and twilight. "Preferential
+   absorption of sunlight by ozone over long horizon paths gives the
+   zenith sky its blueness when the sun is near the horizon".^[46]
+
+Spectral composition of sunlight at Earth's surface
+
+   [edit]
+
+   The Sun may be said to illuminate, which is a measure of the light
+   within a specific sensitivity range. Many animals (including humans)
+   have a sensitivity range of approximately 400–700 nm,^[47] and given
+   optimal conditions the absorption and scattering by Earth's atmosphere
+   produces illumination that approximates an equal-energy illuminant for
+   most of this range.^[48] The useful range for color vision in humans,
+   for example, is approximately 450–650 nm. Aside from effects that arise
+   at sunset and sunrise, the spectral composition changes primarily in
+   respect to how directly sunlight is able to illuminate. When
+   illumination is indirect, Rayleigh scattering in the upper atmosphere
+   will lead blue wavelengths to dominate. Water vapour in the lower
+   atmosphere produces further scattering and ozone, dust and water
+   particles will also absorb particular wavelengths.^[49]^[50]
+   [960px-Spectrum_of_Sunlight_en.svg.png] Spectrum of the visible
+   wavelengths at approximately sea level; illumination by direct sunlight
+   compared with direct sunlight scattered by cloud cover and with
+   indirect sunlight by varying degrees of cloud cover. The yellow line
+   shows the power spectrum of direct sunlight under optimal conditions.
+   To aid comparison, the other illumination conditions are scaled by the
+   factor shown in the key so they match at about 470 nm (blue light).
+
+Life on Earth
+
+   [edit]
+
+   [250px-D%C3%BClmen%2C_G%C3%B6versheide_--_2015_--_7718-22.jpg] Sunlight
+   penetrating through a forest canopy in Germany
+
+   The existence of nearly all life on Earth is fueled by light from the
+   Sun. Most autotrophs, such as plants, use the energy of sunlight,
+   combined with carbon dioxide and water, to produce simple sugars—a
+   process known as photosynthesis. These sugars are then used as
+   building-blocks and in other synthetic pathways that allow the organism
+   to grow.
+
+   Heterotrophs, such as animals, use light from the Sun indirectly by
+   consuming the products of autotrophs, either by consuming autotrophs,
+   by consuming their products, or by consuming other heterotrophs. The
+   sugars and other molecular components produced by the autotrophs are
+   then broken down, releasing stored solar energy, and giving the
+   heterotroph the energy required for survival. This process is known as
+   cellular respiration.
+
+   In prehistory, humans began to further extend this process by putting
+   plant and animal materials to other uses. They used animal skins for
+   warmth, for example, or wooden weapons to hunt. These skills allowed
+   humans to harvest more of the sunlight than was possible through
+   glycolysis alone, and human population began to grow.
+
+   During the Neolithic Revolution, the domestication of plants and
+   animals further increased human access to solar energy. Fields devoted
+   to crops were enriched by inedible plant matter, providing sugars and
+   nutrients for future harvests. Animals that had previously provided
+   humans with only meat and tools once they were killed were now used for
+   labour throughout their lives, fueled by grasses inedible to humans.
+   Fossil fuels are the remnants of ancient plant and animal matter,
+   formed using energy from sunlight and then trapped within Earth for
+   millions of years.
+
+Cultural aspects
+
+   [edit]
+
+   [250px-Edouard_Manet_-_Luncheon_on_the_Grass_-_Google_Art_Project.jpg]
+   Édouard Manet: Le déjeuner sur l'herbe (1862–63)
+
+   The effect of sunlight is relevant to painting, evidenced for instance
+   in works of Édouard Manet and Claude Monet on outdoor scenes and
+   landscapes.
+   [250px-Winter_Sunshine.jpg] Téli verőfény ("Winter Sunshine") by László
+   Mednyánszky, early 20th century
+
+   Many people find direct sunlight to be too bright for comfort; indeed,
+   looking directly at the Sun can cause long-term vision damage.^[51] To
+   compensate for the brightness of sunlight, many people wear sunglasses.
+   Cars, many helmets and caps are equipped with visors to block the Sun
+   from direct vision when the Sun is at a low angle. Sunshine is often
+   blocked from entering buildings through the use of walls, window
+   blinds, awnings, shutters, curtains, or nearby shade trees. Sunshine
+   exposure is needed biologically for the production of Vitamin D in the
+   skin, a vital compound needed to make strong bone and muscle in the
+   body.
+
+   In many world religions, such as Hinduism, the Sun is considered to be
+   a god, as it is the source of life and energy on Earth. The Sun was
+   also considered to be a god in Ancient Egypt.
+
+Sunbathing
+
+   [edit]
+
+   Main article: Sun tanning
+
+   icon
+   This section does not cite any sources. Please help improve this
+   section by adding citations to reliable sources. Unsourced material may
+   be challenged and removed. (January 2015) (Learn how and when to remove
+   this message)
+
+   [250px-YBF_2010_ja_Bikini_Bar.jpg] Sun bathers in Finland
+
+   Sunbathing is a popular leisure activity in which a person sits or lies
+   in direct sunshine. People often sunbathe in comfortable places where
+   there is ample sunlight. Some common places for sunbathing include
+   beaches, open air swimming pools, parks, gardens, and sidewalk cafes.
+   Sunbathers typically wear limited amounts of clothing or some simply go
+   nude. For some, an alternative to sunbathing is the use of a sunbed
+   that generates ultraviolet light and can be used indoors regardless of
+   weather conditions. Tanning beds have been banned in a number of states
+   in the world due to concerns of skin cancer.^[52]
+
+   For many people with light skin, one purpose for sunbathing is to
+   darken one's skin color (get a sun tan), as this is considered in some
+   cultures to be attractive, associated with outdoor activity,
+   vacations/holidays, and health. Some people prefer naked sunbathing so
+   that an "all-over" or "even" tan can be obtained, sometimes as part of
+   a specific lifestyle.
+
+   Controlled heliotherapy, or sunbathing, has been used as a treatment
+   for psoriasis^[53] and other maladies.^[54]
+
+   Skin tanning is achieved by an increase in the dark pigment inside skin
+   cells called melanocytes, and is an automatic response mechanism of the
+   body to sufficient exposure to ultraviolet radiation from the Sun or
+   from artificial sunlamps.^[55] Thus, the tan gradually disappears with
+   time, when one is no longer exposed to these sources.
+
+Effects on human health
+
+   [edit]
+
+   Main article: Health effects of sunlight exposure
+
+   The ultraviolet radiation in sunlight has both positive and negative
+   health effects, as it is both a principal source of vitamin D[3] and a
+   mutagen.^[56] A dietary supplement can supply vitamin D without this
+   mutagenic effect,^[57] but bypasses natural mechanisms that would
+   prevent overdoses of vitamin D generated internally from sunlight.
+   Vitamin D has a wide range of positive health effects, which include
+   strengthening bones^[58] and possibly inhibiting the growth of some
+   cancers.^[59]^[60] Sun exposure has also been associated with the
+   timing of melatonin synthesis, maintenance of normal circadian rhythms,
+   and reduced risk of seasonal affective disorder.^[61]
+
+   Insufficient sun exposure is responsible for 340,000 deaths in the
+   United States and 480,000 deaths in Europe per year. Additionally, a
+   lack of sun has an increases risk for breast cancer, colorectal cancer,
+   hypertension, cardiovascular disease, metabolic syndrome, multiple
+   sclerosis, Alzheimer’s disease, autism, asthma, type 1 diabetes and
+   myopia.^[62]
+
+   Long-term sunlight exposure is known to be associated with the
+   development of skin cancer, skin aging, immune suppression, and eye
+   diseases such as cataracts and macular degeneration.^[63] Short-term
+   overexposure is the cause of sunburn, snow blindness, and solar
+   retinopathy.^[citation needed]
+
+   UV rays, and therefore sunlight and sunlamps, are the only listed
+   carcinogens that are known to have health benefits,^[64] and a number
+   of public health organizations state that there needs to be a balance
+   between the risks of having too much sunlight or too little.^[65] There
+   is a general consensus that sunburn should always be avoided.
+
+   Epidemiological data shows that people who have more exposure to
+   sunlight have less high blood pressure and cardiovascular-related
+   mortality. While sunlight (and its UV rays) are a risk factor for skin
+   cancer, "sun avoidance may carry more of a cost than benefit for
+   over-all good health".^[66] A study found that there is no evidence
+   that UV reduces lifespan in contrast to other risk factors like
+   smoking, alcohol and high blood pressure.^[66]
+
+Effect on plant genomes
+
+   [edit]
+
+   Elevated solar UV-B doses increase the frequency of DNA recombination
+   in Arabidopsis thaliana and tobacco (Nicotiana tabacum) plants.^[67]
+   These increases are accompanied by strong induction of an enzyme with a
+   key role in recombinational repair of DNA damage. Thus the level of
+   terrestrial solar UV-B radiation likely affects genome stability in
+   plants.
+
+See also
+
+   [edit]
+
+     * Color temperature
+     * Coronal radiative losses
+     * Diathermancy
+     * Fraunhofer lines
+     * List of cities by sunshine duration
+     * Moonlight
+     * Light pollution
+     * Photic sneeze reflex
+     * Photosynthesis
+     * Solar energy
+     * Starlight
+     * Sunbeam – Light rays appearing to radiate from the Sun
+
+References
+
+   [edit]
+
+    1. ^ "Sunlight". Glossary of Meteorology. American Meteorological
+       Society. Retrieved 2025-03-23.
+    2. ^ "Climate and Earth's Energy Budget". earthobservatory.nasa.gov.
+       14 January 2009. Retrieved 2022-01-27.
+    3. ^ "Basics of Solar Energy". Archived from the original on
+       2016-11-28. Retrieved 2016-12-06.
+    4. ^ Bell Burnell, S. Jocelyn (2004). An Introduction to the Sun and
+       Stars (illustrated ed.). Cambridge University Press. p. 56.
+       ISBN 978-0-521-54622-5. Extract of page 56
+    5. ^ "The 8-minute travel time to Earth by sunlight hides a
+       thousand-year journey that actually began in the core".
+       SunEarthDay.NASA.gov. NASA. Archived from the original on
+       2012-01-22. Retrieved 2012-02-12.
+    6. ^ C. KANDILLI & K. ULGEN. "Solar Illumination and Estimating
+       Daylight Availability of Global Solar Irradiance". Energy Sources.
+    7. ^ "Introduction to Solar Radiation". Newport Corporation. Archived
+       from the original on October 29, 2013.
+    8. ^ Calculated from data in "Reference Solar Spectral Irradiance: Air
+       Mass 1.5". National Renewable Energy Laboratory. Archived from the
+       original on September 28, 2013. Retrieved 2009-11-12.
+       The first of each set of two figures is for total solar radiation
+       reaching a panel aimed at the Sun (which is 42° above the horizon),
+       whereas the second figure of each pair is the "direct plus
+       circumsolar" radiation (circumsolar meaning coming from the part of
+       the sky within a couple degrees of the Sun). The totals, from 280
+       to 4000 nm, are 1000.4 and 900.1 W/m^2 respectively. It would be
+       good to have more direct figures from a good source, rather than
+       summing thousands of numbers in a database.
+    9. ^ Calculated from the ASTM spectrum cited above.
+   10. ^ Qiang, Fu (2003). "Radiation (Solar)" (PDF). In Holton, James R.
+       (ed.). Encyclopedia of atmospheric sciences. Vol. 5. Amsterdam:
+       Academic Press. pp. 1859–1863. ISBN 978-0-12-227095-6.
+       OCLC 249246073. Archived (PDF) from the original on 2012-11-01.
+   11. ^ Pedrotti & Pedrotti (1993). Introduction to Optics. Prentice
+       Hall. ISBN 0-13-501545-6.
+   12. ^ Appleton, Edward V. (1945). "Departure of Long-Wave Solar
+       Radiation from Black-Body Intensity". Nature. 156 (3966): 534–535.
+       Bibcode:1945Natur.156..534A. doi:10.1038/156534b0.
+   13. ^ Iqbal, M., "An Introduction to Solar Radiation", Academic Press
+       (1983), Chap. 3
+   14. ^ NASA Solar System Exploration – Sun: Facts & Figures Archived
+       2015-07-03 at the Wayback Machine retrieved 27 April 2011
+       "Effective Temperature ... 5777 K"
+   15. ^ Garner, Rob (24 January 2017). "Fermi Detects Solar Flare's
+       Highest-Energy Light". Archived from the original on 17 May 2017.
+       Retrieved 25 January 2018.
+   16. ^ "The Multispectral Sun, from the National Earth Science Teachers
+       Association". Windows2universe.org. 2007-04-18. Archived from the
+       original on 2012-02-29. Retrieved 2012-02-12.
+   17. ^ See video referenced in the sentence "For more details about the
+       comparison of the black body with the AM0 spectrum, see this video"
+       at Pietro Altermatt. "The Extraterrestrial Spectrum". PV
+       Lighthouse. PV Lighthouse Pty. Ltd.
+   18. ^ Wilkinson, Ryan (3 August 2023). "Record-Breaking Detection of
+       Solar Photons". Physics. 16 s107. Bibcode:2023PhyOJ..16.s107W.
+       doi:10.1103/Physics.16.s107.
+   19. ^ Leah Crane (Aug 3, 2023). "Astronomers have spotted inexplicably
+       bright light coming from the sun". New Scientist.
+   20. ^ A. Albert (Aug 3, 2023). "Discovery of Gamma Rays from the
+       Quiescent Sun with HAWC". Phys. Rev. Lett. 131 (5) 051201.
+       arXiv:2212.00815. Bibcode:2023PhRvL.131e1201A.
+       doi:10.1103/PhysRevLett.131.051201. PMID 37595214.
+   21. ^ Gueymard, Christian A. (April 2004). "The sun's total and
+       spectral irradiance for solar energy applications and solar
+       radiation models". Solar Energy. 76 (4): 432.
+       Bibcode:2004SoEn...76..423G. doi:10.1016/j.solener.2003.08.039.
+   22. ^ Naylor, Mark; Kevin C. Farmer (1995). "Sun damage and
+       prevention". Electronic Textbook of Dermatology. The Internet
+       Dermatology Society. Archived from the original on 2008-07-05.
+       Retrieved 2008-06-02.
+   23. ^ ^a ^b Wacker M, Holick, MF (2013). "Sunlight and Vitamin D: A
+       global perspective for health". Dermato-Endocrinology. 5 (1):
+       51–108. doi:10.4161/derm.24494. PMC 3897598. PMID 24494042.
+   24. ^ World Health Organization (9 March 2016). "Radiation: Ultraviolet
+       (UV) radiation". Retrieved 2023-02-08.
+   25. ^ Watson, M.; Holman, D. M.; Maguire-Eisen, M. (1 August 2017).
+       "Ultraviolet Radiation Exposure and Its Impact on Skin Cancer
+       Risk". Seminars in Oncology Nursing. 32 (3): 241–254.
+       doi:10.1016/j.soncn.2016.05.005. PMC 5036351. PMID 27539279.
+   26. ^ "Visible Light | Science Mission Directorate". 10 August 2016.
+   27. ^ "Solar Radiation and Photosynethically Active Radiation".
+       Fondriest Environmental. March 21, 2014. Retrieved 7 March 2025.
+   28. ^ Mobley, Curtis. "A Common Misconception". Ocean Optics. Retrieved
+       6 March 2025.
+   29. ^ John Buffo; Leo J. Fritschen; James L. Murphy (1972). "Direct
+       Solar Radiation On Various Slopes From 0 To 60 Degrees North
+       Latitude" (PDF). Pacific Northwest Forest and Range Experiment
+       Station, Forest Service, U.S. Department of Agriculture, Portland,
+       Oregon, USA. Archived (PDF) from the original on 2013-11-27.
+       Retrieved 15 Jan 2014.
+   30. ^ "Solar Intensity" (PDF). McAuliffe-Shepard Discovery Center.
+       Archived from the original (PDF) on 2009-11-22.
+   31. ^ "The Unveiling of Venus: Hot and Stifling". Science News. 109
+       (25): 388–389. 1976-06-19. doi:10.2307/3960800. JSTOR 3960800. "100
+       watts per square meter ... 14,000 lux ... corresponds to ...
+       daytime with overcast clouds"
+   32. ^ "Graph of variation of seasonal and latitudinal distribution of
+       solar radiation". Museum.state.il.us. 2007-08-30. Archived from the
+       original on 2012-01-12. Retrieved 2012-02-12.
+   33. ^ ^a ^b "Graphics Gallery". Acrim.com. Archived from the original
+       on 2014-05-02. Retrieved 2014-04-21.
+   34. ^ Wang; et al. (2005). "Modeling the Sun's Magnetic Field and
+       Irradiance since 1713". The Astrophysical Journal. 625 (1):
+       522–538. Bibcode:2005ApJ...625..522W. doi:10.1086/429689.
+   35. ^ Steinhilber; et al. (2009). "Total solar irradiance since 1996:
+       is there a long-term variation unrelated to solar surface magnetic
+       phenomena?". Geophysical Research Letters. 36: L19704.
+       Bibcode:2010A&A...523A..39S. doi:10.1051/0004-6361/200811446.
+   36. ^ Vieira; et al. (2011). "Evolution of the solar irradiance during
+       the Holocene". Astronomy & Astrophysics. 531: A6. arXiv:1103.4958.
+       Bibcode:2011A&A...531A...6V. doi:10.1051/0004-6361/201015843.
+   37. ^ Steinhilber; et al. (2012). "9,400 years of cosmic radiation and
+       solar activity from ice cores and tree rings". Proceedings of the
+       National Academy of Sciences. 109 (16): 5967–5971.
+       Bibcode:2012PNAS..109.5967S. doi:10.1073/pnas.1118965109.
+       PMC 3341045. PMID 22474348.
+   38. ^ ^a ^b "Satellite observations of total solar irradiance".
+       Acrim.com. Archived from the original on 2003-02-04. Retrieved
+       2012-02-12.
+   39. ^ G. Kopp, Greg; J. Lean (2011). "A new, lower value of total solar
+       irradiance: Evidence and climate significance". Geophys. Res. Lett.
+       38 (1): L01706. Bibcode:2011GeoRL..38.1706K.
+       doi:10.1029/2010GL045777.
+   40. ^ Willson, R. C.; Mordvinov, A. V. (2003). "Secular total solar
+       irradiance trend during solar cycles 21–23". Geophys. Res. Lett. 30
+       (5): 1199. Bibcode:2003GeoRL..30.1199W. doi:10.1029/2002GL016038.
+   41. ^ "Construction of a Composite Total Solar Irradiance (TSI) Time
+       Series from 1978 to present". Archived from the original on
+       2011-08-30. Retrieved 2005-10-05.
+   42. ^ "Current Projects". www.acrim.com. Archived from the original on
+       16 October 2017. Retrieved 25 January 2018.
+   43. ^ "Comparison: ACRIMSAT/ACRIM3, SOHO/VIRGO and SORCE/TIM results".
+       ACRIM.com. Archived from the original on 16 October 2017. Retrieved
+       25 January 2018.
+   44. ^ "Comparison: ACRIMSAT/ACRIM3, SOHO/VIRGO and SORCE/TIM results".
+       ACRIM.com. Archived from the original on 2013-05-30. Retrieved
+       2013-03-14.
+   45. ^ "NASA Goddard Space Flight Center: Solar Radiation".
+       Atmospheres.gsfc.nasa.gov. 2012-02-08. Archived from the original
+       on 2011-09-20. Retrieved 2012-02-12.
+   46. ^ Craig Bohren. "Atmospheric Optics" (PDF). Archived (PDF) from the
+       original on 2013-12-06.
+   47. ^ Buser, Pierre A.; Imbert, Michel (1992). Vision. MIT Press.
+       p. 50. ISBN 978-0-262-02336-8. Retrieved 11 October 2013. "Light is
+       a special class of radiant energy embracing wavelengths between 400
+       and 700 nm (or mμ), or 4000 to 7000 Å."
+   48. ^ MacEvoy, Bruce (2008). color vision. Archived from the original
+       on 24 September 2015. Retrieved 27 August 2015. "Noon sunlight
+       (D55) has a nearly flat distribution..."
+   49. ^ Wyszecki, Günter; Stiles, W. S. (1967). Color Science: Concepts
+       and Methods, Quantitative Data and Formulas. John Wiley & Sons.
+       p. 8.
+   50. ^ MacAdam, David L. (1985). Color Measurement: Theme and Variations
+       (Second Revised ed.). Springer. pp. 33–35. ISBN 0-387-15573-2.
+   51. ^ Chawda, Dishita; Shinde, Pranaykumar (2022-10-29). "Effects of
+       Solar Radiation on the Eyes". Cureus. 14 (10) e30857.
+       Bibcode:2022Cureu..1430857C. doi:10.7759/cureus.30857. PMC 9709587.
+       PMID 36465785.
+   52. ^ Mathes, Sonja; Lindwedel, Karla; Nilsen, Lill; Kaiser, Isabelle;
+       Pfahlberg, Annette; Gefeller, Olaf (September 2023). "Global
+       Tanning Bed Advertising: A Comparison of Legal Regulations on Three
+       Continents" (PDF). Cancers (Research article). 15 (17): 4362.
+       doi:10.3390/cancers15174362. PMC 10486637. PMID 37686637. Retrieved
+       May 10, 2026.
+   53. ^ Nguyen, Tien V.; Koo, John Y. M. (2014). "Ultraviolet Therapy for
+       Psoriasis". Advances in Psoriasis. pp. 91–110.
+       doi:10.1007/978-1-4471-4432-8_8. ISBN 978-1-4471-4431-1.
+   54. ^ Alora, M. B. T.; Fitzpatrick, T. B.; Taylor, C. R. (1997-10-12).
+       "Total body heliotherapy". Photodermatology, Photoimmunology &
+       Photomedicine. 13 (5–6): 178–180.
+       doi:10.1111/j.1600-0781.1997.tb00225.x. PMID 9542753.
+   55. ^ Ahmad, Shamim I. (2017). Ultraviolet Light in Human Health,
+       Diseases and Environment. Advances in Experimental Medicine and
+       Biology. Cham: Springer International Publishing AG.
+       ISBN 978-3-319-56017-5.
+   56. ^ Osborne JE; Hutchinson PE (August 2002). "Vitamin D and systemic
+       cancer: is this relevant to malignant melanoma?". Br. J. Dermatol.
+       147 (2): 197–213. doi:10.1046/j.1365-2133.2002.04960.x.
+       PMID 12174089.
+   57. ^ "Dietary Supplement Fact Sheet: Vitamin D". Office of Dietary
+       Supplements, National Institutes of Health. Archived from the
+       original on 2007-07-16.
+   58. ^ Cranney A; Horsley T; O'Donnell S; Weiler H; et al. (August
+       2007). "Effectiveness and safety of vitamin D in relation to bone
+       health". Evidence Report/Technology Assessment (158): 1–235.
+       PMC 4781354. PMID 18088161.
+   59. ^ John E; Schwartz G; Koo J; Van Den Berg D; et al. (June 15,
+       2005). "Sun Exposure, Vitamin D Receptor Gene Polymorphisms, and
+       Risk of Advanced Prostate Cancer". Cancer Research. 65 (12):
+       5470–5479. doi:10.1158/0008-5472.can-04-3134. PMID 15958597.
+   60. ^ Egan K; Sosman J; Blot W (February 2, 2005). "Sunlight and
+       Reduced Risk of Cancer: Is The Real Story Vitamin D?". J Natl
+       Cancer Inst. 97 (3): 161–163. doi:10.1093/jnci/dji047.
+       PMID 15687354.
+   61. ^ Mead MN (April 2008). "Benefits of sunlight: a bright spot for
+       human health". Environmental Health Perspectives. 116 (4):
+       A160–A167. Bibcode:2008EnvHP.116.a160M. doi:10.1289/ehp.116-a160.
+       PMC 2290997. PMID 18414615.
+   62. ^ Alfredsson, Lars; Armstrong, Bruce K.; Butterfield, D. Allan;
+       Chowdhury, Rajiv; de Gruijl, Frank R.; Feelisch, Martin; Garland,
+       Cedric F.; Hart, Prue H.; Hoel, David G.; Jacobsen, Ramune;
+       Lindqvist, Pelle G.; Llewellyn, David J.; Tiemeier, Henning;
+       Weller, Richard B.; Young, Antony R. (2020-07-13). "Insufficient
+       Sun Exposure Has Become a Real Public Health Problem".
+       International Journal of Environmental Research and Public Health.
+       17 (14): 5014. doi:10.3390/ijerph17145014. ISSN 1660-4601.
+       PMC 7400257. PMID 32668607.
+   63. ^ Lucas RM; Repacholi MH; McMichael AJ (June 2006). "Is the current
+       public health message on UV exposure correct?". Bulletin of the
+       World Health Organization. 84 (6): 485–491.
+       doi:10.2471/BLT.05.026559. PMC 2627377. PMID 16799733.
+   64. ^ "13th Report on Carcinogens: Ultraviolet-Radiation-Related
+       Exposures" (PDF). National Toxicology Program. October 2014.
+       Archived (PDF) from the original on 2014-12-22. Retrieved
+       2014-12-22.
+   65. ^ "Risks and Benefits" (PDF). Archived (PDF) from the original on
+       2010-11-20. Retrieved 2010-05-13.
+   66. ^ ^a ^b Weller, RB (2016). "Sunlight Has Cardiovascular Benefits
+       Independently of Vitamin D.". Blood Purification. 41 (1–3): 130–4.
+       doi:10.1159/000441266.
+       hdl:20.500.11820/8f7d93d4-db22-418d-a1cc-3dbf9ddad8c3.
+       PMID 26766556.
+   67. ^ Ries G, Heller W, Puchta H, Sandermann H, Seidlitz HK, Hohn B
+       (2000). "Elevated UV-B radiation reduces genome stability in
+       plants". Nature. 406 (6791): 98–101. Bibcode:2000Natur.406...98R.
+       doi:10.1038/35017595. PMID 10894550.
+
+Further reading
+
+   [edit]
+
+     * Hartmann, Thom (1998). The Last Hours of Ancient Sunlight. London:
+       Hodder and Stoughton.
+
+   ISBN 0-340-82243-0.
+
+External links
+
+   [edit]
+
+     * Wikimedia Commons logo Media related to Sunlight at Wikimedia
+       Commons
+     * Solar radiation – Encyclopedia of Earth
+     * Total Solar Irradiance (TSI) Daily mean data at the website of the
+       National Geophysical Data Center
+     * Construction of a Composite Total Solar Irradiance (TSI) Time
+       Series from 1978 to present by World Radiation Center,
+       Physikalisch-Meteorologisches Observatorium Davos (pmod wrc)
+     * A Comparison of Methods for Providing Solar Radiation Data to Crop
+       Models and Decision Support Systems, Rivington et al.
+     * Evaluation of three model estimations of solar radiation at 24 UK
+       stations, Rivington et al.
+     * High resolution spectrum of solar radiation from Observatoire de
+       Paris
+     * Measuring Solar Radiation : A lesson plan from the National Science
+       Digital Library.
+     * Websurf astronomical information: Online tools for calculating
+       Rising and setting times of Sun, Moon or planet, Azimuth of Sun,
+       Moon or planet at rising and setting, Altitude and azimuth of Sun,
+       Moon or planet for a given date or range of dates, and more.
+     * An Excel workbook with a solar position and solar radiation
+       time-series calculator; by Greg Pelletier
+     * ASTM Standard for solar spectrum at ground level in the US
+       (latitude ~37 degrees).
+     * Detailed spectrum of the Sun at Astronomy Picture of the Day.
+
+     * v
+     * t
+     * e
+
+   The Sun
+
+   Internal structure
+
+     * Core
+     * Radiative zone
+     * Tachocline
+     * Convection zone
+
+   Atmosphere
+
+   Photosphere
+     * Supergranulation
+     * Granule
+     * Faculae
+     * Sunspot
+     * Ellerman bomb
+
+   Chromosphere
+     * Plage
+     * Spicule
+     * Moreton wave
+
+   Corona
+     * Transition region
+     * Coronal hole
+     * Coronal loop
+     * Coronal mass ejection
+     * Nanoflare
+     * Prominence
+     * Helmet streamer
+     * Supra-arcade downflows
+     * Alfvén surface
+     * Moss
+
+   Variation
+
+     * Solar cycle
+          + List of solar cycles
+     * Active region
+     * Solar maximum
+     * Solar minimum
+     * Sunspot number
+     * Solar wind
+          + Solar wind turbulence
+     * Magnetic switchback
+     * Flare
+     * Helioseismology
+
+   Heliosphere
+
+     * Corotating interaction region
+     * Current sheet
+     * Termination shock
+     * Heliosheath
+     * Heliopause
+     * Bow shock
+
+   Related
+
+     * Eclipse
+          + In mythology and culture
+          + Lunar eclipse
+     * Heliophysics
+     * In culture
+          + Solar deity
+               o List
+     * Sun in fiction
+     * Solar activity
+     * Solar astronomy
+     * Solar dynamo
+     * Solar energy
+     * Solar neutrino
+     * Solar observation
+     * Solar phenomena
+     * Solar physics
+     * Solar radio emission
+     * Solar System
+     * Solar telescope
+     * Solar time
+     * Space climate
+     * Space weather
+     * Standard solar model
+     * Star
+     * Sunlight radiation
+
+   Spectral class
+
+   G-type main-sequence star
+
+   Exploration
+
+     * Solar observatory
+     * List of heliophysics missions
+     * Category:Missions to the Sun
+
+     * Category
+
+     * v
+     * t
+     * e
+
+   Stars
+
+     * List
+
+   Formation
+
+     * Accretion
+     * Molecular cloud
+     * Bok globule
+     * Young stellar object
+          + Protostar
+          + Pre-main-sequence
+          + Herbig Ae/Be
+          + T Tauri
+     * Herbig–Haro object
+     * Hayashi track
+     * Henyey track
+
+   Evolution
+
+     * Main sequence
+     * Red-giant branch
+     * Horizontal branch
+          + Red clump
+     * Asymptotic giant branch
+          + post-AGB
+          + super-AGB
+     * Blue loop
+     * Planetary nebula
+          + Protoplanetary
+     * Wolf–Rayet nebula
+     * PG1159
+     * Dredge-up
+     * OH/IR
+     * Instability strip
+     * Luminous blue variable
+     * Stellar population
+     * Supernova
+          + Superluminous
+          + Hypernova
+
+   Classification
+
+     * Early
+     * Late
+     * Main sequence
+          + O
+          + B
+          + A
+          + F
+          + G
+          + K
+          + M
+     * Subdwarf
+          + O
+          + B
+     * WR
+     * OB
+     * Subgiant
+          + Hertzsprung gap
+     * Giant
+          + Blue
+          + Red
+          + Yellow
+     * Bright giant
+     * Supergiant
+          + Blue
+          + Red
+          + Yellow
+     * Hypergiant
+          + Yellow
+     * Carbon
+          + S
+          + CN
+          + CH
+     * White dwarf
+     * Chemically peculiar
+          + Am
+          + Ap/Bp
+          + CEMP
+          + HgMn
+          + He-weak
+          + Barium
+          + Lambda Boötis
+          + Lead
+          + Technetium
+     * Be
+          + Shell
+     * B[e]
+     * Helium
+          + Extreme
+     * Blue straggler
+
+   Remnants
+     * Compact star
+     * White dwarf
+          + Helium planet
+     * Neutron
+          + Radio-quiet
+          + Pulsar
+               o Binary
+               o X-ray
+          + Magnetar
+     * Black hole
+          + Stellar black hole
+          + Supermassive black hole
+     * X-ray binary
+          + Burster
+     * SGR
+
+   Hypothetical
+     * Blue dwarf
+     * Black dwarf
+     * Exotic
+          + Boson
+          + Electroweak
+          + Strange
+          + Preon
+          + Planck
+          + Dark
+          + Dark-energy
+          + Quark
+          + Q
+          + Black
+          + Quasi-star
+     * Gravastar
+     * Thorne–Żytkow object
+     * Iron
+     * Blitzar
+     * White hole
+
+   Nucleosynthesis
+
+     * Deuterium burning
+     * Lithium burning
+     * Proton–proton chain
+     * CNO cycle
+     * Helium flash
+     * Triple-alpha process
+     * Alpha process
+     * C burning
+     * Ne burning
+     * O burning
+     * Si burning
+     * s-process
+     * r-process
+     * p-process
+     * Nova
+          + Symbiotic
+          + Remnant
+          + Luminous red nova
+          + Recurrent
+          + Micronova
+     * Supernova
+
+   Structure
+
+     * Core
+     * Convection zone
+          + Microturbulence
+          + Oscillations
+     * Radiation zone
+     * Atmosphere
+          + Photosphere
+          + Starspot
+          + Chromosphere
+          + Stellar corona
+          + Alfvén surface
+     * Stellar wind
+          + Bubble
+          + Bipolar outflow
+     * Accretion disk
+          + Protoplanetary disk
+          + Proplyd
+     * Asteroseismology
+          + Helioseismology
+     * Circumstellar dust
+     * Cosmic dust
+     * Circumstellar envelope
+     * Eddington luminosity
+     * Kelvin–Helmholtz mechanism
+
+   Properties
+
+     * Designation
+     * Dynamics
+     * Effective temperature
+     * Luminosity
+     * Kinematics
+     * Magnetic field
+     * Absolute magnitude
+     * Mass
+          + Loss
+     * Metallicity
+     * Rotation
+          + Gravity darkening
+     * Starlight
+     * Variable
+     * Photometric system
+     * Color index
+     * Hertzsprung–Russell diagram
+     * Color–color diagram
+     * Strömgren sphere
+     * Kraft break
+
+   Star systems
+
+     * Binary
+          + Contact
+          + Common envelope
+          + Eclipsing
+          + Symbiotic
+     * Multiple
+     * Cluster
+          + Open
+          + Globular
+          + Super
+     * Planetary system
+
+   Earth-centric
+   observations
+
+     * Sun
+          + Solar eclipse
+          + Solar radio emission
+          + Solar System
+          + Sunlight
+     * Pole star
+     * Circumpolar
+     * Constellation
+     * Asterism
+     * Magnitude
+          + Apparent
+          + Extinction
+          + Photographic
+     * Radial velocity
+     * Proper motion
+     * Parallax
+     * Photometric-standard
+
+   Lists
+
+     * Proper names
+          + Arabic
+          + Chinese
+     * Extremes
+          + Most massive
+          + Highest temperature
+          + Lowest temperature
+          + Largest volume
+          + Smallest volume
+          + Brightest
+          + Historical brightest
+          + Most luminous
+          + Nearest
+               o bright
+     * Most distant
+     * With resolved images
+     * With multiple exoplanets
+     * Brown dwarfs
+     * Red dwarfs
+     * White dwarfs
+     * Milky Way novae
+     * Supernovae
+          + Candidates
+          + Remnants
+     * Planetary nebulae
+     * Timeline of stellar astronomy
+
+   Related
+
+     * Substellar object
+          + Brown dwarf
+               o Desert
+               o Sub
+          + Planet
+     * Galactic year
+     * Galaxy
+     * Guest
+     * Gravity
+     * Intergalactic
+     * Neutron star merger
+     * Planet-hosting stars
+     * Stellar collision
+     * Stellar engulfment
+     * Tidal disruption event
+
+     * Category
+     * icon Stars portal
+
+   Portals:
+     * Astronomy
+     * Spaceflight
+     * Outer space
+     * Solar System
+
+     * v
+     * t
+     * e
+
+   Elements of nature
+
+   Universe
+
+     * Space
+     * Time
+     * Energy
+     * Matter
+          + chemical elements
+          + particles
+     * Change
+
+   Earth
+
+     * Earth science
+     * History
+          + geological
+     * Structure
+     * Geology
+     * Plate tectonics
+     * Oceans
+     * Gaia hypothesis
+     * Future
+
+   Weather
+
+     * Meteorology
+     * Atmosphere (Earth)
+     * Climate
+     * Clouds
+     * Moonlight
+     * Rain
+     * Snow
+     * Sunlight
+     * Tides
+     * Wind
+          + tornado
+          + tropical cyclone
+
+   Natural environment
+
+     * Ecology
+     * Ecosystem
+     * Field
+     * Radiation
+     * Wilderness
+     * Wildfires
+
+   Life
+
+     * Origin (abiogenesis)
+     * Evolutionary history
+     * Biosphere
+     * Hierarchy
+     * Biology
+          + astrobiology
+
+     * Biodiversity
+     * Organism
+     * Eukaryota
+          + fauna
+               o animals
+          + flora
+               o plants
+          + fungi
+          + protista
+     * Prokaryotes
+          + archaea
+          + bacteria
+     * Viruses
+
+   See also
+
+     * Nature-based solutions
+
+     * v
+     * t
+     * e
+
+   Natural resources
+
+   Air
+
+   Pollution / quality
+     * Ambient standards (US)
+     * Index
+     * Indoor
+     * Law
+          + Clean Air Act (US)
+     * Ozone depletion
+
+   Emissions
+     * Airshed
+     * Trading
+     * Deforestation (REDD)
+
+   Energy
+
+     * Bio
+     * Law
+     * Resources
+     * Fossil fuels (gas, peak coal, peak gas, peak oil)
+     * Geothermal
+     * Hydro
+     * Nuclear
+     * Solar
+          + sunlight
+          + shade
+     * Wind
+
+   Land
+
+     * Agricultural
+          + arable
+               o peak farmland
+     * Degradation
+     * Field
+     * Landscape
+          + cityscape
+          + seascape
+          + soundscape
+          + viewshed
+     * Law
+          + property
+     * Management
+          + habitat conservation
+     * Minerals
+          + gemstone
+          + industrial
+          + ore
+               o metal
+          + mining
+               o law
+               o sand
+          + peak
+               o copper
+               o phosphorus
+          + rights
+     * Soil
+          + conservation
+          + fertility
+          + health
+          + resilience
+     * Use
+          + planning
+          + reserve
+
+   Life
+
+     * Biodiversity
+     * Bioprospecting
+          + biopiracy
+     * Biosphere
+     * Bushfood
+     * Bushmeat
+     * Fisheries
+          + climate change
+          + law
+          + management
+     * Forests
+          + genetic resources
+          + law
+          + management
+          + non-timber products
+     * Game
+          + law
+     * Marine conservation
+     * Meadow
+     * Pasture
+     * Plants
+          + FAO Plant Treaty
+          + food
+          + genetic resources
+          + gene banks
+          + herbal medicines
+          + UPOV Convention
+          + wood
+     * Rangeland
+     * Seed bank
+     * Wildlife
+          + conservation
+          + management
+
+   Water
+
+   Types / location
+     * Aquifer
+          + storage and recovery
+     * Drinking
+          + daily consumption
+     * Fresh
+     * Groundwater
+          + pollution
+          + recharge
+          + remediation
+     * Hydrosphere
+     * Ice
+          + bergs
+          + glacial
+          + polar
+     * Irrigation
+          + huerta
+     * Marine
+     * Rain
+          + harvesting
+     * Stormwater
+     * Surface water
+     * Sewage
+          + reclaimed water
+     * Watershed
+
+   Aspects
+     * Desalination
+     * Floods
+     * Law
+     * Leaching
+     * Sanitation
+          + improved
+     * Scarcity
+     * Security
+     * Supply
+     * Efficiency
+     * Conflict
+     * Conservation
+     * Peak water
+     * Pollution
+     * Privatization
+     * Quality
+     * Right
+     * Resources
+          + improved
+          + policy
+
+   Related
+
+     * Commons
+          + enclosure
+          + global
+          + land
+          + tragedy of
+     * Economics
+          + ecological
+          + land
+     * Ecosystem services
+     * Exploitation
+          + overexploitation
+          + Earth Overshoot Day
+     * Management
+          + adaptive
+     * Natural capital
+          + accounting
+          + good
+     * Natural heritage
+     * Nature reserve
+          + remnant natural area
+     * Systems ecology
+     * Urban ecology
+     * Wilderness
+
+   Resource
+     * Common-pool
+     * Conflict (perpetuation)
+     * Curse
+     * Depletion
+     * Extraction
+     * Nationalism
+     * Renewable / Non-renewable
+
+   Politics
+     * Electrostate
+     * Oil war
+     * Petroleum politics
+     * Petrostate
+     * Petro-Islam
+     * Resource war
+
+     * Category
+
+     * v
+     * t
+     * e
+
+   Meteorological data and variables
+
+   General
+
+     * Adiabatic processes
+     * Advection
+     * Buoyancy
+     * Lapse rate
+     * Lightning
+     * Surface solar radiation
+     * Surface weather analysis
+     * Visibility
+     * Vorticity
+     * Wind
+     * Wind shear
+
+   Condensation
+
+     * Cloud
+     * Cloud condensation nuclei (CCN)
+     * Fog
+     * Convective condensation level (CCL)
+     * Lifting condensation level (LCL)
+     * Precipitable water
+     * Precipitation
+     * Water vapor
+
+   Convection
+
+     * Convective available potential energy (CAPE)
+     * Convective inhibition (CIN)
+     * Convective instability
+     * Convective momentum transport
+     * Conditional symmetric instability
+     * Convective temperature (T[c])
+     * Equilibrium level (EL)
+     * Free convective layer (FCL)
+     * Helicity
+     * K Index
+     * Level of free convection (LFC)
+     * Lifted index (LI)
+     * Maximum parcel level (MPL)
+     * Bulk Richardson number (BRN)
+     * Significant tornado parameter (STP)
+
+   Temperature
+
+     * Dew point (T[d])
+     * Dew point depression
+     * Dry-bulb temperature
+     * Equivalent temperature (T[e])
+     * Forest fire weather index
+     * Haines Index
+     * Heat index
+     * Humidex
+     * Humidity
+     * Relative humidity (RH)
+     * Mixing ratio
+     * Potential temperature (θ)
+     * Equivalent potential temperature (θ[e])
+     * Sea surface temperature (SST)
+     * Temperature anomaly
+     * Thermodynamic temperature
+     * Vapor pressure
+     * Virtual temperature
+     * Wet-bulb temperature
+     * Wet-bulb globe temperature
+     * Wet-bulb potential temperature
+     * Wind chill
+
+   Pressure
+
+     * Atmospheric pressure
+     * Baroclinity
+     * Barotropicity
+     * Pressure gradient
+     * Pressure-gradient force (PGF)
+
+   Velocity
+
+     * Maximum potential intensity
+
+     * v
+     * t
+     * e
+
+   Climate change
+
+            Overview
+     * Causes of climate change
+     * Effects of climate change
+     * Climate change mitigation
+     * Climate change adaptation
+     * By country and region
+
+   Causes
+   Overview
+     * Climate system
+     * Greenhouse effect (Carbon dioxide in the atmosphere of Earth)
+     * Scientific consensus on climate change
+
+   Sources
+     * Deforestation
+     * Fossil fuel
+     * Greenhouse gases
+     * Greenhouse gas emissions
+          + Carbon accounting
+          + Carbon footprint
+          + Carbon leakage
+          + from agriculture
+          + from wetlands
+     * World energy supply and consumption
+
+                       History
+     * History of climate change policy and politics
+     * History of climate change science
+     * Svante Arrhenius
+     * James Hansen
+     * Charles David Keeling
+     * United Nations Climate Change conferences
+     * International Conference on Transitioning Away from Fossil Fuels
+     * Years in climate change
+          + 2019
+          + 2020
+          + 2021
+          + 2022
+          + 2023
+          + 2024
+          + 2025
+          + 2026
+
+   Effects and issues
+   Physical
+     * Abrupt climate change
+     * Anoxic event
+     * Arctic methane emissions
+     * Arctic sea ice decline
+     * Atlantic meridional overturning circulation
+     * Drought
+     * Extreme weather
+     * Flood
+          + Coastal flooding
+     * Heat wave
+          + Marine
+          + Urban heat island
+     * Oceans
+          + acidification
+          + deoxygenation
+          + heat content
+          + sea surface temperature
+          + stratification
+          + temperature
+     * Ozone depletion
+     * Permafrost thaw
+     * Retreat of glaciers since 1850
+     * Sea level rise
+     * Season creep
+     * Climate sensitivity
+     * Tipping points in the climate system
+     * Tropical cyclones
+     * Water cycle
+     * Wildfires
+
+   Flora and fauna
+     * Biomes
+          + Mass mortality event
+     * Birds
+     * Extinction risk
+     * Forest dieback
+     * Invasive species
+     * Marine life
+     * Plant biodiversity
+
+   Social and economic
+     * Agriculture
+          + Livestock
+          + Multi-breadbasket failure
+          + In the United States
+     * Children
+     * Cities
+     * Civilizational collapse
+     * Crime
+     * Depopulation of settlements
+     * Destruction of cultural heritage
+     * Disability
+     * Economic impacts
+          + U.S. insurance industry
+     * Fisheries
+     * Gender
+     * Health
+          + Infectious diseases
+          + Mental health
+          + In the United Kingdom
+          + In the Philippines
+     * Human rights
+     * Indigenous peoples
+     * Migration
+     * Poverty
+     * Psychological impacts
+     * Security and conflict
+     * Urban flooding
+     * Water scarcity
+     * Water security
+
+   By country and region
+     * Africa
+     * Americas
+     * Antarctica
+     * Arctic
+     * Asia
+     * Australia
+     * Caribbean
+     * Europe
+     * Middle East and North Africa
+     * Small island countries
+     * by individual country
+
+   Mitigation
+   Economics and finance
+     * Carbon budget
+     * Carbon emission trading
+     * Carbon offsets and credits
+          + Gold Standard (carbon offset standard)
+     * Carbon price
+     * Carbon tax
+     * Climate debt
+     * Climate finance
+     * Climate risk insurance
+     * Co-benefits of climate change mitigation
+     * Economics of climate change mitigation
+     * Fossil fuel divestment
+     * Green Climate Fund
+     * Low-carbon economy
+     * Net zero emissions
+
+   Energy
+     * Carbon capture and storage
+     * Energy transition
+          + Fossil fuel phase-out
+     * Nuclear power
+     * Renewable energy
+     * Sustainable energy
+
+   Preserving and enhancing
+   carbon sinks
+     * Blue carbon
+     * Carbon dioxide removal
+          + Carbon sequestration
+          + Direct air capture
+     * Carbon farming
+     * Climate-smart agriculture
+     * Forest management
+          + afforestation
+          + forestry for carbon sequestration
+          + REDD+
+          + reforestation
+     * Land use, land-use change, and forestry (LULUCF and AFOLU)
+     * Nature-based solutions
+
+   Other
+     * Earth Strike
+     * Fridays for Future
+     * Geoengineering
+     * Individual action on climate change
+     * Positive tipping points
+     * Sustainable architecture
+     * Sustainable transport
+
+   Society and adaptation
+   Society
+     * Business action
+     * Climate action
+     * Climate emergency declaration
+     * Climate movement
+          + School Strike for Climate
+     * Denial
+     * Ecological grief
+     * Governance
+     * Justice
+     * Litigation
+     * Politics
+     * Public opinion
+     * Women
+
+   Adaptation
+     * Adaptation strategies on the German coast
+     * Adaptive capacity
+     * Disaster risk reduction
+     * Ecosystem-based adaptation
+     * Flood control
+     * Loss and damage
+     * Managed retreat
+     * Nature-based solutions
+     * Resilience
+     * Risk
+     * Vulnerability
+     * The Adaptation Fund
+     * National Adaptation Programme of Action
+
+   Communication
+     * Climate Change Performance Index
+     * Climate crisis (term)
+     * Climate spiral
+     * Education
+     * Media coverage
+     * Popular culture depictions
+          + art
+          + fiction
+          + video games
+     * Warming stripes
+
+   International agreements
+     * Glasgow Climate Pact
+     * Integrity Council for the Voluntary Carbon Market
+          + Taskforce on Scaling Voluntary Carbon Markets
+     * Kyoto Protocol
+     * Paris Agreement
+          + Cooperative mechanisms under Article 6 of the Paris Agreement
+          + Nationally determined contributions
+     * Sustainable Development Goal 13
+     * United Nations Framework Convention on Climate Change
+     * International Conference on Transitioning Away from Fossil Fuels
+
+   Background and theory
+   Measurements
+     * Global surface temperature
+     * Instrumental temperature record
+     * Proxy
+     * Satellite temperature measurement
+
+   Theory
+     * Albedo
+     * Carbon cycle
+          + atmospheric
+          + biologic
+          + oceanic
+          + permafrost
+     * Carbon sink
+     * Climate sensitivity
+     * Climate variability and change
+     * Cloud feedback
+     * Cloud forcing
+          + Fixed anvil temperature hypothesis
+     * Cryosphere
+     * Earth's energy budget
+     * Extreme event attribution
+     * Feedbacks
+     * Global warming potential
+     * Illustrative model of greenhouse effect on climate change
+     * Orbital forcing
+     * Radiative forcing
+
+   Research and modelling
+     * Climate change scenario
+     * Climate model
+     * Coupled Model Intercomparison Project
+     * Intergovernmental Panel on Climate Change (IPCC)
+          + IPCC Sixth Assessment Report
+     * Paleoclimatology
+     * Representative Concentration Pathway
+     * Shared Socioeconomic Pathways
+
+     * icon Climate change portal
+     * Category
+     * Glossary
+     * Index
+
+   Authority control databases Edit this at Wikidata
+   National
+     * United States
+     * Czech Republic
+     * Israel
+
+    Other
+     * NARA
+     * Yale LUX
+
+   Retrieved from
+   "https://en.wikipedia.org/w/index.php?title=Sunlight&oldid=1359070951"
+
+   Categories:
+     * Sun
+     * Atmospheric radiation
+     * Climate forcing
+     * Solar energy
+     * Light sources
+     * IARC Group 1 carcinogens
+
+   Hidden categories:
+     * Webarchive template wayback links
+     * Articles with short description
+     * Short description is different from Wikidata
+     * All articles with vague or ambiguous time
+     * Vague or ambiguous time from December 2016
+     * Articles needing additional references from January 2015
+     * All articles needing additional references
+     * All articles with unsourced statements
+     * Articles with unsourced statements from May 2026
+     * Commons category link is on Wikidata
+
+     * This page was last edited on 12 June 2026, at 22:03 (UTC).
+     * Text is available under the Creative Commons Attribution-ShareAlike
+       4.0 License; additional terms may apply. By using this site, you
+       agree to the Terms of Use and Privacy Policy. Wikipedia® is a
+       registered trademark of the Wikimedia Foundation, Inc., a
+       non-profit organization.
+
+     * Privacy policy
+     * About Wikipedia
+     * Disclaimers
+     * Contact Wikipedia
+     * Legal & safety contacts
+     * Code of Conduct
+     * Developers
+     * Statistics
+     * Cookie statement
+     * Mobile view
+
+     * Wikimedia Foundation
+     * Powered by MediaWiki
+
+   (BUTTON) Search
+   ____________________
+   (BUTTON) Search
+
+   [ ] Toggle the table of contents
+   Sunlight
+   (BUTTON) 64 languages Add topic

@@ -1,0 +1,1697 @@
+   #Wikipedia (en) Wikipedia Atom feed
+
+   Jump to content
+
+   [ ] Main menu
+   Main menu
+   (BUTTON) move to sidebar (BUTTON) hide
+   Navigation
+     * Main page
+     * Contents
+     * Current events
+     * Random article
+     * About Wikipedia
+     * Contact us
+
+   Contribute
+     * Help
+     * Learn to edit
+     * Community portal
+     * Recent changes
+     * Upload file
+     * Special pages
+
+   Wikipedia The Free Encyclopedia
+   Search
+   ____________________
+   (BUTTON) Search
+
+   [ ] Appearance
+
+     * Donate
+     * Create account
+     * Log in
+
+   [ ] Personal tools
+     * Donate
+     * Create account
+     * Log in
+
+Contents
+
+   (BUTTON) move to sidebar (BUTTON) hide
+     * (Top)
+     * 1 Electromagnetic spectrum and visible light
+     * 2 Speed of light
+     * 3 Optics
+       (BUTTON) Toggle Optics subsection
+          + 3.1 Surface scattering
+          + 3.2 Refraction
+     * 4 Light sources
+     * 5 Measurement
+     * 6 Light pressure
+     * 7 Historical theories about light, in chronological order
+       (BUTTON) Toggle Historical theories about light, in chronological
+       order subsection
+          + 7.1 Classical Greece and Hellenism
+          + 7.2 Classical India
+          + 7.3 Descartes
+          + 7.4 Particle theory
+          + 7.5 Wave theory
+          + 7.6 Electromagnetic theory
+          + 7.7 Quantum theory
+          + 7.8 Quantum optics
+     * 8 Use for light on Earth
+     * 9 See also
+     * 10 Notes
+     * 11 References
+     * 12 External links
+
+   [ ] Toggle the table of contents
+
+Light
+
+   [ ] 184 languages
+     * Afrikaans
+     * Alemannisch
+     * አማርኛ
+     * Aragonés
+     * العربية
+     * ܐܪܡܝܐ
+     * الدارجة
+     * مصرى
+     * অসমীয়া
+     * Asturianu
+     * Aymar aru
+     * Azərbaycanca
+     * تۆرکجه
+     * Башҡортса
+     * Boarisch
+     * Žemaitėška
+     * Bikol Central
+     * Беларуская (тарашкевіца)
+     * Беларуская
+     * Betawi
+     * Български
+     * বাংলা
+     * བོད་ཡིག
+     * Brezhoneg
+     * Bosanski
+     * Català
+     * 閩東語 / Mìng-dĕ̤ng-ngṳ̄
+     * Cebuano
+     * ᏣᎳᎩ
+     * کوردی
+     * Čeština
+     * Чӑвашла
+     * Cymraeg
+     * Dansk
+     * Dagbanli
+     * Deutsch
+     * Kadazandusun
+     * Ελληνικά
+     * Esperanto
+     * Español
+     * Eesti
+     * Euskara
+     * Estremeñu
+     * فارسی
+     * Suomi
+     * Võro
+     * Na Vosa Vakaviti
+     * Français
+     * Nordfriisk
+     * Frysk
+     * Gaeilge
+     * 贛語
+     * Kriyòl gwiyannen
+     * Galego
+     * Avañe'ẽ
+     * गोंयची कोंकणी / Gõychi Konknni
+     * ગુજરાતી
+     * Hausa
+     * עברית
+     * हिन्दी
+     * Fiji Hindi
+     * Hrvatski
+     * Kreyòl ayisyen
+     * Magyar
+     * Հայերեն
+     * Արեւմտահայերէն
+     * Interlingua
+     * Jaku Iban
+     * Bahasa Indonesia
+     * Interlingue
+     * Ilokano
+     * ГӀалгӀай
+     * Ido
+     * Íslenska
+     * Italiano
+     * 日本語
+     * Patois
+     * La .lojban.
+     * Jawa
+     * ქართული
+     * Taqbaylit
+     * Қазақша
+     * ភាសាខ្មែរ
+     * ಕನ್ನಡ
+     * 한국어
+     * کٲشُر
+     * Kurdî
+     * Кыргызча
+     * Latina
+     * Lëtzebuergesch
+     * Lingua Franca Nova
+     * Luganda
+     * Limburgs
+     * Ligure
+     * Lombard
+     * Lietuvių
+     * Latviešu
+     * Malagasy
+     * Minangkabau
+     * Македонски
+     * മലയാളം
+     * Монгол
+     * मराठी
+     * Bahasa Melayu
+     * Mirandés
+     * မြန်မာဘာသာ
+     * مازِرونی
+     * Nāhuatl
+     * Napulitano
+     * Nedersaksies
+     * Plattdüütsch
+     * नेपाली
+     * नेपाल भाषा
+     * Nederlands
+     * Norsk nynorsk
+     * Norsk bokmål
+     * Novial
+     * Nouormand
+     * Occitan
+     * Oromoo
+     * ଓଡ଼ିଆ
+     * ਪੰਜਾਬੀ
+     * Papiamentu
+     * Deitsch
+     * Polski
+     * Piemontèis
+     * پنجابی
+     * Português
+     * Runa Simi
+     * Română
+     * Armãneashti
+     * Руски
+     * Русский
+     * Русиньскый
+     * संस्कृतम्
+     * Саха тыла
+     * ᱥᱟᱱᱛᱟᱲᱤ
+     * Sicilianu
+     * Scots
+     * سنڌي
+     * Srpskohrvatski / српскохрватски
+     * සිංහල
+     * Simple English
+     * Slovenčina
+     * Slovenščina
+     * ChiShona
+     * Soomaaliga
+     * Shqip
+     * Српски / srpski
+     * Seeltersk
+     * Sunda
+     * Svenska
+     * Kiswahili
+     * Ślůnski
+     * தமிழ்
+     * తెలుగు
+     * Тоҷикӣ
+     * ไทย
+     * Tagalog
+     * Toki pona
+     * Türkçe
+     * Xitsonga
+     * Татарча / tatarça
+     * Тыва дыл
+     * Удмурт
+     * Українська
+     * اردو
+     * Oʻzbekcha / ўзбекча
+     * Vèneto
+     * Vepsän kel’
+     * Tiếng Việt
+     * Volapük
+     * Walon
+     * Winaray
+     * 吴语
+     * მარგალური
+     * ייִדיש
+     * Yorùbá
+     * Vahcuengh
+     * 文言
+     * 閩南語 / Bân-lâm-gí
+     * 粵語
+     * 中文
+     * IsiZulu
+
+   Edit links
+
+     * Article
+     * Talk
+
+   [ ] English
+
+     * Read
+     * View source
+     * View history
+
+   [ ] Tools
+   Tools
+   (BUTTON) move to sidebar (BUTTON) hide
+   Actions
+     * Read
+     * View source
+     * View history
+
+   General
+     * What links here
+     * Related changes
+     * Upload file
+     * Permanent link
+     * Page information
+     * Cite this page
+     * Get shortened URL
+
+   Print/export
+     * Download as PDF
+     * Printable version
+
+   In other projects
+     * Abstract Wikipedia
+     * Wikimedia Commons
+     * Wikibooks
+     * Wikiquote
+     * Wikidata item
+
+   Appearance
+   (BUTTON) move to sidebar (BUTTON) hide
+   Page semi-protected
+   From Wikipedia, the free encyclopedia
+   Electromagnetic radiation humans can see
+   For other uses, see Light (disambiguation). "Visible light" redirects
+   here. For other uses, see Visible light (disambiguation).
+
+   [330px-Prism_flat_rainbow_%28cropped%29.jpg] A triangular prism
+   dispersing a beam of white light. The longer wavelengths (red) and the
+   shorter wavelengths (green-blue) are separated.
+                        Modern physics
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD">
+   <mrow class="MJX-TeXAtom-ORD"> <mover> <mi>H</mi> <mo
+   stretchy="false">^</mo> </mover> </mrow> </mrow> <mrow
+   class="MJX-TeXAtom-ORD"> <mo stretchy="false">|</mo> </mrow> <msub>
+   <mi>ψ</mi> <mrow class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow> </msub>
+   <mo stretchy="false">(</mo> <mi>t</mi> <mo stretchy="false">)</mo> <mo
+   fence="false" stretchy="false">⟩</mo> <mo>=</mo> <mi>i</mi> <mi
+   class="MJX-variant">ℏ</mi> <mrow class="MJX-TeXAtom-ORD"> <mfrac>
+   <mi>d</mi> <mrow> <mi>d</mi> <mi>t</mi> </mrow> </mfrac> </mrow> <mrow
+   class="MJX-TeXAtom-ORD"> <mo stretchy="false">|</mo> </mrow> <msub>
+   <mi>ψ</mi> <mrow class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow> </msub>
+   <mo stretchy="false">(</mo> <mi>t</mi> <mo stretchy="false">)</mo> <mo
+   fence="false" stretchy="false">⟩</mo> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle {\hat {H}}|\psi
+   _{n}(t)\rangle =i\hbar {\frac {d}{dt}}|\psi _{n}(t)\rangle
+   }</annotation> </semantics> :MATH]
+   {\displaystyle {\hat {H}}|\psi _{n}(t)\rangle =i\hbar {\frac
+   {d}{dt}}|\psi _{n}(t)\rangle }
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <msub> <mi>G</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mi>μ</mi> <mi>ν</mi> </mrow> </msub>
+   <mo>+</mo> <mi mathvariant="normal">Λ</mi> <msub> <mi>g</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mi>μ</mi> <mi>ν</mi> </mrow> </msub>
+   <mo>=</mo> <mrow class="MJX-TeXAtom-ORD"> <mi>κ</mi> </mrow> <msub>
+   <mi>T</mi> <mrow class="MJX-TeXAtom-ORD"> <mi>μ</mi> <mi>ν</mi> </mrow>
+   </msub> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle G_{\mu \nu }+\Lambda g_{\mu
+   \nu }={\kappa }T_{\mu \nu }}</annotation> </semantics> :MATH]
+   {\displaystyle G_{\mu \nu }+\Lambda g_{\mu \nu }={\kappa }T_{\mu \nu }}
+   Schrödinger and Einstein field equations
+   Founders
+     * Max Planck
+     * Albert Einstein
+     * Niels Bohr
+     * Max Born
+     * Erwin Schrödinger
+     * Werner Heisenberg
+     * Pascual Jordan
+     * Wolfgang Pauli
+     * Paul Dirac
+     * Ernest Rutherford
+     * Louis de Broglie
+     * Satyendra Nath Bose
+
+   Concepts
+     * Topology
+     * Space
+     * Time
+     * Energy
+     * Matter
+     * Work
+     * Randomness
+     * Information
+     * Entropy
+     * Light
+     * Particle
+     * Wave
+
+   Branches
+     * Applied
+     * Experimental
+     * Theoretical
+     * Mathematical
+     * Philosophy of physics
+     * Quantum mechanics
+          + Quantum field theory
+          + Quantum information
+          + Quantum computation
+     * Electromagnetism
+     * Weak interaction
+     * Electroweak interaction
+     * Strong interaction
+     * Atomic
+     * Particle
+     * Nuclear
+     * Atomic, molecular, and optical
+     * Condensed matter
+     * Statistical
+     * Complex systems
+     * Non-linear dynamics
+     * Biophysics
+     * Neurophysics
+     * Plasma physics
+     * Special relativity
+     * General relativity
+     * Astrophysics
+     * Cosmology
+     * Theories of gravitation
+     * Quantum gravity
+     * Theory of everything
+
+   Scientists
+     * Röntgen
+     * Witten
+     * Becquerel
+     * Lorentz
+     * Planck
+     * Curie
+     * Wien
+     * Skłodowska-Curie
+     * Sommerfeld
+     * Rutherford
+     * Soddy
+     * Onnes
+     * Einstein
+     * Wilczek
+     * Born
+     * Weyl
+     * Bohr
+     * Kramers
+     * Schrödinger
+     * de Broglie
+     * Laue
+     * Bose
+     * Compton
+     * Pauli
+     * Walton
+     * Fermi
+     * van der Waals
+     * Heisenberg
+     * Dyson
+     * Zeeman
+     * Moseley
+     * Hilbert
+     * Gödel
+     * Jordan
+     * Dirac
+     * Wigner
+     * Hawking
+     * P. W. Anderson
+     * Lemaître
+     * Thomson
+     * Poincaré
+     * Wheeler
+     * Penrose
+     * Millikan
+     * Nambu
+     * von Neumann
+     * Higgs
+     * Hahn
+     * Feynman
+     * Yang
+     * Lee
+     * Lenard
+     * Salam
+     * 't Hooft
+     * Veltman
+     * Bell
+     * Gell-Mann
+     * J. J. Thomson
+     * Raman
+     * Bragg
+     * Bardeen
+     * Shockley
+     * Chadwick
+     * Lawrence
+     * Zeilinger
+     * Goudsmit
+     * Uhlenbeck
+
+   Categories
+     * Modern physics
+
+     * v
+     * t
+     * e
+
+   Light, visible light, or visible radiation is electromagnetic radiation
+   that can be perceived by the human eye.^[1]^[2] Visible light spans the
+   visible spectrum and is usually defined as having wavelengths in the
+   range of 400–700 nanometres (nm), corresponding to frequencies of
+   750–420 terahertz. The visible band sits adjacent to the infrared (with
+   longer wavelengths and lower frequencies) and the ultraviolet (with
+   shorter wavelengths and higher frequencies), called collectively
+   optical radiation.^[3]^[4]
+
+   In physics, the term "light" may refer more broadly to electromagnetic
+   radiation of any wavelength, whether visible or not.^[5]^[6] In this
+   sense, gamma rays, X-rays, microwaves and radio waves are also light.
+   This is why visible radiation is commonly termed visible light.^[7]^[8]
+
+   The primary properties of light are intensity, propagation direction,
+   frequency or wavelength spectrum, and polarization. Its speed in
+   vacuum, 299792458 m/s, is one of the fundamental constants of
+   nature.^[9] All electromagnetic radiation exhibits some properties of
+   both particles and waves. Single, massless elementary particles, or
+   quanta, of light called photons can be detected with specialized
+   equipment; phenomena like interference are described by waves. Most
+   everyday interactions with light can be understood using geometrical
+   optics. Quantum optics is an important research area in modern physics.
+
+   The main source of natural light on Earth is the Sun. Historically,
+   another important source of light for humans has been fire, from
+   ancient campfires to modern kerosene lamps. With the development of
+   electric lights and power systems, electric lighting has effectively
+   replaced firelight.
+
+Electromagnetic spectrum and visible light
+
+   [500px-EM_spectrum.svg.png] The electromagnetic spectrum, with the
+   visible portion highlighted. The bottom graph (Visible spectrum) is
+   wavelength in units of nanometres (nm).
+   Main article: Electromagnetic spectrum
+
+   Generally, electromagnetic radiation (EMR) is classified by wavelength
+   into radio waves, microwaves, infrared, the visible spectrum that we
+   perceive as light, ultraviolet, X-rays and gamma rays. The designation
+   "radiation" excludes static electric, magnetic and near fields.
+
+   The behavior of EMR depends on its wavelength. Higher frequencies have
+   shorter wavelengths and lower frequencies have longer wavelengths. When
+   EMR interacts with single atoms and molecules, its behavior depends on
+   the amount of energy per quantum it carries.
+
+   EMR in the visible light region consists of quanta (called photons)
+   that are at the lower end of the energies that are capable of causing
+   electronic excitation within molecules, which leads to changes in the
+   bonding or chemistry of the molecule. At the lower end of the visible
+   light spectrum, EMR becomes invisible to humans (infrared) because its
+   photons no longer have enough individual energy to cause a lasting
+   molecular change (a change in conformation) in the visual molecule
+   retinal in the human retina, which change triggers the sensation of
+   vision.
+
+   There exist animals that are sensitive to various types of infrared,
+   but not by means of quantum-absorption. Infrared sensing in snakes
+   depends on a kind of natural thermal imaging, in which tiny packets of
+   cellular water are raised in temperature by the infrared radiation. EMR
+   in this range causes molecular vibration and heating effects, which is
+   how these animals detect it.
+
+   Above the frequency range of visible light, ultraviolet light becomes
+   invisible to humans, mostly because it is absorbed by the cornea with
+   wavelengths shorter than 360 nm and the internal lens at wavelengths
+   shorter than 400 nm. Furthermore, the rods and cones located in the
+   retina of the human eye cannot detect the very short (shorter than
+   360 nm) ultraviolet wavelengths and are in fact damaged by ultraviolet.
+   Many animals with eyes that do not require lenses (such as insects and
+   shrimp) are able to detect ultraviolet, by quantum photon-absorption
+   mechanisms, in much the same chemical way that humans detect visible
+   light.
+
+   Various sources define visible light as narrowly as
+   420–680 nm^[10]^[11] to as broadly as 380–800 nm.^[12]^[13] Under ideal
+   laboratory conditions, people can see infrared up to at least
+   1,050 nm;^[14] children and young adults may perceive ultraviolet
+   wavelengths down to about 310–313 nm.^[15]^[16]^[17]
+
+   Plant growth is also affected by the colour spectrum of light, a
+   process known as photomorphogenesis.
+
+Speed of light
+
+   Main article: Speed of light
+   [250px-Rocca_dell%27Abisso%2C_Fondachelli_Fantina%2C_Sicilia.JPG] Beam
+   of sun light inside the cavity of Rocca ill'Abissu at
+   Fondachelli-Fantina, Sicily
+
+   The speed of light in vacuum is defined to be exactly 299792458 m/s
+   (approximately 186,282 miles per second). The fixed value of the speed
+   of light in SI units results from the fact that the metre is now
+   defined in terms of the speed of light. All forms of electromagnetic
+   radiation move at exactly this same speed in vacuum.
+
+   Different physicists have attempted to measure the speed of light
+   throughout history. Galileo attempted to measure the speed of light in
+   the seventeenth century. An early experiment to measure the speed of
+   light was conducted by Ole Rømer, a Danish physicist, in 1676. Using a
+   telescope, Rømer observed the motions of Jupiter and one of its moons,
+   Io. Noting discrepancies in the apparent period of Io's orbit, he
+   calculated that light takes about 22 minutes to traverse the diameter
+   of Earth's orbit.^[18] However, its size was not known at that time. If
+   Rømer had known the diameter of the Earth's orbit, he would have
+   calculated a speed of 227000000 m/s.
+
+   Another more accurate measurement of the speed of light was performed
+   in Europe by Hippolyte Fizeau in 1849.^[19] Fizeau directed a beam of
+   light at a mirror several kilometers away. A rotating cog wheel was
+   placed in the path of the light beam as it traveled from the source, to
+   the mirror and then returned to its origin. Fizeau found that at a
+   certain rate of rotation, the beam would pass through one gap in the
+   wheel on the way out and the next gap on the way back. Knowing the
+   distance to the mirror, the number of teeth on the wheel and the rate
+   of rotation, Fizeau was able to calculate the speed of light as
+   313000000 m/s.
+
+   Léon Foucault carried out an experiment which used rotating mirrors to
+   obtain a value of 298000000 m/s^[19] in 1862. Albert A. Michelson
+   conducted experiments on the speed of light from 1877 until his death
+   in 1931. He refined Foucault's methods in 1926 using improved rotating
+   mirrors to measure the time it took light to make a round trip from
+   Mount Wilson to Mount San Antonio in California. The precise
+   measurements yielded a speed of 299796000 m/s.^[20]
+
+   The effective velocity of light in various transparent substances
+   containing ordinary matter, is less than in vacuum. For example, the
+   speed of light in water is about 3/4 of that in vacuum.
+
+   Two independent teams of physicists were said to bring light to a
+   "complete standstill" by passing it through a Bose–Einstein condensate
+   of the element rubidium, one team at Harvard University and the Rowland
+   Institute for Science in Cambridge, Massachusetts and the other at the
+   Harvard–Smithsonian Center for Astrophysics, also in Cambridge.^[21]
+   However, the popular description of light being "stopped" in these
+   experiments refers only to light being stored in the excited states of
+   atoms, then re-emitted at an arbitrary later time, as stimulated by a
+   second laser pulse. During the time it had "stopped", it had ceased to
+   be light.
+
+Optics
+
+   Main article: Optics
+
+   [960px-Linear_visible_spectrum.svg.png]
+
+   The study of light and the interaction of light and matter is termed
+   optics. Optics has different forms appropriate to different
+   circumstances. Geometrical optics, appropriate for understanding things
+   like eyes, lenses, cameras, fiber optics, and mirrors, works well when
+   the wavelength of light is small in comparison to the objects it
+   interacts with. Physical optics incorporates wave properties and is
+   needed to understand diffraction and interference. Quantum optics
+   applies when studying individual photons interacting with
+   matter.^[22]^: 33 
+
+Surface scattering
+
+   A transparent object allows light to transmit or pass through.
+   Conversely, an opaque object does not allow light to transmit through
+   and instead reflecting or absorbing the light it receives. Most objects
+   do not reflect or transmit light specularly and to some degree scatters
+   the incoming light, which is called glossiness. Surface scattering is
+   caused by the surface roughness of the reflecting surfaces, and
+   internal scattering is caused by the difference of refractive index
+   between the particles and medium inside the object. Like transparent
+   objects, translucent objects allow light to transmit through, but
+   translucent objects also scatter certain wavelength of light via
+   internal scattering.^[23]
+
+Refraction
+
+   Main article: Refraction
+
+   [250px-Optical_refraction_at_water_surface.jpg] Due to refraction, the
+   straw dipped in water appears bent and the ruler scale compressed when
+   viewed from a shallow angle.
+
+   Refraction is the bending of light rays when passing through a surface
+   between one transparent material and another. It is described by
+   Snell's Law:
+
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <msub> <mi>n</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mn>1</mn> </mrow> </msub> <mi>sin</mi>
+   <mo>⁡</mo> <msub> <mi>θ</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>1</mn>
+   </mrow> </msub> <mo>=</mo> <msub> <mi>n</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow> </msub> <mi>sin</mi>
+   <mo>⁡</mo> <msub> <mi>θ</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>2</mn>
+   </mrow> </msub> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle n_{1}\sin \theta
+   _{1}=n_{2}\sin \theta _{2}}</annotation> </semantics> :MATH]
+   {\displaystyle n_{1}\sin \theta _{1}=n_{2}\sin \theta _{2}}
+
+   where θ[1] is the angle between the ray and the surface normal in the
+   first medium, θ[2] is the angle between the ray and the surface normal
+   in the second medium and n[1] and n[2] are the indices of refraction, n
+   = 1 in a vacuum and n > 1 in a transparent substance.
+
+   When a beam of light crosses the boundary between a vacuum and another
+   medium, or between two different media, the wavelength of the light
+   changes, but the frequency remains constant. If the beam of light is
+   not orthogonal (or rather normal) to the boundary, the change in
+   wavelength results in a change in the direction of the beam. This
+   change of direction is known as refraction.
+
+   The refractive quality of lenses is frequently used to manipulate light
+   in order to change the apparent size of images. Magnifying glasses,
+   spectacles, contact lenses, microscopes and refracting telescopes are
+   all examples of this manipulation.
+
+Light sources
+
+   "Lightsource" redirects here. For the solar energy developer named
+   Lightsource, see Lightsource Renewable Energy. For a particle
+   accelerator used to generate X-rays, see Synchrotron light source.
+
+   Further information: List of light sources
+
+   There are many sources of light. A body at a given temperature emits a
+   characteristic spectrum of black-body radiation. A simple thermal
+   source is sunlight, the radiation emitted by the chromosphere of the
+   Sun at around 6,000 K (5,730 °C; 10,340 °F). Solar radiation peaks in
+   the visible region of the electromagnetic spectrum when plotted in
+   wavelength units,^[24] and roughly 44% of the radiation that reaches
+   the ground is visible.^[25] Another example is incandescent light
+   bulbs, which emit only around 10% of their energy as visible light and
+   the remainder as infrared. A common thermal light source in history is
+   the glowing solid particles in flames, but these also emit most of
+   their radiation in the infrared and only a fraction in the visible
+   spectrum.
+
+   The peak of the black-body spectrum is in the deep infrared, at about
+   10 micrometre wavelength, for relatively cool objects like human
+   beings. As the temperature increases, the peak shifts to shorter
+   wavelengths, producing first a red glow, then a white one and finally a
+   blue-white colour as the peak moves out of the visible part of the
+   spectrum and into the ultraviolet. These colours can be seen when metal
+   is heated to "red hot" or "white hot". Blue-white thermal emission is
+   not often seen, except in stars (the commonly seen pure-blue colour in
+   a gas flame or a welder's torch is in fact due to molecular emission,
+   notably by CH radicals emitting a wavelength band around 425 nm and is
+   not seen in stars or pure thermal radiation).
+
+   Atoms emit and absorb light at characteristic energies. This produces
+   "emission lines" in the spectrum of each atom. Emission can be
+   spontaneous, as in light-emitting diodes, gas discharge lamps (such as
+   neon lamps and neon signs, mercury-vapor lamps, etc.) and flames (light
+   from the hot gas itself—so, for example, sodium in a gas flame emits
+   characteristic yellow light). Emission can also be stimulated, as in a
+   laser or a microwave maser.
+
+   Deceleration of a free charged particle, such as an electron, can
+   produce visible radiation: cyclotron radiation, synchrotron radiation
+   and bremsstrahlung radiation are all examples of this. Particles moving
+   through a medium faster than the speed of light in that medium can
+   produce visible Cherenkov radiation. Certain chemicals produce visible
+   radiation by chemoluminescence. In living things, this process is
+   called bioluminescence. For example, fireflies produce light by this
+   means and boats moving through water can disturb plankton which produce
+   a glowing wake.
+
+   Certain substances produce light when they are illuminated by more
+   energetic radiation, a process known as fluorescence. Some substances
+   emit light slowly after excitation by more energetic radiation. This is
+   known as phosphorescence. Phosphorescent materials can also be excited
+   by bombarding them with subatomic particles. Cathodoluminescence is one
+   example. This mechanism is used in cathode-ray tube television sets and
+   computer monitors.
+   [250px-Colorful_artificial_lighting_at_night.jpg] Hong Kong illuminated
+   by colourful artificial lighting
+
+   Certain other mechanisms can produce light:
+     * Electroluminescence
+     * Scintillation
+     * Sonoluminescence
+     * Triboluminescence
+
+   When the concept of light is intended to include very-high-energy
+   photons (gamma rays), additional generation mechanisms include:
+     * Particle–antiparticle annihilation
+     * Radioactive decay
+
+Measurement
+
+   Main articles: Photometry (optics) and Radiometry
+
+   Light is measured with two main alternative sets of units: radiometry
+   consists of measurements of light power at all wavelengths, while
+   photometry measures light with wavelength weighted with respect to a
+   standardized model of human brightness perception. Photometry is
+   useful, for example, to quantify Illumination (lighting) intended for
+   human use.
+
+   The photometry units are different from most systems of physical units
+   in that they take into account how the human eye responds to light. The
+   cone cells in the human eye are of three types which respond
+   differently across the visible spectrum and the cumulative response
+   peaks at a wavelength of around 555 nm. Therefore, two sources of light
+   which produce the same intensity (W/m^2) of visible light do not
+   necessarily appear equally bright. The photometry units are designed to
+   take this into account and therefore are a better representation of how
+   "bright" a light appears to be than raw intensity. They relate to raw
+   power by a quantity called luminous efficacy and are used for purposes
+   like determining how to best achieve sufficient illumination for
+   various tasks in indoor and outdoor settings. The illumination measured
+   by a photocell sensor does not necessarily correspond to what is
+   perceived by the human eye and without filters which may be costly,
+   photocells and charge-coupled devices (CCD) tend to respond to some
+   infrared, ultraviolet or both.
+
+Light pressure
+
+   Main article: Radiation pressure
+
+   Light exerts physical pressure on objects in its path, a phenomenon
+   which can be deduced by Maxwell's equations, but can be more easily
+   explained by the particle nature of light: photons strike and transfer
+   their momentum. Light pressure is equal to the power of the light beam
+   divided by c, the speed of light.  Due to the magnitude of c, the
+   effect of light pressure is negligible for everyday objects.  For
+   example, a one-milliwatt laser pointer exerts a force of about 3.3
+   piconewtons on the object being illuminated; thus, one could lift a
+   U.S. penny with laser pointers, but doing so would require about
+   30 billion 1-mW laser pointers.^[26]  However, in nanometre-scale
+   applications such as nanoelectromechanical systems (NEMS), the effect
+   of light pressure is more significant and exploiting light pressure to
+   drive NEMS mechanisms and to flip nanometre-scale physical switches in
+   integrated circuits is an active area of research.^[27] At larger
+   scales, light pressure can cause asteroids to spin faster,^[28] acting
+   on their irregular shapes as on the vanes of a windmill.  The
+   possibility of making solar sails that would accelerate spaceships in
+   space is also under investigation.^[29]^[30]
+
+   Although the motion of the Crookes radiometer was originally attributed
+   to light pressure, this interpretation is incorrect; the characteristic
+   Crookes rotation is the result of a partial vacuum.^[31] This should
+   not be confused with the Nichols radiometer, in which the (slight)
+   motion caused by torque (though not enough for full rotation against
+   friction) is directly caused by light pressure.^[32] As a consequence
+   of light pressure, Einstein in 1909 predicted the existence of
+   "radiation friction" which would oppose the movement of matter.^[33] He
+   wrote, "radiation will exert pressure on both sides of the plate. The
+   forces of pressure exerted on the two sides are equal if the plate is
+   at rest. However, if it is in motion, more radiation will be reflected
+   on the surface that is ahead during the motion (front surface) than on
+   the back surface. The backwardacting force of pressure exerted on the
+   front surface is thus larger than the force of pressure acting on the
+   back. Hence, as the resultant of the two forces, there remains a force
+   that counteracts the motion of the plate and that increases with the
+   velocity of the plate. We will call this resultant 'radiation friction'
+   in brief."
+
+   Usually light momentum is aligned with its direction of motion.
+   However, for example in evanescent waves momentum is transverse to
+   direction of propagation.^[34]
+
+Historical theories about light, in chronological order
+
+Classical Greece and Hellenism
+
+   In the fifth century BC, Empedocles postulated that everything was
+   composed of four elements; fire, air, earth and water. He believed that
+   goddess Aphrodite made the human eye out of the four elements and that
+   she lit the fire in the eye which shone out from the eye making sight
+   possible. If this were true, then one could see during the night just
+   as well as during the day, so Empedocles postulated an interaction
+   between rays from the eyes and rays from a source such as the sun.^[35]
+
+   In about 300 BC, Euclid wrote Optica, in which he studied the
+   properties of light. Euclid postulated that light travelled in straight
+   lines and he described the laws of reflection and studied them
+   mathematically. He questioned that sight is the result of a beam from
+   the eye, for he asks how one sees the stars immediately, if one closes
+   one's eyes, then opens them at night. If the beam from the eye travels
+   infinitely fast this is not a problem.^[36]
+
+   In 55 BC, Lucretius, a Roman who carried on the ideas of earlier Greek
+   atomists, wrote that "The light & heat of the sun; these are composed
+   of minute atoms which, when they are shoved off, lose no time in
+   shooting right across the interspace of air in the direction imparted
+   by the shove." (from On the nature of the Universe). Despite being
+   similar to later particle theories, Lucretius's views were not
+   generally accepted. Ptolemy (c. second century) wrote about the
+   refraction of light in his book Optics.^[37]
+
+Classical India
+
+   In ancient India, the Hindu schools of Samkhya and Vaisheshika, from
+   around the early centuries AD developed theories on light. According to
+   the Samkhya school, light is one of the five fundamental "subtle"
+   elements (tanmatra) out of which emerge the gross elements. The
+   atomicity of these elements is not specifically mentioned and it
+   appears that they were actually taken to be continuous.^[38] The Vishnu
+   Purana refers to sunlight as "the seven rays of the sun".^[38]
+
+   The Indian Buddhists, such as Dignāga in the fifth century and
+   Dharmakirti in the seventh century, developed a type of atomism that is
+   a philosophy about reality being composed of atomic entities that are
+   momentary flashes of light or energy. They viewed light as being an
+   atomic entity equivalent to energy.^[38]
+
+Descartes
+
+   René Descartes (1596–1650) held that light was a mechanical property of
+   the luminous body, rejecting the "forms" of Ibn al-Haytham and Witelo
+   as well as the "species" of Roger Bacon, Robert Grosseteste and
+   Johannes Kepler.^[39] In 1637 he published a theory of the refraction
+   of light that assumed, incorrectly, that light travelled faster in a
+   denser medium than in a less dense medium. Descartes arrived at this
+   conclusion by analogy with the behaviour of sound waves.^[citation
+   needed] Although Descartes was incorrect about the relative speeds, he
+   was correct in assuming that light behaved like a wave and in
+   concluding that refraction could be explained by the speed of light in
+   different media.
+
+   Descartes is not the first to use the mechanical analogies but because
+   he clearly asserts that light is only a mechanical property of the
+   luminous body and the transmitting medium, Descartes's theory of light
+   is regarded as the start of modern physical optics.^[39]
+
+Particle theory
+
+   Main article: Corpuscular theory of light
+
+   [250px-PierreGassendi.jpg] Pierre Gassendi
+
+   Pierre Gassendi (1592–1655), an atomist, proposed a particle theory of
+   light which was published posthumously in the 1660s. Isaac Newton
+   studied Gassendi's work at an early age and preferred his view to
+   Descartes's theory of the plenum. He stated in his Hypothesis of Light
+   of 1675 that light was composed of corpuscles (particles of matter)
+   which were emitted in all directions from a source. One of Newton's
+   arguments against the wave nature of light was that waves were known to
+   bend around obstacles, while light travelled only in straight lines. He
+   did, however, explain the phenomenon of the diffraction of light (which
+   had been observed by Francesco Grimaldi) by allowing that a light
+   particle could create a localized wave in the aether.
+
+   Newton's theory could be used to predict the reflection of light, but
+   could only explain refraction by incorrectly assuming that light
+   accelerated upon entering a denser medium because the gravitational
+   pull was greater. Newton published the final version of his theory in
+   his Opticks of 1704. His reputation helped the particle theory of light
+   to hold sway during the eighteenth century. The particle theory of
+   light led Pierre-Simon Laplace to argue that a body could be so massive
+   that light could not escape from it. In other words, it would become
+   what is now called a black hole. Laplace withdrew his suggestion later,
+   after a wave theory of light became firmly established as the model for
+   light (as has been explained, neither a particle or wave theory is
+   fully correct). A translation of Newton's essay on light appears in The
+   large scale structure of space-time, by Stephen Hawking and George F.
+   R. Ellis.
+
+   The fact that light could be polarized was for the first time
+   qualitatively explained by Newton using the particle theory.
+   Étienne-Louis Malus in 1810 created a mathematical particle theory of
+   polarization. Jean-Baptiste Biot in 1812 showed that this theory
+   explained all known phenomena of light polarization. At that time the
+   polarization was considered as the proof of the particle theory.
+
+Wave theory
+
+   To explain the origin of colours, Robert Hooke (1635–1703) developed a
+   "pulse theory" and compared the spreading of light to that of waves in
+   water in his 1665 work Micrographia ("Observation IX"). In 1672 Hooke
+   suggested that light's vibrations could be perpendicular to the
+   direction of propagation. Christiaan Huygens (1629–1695) worked out a
+   mathematical wave theory of light in 1678 and published it in his
+   Treatise on Light in 1690. He proposed that light was emitted in all
+   directions as a series of waves in a medium called the luminiferous
+   aether. As waves are not affected by gravity, it was assumed that they
+   slowed down upon entering a denser medium.^[40] Another supporter of
+   the wave theory was Leonhard Euler. He argued in Nova Theoria lucis et
+   colorum (1746) that diffraction could more easily be explained by a
+   wave theory.
+   [250px-Christiaan_Huygens-painting.jpeg] Christiaan
+   Huygens[250px-Young_Diffraction.png] Thomas Young's sketch of water
+   waves showing diffraction^[41]
+
+   The wave theory predicted that light waves could interfere with each
+   other like sound waves (as noted around 1800 by Thomas Young). Young
+   showed by means of numerous diffraction experiments that light behaved
+   as waves.^[42]^: 101  He first publicly stated his "general law" of
+   interference in January 1802, in his book A Syllabus of a Course of
+   Lectures on Natural and Experimental Philosophy:^[43]
+
+     But the general law, by which all these appearances are governed,
+     may be very easily deduced from the interference of two coincident
+     undulations, which either cooperate, or destroy each other, in the
+     same manner as two musical notes produce an alternate intension and
+     remission, in the beating of an imperfect unison.^[44]
+
+   He also proposed that different colours were caused by different
+   wavelengths of light and explained colour vision in terms of
+   three-coloured receptors in the eye.
+
+   In 1816 André-Marie Ampère gave Augustin-Jean Fresnel an idea that the
+   polarization of light can be explained by the wave theory if light were
+   a transverse wave.^[45] Later, Fresnel independently worked out his own
+   wave theory of light and presented it to the Académie des Sciences in
+   1817. Siméon Denis Poisson challenged Fresnel's model, claiming that it
+   predicted a bright spot in the shadow behind a circular obstacle
+   contrary to common sense. Dominique-François-Jean Arago created an
+   experiment that showed the bright spot: Poisson's challenge became new
+   evidence for the wave theory.^[42]^: 109  In 1818, Young wrote to Arago
+   suggesting that light must be transverse waves, not the longitudinal
+   waves characteristic of sound. Fresnel took up the idea and was able to
+   show via mathematical methods that polarization could be explained by a
+   transverse wave theory of light with no longitudinal
+   vibration.^[42]^: 115 
+
+   The weakness of the wave theory was that light waves, like sound waves,
+   would need a medium for transmission. The existence of the hypothetical
+   substance luminiferous aether proposed by Huygens in 1678 was cast into
+   strong doubt in the late nineteenth century by the Michelson–Morley
+   experiment.
+
+   Newton's corpuscular theory implied that light would travel faster in a
+   denser medium, while the wave theory of Huygens and others implied the
+   opposite. At that time, the speed of light could not be measured
+   accurately enough to decide which theory was correct. The first to make
+   a sufficiently accurate measurement was Léon Foucault, in 1850.^[46]
+   His result supported the wave theory, and the classical particle theory
+   was finally abandoned (only to partly re-emerge in the twentieth
+   century as photons in quantum theory).
+
+Electromagnetic theory
+
+   Main article: Electromagnetic radiation
+
+   [500px-Onde_electromagnetique.svg.png] A linearly polarized
+   electromagnetic wave traveling along the z-axis, with E denoting the
+   electric field and perpendicular B denoting magnetic field
+
+   In 1845, Michael Faraday discovered that the plane of polarization of
+   linearly polarized light is rotated when the light rays travel along
+   the magnetic field direction in the presence of a transparent
+   dielectric, an effect now known as Faraday rotation.^[47] This was the
+   first evidence that light was related to electromagnetism. In 1846 he
+   speculated that light might be some form of disturbance propagating
+   along magnetic field lines.^[47] Faraday proposed in 1847 that light
+   was a high-frequency electromagnetic vibration, which could propagate
+   even in the absence of a medium such as the ether.^[48]
+
+   Faraday's work inspired James Clerk Maxwell to study electromagnetic
+   radiation and light. Maxwell discovered that self-propagating
+   electromagnetic waves would travel through space at a constant speed,
+   which happened to be equal to the previously measured speed of light.
+   From this, Maxwell concluded that light was a form of electromagnetic
+   radiation: he first stated this result in 1862 in On Physical Lines of
+   Force. In 1873, he published A Treatise on Electricity and Magnetism,
+   which contained a full mathematical description of the behavior of
+   electric and magnetic fields, still known as Maxwell's equations. Soon
+   after, Heinrich Hertz confirmed Maxwell's theory experimentally by
+   generating and detecting radio waves in the laboratory and
+   demonstrating that these waves behaved exactly like visible light,
+   exhibiting properties such as reflection, refraction, diffraction and
+   interference. Maxwell's theory and Hertz's experiments led directly to
+   the development of modern radio, radar, television, electromagnetic
+   imaging and wireless communications.
+
+   In the quantum theory, photons are seen as wave packets of the waves
+   described in the classical theory of Maxwell. The quantum theory was
+   needed to explain effects even with visual light that Maxwell's
+   classical theory could not (such as spectral lines).
+
+Quantum theory
+
+   In 1900 Max Planck, attempting to explain black-body radiation,
+   suggested that although light was a wave, these waves could gain or
+   lose energy only in finite amounts related to their frequency. Planck
+   called these "lumps" of light energy "quanta" (from a Latin word for
+   "how much"). In 1905, Albert Einstein used the idea of light quanta to
+   explain the photoelectric effect and suggested that these light quanta
+   had a "real" existence. In 1923 Arthur Holly Compton showed that the
+   wavelength shift seen when low intensity X-rays scattered from
+   electrons (so called Compton scattering) could be explained by a
+   particle-theory of X-rays, but not a wave theory. In 1926 Gilbert N.
+   Lewis named these light quanta particles photons.^[49]
+
+   Eventually quantum mechanics came to picture light as (in some sense)
+   both a particle and a wave, and (in another sense) as a phenomenon
+   which is neither a particle nor a wave (which actually are macroscopic
+   phenomena, such as baseballs or ocean waves). Instead, under some
+   approximations light can be described sometimes with mathematics
+   appropriate to one type of macroscopic metaphor (particles) and
+   sometimes another macroscopic metaphor (waves).
+
+   As in the case for radio waves and the X-rays involved in Compton
+   scattering, physicists have noted that electromagnetic radiation tends
+   to behave more like a classical wave at lower frequencies, but more
+   like a classical particle at higher frequencies, but never completely
+   loses all qualities of one or the other. Visible light, which occupies
+   a middle ground in frequency, can easily be shown in experiments to be
+   describable using either a wave or particle model, or sometimes both.
+
+   In 1924–1925, Satyendra Nath Bose showed that light followed different
+   statistics from that of classical particles. With Einstein, they
+   generalized this result for a whole set of integer spin particles
+   called bosons (after Bose) that follow Bose–Einstein statistics. The
+   photon is a massless boson of spin 1.
+
+   In 1927, Paul Dirac quantized the electromagnetic field. Pascual Jordan
+   and Vladimir Fock generalized this process to treat many-body systems
+   as excitations of quantum fields, a process with the misnomer of second
+   quantization. And at the end of the 1940s a full theory of quantum
+   electrodynamics was developed using quantum fields based on the works
+   of Julian Schwinger, Richard Feynman, Freeman Dyson, and Shinichiro
+   Tomonaga.
+
+Quantum optics
+
+   Main article: Quantum optics
+
+   John R. Klauder, George Sudarshan, Roy J. Glauber, and Leonard Mandel
+   applied quantum theory to the electromagnetic field in the 1950s and
+   1960s to gain a more detailed understanding of photodetection and the
+   statistics of light (see degree of coherence). This led to the
+   introduction of the coherent state as a concept which addressed
+   variations between laser light, thermal light, exotic squeezed states,
+   etc. as it became understood that light cannot be fully described just
+   referring to the electromagnetic fields describing the waves in the
+   classical picture. In 1977, H. Jeff Kimble et al. demonstrated a single
+   atom emitting one photon at a time, further compelling evidence that
+   light consists of photons. Previously unknown quantum states of light
+   with characteristics unlike classical states, such as squeezed light
+   were subsequently discovered.
+
+   Development of short and ultrashort laser pulses—created by Q switching
+   and modelocking techniques—opened the way to the study of what became
+   known as ultrafast processes. Applications for solid state research
+   (e.g. Raman spectroscopy) were found, and mechanical forces of light on
+   matter were studied. The latter led to levitating and positioning
+   clouds of atoms or even small biological samples in an optical trap or
+   optical tweezers by laser beam. This, along with Doppler cooling and
+   Sisyphus cooling, was the crucial technology needed to achieve the
+   celebrated Bose–Einstein condensation.
+
+   Other remarkable results are the demonstration of quantum entanglement,
+   quantum teleportation, and quantum logic gates. The latter are of much
+   interest in quantum information theory, a subject which partly emerged
+   from quantum optics, partly from theoretical computer science.
+
+Use for light on Earth
+
+   Sunlight provides the energy that green plants use to create sugars
+   mostly in the form of starches, which release energy into the living
+   things that digest them. This process of photosynthesis provides
+   virtually all the energy used by living things. Some species of animals
+   generate their own light, a process called bioluminescence. For
+   example, fireflies use light to locate mates and vampire squid use it
+   to hide themselves from prey.
+
+See also
+
+     * icon Physics portal
+     * icon Science portal
+
+     * Ballistic photon
+     * Colour temperature
+     * Fermat's principle
+     * Huygens' principle
+     * Journal of Luminescence
+     * Light beam – in particular about light beams visible from the side
+     * Light Fantastic (TV series)
+     * Light mill
+     * List of light sources
+     * Luminescence: The Journal of Biological and Chemical Luminescence
+     * Spectroscopy
+
+Notes
+
+References
+
+    1. ^ CIE (1987). International Lighting Vocabulary Archived 27
+       February 2010 at the Wayback Machine. Number 17.4. CIE, 4th ed..
+       ISBN 978-3-900734-07-7.
+       By the International Lighting Vocabulary, the definition of light
+       is: "Any radiation capable of causing a visual sensation directly."
+    2. ^ CIE JTC 8. "light, <photometric> noun". CIE S 017/E:2020 ILV:
+       International Lighting Vocabulary, 2nd Edition. International
+       Commission on Illumination (CIE). doi:10.25039/S017.2020.{{cite
+       book}}: CS1 maint: numeric names: authors list (link)
+    3. ^ Pal, G.K.; Pal, Pravati (2001). "chapter 52". Textbook of
+       Practical Physiology (1st ed.). Chennai: Orient Blackswan. p. 387.
+       ISBN 978-81-250-2021-9. Archived from the original on 8 October
+       2022. Retrieved 11 October 2013. "The human eye has the ability to
+       respond to all the wavelengths of light from 400–700 nm. This is
+       called the visible part of the spectrum."
+    4. ^ Buser, Pierre A.; Imbert, Michel (1992). Vision. MIT Press.
+       p. 50. ISBN 978-0-262-02336-8. Retrieved 11 October 2013. "Light is
+       a special class of radiant energy embracing wavelengths between 400
+       and 700 nm (or mμ), or 4000 to 7000 Å."
+    5. ^ Gregory Hallock Smith (2006). Camera lenses: from box camera to
+       digital. SPIE Press. p. 4. ISBN 978-0-8194-6093-6. Archived from
+       the original on 8 October 2022. Retrieved 15 November 2020.
+    6. ^ Narinder Kumar (2008). Comprehensive Physics XII. Laxmi
+       Publications. p. 1416. ISBN 978-81-7008-592-8.
+    7. ^ SI Brochure, Appendix 2: Mise en pratique for the definition of
+       the metre in the SI (PDF) (9 ed.). International Bureau of Weights
+       and Measures. 20 May 2019. p. 2. Retrieved 20 December 2025.
+    8. ^ "Spectroscopy: A Measurement Powerhouse". nist.gov. National
+       Institute of Standards and Technology. 16 April 2025. Retrieved 20
+       December 2025.
+    9. ^ Uzan, J-P; Leclercq, B (2008). The Natural Laws of the Universe:
+       Understanding Fundamental Constants. Translated by Robert Mizon.
+       Springer-Praxis, Internet Archive: 2020-06-14 AbdzexK uban.
+       pp. 43–44. Bibcode:2008nlu..book.....U.
+       doi:10.1007/978-0-387-74081-2 (inactive 1 July 2025).
+       ISBN 978-0-387-73454-5.{{cite book}}: CS1 maint: DOI inactive as of
+       July 2025 (link)
+   10. ^ Laufer, Gabriel (1996). "Geometrical Optics". Introduction to
+       Optics and Lasers in Engineering. p. 11.
+       Bibcode:1996iole.book.....L. doi:10.1017/CBO9781139174190.004.
+       ISBN 978-0-521-45233-5. Archived from the original on 2 June 2018.
+       Retrieved 20 October 2013.
+   11. ^ Bradt, Hale (2004). Astronomy Methods: A Physical Approach to
+       Astronomical Observations. Cambridge University Press. p. 26.
+       ISBN 978-0-521-53551-9. Retrieved 20 October 2013.
+   12. ^ Ohannesian, Lena; Streeter, Anthony (2001). Handbook of
+       Pharmaceutical Analysis. CRC Press. p. 187. ISBN 978-0-8247-4194-5.
+       Retrieved 20 October 2013.
+   13. ^ Ahluwalia, V.K.; Goyal, Madhuri (2000). A Textbook of Organic
+       Chemistry. Narosa. p. 110. ISBN 978-81-7319-159-6. Retrieved 20
+       October 2013.
+   14. ^ Sliney, David H.; Wangemann, Robert T.; Franks, James K.;
+       Wolbarsht, Myron L. (1976). "Visual sensitivity of the eye to
+       infrared laser radiation". Journal of the Optical Society of
+       America. 66 (4): 339–341. Bibcode:1976JOSA...66..339S.
+       doi:10.1364/JOSA.66.000339. PMID 1262982. "The foveal sensitivity
+       to several near-infrared laser wavelengths was measured. It was
+       found that the eye could respond to radiation at wavelengths at
+       least as far as 1,064 nm. A continuous 1,064 nm laser source
+       appeared red, but a 1,060 nm pulsed laser source appeared green,
+       which suggests the presence of second harmonic generation in the
+       retina."
+   15. ^ Lynch, David K.; Livingston, William Charles (2001). Color and
+       Light in Nature (2nd ed.). Cambridge: Cambridge University Press.
+       p. 231. ISBN 978-0-521-77504-5. Archived from the original on 8
+       October 2022. Retrieved 12 October 2013. "Limits of the eye's
+       overall range of sensitivity extends from about 310 to 1,050
+       nanometers"
+   16. ^ Dash, Madhab Chandra; Dash, Satya Prakash (2009). Fundamentals of
+       Ecology 3E. Tata McGraw-Hill Education. p. 213.
+       ISBN 978-1-259-08109-5. Archived from the original on 8 October
+       2022. Retrieved 18 October 2013. "Normally the human eye responds
+       to light rays from 390 to 760 nm. This can be extended to a range
+       of 310 to 1,050 nm under artificial conditions."
+   17. ^ Saidman, Jean (15 May 1933). "Sur la visibilité de l'ultraviolet
+       jusqu'à la longueur d'onde 3130" [The visibility of the ultraviolet
+       to the wave length of 3130]. Comptes rendus de l'Académie des
+       sciences (in French). 196: 1537–9. Archived from the original on 24
+       October 2013. Retrieved 21 October 2013.
+   18. ^ Oldford, R. W; MacKay, R. J (2000). "Scientific Method,
+       Statistical Method and the Speed of Light". Statistical Science. 15
+       (3): 254–278. doi:10.1214/ss/1009212817. MR 1847825. Archived from
+       the original on 24 March 2017. Retrieved 21 August 2008.
+   19. ^ ^a ^b Newcomb, Simon (1911). "Light" . In Chisholm, Hugh (ed.).
+       Encyclopædia Britannica. Vol. 16 (11th ed.). Cambridge University
+       Press. p. 624.
+   20. ^ Michelson, A.A. (January 1927). "Measurements of the velocity of
+       light between Mount Wilson and Mount San Antonio". Astrophysical
+       Journal. 65: 1. Bibcode:1927ApJ....65....1M. doi:10.1086/143021.
+   21. ^ Harvard News Office (24 January 2001). "Harvard Gazette:
+       Researchers now able to stop, restart light". News.harvard.edu.
+       Archived from the original on 28 October 2011. Retrieved 8 November
+       2011.
+   22. ^ Hecht, Eugene (1998). Optics (3. ed.). Reading, Mass. Harlow:
+       Addison-Wesley. ISBN 978-0-201-83887-9.
+   23. ^ Berns, Roy S. (2019). Billmeyer and Saltzman's Principles of
+       Color Technology. Fred W. Billmeyer, Max Saltzman (4th ed.).
+       Hoboken, NJ: Wiley. ISBN 978-1-119-36668-3. OCLC 1080250734.
+   24. ^ "Spectrum and the Color Sensitivity of the Eye" (PDF).
+       Thulescientific.com. Archived (PDF) from the original on 5 July
+       2010. Retrieved 29 August 2017.
+   25. ^ "Reference Solar Spectral Irradiance: Air Mass 1.5". Archived
+       from the original on 12 May 2019. Retrieved 12 November 2009.
+   26. ^ Tang, Hong (1 October 2009). "May The Force of Light Be With
+       You". IEEE Spectrum. 46 (10): 46–51.
+       doi:10.1109/MSPEC.2009.5268000. S2CID 7928030.
+   27. ^ See, for example, nano-opto-mechanical systems research at Yale
+       University Archived 25 June 2010 at the Wayback Machine.
+   28. ^ Svitil, Kathy A. (5 February 2004). "Asteroids Get Spun By the
+       Sun". Discover Magazine. Archived from the original on 9 October
+       2012. Retrieved 8 May 2007.
+   29. ^ "Solar Sails Could Send Spacecraft 'Sailing' Through Space".
+       NASA. 31 August 2004. Archived from the original on 21 October
+       2012. Retrieved 30 May 2008.
+   30. ^ "NASA team successfully deploys two solar sail systems". NASA. 9
+       August 2004. Archived from the original on 14 June 2012. Retrieved
+       30 May 2008.
+   31. ^ Lebedew, P. (1901). "Untersuchungen über die Druckkräfte des
+       Lichtes". Annalen der Physik. 6 (11): 433–458.
+       Bibcode:1901AnP...311..433L. doi:10.1002/andp.19013111102. Archived
+       from the original on 6 June 2022. Retrieved 29 July 2022.
+   32. ^ Nichols, E.F; Hull, G.F. (1903). "The Pressure due to Radiation".
+       The Astrophysical Journal. 17 (5): 315–351.
+       Bibcode:1903ApJ....17..315N. doi:10.1086/141035. Archived from the
+       original on 8 October 2022. Retrieved 15 November 2020.
+   33. ^ Einstein, A. (1989) [1909]. "Über die Entwicklung unserer
+       Anschauungen über das Wesen und die Konstitution der Strahlung" [On
+       the development of our views concerning the nature and constitution
+       of radiation]. The Collected Papers of Albert Einstein. Vol. 2.
+       Princeton, New Jersey: Princeton University Press. p. 391.
+   34. ^ Antognozzi, M.; Bermingham, C. R.; Harniman, R. L.; Simpson, S.;
+       Senior, J.; Hayward, R.; Hoerber, H.; Dennis, M. R.; Bekshaev, A.
+       Y. (August 2016). "Direct measurements of the extraordinary optical
+       momentum and transverse spin-dependent force using a
+       nano-cantilever". Nature Physics. 12 (8): 731–735.
+       arXiv:1506.04248. Bibcode:2016NatPh..12..731A.
+       doi:10.1038/nphys3732. ISSN 1745-2473. S2CID 52226942.
+   35. ^ Singh, S. (2009). Fundamentals of Optical Engineering. Discovery
+       Publishing House. ISBN 978-81-8356-436-6.
+   36. ^ O'Connor, J J; Robertson, E F (August 2002). "Light through the
+       ages: Ancient Greece to Maxwell". Archived from the original on 19
+       March 2017. Retrieved 20 February 2017.
+   37. ^ Ptolemy and A. Mark Smith (1996). Ptolemy's Theory of Visual
+       Perception: An English Translation of the Optics with Introduction
+       and Commentary. Diane Publishing. p. 23. ISBN 978-0-87169-862-9.
+   38. ^ ^a ^b ^c "Shastra Pratibha 2015 Seniors Booklet" (PDF).
+       Sifuae.com. Archived from the original (PDF) on 30 May 2015.
+       Retrieved 29 August 2017.
+   39. ^ ^a ^b Theories of light, from Descartes to Newton A.I. Sabra CUP
+       Archive,1981 p. 48 ISBN 978-0-521-28436-3
+   40. ^ Fokko Jan Dijksterhuis, Lenses and Waves: Christiaan Huygens and
+       the Mathematical Science of Optics in the 17th Century, Kluwer
+       Academic Publishers, 2004, ISBN 1-4020-2697-8
+   41. ^ Rothman, T. (2003). Everything's Relative and Other Fables in
+       Science and Technology. John Wiley & Sons. ISBN 978-0-471-20257-8.
+   42. ^ ^a ^b ^c Whittaker, Edmund T. (1989). A history of the theories
+       of aether & electricity. 2: The modern theories, 1900 - 1926
+       (Repr ed.). New York: Dover Publ. ISBN 978-0-486-26126-3.
+   43. ^ Mollon, J. D. (2002). "The Origins of the Concept of
+       Interference". Philosophical Transactions: Mathematical, Physical
+       and Engineering Sciences. 360 (1794): 807–819.
+       Bibcode:2002RSPTA.360..807M. doi:10.1098/rsta.2001.0968.
+       ISSN 1364-503X. JSTOR 3066507. PMID 12804280.
+   44. ^ Young, Thomas (1802). A Syllabus of a Course of Lectures on
+       Natural and Experimental Philosophy. London: W. Savage for The
+       Royal Institution. p. 117.
+   45. ^ James R. Hofmann, André-Marie Ampère: Enlightenment and
+       Electrodynamics, Cambridge University Press, 1996, p. 222.
+   46. ^ David Cassidy; Gerald Holton; James Rutherford (2002).
+       Understanding Physics. Birkhäuser. ISBN 978-0-387-98756-9.
+   47. ^ ^a ^b Longair, Malcolm (2003). Theoretical Concepts in Physics.
+       p. 87.
+   48. ^ Cassidy, D (2002). Understanding Physics. Springer Verlag New
+       York.
+   49. ^ Barrow, Gordon M. (1962). Introduction to Molecular Spectroscopy.
+       McGraw-Hill. LCCN 62-12478.^[dead link]
+
+External links
+
+     * Wikimedia Commons logo Media related to Light at Wikimedia Commons
+     *
+
+   Wiktionary logo The dictionary definition of light at Wiktionary
+
+     Quotations related to Light at Wikiquote
+
+     * v
+     * t
+     * e
+
+   Radiation (physics and health)
+
+   Main articles
+
+   Non-ionizing radiation
+     * Acoustic radiation force
+     * Infrared
+     * Light
+     * Starlight
+     * Sunlight
+     * Microwave
+     * Radio waves
+     * Ultraviolet
+
+   Ionizing radiation
+     * Radioactive decay
+     * Cluster decay
+     * Background radiation
+     * Alpha particle
+     * Beta particle
+     * Gamma ray
+     * Cosmic ray
+     * Neutron radiation
+     * Nuclear fission
+     * Nuclear fusion
+     * Nuclear reactors
+     * Nuclear weapons
+     * Particle accelerators
+     * Radioactive materials
+     * X-ray
+
+     * Earth's energy budget
+     * Electromagnetic radiation
+     * Synchrotron radiation
+     * Thermal radiation
+     * Black-body radiation
+     * Particle radiation
+     * Gravitational radiation
+     * Cosmic background radiation
+     * Cherenkov radiation
+     * Askaryan radiation
+     * Bremsstrahlung
+     * Unruh radiation
+     * Dark radiation
+     * Radiation exposure
+
+   Radiation
+   and health
+
+     * Radiation syndrome
+          + acute
+          + chronic
+     * Health physics
+     * Dosimetry
+     * Electromagnetic radiation and health
+     * Laser safety
+     * Lasers and aviation safety
+     * Medical radiography
+     * Radiation protection
+     * Radiation therapy
+     * Radiation damage
+     * Radioactivity in the life sciences
+     * Radioactive contamination
+     * Radiobiology
+     * Biological dose units and quantities
+     * Wireless device radiation and health
+     * Wireless electronic devices and health
+     * Radiation heat-transfer
+     * Linear energy transfer
+
+   Radiation incidents
+
+     * List of civilian radiation accidents
+     * 1996 Costa Rica accident
+     * 1987 Goiânia accident
+     * 1984 Moroccan accident
+     * 1990 Zaragoza accident
+
+   Related articles
+
+     * Half-life
+     * Nuclear physics
+     * Radioactive source
+     * Radiation hardening
+
+   See also the categories Radiation effects, Radioactivity, Radiobiology,
+   and Radiation protection
+
+     * v
+     * t
+     * e
+
+   Colour topics
+
+   Colour science
+
+   Colour physics
+     * Electromagnetic spectrum
+          + Light
+          + Rainbow
+          + Visible
+     * Spectral colours
+     * Chromophore
+          + Structural colouration
+          + Animal colouration
+     * Colour of chemicals
+          + Water
+     * Spectral power distribution
+     * Colorimetry
+
+   Colour perception
+     * Chromesthesia
+          + Sonochromatism
+     * Colour blindness
+          + Achromatopsia
+          + Dichromacy
+     * Colour calibration
+     * Colour constancy
+     * Colour task
+          + Colour code
+     * Colour temperature
+     * Colour vision test
+     * Evolution of colour vision
+     * Impossible colours
+     * Metamerism
+     * Opponent process
+          + Afterimage
+          + Unique hues
+     * Tetrachromacy
+     * The dress
+
+   Colour psychology
+     * Colour symbolism
+     * Colour preferences
+     * Lüscher colour test
+     * Kruithof curve
+     * Political colour
+     * National colours
+     * Chromophobia
+     * Chromotherapy
+
+   Colour reproduction
+     * Colour photography
+          + Colour balance
+          + Colour cast
+     * Digital image processing
+     * Colour management
+     * Colour printing
+          + Multi-primary colour display
+          + Quattron
+     * Colour model
+          + additive
+               o RGB
+          + subtractive
+               o CMYK
+     * Colour space
+     * Image colour transfer
+
+   [120px-RGB_color_wheel.svg.png]
+
+   Colour
+   philosophy
+
+   Colour scheme
+     * Colour tool
+          + Monochromatic colours
+               o Black and white
+               o Grisaille
+          + Complementary colours
+          + Analogous colours
+          + Achromatic colours (Neutral)
+          + Polychromatic colours
+     * Light-on-dark
+     * Web colours
+     * Tinctures in heraldry
+
+   Colour theory
+     * Colour mixing
+          + Primary colour
+          + Secondary colour
+     * Chromaticity
+     * Colour solid
+     * Colour wheel
+     * Colour triangle
+     * Colour analysis (fashion)
+     * Colour realism (art style)
+     * On Vision and Colours (Schopenhauer)
+     * Theory of Colours (Goethe)
+
+   Colour terms
+
+   Basic English terms
+     * Red
+     * Orange
+     * Yellow
+     * Green
+     * Blue
+     * Purple
+     * Pink
+     * Brown
+     * White
+     * Grey
+     * Black
+
+   Cultural differences
+     * Linguistic relativity and the colour naming debate
+          + Blue–green distinction in language
+     * Colour history
+          + Black-and-white dualism
+          + Blue in culture
+          + Colour in Chinese culture
+          + Traditional colours of Japan
+          + Human skin colour
+
+   Colour dimensions
+     * Hue
+          + Dichromatism
+     * Colourfulness
+          + Pastel colours
+     * Luminance
+          + Lightness
+          + Darkness
+          + Brightness
+          + Iridescence
+          + Fluorescence
+     * Grayscale
+     * Tint, shade and tone
+
+   Colour
+   organisations
+
+     * Pantone
+     * Color Marketing Group
+     * Color Association of the United States
+     * International Colour Authority
+     * International Commission on Illumination (CIE)
+     * International Colour Consortium
+     * International Colour Association
+
+   Names
+
+   Lists
+     * Alphabetical
+          + List of colours: A–F
+          + G–M
+          + N–Z
+          + Full list
+     * List of colours by shade
+     * List of colour palettes
+     * List of colour spaces
+     * List of Crayola crayon colours
+          + history
+     * Colour chart
+     * List of RAL colours
+     * List of web colours
+
+   Shades of:
+     * Red
+     * Orange
+     * Yellow
+     * Green
+     * Cyan
+     * Blue
+     * Violet
+     * Purple
+     * Magenta
+     * Pink
+     * Brown
+     * White
+     * Gray
+     * Black
+
+   Related
+
+     * Vision
+          + Contrast
+     * Qualia
+     * Lighting
+
+     * Category
+     * Index
+
+   Authority control databases Edit this at Wikidata
+   International
+     * GND
+     * FAST
+
+   National
+     * United States
+     * France
+     * BnF data
+     * Japan
+     * Czech Republic
+     * Spain
+     * Israel
+
+       Other
+     * Yale LUX
+
+   Retrieved from
+   "https://en.wikipedia.org/w/index.php?title=Light&oldid=1353471500"
+
+   Categories:
+     * Light
+     * Electromagnetic radiation
+
+   Hidden categories:
+     * Webarchive template wayback links
+     * CS1 maint: numeric names: authors list
+     * CS1 maint: DOI inactive as of July 2025
+     * CS1 French-language sources (fr)
+     * Wikipedia articles incorporating a citation from the 1911
+       Encyclopaedia Britannica with Wikisource reference
+     * All articles with dead external links
+     * Articles with dead external links from March 2025
+     * Articles with short description
+     * Short description is different from Wikidata
+     * Wikipedia indefinitely move-protected pages
+     * Wikipedia indefinitely semi-protected pages
+     * Use dmy dates from September 2019
+     * All articles with unsourced statements
+     * Articles with unsourced statements from January 2010
+     * Commons category link is on Wikidata
+
+     * This page was last edited on 10 May 2026, at 13:53 (UTC).
+     * Text is available under the Creative Commons Attribution-ShareAlike
+       4.0 License; additional terms may apply. By using this site, you
+       agree to the Terms of Use and Privacy Policy. Wikipedia® is a
+       registered trademark of the Wikimedia Foundation, Inc., a
+       non-profit organization.
+
+     * Privacy policy
+     * About Wikipedia
+     * Disclaimers
+     * Contact Wikipedia
+     * Legal & safety contacts
+     * Code of Conduct
+     * Developers
+     * Statistics
+     * Cookie statement
+     * Mobile view
+
+     * Wikimedia Foundation
+     * Powered by MediaWiki
+
+   (BUTTON) Search
+   ____________________
+   (BUTTON) Search
+
+   [ ] Toggle the table of contents
+   Light
+   (BUTTON) 184 languages Add topic

@@ -1,0 +1,16 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Données volumineuses générées (optionnel : supprimer si on veut versionner les données)
+# aspirations/
+# dumps-txt/

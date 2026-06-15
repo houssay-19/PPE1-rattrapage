@@ -1,0 +1,2369 @@
+wikipedia en wikipedia atom feed
+jump to content
+main menu
+main menu
+button move to sidebar button hide
+navigation
+main page
+contents
+current events
+random article
+about wikipedia
+contact us
+contribute
+learn to edit
+community portal
+recent changes
+upload file
+special pages
+wikipedia free encyclopedia
+search
+button search
+appearance
+donate
+create account
+log
+personal tools
+donate
+create account
+log
+contents
+button move to sidebar button hide
+notation
+unit systems
+fundamental physics
+button toggle fundamental physics subsection
+upper limit on speeds
+one way speed light
+faster than light observations and experiments
+propagation light
+button toggle propagation light subsection
+a medium
+practical effects finiteness
+button toggle practical effects finiteness subsection
+small scales
+large distances on earth
+spaceflight and astronomy
+distance measurement
+determination
+button toggle determination subsection
+astronomical measurements
+o astronomical unit
+time flight techniques
+electromagnetic constants
+cavity resonance
+interferometry
+history
+button toggle history subsection
+early history
+first measurement attempts
+connections with electromagnetism
+luminiferous aether
+special relativity
+increased accuracy c and redefinition metre and
+second
+defined as an explicit constant
+see also
+notes
+references
+further reading
+button toggle further reading subsection
+historical references
+modern references
+external links
+toggle table contents
+speed light
+languages
+afrikaans
+alemannisch
+aragonés
+asturianu
+az rbaycanca
+emait ka
+bikol central
+brezhoneg
+bosanski
+català
+mìng d ng ng
+e tina
+cymraeg
+dansk
+deutsch
+esperanto
+español
+eesti
+euskara
+estremeñu
+suomi
+na vosa vakaviti
+français
+nordfriisk
+furlan
+frysk
+gaeilge
+kriyòl gwiyannen
+galego
+avañe
+fiji hindi
+hrvatski
+kreyòl ayisyen
+magyar
+interlingua
+bahasa indonesia
+Íslenska
+italiano
+patois
+la lojban
+kernowek
+latina
+lëtzebuergesch
+lingua franca nova
+lombard
+lietuvi
+latvie u
+minangkabau
+bahasa melayu
+plattdüütsch
+nederlands
+norsk nynorsk
+norsk bokmål
+occitan
+oromoo
+polski
+piemontèis
+português
+român
+sicilianu
+scots
+srpskohrvatski
+simple english
+sloven ina
+sloven ina
+anarâ kielâ
+soomaaliga
+shqip
+srpski
+seeltersk
+sunda
+svenska
+kiswahili
+tagalog
+türkçe
+tatarça
+o zbekcha
+vèneto
+vepsän kel
+ti ng vi t
+winaray
+bân lâm gí
+edit links
+article
+english
+view source
+view history
+tools
+tools
+button move to sidebar button hide
+actions
+view source
+view history
+general
+what links here
+related changes
+upload file
+permanent link
+page information
+cite this page
+get shortened url
+print export
+download as pdf
+printable version
+other projects
+wikimedia commons
+wikiquote
+wikidata item
+appearance
+button move to sidebar button hide
+featured article
+page semi protected
+from wikipedia free encyclopedia
+speed electromagnetic waves vacuum
+lightspeed redirects here for other uses see speed light
+disambiguation and lightspeed disambiguation
+caption speed light
+distance from sun to earth is shown as million kilometres
+an approximate average sizes to scale
+due to its finite speed sunlight takes minutes and to seconds
+to reach earth depending on time year
+exact value
+metres per second
+approximate values to three significant digits
+kilometres per hour
+miles per second
+miles per hour
+astronomical units per day note
+parsecs per year note
+approximate light signal travel times
+distance time
+one foot ns
+one metre ns
+from geostationary orbit to earth ms
+length earth s equator ms
+from moon to earth s
+from sun to earth au min
+one light year year
+one parsec years
+from nearest star to sun pc years
+from nearest galaxy to earth years
+across milky way years
+from andromeda galaxy to earth million years
+speed light vacuum often called simply speed light
+and commonly denoted c is a universal physical constant exactly equal
+to m s it is exact because by international
+agreement a metre is defined as length path travelled by
+light vacuum during a time interval
+second value metres per second is
+approximately billion kilometres per hour million miles per
+hour for other approximations c valid for various units and size
+scales see infobox
+all forms electromagnetic radiation including visible light travel
+vacuum at speed c as do massless particles and field
+perturbations such as gravitational waves speed light is
+same for all observers no matter their relative velocity as a result
+massless particles and waves travel at c a vacuum regardless
+motion source or inertial reference frame observer
+speed light is upper limit for speed at which
+information matter or energy can travel through space
+particles with nonzero rest mass can be accelerated to approach c but
+can never reach it regardless frame reference which their
+speed is measured
+for long distances and sensitive measurements finite speed
+light has noticeable effects much starlight viewed on earth is from
+distant past allowing humans to study history universe
+by viewing distant objects when communicating with distant space
+probes it can take hours for signals to travel computing
+speed light fixes ultimate minimum communication delay
+speed light can be used time flight measurements to measure
+large distances to extremely high precision
+ole rømer first demonstrated that light does not travel instantaneously
+by studying apparent motion jupiter s moon io an paper
+james clerk maxwell proposed that light was an electromagnetic wave
+and therefore travelled at speed c albert einstein postulated
+that speed light c with respect to any inertial frame
+reference is a constant and is independent motion light
+source he explored consequences that postulate by deriving
+theory relativity and so showed that parameter c had
+relevance outside context light and electromagnetism
+theory relativity c interrelates space and time and appears
+famous mass energy equivalence e mc
+some cases objects or waves may appear to travel faster than light
+expansion universe is understood to exceed speed
+light beyond a certain boundary
+speed at which light propagates through transparent materials such
+as glass or air is less than c similarly speed
+electromagnetic waves around wire cables speed electricity is
+slower than c ratio between c and speed v at which light
+travels a material is called refractive index n material
+n c v
+for example for visible light refractive index glass is
+typically around meaning that light glass travels at c
+km s s refractive index air for visible
+light is about so speed light air is about km s
+s slower than c
+notation
+speed light vacuum is usually denoted by a lowercase c
+origin letter choice is unclear with guesses including c for
+constant or latin celeritas meaning swiftness celerity
+c was used for celerity meaning a velocity books by leonhard
+euler and others but this velocity was not specifically for light
+isaac asimov wrote a popular science article c for celeritas but
+did not explain origin wilhelm eduard weber and
+rudolf kohlrausch had used c for a different constant that was later
+shown to equal times speed light vacuum historically
+symbol v was used as an alternative symbol for speed light
+introduced by james clerk maxwell max abraham used c
+with its modern meaning a widely read textbook on electromagnetism
+einstein used v his original german language papers on special
+relativity but he switched to c which by then had
+become standard symbol for speed light
+sometimes c is used for speed waves any material medium and
+c for speed light vacuum this subscripted notation
+which is endorsed official si literature has same form as
+related electromagnetic constants namely for vacuum
+permeability or magnetic constant for vacuum permittivity or
+electric constant and z for impedance free space this
+article uses c exclusively for speed light vacuum
+unit systems
+further information metre § speed light definition
+constant c is defined international system units si as
+exactly m s this fixed value is used to define metre as
+exactly distance that light travels vacuum
+a second second is turn defined to be
+length time occupied by cycles radiation emitted
+by a caesium atom a transition between two specified energy
+states by using fixed value c and an accurate measurement
+second value for standard metre is defined
+prior to meter was defined separately from second and
+speed light was measured experimentally particular value
+adopted for fixed speed light current unit system was
+chosen to agree with best measurements available before
+current definition second was adopted
+as a dimensional physical constant numerical value c is
+different for different unit systems for example imperial units
+speed light is approximately miles per second this value
+is less than different from billion feet per second or one foot
+per nanosecond naval officer and computer scientist grace murray
+hopper distributed foot long wires to colleagues late s to
+visually illustrate importance designing smaller components to
+increase computing speed
+branches physics which c appears often such as relativity
+it is common to use systems natural units measurement or
+geometrized unit system where c using these units c
+does not appear explicitly because multiplication or division by does
+not affect result its unit light second per second is still
+relevant even if omitted
+fundamental physics
+see also special relativity
+special relativity
+world line a diagrammatic representation spacetime
+principle relativity
+theory relativity
+formulations
+foundations
+einstein s postulates
+inertial frame reference
+speed light
+maxwell s equations
+lorentz transformation
+consequences
+time dilation
+length contraction
+relativistic mass
+mass energy equivalence
+relativity simultaneity
+relativistic doppler effect
+thomas precession
+relativistic disk
+bell s spaceship paradox
+ehrenfest paradox
+spacetime
+minkowski spacetime
+spacetime diagram
+world line
+light cone
+dynamics
+proper time
+proper mass
+four momentum
+history
+precursors
+galilean relativity
+galilean transformation
+aether theories
+hyperbolic quaternions
+people
+einstein
+sommerfeld
+michelson
+morley
+fitzgerald
+herglotz
+lorentz
+poincaré
+minkowski
+fizeau
+abraham
+planck
+von laue
+ehrenfest
+tolman
+dirac
+icon physics portal
+category
+speed at which light waves propagate vacuum is independent both
+motion wave source and inertial frame reference
+observer this invariance speed light was postulated
+by einstein after being motivated by maxwell s theory
+electromagnetism and lack evidence for motion against
+luminiferous aether experiments such as kennedy thorndike
+experiment and ives stilwell experiment have shown this postulate
+to match experimental observations
+special theory relativity explores consequences this
+invariance c with assumption that laws physics are
+same all inertial frames reference one consequence is
+that c is speed at which all massless particles and waves
+including light must travel vacuum
+starts at when v equals zero and stays nearly constant for small v
+then it sharply curves upwards and has a vertical asymptote diverging
+to positive infinity as v approaches c lorentz factor as a
+function velocity it starts at and approaches infinity as v
+approaches c
+special relativity has many counterintuitive and experimentally
+verified implications these include equivalence mass and
+energy e mc length contraction moving objects shorten terrell
+rotation apparent rotation and time dilation moving
+clocks run more slowly factor by which lengths contract and
+times dilate is known as lorentz factor and is given by
+v c where v is speed object difference
+from is negligible for speeds much slower than c such as most
+everyday speeds which case special relativity is closely
+approximated by galilean relativity but it increases at relativistic
+speeds and diverges to infinity as v approaches c for example a time
+dilation factor occurs at a relative velocity
+speed light v c similarly a time dilation factor
+occurs at speed light v c
+results special relativity can be summarized by treating space
+and time as a unified structure known as spacetime with c relating
+units space and time and requiring that physical theories satisfy
+a special symmetry called lorentz invariance whose mathematical
+formulation contains parameter c lorentz invariance is an
+almost universal assumption for modern physical theories such as
+quantum electrodynamics quantum chromodynamics standard model
+particle physics and general relativity as such parameter c is
+ubiquitous modern physics appearing many contexts that are
+unrelated to light for example general relativity predicts that c is
+also speed gravity and gravitational waves and
+observations gravitational waves have been consistent with this
+prediction non inertial frames reference gravitationally
+curved spacetime or accelerated reference frames local speed
+light is constant and equal to c but speed light can differ
+from c when measured from a remote frame reference depending on how
+measurements are extrapolated to region
+it is generally assumed that fundamental constants such as c have
+same value throughout spacetime meaning that they do not depend on
+location and do not vary with time however it has been suggested
+various theories that speed light may have changed over
+time no conclusive evidence for such changes has been found
+but they remain subject ongoing research
+it is generally assumed that two way speed light is isotropic
+meaning that it has same value regardless direction which
+it is measured observations emissions from nuclear energy
+levels as a function orientation emitting nuclei a
+magnetic field see hughes drever experiment and rotating optical
+resonators see resonator experiments have put stringent limits on
+possible two way anisotropy
+upper limit on speeds
+an object with rest mass m and speed v relative to a laboratory has
+kinetic energy mc with respect to that lab where is
+lorentz factor defined above factor approaches infinity as v
+approaches c and it would take an infinite amount energy to
+accelerate an object with mass to speed light
+speed light is upper limit for speeds objects with
+positive rest mass analysis individual photons confirm that
+information cannot travel faster than speed light
+this is experimentally established many tests relativistic energy
+and momentum
+three pairs coordinate axes are depicted with same origin a
+green frame x axis is horizontal and ct axis is vertical
+red frame x axis is slightly skewed upwards and
+ct axis slightly skewed rightwards relative to green axes
+blue frame x axis is somewhat skewed downwards and ct axis
+somewhat skewed leftwards relative to green axes a point b on
+green x axis to left a has zero ct positive ct and negative
+ct event a precedes b red frame is simultaneous with b
+green frame and follows b blue frame
+more generally it is impossible for signals or energy to travel faster
+than c one argument for this is known as causality if spatial
+distance between two events a and b is greater than time interval
+between them multiplied by c then there are frames reference
+which a precedes b others which b precedes a and others which
+they are simultaneous as a result if something were travelling faster
+than c relative to an inertial frame reference it would be
+travelling backwards time relative to another frame and causality
+would be violated such a frame reference
+an effect could be observed before its cause such a violation
+causality has never been recorded and would lead to paradoxes
+such as tachyonic antitelephone
+some theoretical treatments scharnhorst effect allows signals
+to travel faster than c by one part however other
+approaches to same physical set up show no such effect and it
+appears special conditions which this effect might occur would
+prevent one from using it to violate causality
+one way speed light
+main article one way speed light
+it is only possible to verify experimentally that two way speed
+light for example from a source to a mirror and back again is
+frame independent because it is impossible to measure one way
+speed light for example from a source to a distant detector
+without some convention as to how clocks at source and at
+detector should be synchronized by adopting einstein synchronization
+for clocks one way speed light becomes equal to two way
+speed light by definition
+faster than light observations and experiments
+see also faster than light and superluminal motion
+there are situations which it may seem that matter energy or
+information carrying signal travels at speeds greater than c but they
+do not for example as is discussed propagation light a
+medium section below many wave velocities can exceed c phase
+velocity x rays through most glasses can routinely exceed c
+but phase velocity does not determine velocity at which waves
+convey information
+if a laser beam is swept quickly across a distant object spot
+light can move faster than c although initial movement spot
+is delayed because time it takes light to get to distant
+object at speed c however only physical entities that are
+moving are laser and its emitted light which travels at
+speed c from laser to various positions spot similarly
+a shadow projected onto a distant object can be made to move faster
+than c after a delay time neither case does any matter
+energy or information travel faster than light
+rate change distance between two objects a frame
+reference with respect to which both are moving their closing speed
+may have a value excess c however this does not represent
+speed any single object as measured a single inertial frame
+certain quantum effects appear to be transmitted instantaneously and
+therefore faster than c as epr paradox an example involves
+quantum states two particles that can be entangled until either
+particles is observed they exist a superposition two quantum
+states if particles are separated and one particle s quantum state
+is observed other particle s quantum state is determined
+instantaneously however it is impossible to control which quantum
+state first particle will take on when it is observed so
+information cannot be transmitted this manner
+another quantum effect that predicts occurrence
+faster than light speeds is called hartman effect under certain
+conditions time needed for a virtual particle to tunnel through a
+barrier is constant regardless thickness
+barrier this could result a virtual particle crossing a
+large gap faster than light however no information can be sent using
+this effect
+so called superluminal motion is seen certain astronomical
+objects such as relativistic jets radio galaxies and
+quasars however these jets are not moving at speeds excess
+speed light apparent superluminal motion is a projection effect
+caused by objects moving near speed light and approaching earth
+at a small angle to line sight since light which was
+emitted when jet was farther away took longer to reach earth
+time between two successive observations corresponds to a longer
+time between instants at which light rays were emitted
+a experiment where neutrinos were observed to travel faster than
+light turned out to be due to experimental error
+models expanding universe farther galaxies are from each
+other faster they drift apart for example galaxies far away from
+earth are inferred to be moving away from earth with speeds
+proportional to their distances beyond a boundary called hubble
+sphere rate at which their distance from earth increases becomes
+greater than speed light these recession rates defined as
+increase proper distance per cosmological time are not
+velocities a relativistic sense faster than light cosmological
+recession speeds are only a coordinate artifact
+propagation light
+classical physics light is described as a type electromagnetic
+wave classical behaviour electromagnetic field is described
+by maxwell s equations which predict that speed c with which
+electromagnetic waves such as light propagate vacuum is related to
+distributed capacitance and inductance vacuum otherwise
+respectively known as electric constant and magnetic
+constant by equation
+scriptlevel c
+x c frac sqrt
+varepsilon mu
+c frac sqrt varepsilon mu
+modern quantum physics electromagnetic field is described by
+theory quantum electrodynamics qed this theory light is
+described by fundamental excitations or quanta
+electromagnetic field called photons qed photons are massless
+particles and thus according to special relativity they travel at
+speed light vacuum
+extensions qed which photon has a mass have been considered
+such a theory its speed would depend on its frequency and
+invariant speed c special relativity would then be upper limit
+speed light vacuum no variation speed
+light with frequency has been observed rigorous testing putting
+stringent limits on mass photon limit obtained
+depends on model used if massive photon is described by proca
+theory experimental upper bound for its mass is about
+× grams if photon mass is generated by a higgs mechanism
+experimental upper limit is less sharp m ev c roughly
+× g
+another reason for speed light to vary with its frequency would
+be failure special relativity to apply to arbitrarily small
+scales as predicted by some proposed theories quantum gravity
+observation gamma ray burst grb found no evidence
+for a dependence photon speed on energy supporting tight
+constraints specific models spacetime quantization on how this
+speed is affected by photon energy for energies approaching planck
+scale
+a medium
+see also refractive index
+a medium light usually does not propagate at a speed equal to c
+further different types light wave will travel at different speeds
+speed at which individual crests and troughs a plane wave a
+wave filling whole space with only one frequency propagate is
+called phase velocity v p a physical signal with a finite extent
+a pulse light travels at a different speed overall envelope
+pulse travels at group velocity v g and its earliest part
+travels at front velocity v f
+a modulated wave moves from left to right there are three points
+marked with a dot a blue dot at a node carrier wave a green
+dot at maximum envelope and a red dot at front
+envelope blue dot moves at speed ripples phase
+velocity green dot moves with speed envelope group
+velocity and red dot moves with speed foremost part
+pulse front velocity
+phase velocity is important determining how a light wave travels
+through a material or from one material to another it is often
+represented terms a refractive index refractive index a
+material is defined as ratio c to phase velocity v p
+material larger indices refraction indicate lower speeds
+refractive index a material may depend on light s frequency
+intensity polarization or direction propagation many cases
+though it can be treated as a material dependent constant
+refractive index air is approximately denser media
+such as water glass and diamond have refractive
+indexes around and respectively for visible light
+exotic materials like bose einstein condensates near absolute zero
+effective speed light may be only a few metres per second
+however this represents absorption and re radiation delay between
+atoms as do all slower than c speeds material substances as an
+extreme example light slowing matter two independent teams
+physicists claimed to bring light to a complete standstill by passing
+it through a bose einstein condensate element rubidium
+popular description light being stopped these experiments
+refers only to light being stored excited states atoms then
+re emitted at an arbitrarily later time as stimulated by a second
+laser pulse during time it had stopped it had ceased to be
+light this type behaviour is generally microscopically all
+transparent media which slow speed light
+transparent materials refractive index generally is greater
+than meaning that phase velocity is less than c other
+materials it is possible for refractive index to become smaller
+than for some frequencies some exotic materials it is even
+possible for index refraction to become negative
+requirement that causality is not violated implies that real and
+imaginary parts dielectric constant any material
+corresponding respectively to index refraction and to
+attenuation coefficient are linked by kramers kronig
+relations practical terms this means that a material
+with refractive index less than wave will be absorbed
+quickly
+a pulse with different group and phase velocities which occurs if
+phase velocity is not same for all frequencies pulse
+smears out over time a process known as dispersion certain materials
+have an exceptionally low or even zero group velocity for light
+waves a phenomenon called slow light opposite group
+velocities exceeding c was proposed theoretically and achieved
+experimentally it should even be possible for group
+velocity to become infinite or negative with pulses travelling
+instantaneously or backwards time
+these options allow information to be transmitted faster than
+c it is impossible to transmit information with a light pulse any
+faster than speed earliest part pulse front
+velocity it can be shown that this is under certain assumptions
+always equal to c
+it is possible for a particle to travel through a medium faster than
+phase velocity light that medium but still slower than c
+when a charged particle does that a dielectric material
+electromagnetic equivalent a shock wave known as cherenkov
+radiation is emitted
+practical effects finiteness
+speed light is relevance to telecommunications one way
+and round trip delay time are greater than zero this applies from
+small to astronomical scales on other hand some techniques depend
+on finite speed light for example distance measurements
+small scales
+computers speed light imposes a limit on how quickly
+can be sent between processors if a processor operates at gigahertz
+a signal can travel only a maximum about centimetres ft a
+single clock cycle practice this distance is even shorter since
+printed circuit board refracts and slows down signals processors
+must therefore be placed close to each other as well as memory chips
+to minimize communication latencies and care must be exercised when
+routing wires between them to ensure signal integrity if clock
+frequencies continue to increase speed light may eventually
+become a limiting factor for internal design single
+chips
+large distances on earth
+acoustic representation speed light period between
+beeps light travels circumference earth at equator
+given that equatorial circumference earth is about km
+and that c is about km s theoretical shortest time for a
+piece information to travel half globe along surface is
+about milliseconds when light is traveling optical fibre a
+transparent material actual transit time is longer part
+because speed light is slower by about optical fibre with
+an refractive index n around straight lines are rare
+global communications and travel time increases when signals pass
+through electronic switches or signal regenerators
+although this distance is largely irrelevant for most applications
+latency becomes important fields such as high frequency trading
+where traders seek to gain minute advantages by delivering their trades
+to exchanges fractions a second ahead other traders for example
+traders have been switching to microwave communications between trading
+hubs because advantage which radio waves travelling at near to
+speed light through air have over comparatively slower fibre
+optic signals
+spaceflight and astronomy
+diameter moon is about one quarter that earth and
+their distance is about thirty times diameter earth a beam
+light starts from earth and reaches moon about a second and
+a quarter a beam light is depicted travelling between earth and
+moon time it takes a light pulse to move between them
+seconds at their mean orbital surface to surface distance
+relative sizes and separation earth moon system are shown to
+scale
+similarly communications between earth and spacecraft are not
+instantaneous there is a brief delay from source to receiver
+which becomes more noticeable as distances increase this delay was
+significant for communications between ground control and apollo when
+it became first crewed spacecraft to orbit moon for every
+question ground control station had to wait at least three seconds
+for answer to arrive
+communications delay between earth and mars can vary between five
+and twenty minutes depending upon relative positions two
+planets as a consequence this if a robot on surface mars
+were to encounter a problem its human controllers would not be aware
+it until approximately minutes later it would then take a
+further minutes for commands to travel from earth to
+receiving light and other signals from distant astronomical sources
+takes much longer for example it takes billion × years for
+light to travel to earth from faraway galaxies viewed hubble
+ultra deep field images those photographs taken today
+capture images galaxies as they appeared billion years ago
+when universe was less than a billion years old fact that
+more distant objects appear to be younger due to finite speed
+light allows astronomers to infer evolution stars galaxies
+and universe itself
+astronomical distances are sometimes expressed light years
+especially popular science publications and media a light year
+is distance light travels one julian year around billion
+kilometres billion miles or parsecs round figures a
+light year is nearly trillion kilometres or nearly trillion miles
+proxima centauri closest star to earth after sun is around
+light years away
+distance measurement
+main article distance measurement
+radar systems measure distance to a target by time it takes a
+radio wave pulse to return to radar antenna after being reflected
+by target distance to target is half round trip
+transit time multiplied by speed light a global positioning
+system gps receiver measures its distance to gps satellites based on
+how long it takes for a radio signal to arrive from each satellite and
+from these distances calculates receiver s position because light
+travels about kilometres miles one second these
+measurements small fractions a second must be very precise
+lunar laser ranging experiment radar astronomy and deep space
+network determine distances to moon planets and
+spacecraft respectively by measuring round trip transit times
+determination
+there are different ways to determine value c one way is to
+measure directly speed at which light waves propagate which can be
+done various astronomical and earth based setups it is also
+possible to determine c from other physical laws where it appears for
+example by determining values electromagnetic constants
+and and using their relation to c historically most
+accurate results have been obtained by separately determining
+frequency and wavelength a light beam with their product equalling
+c this is described more detail interferometry section
+below
+metre was defined as length path travelled by
+light vacuum during a time interval
+a second fixing value speed light
+at m s by definition as described below consequently
+accurate measurements speed light yield an accurate
+realization metre rather than an accurate value c
+astronomical measurements
+px io eclipse speed light measurement png measurement
+speed light from time it takes io to orbit jupiter using
+eclipses io by jupiter s shadow to precisely measure its orbit
+outer space is a convenient setting for measuring speed light
+because its large scale and nearly perfect vacuum typically one
+measures time needed for light to traverse some reference distance
+solar system such as radius earth s orbit
+historically such measurements could be made fairly accurately
+compared to how accurately length reference distance is
+known earth based units
+ole rømer used an astronomical measurement to make first
+quantitative estimate speed light year
+when measured from earth periods moons
+orbiting a distant planet are shorter when earth is approaching
+planet than when earth is receding from it difference is
+small but cumulative time becomes significant when measured over
+months distance travelled by light from planet or its moon
+to earth is shorter when earth is at point its orbit that is
+closest to its planet than when earth is at farthest point
+its orbit difference distance being diameter earth s
+orbit around sun observed change moon s orbital period
+is caused by difference time it takes light to traverse
+shorter or longer distance rømer observed this effect for jupiter s
+innermost major moon io and deduced that light takes minutes to
+cross diameter earth s orbit
+a star emits a light ray that hits objective a telescope while
+light travels down telescope to its eyepiece telescope
+moves to right for light to stay inside telescope
+telescope must be tilted to right causing distant source to
+appear at a different location to right aberration light light
+from a distant source appears to be from a different location for a
+moving telescope due to finite speed light
+another method is to use aberration light discovered and
+explained by james bradley th century this effect
+results from vector addition velocity light arriving from
+a distant source such as a star and velocity its observer see
+diagram on right a moving observer thus sees light coming
+from a slightly different direction and consequently sees source at
+a position shifted from its original position since direction
+earth s velocity changes continuously as earth orbits sun
+this effect causes apparent position stars to move around from
+angular difference position stars maximally
+arcseconds it is possible to express speed light terms
+earth s velocity around sun which with known length
+a year can be converted to time needed to travel from sun to
+earth bradley used this method to derive that light
+travelled times faster than earth its orbit modern
+figure is times faster or equivalently that it would take
+light minutes seconds to travel from sun to earth
+astronomical unit
+main article astronomical unit
+historically speed light was used together with timing
+measurements to determine a value for astronomical unit au
+astronomical unit was redefined as exactly
+m this redefinition is analogous to that
+metre and likewise has effect fixing speed light to
+an exact value astronomical units per second via exact speed
+light metres per second
+time flight techniques
+px michelson speed light measurement jpg one last
+and most accurate time flight measurements michelson pease and
+pearson s experiment used a rotating mirror and a one mile
+km long vacuum chamber which light beam traversed times
+it achieved accuracy ± km s a light ray passes horizontally
+through a half mirror and a rotating cog wheel is reflected back by a
+mirror passes through cog wheel and is reflected by
+half mirror into a monocular diagram fizeau apparatus
+light source
+beam splitting semi transparent mirror
+toothed wheel breaker light beam
+remote mirror
+telescopic tube
+a method measuring speed light is to measure time needed
+for light to travel to a mirror at a known distance and back this is
+working principle behind experiments by hippolyte fizeau and léon
+foucault
+setup as used by fizeau consists a beam light directed at a
+mirror kilometres away on way from source to
+mirror beam passes through a rotating cogwheel at a certain rate
+rotation beam passes through one gap on way out and another
+on way back but at slightly higher or lower rates beam
+strikes a tooth and does not pass through wheel knowing
+distance between wheel and mirror number teeth on
+wheel and rate rotation speed light can be
+calculated
+method foucault replaces cogwheel with a rotating mirror
+because mirror keeps rotating while light travels to
+distant mirror and back light is reflected from rotating
+mirror at a different angle on its way out than it is on its way back
+from this difference angle known speed rotation and
+distance to distant mirror speed light may be
+calculated foucault used this apparatus to measure speed
+light air versus water based on a suggestion by françois
+arago
+today using oscilloscopes with time resolutions less than one
+nanosecond speed light can be directly measured by timing
+delay a light pulse from a laser or an led reflected from a mirror
+this method is less precise with errors order than other
+modern techniques but it is sometimes used as a laboratory experiment
+college physics classes
+electromagnetic constants
+an option for deriving c that does not directly depend on a measurement
+propagation electromagnetic waves is to use relation
+between c and vacuum permittivity and vacuum permeability
+established by maxwell s theory c vacuum
+permittivity may be determined by measuring capacitance and
+dimensions a capacitor whereas value vacuum permeability
+was historically fixed at exactly × h m through
+definition ampere rosa and dorsey used this method to
+find a value ± km s their method depended upon having a
+standard unit electrical resistance international ohm and so
+its accuracy was limited by how this standard was defined
+cavity resonance
+a box with three waves it there are one and a half wavelength
+top wave one middle one and a half bottom one
+electromagnetic standing waves a cavity
+another way to measure speed light is to independently measure
+frequency f and wavelength an electromagnetic wave vacuum
+value c can then be found by using relation c f one
+option is to measure resonance frequency a cavity resonator if
+dimensions resonance cavity are also known these can be
+used to determine wavelength wave louis essen and
+a c gordon smith established frequency for a variety normal
+modes microwaves a microwave cavity precisely known
+dimensions dimensions were established to an accuracy about
+± m using gauges calibrated by interferometry as
+wavelength modes was known from geometry cavity and
+from electromagnetic theory knowledge associated frequencies
+enabled a calculation speed light
+essen gordon smith result ± km s was substantially more
+precise than those found by optical techniques by repeated
+measurements by essen established a result ± km s
+a household demonstration this technique is possible using a
+microwave oven and food such as marshmallows or margarine if
+turntable is removed so that food does not move it will cook
+fastest at antinodes points at which wave amplitude is
+greatest where it will begin to melt distance between two such
+spots is half wavelength microwaves by measuring this
+distance and multiplying wavelength by microwave frequency
+usually displayed on back oven typically mhz
+value c can be calculated often with less than
+error
+interferometry
+schematic working a michelson interferometer an
+interferometric determination length left constructive
+interference right destructive interference
+interferometry is another method to find wavelength
+electromagnetic radiation for determining speed light a
+coherent beam light e g from a laser with a known frequency f
+is split to follow two paths and then recombined by adjusting path
+length while observing interference pattern and carefully measuring
+change path length wavelength light can be
+determined speed light is then calculated using equation c
+before advent laser technology coherent radio sources were used
+for interferometry measurements speed light
+interferometric determination wavelength becomes less precise with
+wavelength and experiments were thus limited precision by
+long wavelength mm radiowaves precision can
+be improved by using light with a shorter wavelength but then it
+becomes difficult to directly measure frequency light
+one way around this problem is to start with a low frequency signal
+which frequency can be precisely measured and from this signal
+progressively synthesize higher frequency signals whose frequency can
+then be linked to original signal a laser can then be locked to
+frequency and its wavelength can be determined using
+interferometry this technique was due to a group at national
+bureau standards which later became national institute
+standards and technology they used it to measure speed
+light vacuum with a fractional uncertainty ×
+history
+until early modern period it was not known whether light travelled
+instantaneously or at a very fast finite speed first extant
+recorded examination this subject was ancient greece ancient
+greeks arabic scholars and classical european scientists long debated
+this until rømer provided first calculation speed light
+einstein s theory special relativity postulates that speed
+light is constant regardless one s frame reference since then
+scientists have provided increasingly accurate measurements
+caption history measurements c m s
+year experiment value deviation from value
+galileo covered lanterns inconclusive
+accademia del cimento covered lanterns
+inconclusive
+rømer and huygens moons jupiter
+james bradley aberration light
+hippolyte fizeau toothed wheel
+léon foucault rotating mirror ±
+werner siemens
+heinrich hertz
+rosa and dorsey em constants ± ppm
+albert a michelson rotating mirror ± ppm
+essen and gordon smith cavity resonator ±
+k d froome radio interferometry ± ppm
+evenson et al laser interferometry ±
+ppm
+th cgpm definition metre exact
+early history
+empedocles c bce was first to propose a theory
+light and claimed that light has a finite speed he
+maintained that light was something motion and therefore must take
+some time to travel aristotle argued to contrary that light is
+due to presence something but it is not a movement
+euclid and ptolemy advanced empedocles emission theory vision
+where light is emitted from eye thus enabling sight based on that
+theory heron alexandria argued that speed light must be
+infinite because distant objects such as stars appear immediately upon
+opening eyes
+early islamic philosophers initially agreed with aristotelian view
+that light had no speed travel alhazen ibn al haytham
+published book optics which he presented a series
+arguments dismissing emission theory vision favour now
+accepted intromission theory which light moves from an object into
+eye this led alhazen to propose that light must have a
+finite speed and that speed light is
+variable decreasing denser bodies he argued that light
+is substantial matter propagation which requires time even if
+this is hidden from senses also th century ab
+rayh n al b r n agreed that light has a finite speed and observed
+that speed light is much faster than speed sound
+th century roger bacon argued that speed light air
+was not infinite using philosophical arguments backed by writing
+alhazen and aristotle s witelo considered
+possibility light travelling at infinite speed vacuum but
+slowing down denser bodies
+early th century johannes kepler believed that speed
+light was infinite since empty space presents no obstacle to it rené
+descartes argued that if speed light were to be finite sun
+earth and moon would be noticeably out alignment during a lunar
+eclipse although this argument fails when aberration light is taken
+into account latter was not recognized until following
+century since such misalignment had not been observed descartes
+concluded speed light was infinite descartes speculated that if
+speed light were found to be finite his whole system
+philosophy might be demolished despite this his derivation
+snell s law descartes assumed that some kind motion associated
+with light was faster denser media pierre de fermat
+derived snell s law using opposing assumption denser
+medium slower light travelled fermat also argued support a
+finite speed light
+first measurement attempts
+isaac beeckman proposed an experiment which a person
+observes flash a cannon reflecting off a mirror about one mile
+km away galileo galilei proposed an experiment with an
+apparent claim to having performed it some years earlier to measure
+speed light by observing delay between uncovering a lantern
+and its perception some distance away he was unable to distinguish
+whether light travel was instantaneous or not but concluded that if it
+were not it must nevertheless be extraordinarily rapid
+according to galileo lanterns he used were at a short distance
+less than a mile assuming distance was not too much shorter than
+a mile and that about a thirtieth a second is minimum time
+interval distinguishable by unaided eye boyer notes that
+galileo s experiment could at best be said to have established a lower
+limit about miles per second for velocity light
+accademia del cimento florence reported that it had
+performed galileo s experiment with lanterns separated by about
+one mile but no delay was observed actual delay this
+experiment would have been about microseconds
+a diagram a planet s orbit around sun and a moon s orbit
+around another planet shadow latter planet is shaded
+rømer s observations occultations io from earth
+first quantitative estimate speed light was made
+by ole rømer from observation that periods
+jupiter s innermost moon io appeared to be shorter when earth was
+approaching jupiter than when receding from it he concluded that light
+travels at a finite speed and estimated that it takes light minutes
+to cross diameter earth s orbit christiaan huygens combined
+this estimate with an estimate for diameter earth s orbit to
+obtain an estimate speed light km s which is lower
+than actual value
+his book opticks isaac newton reported rømer s calculations
+finite speed light and gave a value seven or eight minutes
+for time taken for light to travel from sun to earth
+modern value is minutes seconds newton queried whether
+rømer s eclipse shadows were coloured hearing that they were not he
+concluded different colours travelled at same speed
+james bradley discovered stellar aberration from this effect he
+determined that light must travel times faster than earth
+its orbit modern figure is times faster or equivalently
+that it would take light minutes seconds to travel from sun to
+earth
+connections with electromagnetism
+see also history electromagnetic theory and history special
+relativity
+th century hippolyte fizeau developed a method to determine
+speed light based on time flight measurements on earth and
+reported a value km s his method was improved upon by
+léon foucault who obtained a value km s
+year wilhelm eduard weber and rudolf kohlrausch measured
+ratio electromagnetic and electrostatic units charge
+by discharging a leyden jar and found that its numerical
+value was very close to speed light as measured directly by
+fizeau following year gustav kirchhoff calculated that an electric
+signal a resistanceless wire travels along wire at this
+speed
+early s maxwell showed that according to theory
+electromagnetism he was working on electromagnetic waves propagate
+empty space at a speed equal to above weber kohlrausch ratio
+and drawing attention to numerical proximity this value to
+speed light as measured by fizeau he proposed that light is fact
+an electromagnetic wave maxwell backed up his claim with his own
+experiment published philosophical transactions which
+determined ratio electrostatic and electromagnetic units
+electricity
+luminiferous aether
+main article luminiferous aether
+wave properties light were well known since thomas young
+th century physicists believed light was propagating a medium
+called aether or ether after maxwell s theory unified light and
+electric and magnetic waves it was favored that both light and
+electric magnetic waves propagate same aether medium or called
+luminiferous aether
+px einstein en lorentz jpg hendrik lorentz right with albert
+einstein
+some physicists thought that this aether acted as a preferred frame
+reference for propagation light and therefore it should be
+possible to measure motion earth with respect to this
+medium by measuring isotropy speed light beginning
+s several experiments were performed to try to detect this
+motion most famous which is experiment performed by albert
+a michelson and edward w morley detected
+motion was found to always be nil within observational error modern
+experiments indicate that two way speed light is isotropic
+same every direction to within nanometres per second
+because michelson morley experiment hendrik lorentz proposed that
+motion apparatus through aether may cause apparatus
+to contract along its length direction motion and he further
+assumed that time variable for moving systems must also be changed
+accordingly local time which led to formulation lorentz
+transformation based on lorentz s aether theory henri poincaré
+showed that this local time to first order v c is indicated by
+clocks moving aether which are synchronized under
+assumption constant light speed he speculated that
+speed light could be a limiting velocity dynamics provided that
+assumptions lorentz s theory are all confirmed
+poincaré brought lorentz s aether theory into full observational
+agreement with principle relativity
+special relativity
+einstein postulated from outset that speed light
+vacuum measured by a non accelerating observer is independent
+motion source or observer using this and principle
+relativity as a basis he derived special theory relativity
+which speed light vacuum c featured as a fundamental
+constant also appearing contexts unrelated to light this made
+concept stationary aether to which lorentz and poincaré still
+adhered useless and revolutionized concepts space and
+increased accuracy c and redefinition metre and second
+see also history metre
+second half th century much progress was made
+increasing accuracy measurements speed light first by
+cavity resonance techniques and later by laser interferometer
+techniques these were aided by new more precise definitions
+metre and second louis essen determined speed as
+± km s using cavity resonance this value was adopted
+by th general assembly radio scientific union
+metre was redefined terms wavelength a
+particular spectral line krypton and second was
+redefined terms hyperfine transition frequency ground
+state caesium
+using laser interferometer method and new definitions
+a group at us national bureau standards boulder colorado
+determined speed light vacuum to be c ± m s
+this was times less uncertain than previously accepted value
+remaining uncertainty was mainly related to definition
+metre as similar experiments found comparable results for
+c th general conference on weights and measures
+recommended using value m s for speed light
+defined as an explicit constant
+th meeting general conference on weights and
+measures cgpm found that wavelengths from frequency measurements and
+a given value for speed light are more reproducible than
+previous standard they kept definition second so
+caesium hyperfine frequency would now determine both second and
+metre to do this they redefined metre as length path
+traveled by light vacuum during a time interval a
+second
+as a result this definition value speed light
+vacuum is exactly m s and has become a defined
+constant si system units improved experimental
+techniques that prior to would have measured speed light
+no longer affect known value speed light si units but
+instead allow a more precise realization metre by more
+accurately measuring wavelength krypton and other light
+sources
+cgpm stated its intention to redefine all seven si base
+units using what it calls explicit constant formulation where
+each unit is defined indirectly by specifying explicitly an exact
+value for a well recognized fundamental constant as was done for
+speed light it proposed a new but completely equivalent wording
+metre s definition metre symbol m is unit length
+its magnitude is set by fixing numerical value speed
+light vacuum to be equal to exactly when it is expressed
+si unit m s this was one changes that was
+incorporated revision si also termed new
+see also
+icon physics portal
+astronomy portal
+outer space portal
+light second
+speed electricity
+speed gravity
+speed sound
+velocity factor
+warp factor fictional
+notes
+exact value × au day
+exact value pc y
+references
+how long does it take for light from sun to reach earth
+bbc sky at night magazine april retrieved july
+a b codata value speed light vacuum nist
+reference on constants units and uncertainty nist may
+retrieved may
+larson ron hostetler robert p elementary and
+intermediate algebra a combined course student support edition
+th illustrated ed cengage learning p
+moses fayngold special relativity and how it works
+illustrated ed john wiley sons p
+isbn extract page
+albert shadowitz special relativity revised ed
+courier corporation p isbn extract page
+peres asher terno daniel r january quantum
+information and relativity theory reviews modern physics
+arxiv quant ph bibcode rvmp p
+doi revmodphys issn s cid
+gibbs philip how is speed light measured
+physics and relativity faq from original on august
+a b stachel j j einstein from b to z volume
+einstein studies springer p isbn
+see for example
+feigenbaum mitchell j mermin n david january e
+mc american journal physics
+bibcode amjph f doi issn
+uzan j p leclercq b natural laws universe
+understanding fundamental constants springer pp
+a b mendelson k s story c american journal
+physics bibcode amjph m
+doi issn
+pelosi g selleri s december c utrum est ut
+celeritas an constantia does c stand for speed or constancy
+ieee antennas and propagation magazine
+bibcode iapm p doi map
+gibbs p why is c symbol for speed
+light usenet physics faq university california riverside
+from original on march retrieved november
+origins letter c being used for speed light
+can be traced back to a paper by weber and kohlrausch
+weber apparently meant c to stand for constant his force law but
+there is evidence that physicists such as lorentz and einstein were
+accustomed to a common convention that c could be used as a variable
+for velocity this usage can be traced back to classic latin texts
+which c stood for celeritas meaning speed
+see for example
+lide d r crc handbook chemistry and physics crc press
+pp isbn
+harris j w et al handbook physics springer p
+whitaker j c electronics handbook crc press p
+cohen e r et al quantities units and symbols
+physical chemistry ed royal society chemistry p
+international bureau weights and measures
+international system units si pdf th ed p
+isbn pdf from original on june
+retrieved december
+a b definitions si base units physics nist gov may
+retrieved february
+a b see for example
+sydenham p h measurement length boyes w ed
+instrumentation reference book ed butterworth heinemann p
+isbn if speed light is defined as a
+fixed number then principle time standard will serve as
+length standard
+codata value speed light vacuum nist reference on
+constants units and uncertainty nist retrieved august
+jespersen j fitz randolph j robb j from sundials to
+atomic clocks understanding time and frequency reprint national
+bureau standards nd ed courier dover p
+penrose r road to reality a complete guide to
+laws universe vintage books pp
+isbn most accurate standard for metre
+is conveniently defined so that there are exactly them to
+distance travelled by light a standard second giving a value
+for metre that very accurately matches now inadequately precise
+standard metre rule paris
+mermin n david it s about time understanding einstein s
+relativity princeton princeton university press p
+isbn oclc
+nanoseconds associated with grace hopper national museum
+american history retrieved march grace murray hopper
+a mathematician who became a naval officer and computer
+scientist during world war ii started distributing these wire
+nanoseconds late s order to demonstrate how designing
+smaller components would produce faster computers
+lawrie i d appendix c natural units a unified grand
+tour theoretical physics ed crc press p
+hsu l appendix a systems units and development
+relativity theories a broader view relativity general
+implications lorentz and poincaré invariance ed world
+scientific pp isbn
+einstein a zur elektrodynamik bewegter körper annalen
+der physik submitted manuscript german
+bibcode anp e doi andp english
+translation perrett w walker j ed on electrodynamics
+moving bodies fourmilab translated by jeffery g b retrieved
+november
+robertson h p july postulate versus observation
+special theory relativity reviews modern physics
+bibcode rvmp r doi revmodphys
+d inverno r introducing einstein s relativity oxford
+university press pp isbn
+sriranjan b postulates special theory
+relativity and their consequences special theory to relativity
+phi learning pvt ltd pp ff isbn
+a b ellis george f r williams ruth m flat and
+curved space times ed oxford oxford university press p
+isbn oclc
+roberts t schleif s dlugosz j m ed what is
+experimental basis special relativity usenet physics faq
+university california riverside from original on
+october retrieved november
+terrell j invisibility lorentz contraction
+physical review bibcode phrv t
+doi physrev
+penrose r apparent shape a relativistically
+moving sphere mathematical proceedings cambridge philosophical
+society bibcode pcps p
+doi s s cid
+hartle j b gravity an introduction to einstein s
+general relativity addison wesley pp isbn
+hartle j b gravity an introduction to einstein s
+general relativity addison wesley p isbn
+see for example
+abbott b p et al gravitational waves and gamma rays from
+a binary neutron star merger gw and grb a
+astrophysical journal letters l arxiv
+bibcode apj l a doi aa c
+cornish neil blas diego nardini germano october
+bounding speed gravity with gravitational wave observations
+physical review letters arxiv
+bibcode phrvl p c doi physrevlett
+pmid s cid
+liu xiaoshu he vincent f mikulski timothy m palenova daria
+williams claire e creighton jolien tasson jay d july
+measuring speed gravitational waves from first and second
+observing run advanced ligo and advanced virgo physical review d
+arxiv bibcode phrvd b l
+doi physrevd s cid
+a b gibbs p carlip s ed is speed
+light constant usenet physics faq university california
+riverside from original on april retrieved
+november
+ellis g f r uzan j p c is speed light
+isn t it american journal physics
+arxiv gr qc bibcode amjph e
+doi s cid possibility that
+fundamental constants may vary during evolution universe
+offers an exceptional window onto higher dimensional theories and is
+probably linked with nature dark energy that makes
+universe accelerate today
+mota d f variations fine structure constant
+space and time phd arxiv astro ph
+bibcode astro ph m
+uzan j p fundamental constants and their variation
+observational status and theoretical motivations reviews modern
+physics arxiv hep ph
+bibcode rvmp u doi revmodphys
+s cid
+amelino camelia g quantum gravity phenomenology living
+reviews relativity arxiv
+bibcode lrr a doi lrr pmc
+herrmann s senger a möhle k nagel m kovalchuk e v
+peters a rotating optical cavity experiment testing lorentz
+invariance at level physical review d
+arxiv bibcode phrvd j h
+doi physrevd s cid
+lang k r astrophysical formulae ed birkhäuser
+p isbn
+kleppner daniel kolenkow robert j an introduction to
+mechanics nd ed cambridge cambridge university press
+voss david june single photons obey speed limits
+physical review letters s bibcode phrvl x z
+doi physrevlett pmid retrieved april
+shanchao zhang j f chen chang liu m m t loy g k l wong
+shengwang du june optical precursor a single photon
+pdf physical review letters
+bibcode phrvl x z doi physrevlett
+fowler m march notes on special relativity pdf
+university virginia p retrieved may
+fayngold moses special relativity and how it works
+physics textbook weinheim wiley vch isbn
+liberati s sonego s visser m faster than c
+signals special relativity and causality annals physics
+arxiv gr qc bibcode anphy l
+doi aphy s cid
+taylor e f wheeler j a spacetime physics w h
+freeman pp isbn
+a b zhang y z special relativity and its experimental
+foundations advanced series on theoretical physical science vol
+world scientific pp isbn retrieved
+tolman r c velocities greater than that
+light theory relativity motion reprint ed
+bibliolife p isbn
+de clark s g scharnhorst effect superluminality and
+causality effective field theories university arizona
+see for example
+ben menahem shahar november causality between conducting
+plates physics letters b
+bibcode phlb b doi a
+fearn h november dispersion relations and causality
+does relativistic causality require that n as journal
+modern optics bibcode jmop f
+doi issn s cid
+fearn h may can light signals travel faster than c
+nontrivial vacua flat space time relativistic causality ii laser
+physics arxiv bibcode laphy f
+doi s x issn x s cid
+hsu j p zhang y z lorentz and poincaré invariance
+advanced series on theoretical physical science vol world
+scientific pp ff isbn
+hecht e optics ed addison wesley p
+quimby r s photonics and lasers an introduction john
+wiley and sons p isbn
+wertheim m june shadow goes new york times
+retrieved august
+a b c gibbs p is faster than light travel or
+communication possible usenet physics faq university california
+riverside from original on march retrieved
+august
+see for example
+sakurai j j tuan s f ed modern quantum mechanics
+revised ed addison wesley pp isbn
+peres asher quantum theory concepts and methods kluwer
+p isbn oclc
+caves carlton m quantum information science emerging no
+more osa century optics optica pp arxiv
+isbn i t was natural to dream that quantum
+correlations could be used for faster than light communication but
+this speculation was quickly shot down and shooting established
+principle that quantum states cannot be copied
+muga j g mayato r s egusquiza i l eds time
+quantum mechanics springer p isbn
+hernández figueroa h e zamboni rached m recami e
+localized waves wiley interscience p isbn
+wynne k causality and nature information pdf
+optics communications bibcode optco w
+doi s from original pdf on
+march
+rees m appearance relativistically expanding
+radio sources nature bibcode natur r
+doi a s cid
+chase i p apparent superluminal velocity galaxies usenet
+physics faq university california riverside retrieved november
+reich eugenie samuel april embattled neutrino project
+leaders step down nature news doi nature
+s cid retrieved february
+opera collaboration july measurement neutrino
+velocity with opera detector cngs beam journal high
+energy physics arxiv
+bibcode jhep a doi jhep
+s cid
+harrison e r masks universe cambridge university
+press p isbn
+panofsky w k h phillips m classical electricity and
+magnetism addison wesley p isbn cite
+book isbn date incompatibility help
+see for example
+schaefer b e severe limits on variations speed
+light with frequency physical review letters
+arxiv astro ph bibcode phrvl s
+doi physrevlett s cid
+ellis j mavromatos n e nanopoulos d v sakharov a s
+quantum gravity analysis gamma ray bursts using wavelets
+astronomy astrophysics arxiv astro ph
+bibcode a a e doi
+s cid
+füllekrug m probing speed light with radio waves at
+extremely low frequencies physical review letters
+bibcode phrvl d f doi physrevlett
+bartlett d j desmond h ferreira p g jasche j
+november constraints on quantum gravity and photon mass
+from gamma ray bursts physical review d
+arxiv bibcode phrvd j b
+doi physrevd issn s cid
+a b adelberger e dvali g gruzinov a photon mass
+bound destroyed by vortices physical review letters
+arxiv hep ph bibcode phrvl a a
+doi physrevlett pmid s cid
+sidharth b g thermodynamic universe world
+scientific p isbn
+amelino camelia g astrophysics burst support for
+relativity nature bibcode natur a
+doi a pmid s cid
+a b c milonni peter w fast light slow light and
+left handed light crc press pp ff isbn
+de podesta m understanding properties matter crc
+press p isbn
+optical constants h o d o water heavy water ice
+refractiveindex info mikhail polyanskiy retrieved november
+optical constants soda lime glass refractiveindex info
+mikhail polyanskiy retrieved november
+optical constants c carbon diamond graphite
+refractiveindex info mikhail polyanskiy retrieved november
+cromie william j january researchers now able to
+stop restart light harvard university gazette from
+original on october retrieved november
+milonni p w fast light slow light and left handed
+light crc press p isbn
+toll j s causality and dispersion relation logical
+foundations physical review
+bibcode phrv t doi physrev
+wolf emil analyticity causality and dispersion
+relations selected works emil wolf with commentary river edge
+new jersey world scientific pp isbn
+libbrecht k g libbrecht m w december
+interferometric measurement resonant absorption and refractive
+index rubidium gas pdf american journal physics
+bibcode amjph l doi
+see for example
+hau l v harris s e dutton z behroozi c h light
+speed reduction to metres per second an ultracold atomic gas
+pdf nature bibcode natur v
+doi s cid
+liu c dutton z behroozi c h hau l v observation
+coherent optical information storage an atomic medium using
+halted light pulses pdf nature
+bibcode natur l doi pmid
+s cid
+bajcsy m zibrov a s lukin m d stationary pulses
+light an atomic medium nature
+arxiv quant ph bibcode natur b
+doi nature pmid s cid
+dumé b switching light on and off physics world
+institute physics from original on december
+retrieved december
+see for example
+chiao r y superluminal but causal propagation wave
+packets transparent media with inverted atomic populations
+physical review a r r bibcode phrva c
+doi physreva r pmid
+wang l j kuzmich a dogariu a gain assisted
+superluminal light propagation nature
+bibcode natur w doi pmid
+s cid
+whitehouse d july beam smashes light barrier bbc
+news retrieved february
+gbur greg february light breaking its own speed limit
+how superluminal shenanigans work retrieved february
+cherenkov pavel a
+visible emission pure liquids by action
+radiation doklady akademii nauk sssr russian reprinted
+cherenkov p a
+visible emission pure liquids by action
+radiation usp fiz nauk russian
+doi ufnr n and a n gorbunov e p
+erenkova eds pavel alekseyevich erenkov chelovek i
+otkrytie pavel alekseyevich erenkov man and discovery russian
+moscow nauka pp
+parhami b introduction to parallel processing algorithms
+and architectures plenum press p isbn
+imbs d raynal michel malyshkin v ed software
+transactional memories an approach for multicore programming th
+international conference pact novosibirsk russia august
+september springer p isbn
+midwinter j e optical fibers for transmission ed
+krieger isbn
+theoretical vs real world speed limit ping pingdom june
+from original on september retrieved may
+buchanan mark february physics finance trading at
+speed light nature
+bibcode natur b doi a pmid
+time is money when it comes to microwaves financial times
+may from original on december retrieved
+april
+day lunar orbits and apollo flight journal
+nasa from original on january retrieved
+december
+ormston thomas may time delay between mars and earth
+mars express mars express esa s mission to red planet retrieved
+parisi megan panontin tina wu shu chieh mctigue kaitlin
+vera alonso effects communication delay on human
+spaceflight missions human centered aerospace systems and
+sustainability applications ahfe open acces
+doi ahfe isbn
+a b hubble reaches undiscovered country primeval
+galaxies press release space telescope science institute january
+hubble ultra deep field lithograph pdf nasa retrieved
+february
+mack katie end everything astrophysically
+speaking london penguin books pp isbn
+iau and astronomical units international astronomical union
+from original on june retrieved october
+further discussion can be found at starchild question month
+for march starchild nasa retrieved august
+dickey j o et al july lunar laser ranging a
+continuing legacy apollo program pdf science
+bibcode sci d doi science
+pmid s cid
+standish e m february jpl planetary ephemerides
+celestial mechanics bibcode cemec s
+doi bf s cid
+berner j b bryant s h kinman p w november range
+measurement as practiced deep space network pdf proceedings
+ieee doi jproc
+s cid
+a b c resolution th cgpm bipm retrieved
+august
+a b c cohen i b roemer and first determination
+velocity light isis
+doi hdl uc b s cid
+a b c demonstration tovchant le mouvement de la lumiere trouvé
+par m r mer de l académie royale des sciences demonstration to
+movement light found by mr römer royal academy sciences
+pdf journal des sçavans french
+translated a demonstration concerning motion light
+communicated from paris journal des sçavans and here made
+english philosophical transactions royal society
+bibcode rspt doi rstl
+reproduced hutton c shaw g pearson r eds on
+motion light by m romer philosophical transactions
+royal society london from their commencement year
+abridged vol ii from to london c r baldwin
+pp
+account published journal des sçavans was based on a report that
+rømer read to french academy sciences november cohen
+a b c d bradley j account a new discovered motion
+fix d stars philosophical transactions
+duffett smith p practical astronomy with your calculator
+cambridge university press p isbn extract
+standish e m june astronomical unit now
+proceedings international astronomical union iauc
+doi s issn
+supplement updates to th edition si
+brochure pdf international system units international
+bureau weights and measures
+resolution b on re definition astronomical unit
+length pdf international astronomical union
+brumfiel geoff september astronomical unit gets
+fixed nature doi nature issn
+s cid
+a b c d e gibbs p how is speed light
+measured usenet physics faq university california riverside
+from original on august retrieved january
+fowler m speed light university virginia retrieved
+april
+hughes stephan catchers light forgotten lives
+men and women who first photographed heavens artdeciel
+publishing p isbn
+see for example
+cooke j martin m mccartney h wilf b direct
+determination speed light as a general physics laboratory
+experiment american journal physics
+bibcode amjph c doi
+aoki k mitsui t a small tabletop experiment for a
+direct measurement speed light american journal physics
+arxiv bibcode amjph a
+doi s cid
+james m b ormond r b stasch a j speed light
+measurement for myriad american journal physics
+bibcode amjph j doi
+a b c d e essen l gordon smith a c velocity
+propagation electromagnetic waves derived from resonant
+frequencies a cylindrical cavity resonator proceedings
+royal society london a
+bibcode rspsa e doi rspa jstor
+a b rosa e b dorsey n e a new determination
+ratio electromagnetic to electrostatic unit
+electricity bulletin bureau standards
+doi bulletin
+essen l velocity electromagnetic waves nature
+bibcode natur e doi a
+s cid
+a b c essen l velocity propagation
+electromagnetic waves derived from resonant frequencies a
+cylindrical cavity resonator proceedings royal society
+london a bibcode rspsa e
+doi rspa jstor s cid
+stauffer r h april finding speed light with
+marshmallows physics teacher
+bibcode phtea s doi retrieved
+february
+bbc look east at speed light bbc norfolk website
+retrieved february
+vaughan j m fabry perot interferometer crc press
+pp isbn
+a b froome k d a new determination free space
+velocity electromagnetic waves proceedings royal society
+london series a mathematical and physical sciences
+bibcode rspsa f doi rspa
+jstor s cid
+a b c sullivan d b speed light from direct
+frequency and wavelength measurements lide d r ed a century
+excellence measurements standards and technology pdf crc
+press pp isbn from original
+pdf on august
+a b c evenson k m et al speed light from direct
+frequency and wavelength measurements methane stabilized laser
+physical review letters
+bibcode phrvl e doi physrevlett
+s cid
+a b galilei g dialogues concerning two new
+sciences crew h de salvio a trans dover publications p
+isbn from original on january
+retrieved january cite book isbn date incompatibility
+a b c boyer c b early estimates velocity
+light isis doi s cid
+a b foschi renato leone matteo galileo measurement
+velocity light and reaction times perception
+doi p hdl pmid
+s cid
+magalotti lorenzo saggi di naturali esperienze
+fatte nell accademia del cimento digital online ed florence
+istituto e museo di storia delle scienze pp retrieved
+september
+a b huygens c traitée de la lumière french pierre
+van der aa pp
+buchwald jed yeang chen pang stemeroff noah barton jenifer
+harrington quinn march what heinrich hertz discovered about
+electric waves archive for history exact sciences
+doi s issn
+s cid
+hertz heinrich electric waves london macmillan and co
+michelson a a measurement velocity light
+between mount wilson and mount san antonio astrophysical journal
+bibcode apj m doi
+weiner john nunes frederico light matter interaction
+physics and engineering at nanoscale illustrated ed oup oxford
+p isbn extract page
+sarton g ancient science through golden age
+greece courier dover p isbn
+a b c mackay r h oldford r w scientific method
+statistical method and speed light statistical science
+doi ss click on historical
+background table contents
+ahmed sherif sayed electronic microwave imaging with
+planar multistatic arrays logos verlag berlin p
+isbn extract page
+gross c g fire that comes from eye
+neuroscientist doi
+s cid
+hamarneh s review hakim mohammed said ibn al haitham
+isis doi
+a b lester p m visual communication images with
+messages thomson wadsworth pp isbn
+o connor j j robertson e f abu ali al hasan ibn
+al haytham mactutor history mathematics archive university st
+andrews retrieved january
+lauginie p measuring speed light why speed what
+pdf fifth international conference for history science science
+education keszthely hungary pp from original
+pdf on july retrieved august
+o connor j j robertson e f abu han muhammad ibn ahmad
+al biruni mactutor history mathematics archive university st
+andrews retrieved january
+lindberg d c roger bacon and origins perspectiva
+middle ages a critical edition and english translation
+bacon s perspectiva with introduction and notes oxford university
+press p isbn
+lindberg d c late thirteenth century synthesis
+optics edward grant ed a source book medieval science
+harvard university press p isbn
+marshall p nicole oresme on nature reflection and
+speed light isis doi
+s cid
+sakellariadis spyros descartes experimental proof
+infinite velocity light and huygens rejoinder archive for history
+exact sciences doi bf
+issn jstor s cid
+cajori florian a history physics its elementary
+branches including evolution physical laboratories macmillan
+smith a mark descartes s theory light and refraction
+a discourse on method transactions american philosophical
+society i doi issn
+jstor
+boyer carl benjamin rainbow from myth to mathematics
+thomas yoseloff pp oclc
+foschi renato leone matteo august galileo measurement
+velocity light and reaction times perception
+doi p hdl issn
+pmid s cid
+newton i prop xi optiks text prop xi is
+identical between first and second editions
+guarnieri m two millennia light long path to
+maxwell s waves ieee industrial electronics magazine
+bibcode iiem b g doi mie
+s cid
+kirchhoff g Über die bewegung der elektricität annalen
+der physik bibcode anp k
+doi andp
+see for example
+giordano nicholas j college physics reasoning and
+relationships cengage learning p isbn
+extract page
+bergmann peter gabriel riddle gravitation courier
+dover publications p isbn extract page
+bais sander equations icons knowledge harvard
+university press p isbn extract page
+o connor j j robertson e f november james clerk
+maxwell school mathematics and statistics university st
+andrews from original on january retrieved
+october
+campbell lewis garnett william rautio james c life
+james clerk maxwell p isbn
+watson e c september on relations between light
+and electricity american journal physics
+bibcode amjph w doi issn
+consoli maurizio pluchino alessandro michelson morley
+experiments an enigma for physics history science world
+scientific pp isbn retrieved may
+michelson a a morley e w on relative motion
+earth and luminiferous ether american journal science
+doi s cid
+french a p special relativity van nostrand reinhold
+pp isbn
+darrigol o electrodynamics from ampére to einstein
+clarendon press isbn
+galison p einstein s clocks poincaré s maps empires
+time w w norton isbn
+miller a i albert einstein s special theory
+relativity emergence and early interpretation
+addison wesley isbn
+pais a subtle is lord science and life
+albert einstein oxford university press isbn
+resolution th cgpm bipm from
+original on april retrieved march
+resolution th cgpm bipm retrieved october
+resolution th cgpm bipm retrieved september
+taylor e f wheeler j a spacetime physics
+introduction to special relativity ed macmillan p
+penzes w b time line for definition meter
+pdf nist retrieved january
+adams s relativity an introduction to space time
+physics crc press p isbn one peculiar
+consequence this system definitions is that any future refinement
+our ability to measure c will not change speed light which
+is a defined number but will change length meter
+rindler w relativity special general and cosmological
+ed oxford university press p isbn note
+that improvements experimental accuracy will modify meter
+relative to atomic wavelengths but not value speed
+light
+explicit constant formulation bipm from
+original on august
+see for example
+conover emily november units measure are getting a
+fundamental upgrade science news retrieved february
+knotts sandra mohr peter j phillips william d january
+an introduction to new si physics teacher
+bibcode phtea k doi issn x
+s cid
+si redefinition national institute standards and technology
+may retrieved february
+further reading
+historical references
+rømer o démonstration touchant le mouvement de la lumière
+trouvé par m römer de l academie royale des sciences pdf journal
+des sçavans french from original pdf on
+september retrieved march
+translated as
+a demonstration concerning motion light philosophical
+transactions royal society
+bibcode rspt doi rstl from
+original on july
+halley e monsieur cassini his new and exact tables for
+eclipses first satellite jupiter reduced to julian
+stile and meridian london philosophical transactions royal
+society bibcode rspt c
+doi rstl
+fizeau h l sur une expérience relative à la vitesse de
+propagation de la lumière pdf comptes rendus de l académie des
+sciences french
+foucault j l détermination expérimentale de la vitesse de
+la lumière parallaxe du soleil comptes rendus de l académie des
+sciences french
+michelson a a experimental determination velocity
+light proceedings american association for advancement
+science
+michelson a a pease f g pearson f measurement
+velocity light a partial vacuum astrophysical journal
+bibcode apj m doi
+pmid s cid
+newcomb s velocity light nature
+bibcode natur doi c
+perrotin j sur la vitesse de la lumière comptes rendus
+de l académie des sciences french
+modern references
+brillouin l wave propagation and group velocity academic
+press
+jackson j d classical electrodynamics ed john wiley
+sons isbn
+keiser g optical fiber communications ed mcgraw hill
+p isbn
+ng y j quantum foam and quantum gravity phenomenology
+amelino camelia g kowalski glikman j eds planck scale effects
+astrophysics and cosmology springer pp ff
+helmcke j riehle f physics behind definition
+meter quinn t j leschiutta s tavella p eds recent
+advances metrology and fundamental constants ios press p
+duff m j comment on time variation fundamental
+constants arxiv hep th
+external links
+wikiquote has quotations related to speed light
+test light speed mile long vacuum tube popular science
+monthly september pp
+definition metre international bureau weights and
+measures bipm
+speed light vacuum national institute standards and
+technology nist
+gallery michelson speed light univariate location
+estimation download gathered by albert a michelson
+subluminal applet by greg egan demonstrating group velocity
+information limits
+light discussion on adding velocities
+speed light sixty symbols university nottingham department
+physics video
+speed light bbc radio discussion our time november
+speed light live counter illustrations
+speed light animated demonstrations
+velocity light albert a nicholson scientific american
+september p
+extremes motion
+speed
+light
+sound
+vehicle
+spacecraft
+aircraft
+o propeller driven
+o transcontinental
+land vehicle
+o propulsively driven
+o wheel driven
+o on rails
+o motorcycle
+production model
+by top speed
+by acceleration
+o production car
+by top speed
+by acceleration
+o british
+water borne vehicle
+o sailing
+o submerged
+o transatlantic
+distance
+space
+furthest spacecraft
+furthest landing on another world
+furthest humans
+furthest travel on another world
+closest to sun
+aircraft
+furthest flight
+highest altitude
+deepest ocean vehicle
+endurance
+space
+greatest a spaceflight
+greatest on another world
+greatest a person
+greatest a spacecraft population
+aircraft
+see also
+spaceflight records
+fédération aéronautique internationale records
+gravitational wave astronomy
+gravitational wave
+gravitational wave observatory
+detectors
+resonant mass
+antennas
+active
+nautilus igec
+auriga igec
+minigrail
+mario schenberg
+explorer igec
+allegro igec
+niobe igec
+stanford gravitational wave detector
+altair
+geograv
+agata
+weber bar
+proposed
+past proposals
+grail downsized to minigrail
+sfera
+graviton downsized to mario schenberg
+ground based
+interferometers
+active
+aigo aciga
+fermilab holometer
+advanced ligo ligo scientific collaboration
+kagra
+advanced virgo european gravitational observatory
+tama later known as lism
+tenko
+caltech m interferometer
+planned
+indigo ligo india
+proposed
+cosmic explorer
+einstein telescope
+past proposals
+ligo australia
+space based
+interferometers
+planned
+proposed
+big bang observer
+decigo
+tianqin
+taiji
+pulsar timing arrays
+nanograv
+analysis
+einstein home
+pycbc
+zooniverse gravity spy
+observations
+events
+list observations
+first observation gw
+gw first neutron star merger
+gw first ever possible light from bh bh merger
+gw first ever mass gap collision
+gw first black hole neutron star merger
+methods
+direct detection
+laser interferometers
+resonant mass detectors
+proposed atom interferometers
+indirect detection
+b modes cmb
+pulsar timing array
+binary pulsar
+theory
+general relativity
+tests general relativity
+metric theories
+graviton
+effects properties
+polarization
+spin flip
+redshift
+travel with speed light
+h strain
+chirp signal chirp mass
+carried energy
+gravitational wave background
+types sources
+stochastic
+cosmic inflation quantum fluctuation
+phase transition
+binary inspiral
+supermassive black holes
+stellar black holes
+neutron stars
+continuous
+rotating neutron star
+burst
+supernova or from unknown sources
+hypothesis
+colliding cosmic string and other unknown sources
+records
+world records
+category world records
+guinness world records
+limca book records
+people
+heaviest
+oldest
+shortest
+tallest
+sporting records
+archery
+chess
+cricket
+one day international
+twenty international
+cycling
+fiba basketball world cup records
+fifa world cup records
+formula one motorsport
+constructors
+drivers
+grand prix motorcycle racing
+juggling
+world rally championship
+speed skating
+figure skating
+swimming
+athletics
+athletics record progressions
+olympic records
+national records
+weightlifting
+women
+junior
+youth
+australia
+national rugby league
+australian football league
+us
+regular season
+post season
+all star
+individual
+quarterback
+individual
+all star
+major league baseball
+career
+season
+major league soccer
+track and field
+regular season
+post season
+india
+indian super league
+national records
+japan
+philippines
+thailand
+united kingdom
+motion records
+speed
+light
+sound
+vehicle
+spacecraft
+aircraft
+propeller driven
+transcontinental
+land vehicle propulsively driven
+wheel driven
+on rails
+motorcycle
+production model
+o by top speed
+o by acceleration
+production car
+by top speed
+by acceleration
+power output
+british
+water borne vehicle
+sailing
+submerged
+transatlantic
+distance
+furthest spacecraft
+furthest landing on another world
+furthest humans
+furthest travel on another world
+closest to sun
+furthest flight
+highest altitude
+deepest ocean vehicle
+endurance
+space
+spaceflight
+on another world
+person
+spacecraft population
+aircraft
+spaceflight records
+fédération aéronautique internationale records
+structures
+list tallest structures
+history world s tallest structures
+tallest structures by category
+category on tallest structures
+superlative trees
+physical phenomena
+solar system extremes
+extremes on earth
+o extreme points earth
+o list weather records
+organisms
+list longest living organisms
+smallest organisms
+largest organisms
+relativity
+special
+relativity
+background
+principle relativity galilean relativity
+galilean transformation
+special relativity
+doubly special relativity
+fundamental
+concepts
+frame reference
+speed light
+hyperbolic orthogonality
+rapidity
+maxwell s equations
+proper length
+proper time
+proper acceleration
+relativistic mass
+formulation
+lorentz transformation
+textbooks
+phenomena
+time dilation
+mass energy equivalence e mc
+length contraction
+relativity simultaneity
+relativistic doppler effect
+thomas precession
+ladder paradox
+twin paradox
+terrell rotation
+spacetime
+light cone
+world line
+minkowski diagram
+biquaternions
+minkowski space
+general
+relativity
+background
+introduction
+mathematical formulation
+fundamental
+concepts
+equivalence principle
+riemannian geometry
+penrose diagram
+geodesics
+mach s principle
+formulation
+adm formalism
+bssn formalism
+einstein field equations
+linearized gravity
+post newtonian formalism
+raychaudhuri equation
+hamilton jacobi einstein equation
+ernst equation
+phenomena
+black hole
+event horizon
+singularity
+two body problem
+gravitational waves astronomy
+detectors ligo and collaboration
+virgo
+lisa pathfinder
+hulse taylor binary
+other tests precession mercury
+lensing together with einstein cross and einstein rings
+redshift
+shapiro delay
+frame dragging geodetic effect lense thirring precession
+pulsar timing arrays
+advanced
+theories
+brans dicke theory
+kaluza klein
+quantum gravity
+solutions
+cosmological friedmann lemaître robertson walker friedmann
+equations
+lemaître tolman
+kasner
+bkl singularity
+gödel
+milne
+spherical schwarzschild interior
+tolman oppenheimer volkoff equation
+reissner nordström
+axisymmetric kerr kerr newman
+weyl lewis papapetrou
+taub nut
+van stockum dust
+discs
+melvin
+others pp wave
+ozsváth schücking
+alcubierre
+ellis
+computational physics numerical relativity
+scientists
+poincaré
+lorentz
+einstein
+hilbert
+schwarzschild
+de sitter
+eddington
+friedmann
+lemaître
+milne
+robertson
+chandrasekhar
+zwicky
+wheeler
+choquet bruhat
+zel dovich
+novikov
+ehlers
+geroch
+penrose
+hawking
+taylor
+hulse
+bondi
+misner
+thorne
+weiss
+others
+category
+special relativity
+overviews
+principle relativity
+theory relativity
+history
+galilean relativity
+galilean transformation
+aether theories
+foundations
+relative motion
+inertial frame reference
+speed light
+maxwell s equations
+lorentz transformation
+consequences
+time dilation
+relativistic mass
+mass energy equivalence
+length contraction
+relativity simultaneity
+relativistic doppler effect
+thomas precession
+relativistic disk
+bell s spaceship paradox
+ehrenfest paradox
+spacetime
+minkowski spacetime
+world line
+spacetime diagrams
+light cone
+dynamics
+proper time
+proper mass
+momentum
+authority control databases edit this at wikidata
+international
+national
+united states
+israel
+other
+yale lux
+retrieved from
+https en wikipedia org w index php title speed light oldid
+categories
+fundamental constants
+physical quantities
+light
+special relativity
+velocity
+hidden categories
+cs german language sources de
+cs errors isbn date
+cs russian language sources ru
+cs french language sources fr
+cs long volume value
+articles containing french language text
+articles with short description
+short description matches wikidata
+wikipedia indefinitely semi protected pages
+featured articles
+use oxford spelling from august
+all wikipedia articles written british english with oxford
+spelling
+use dmy dates from august
+articles containing latin language text
+this page was last edited on june at utc
+text is available under creative commons attribution sharealike
+license additional terms may apply by using this site you
+agree to terms use and privacy policy wikipedia® is a
+registered trademark wikimedia foundation inc a
+non profit organization
+privacy policy
+about wikipedia
+disclaimers
+contact wikipedia
+legal safety contacts
+code conduct
+developers
+statistics
+cookie statement
+mobile view
+wikimedia foundation
+powered by mediawiki
+button search
+button search
+toggle table contents
+speed light
+button languages add topic

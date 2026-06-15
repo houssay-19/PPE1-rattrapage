@@ -1,0 +1,508 @@
+   #Modifier Wikipédia (fr) Flux Atom de Wikipédia
+
+   Aller au contenu
+
+   [ ] Menu principal
+   Menu principal
+   (BUTTON) déplacer vers la barre latérale (BUTTON) masquer
+   Navigation
+     * Page d’accueil
+     * Portails thématiques
+     * Article au hasard
+     * Contact
+
+   Contribuer
+     * Débuter sur Wikipédia
+     * Aide
+     * Communauté
+     * Pages spéciales
+     * Modifications récentes
+
+   Wikipédia l'encyclopédie libre
+   Rechercher
+   ____________________
+   (BUTTON) Rechercher
+
+   [ ] Apparence
+
+     * Faire un don
+     * Créer un compte
+     * Se connecter
+
+   [ ] Outils personnels
+     * Faire un don
+     * Créer un compte
+     * Se connecter
+
+Sommaire
+
+   (BUTTON) déplacer vers la barre latérale (BUTTON) masquer
+     * Début
+     * 1 Réflexion diffuse
+     * 2 Réflexion spéculaire
+     * 3 En optique géométrique
+     * 4 En optique physique
+     * 5 En optique quantique
+     * 6 Guide d'ondes
+     * 7 Notes et références
+     * 8 Voir aussi
+       (BUTTON) Afficher / masquer la sous-section Voir aussi
+          + 8.1 Articles connexes
+
+   [ ] Basculer la table des matières
+
+Réflexion (optique)
+
+   [ ] 21 langues
+     * Aragonés
+     * العربية
+     * English
+     * فارسی
+     * Suomi
+     * עברית
+     * Հայերեն
+     * Italiano
+     * 日本語
+     * 한국어
+     * Lietuvių
+     * മലയാളം
+     * Norsk bokmål
+     * Português
+     * Slovenščina
+     * ไทย
+     * Українська
+     * اردو
+     * Tiếng Việt
+     * 粵語
+     * 中文
+
+   Modifier les liens
+
+     * Article
+     * Discussion
+
+   [ ] français
+
+     * Lire
+     * Modifier
+     * Modifier le code
+     * Voir l’historique
+
+   [ ] Outils
+   Outils
+   (BUTTON) déplacer vers la barre latérale (BUTTON) masquer
+   Actions
+     * Lire
+     * Modifier
+     * Modifier le code
+     * Voir l’historique
+
+   Général
+     * Pages liées
+     * Suivi des pages liées
+     * Téléverser un fichier
+     * Lien permanent
+     * Informations sur la page
+     * Citer cette page
+     * Obtenir l'URL raccourcie
+
+   Imprimer / exporter
+     * Créer un livre
+     * Télécharger comme PDF
+     * Version imprimable
+
+   Dans d’autres projets
+     * Élément Wikidata
+
+   Apparence
+   (BUTTON) déplacer vers la barre latérale (BUTTON) masquer
+   Un article de Wikipédia, l'encyclopédie libre.
+   Page d’aide sur l’homonymie
+
+   Pour les articles homonymes, voir Réflexion.
+
+   Pour un article plus général, voir Réflexion (physique).
+
+   La réflexion en optique désigne un des phénomènes qui intervient lors
+   de l'incidence de la lumière sur un matériau. La part de la lumière qui
+   n'est ni absorbée, ni transmise est dite réfléchie. C'est ce phénomène
+   qui explique que l'on voie un objet éclairé par une source (par exemple
+   le soleil ou une lampe) : la lumière émise par la source se réfléchit
+   sur l'objet et vient vers notre œil.
+
+   Ce phénomène a été décrit dans le domaine de l'optique géométrique, de
+   l'optique physique et de l'optique quantique. La réflexion de la
+   lumière dépend largement des propriétés de la lumière, comme sa
+   longueur d'onde ou son intensité, et des propriétés du milieu de
+   propagation et du milieu sur lequel le faisceau arrive.
+
+   La réflexion optique est une réflexion physique décrite comme le
+   changement de direction de propagation d'une onde lumineuse qui après
+   réflexion reste dans le milieu de propagation initial.
+
+   Il existe deux types de réflexion de la lumière : spéculaire ou
+   diffuse, suivant la nature du matériau et de l'interface. Les lois
+   géométriques de la réflexion ne s'appliquent qu'à la réflexion
+   spéculaire ; il faut faire appel à des modélisations plus complexes
+   pour traiter la réflexion diffuse.
+
+   La plupart des situations présentent une association de réflexion
+   diffuse et de réflexion spéculaire, la réflexion diffuse étant en
+   général prépondérante. Il existe dans la nature quelques rares cas de
+   réflexion uniquement spéculaire (essentiellement la réflexion sur une
+   eau calme et limpide), mais la plupart des applications technologiques
+   de l'optique cherchent à avoir de la réflexion spéculaire.
+     * Réflexion spéculaire de la lumière
+       Réflexion spéculaire de la lumière
+     * Réflexion sur un immeuble de l'Avenue Paulista, São Paulo.
+       Réflexion sur un immeuble de l'Avenue Paulista, São Paulo.
+     * Reflexion à la surface du lac Stappitz dans le Hohe Tauern,
+       Autriche.
+       Reflexion à la surface du lac Stappitz dans le Hohe Tauern,
+       Autriche.
+     * Différentes réflexions selon l'état de surface du plastique
+       (injection plastique)
+       Différentes réflexions selon l'état de surface du plastique
+       (injection plastique)
+
+Réflexion diffuse
+
+   [modifier | modifier le code]
+   [250px-Reflexion_diffuse_fr.png] Illustration de la réflexion diffuse
+   sur la surface rugueuse d'un objet parfaitement
+   absorbant.[250px-Diffuse_refl.gif] Réflexion diffuse par un matériau
+   polycristallin qui n'est pas parfaitement
+   opaque.[250px-Bounce_Board%2C_by_Brian_Finifter.jpg] Panneau de bois
+   utilisé comme réflecteur diffus pour avoir une lumière douce.
+
+   La réflexion est dite diffuse lorsque la lumière est réfléchie dans un
+   grand nombre de directions et l'énergie du rayon incident est
+   redistribuée dans une multitude de rayons réfléchis. C'est ce phénomène
+   qui permet la vision d'un objet éclairé (la réflexion spéculaire permet
+   de voir une image de la source, mais pas de l'objet réfléchissant
+   lui-même). Cette diffusion explique pourquoi la neige, le lait, le
+   pastis dilué — sa couleur jaune provient d'un colorant, le caramel — et
+   les nuages sont essentiellement blancs : ils réfléchissent la lumière
+   blanche du soleil.
+
+   Cette diffusion permet de créer, de la manière la plus simple possible,
+   une source lumineuse orthotrope. C'est le cas d'un simple écran de
+   cinéma, dont la surface est perlée, mais c'est aussi pour cette raison
+   que l'on utilise en général des décors mats et que l'on maquille les
+   acteurs (visages poudrés) pour les filmer.
+
+   La réflexion diffuse intervient sur la plupart des matériaux, que la
+   surface soit polie ou non. Prenons l'exemple du marbre blanc ou de la
+   neige ; ce sont des matériaux transparents polycristallins. La lumière
+   est réfléchie sur les interfaces, c'est-à-dire sur les joints de grain,
+   dont l'orientation est distribuée aléatoirement^[1]^,^[2]. La très
+   grande majorité des matériaux crée de la réflexion diffuse plutôt que
+   spéculaire : les minéraux et céramiques sont polycristallins, les
+   liquides contiennent des particules en suspension (turbidité), les
+   plantes et animaux sont constitués de chaînes moléculaires ayant une
+   distribution aléatoire. Les matériaux ne présentant pas (ou peu) de
+   réflexion diffuse intrinsèque sont :
+     * les monocristaux ;
+     * les métaux, qui ne laissent pas pénétrer la lumière ;
+     * les matériaux amorphes : gaz, liquides sans particule, verres, et
+       certains polymères transparents.
+
+   Sur de tels matériaux, la réflexion devient diffuse si la surface est
+   rugueuse.
+
+          Une surface polie est une condition nécessaire pour avoir de la
+          réflexion spéculaire ; mais la plupart des matériaux
+          réfléchissent de manière diffuse même avec une surface polie.
+
+   La réflexion diffuse « idéale » se produit lorsque la luminance est la
+   même dans toutes les directions du demi-espace délimité par la surface.
+   Cette situation, correspondant à un matériau idéalement mat, est
+   appelée « réflexion lambertienne »^[3].
+
+   Outre le fait que la réflexion naturelle est principalement diffuse, on
+   peut chercher volontairement à créer de la réflexion diffuse :
+     * pour la prise d'image :
+          + pour avoir une source de lumière « douce », c'est-à-dire
+            créant des ombres progressives plutôt que des contrastes
+            tranchés, on utilise un éclairage indirect : la source de
+            lumière (soleil ou projecteur) est réfléchie de manière
+            diffuse par un écran,
+          + comme signalé plus haut, les décors artificiels sont souvent
+            choisis mats, et les acteurs sont maquillés ;
+     * pour la projection d'images : dans une grande salle, l'image doit
+       être visible par tous les spectateurs et donc sous de nombreux
+       angles de vue ; comme mentionné ci-dessus, l'écran de projection
+       est perlé pour assurer une réflexion diffuse ;
+     * pour la visibilité :
+          + pour renforcer la visibilité : en cas de réflexion spéculaire,
+            la lumière de la source est réfléchie dans une direction
+            donnée, l'objet éclairé n'est donc visible que pour un
+            observateur se trouvant dans cette direction, et donc rarement
+            pour la personne manipulant le projecteur ; un objet
+            provoquant de la réflexion diffuse sera par contre visible
+            sous de nombreux angles ; il ne faut pas confondre ceci avec
+            la notion de catadioptre, qui utilise plusieurs réflexions
+            spéculaires pour renvoyer la lumière vers la source, rendant
+            ainsi l'objet très visible pour l'observateur manipulant le
+            projecteur,
+          + pour réduire la visibilité (camouflage) : les objets naturels
+            réfléchissant de manière diffuse, l'objet à camoufler, ou la
+            tenue de la personne à camoufler, doit suivre ce même
+            principe, et l'on s'attache en particulier à éviter les éclats
+            provoqués par les surfaces métalliques et les verres polis
+            (voir l'article FFOMECBLOT).
+
+   Article connexe : Théorie de Mie.
+
+Réflexion spéculaire
+
+   [modifier | modifier le code]
+   [250px-Reflexion_speculaire_fr.png] Illustration de la réflexion
+   spéculaire.
+
+   La réflexion est dite spéculaire lorsque le rayon incident donne
+   naissance à un rayon réfléchi unique. Idéalement, l'énergie du rayon
+   incident se retrouve totalement dans le rayon réfléchi, en pratique une
+   partie de l'énergie peut être absorbée, diffusée ou réfractée au niveau
+   de l'interface.
+
+   Comme énoncé précédemment, ce type de réflexion ne peut donc avoir lieu
+   qu'avec certains matériaux qui garantissent que la lumière est
+   réfléchie uniquement par la surface et ne provient pas de l'intérieur
+   de l'objet :
+     * les matériaux parfaitement opaques : métaux ;
+     * les matériaux parfaitement transparents, limpides : verres,
+       plastiques transparents, liquides transparents.
+
+   Par ailleurs, la qualité de la réflexion dépend de la qualité de
+   l'interface. Dès que la taille des défauts de l'interface est
+   inférieure ou de l'ordre de grandeur de la longueur d'onde, l'interface
+   tend à devenir parfaitement réfléchissante. C'est pourquoi une surface
+   de métal brut qui diffuse fortement devient parfaitement réfléchissante
+   quand on la polit (on l'abrase jusqu'à ce que la taille des défauts
+   soit comparable à la longueur d'onde de la lumière).
+
+   Ce type de réflexion est donc rare dans la nature ; il s'agit
+   essentiellement de réflexion par une eau calme. Par contre, elle est
+   d'un intérêt technologique capital, puisqu'elle est à la base de la
+   notion de miroir, et donc permet l'observation d'un objet hors du champ
+   de vision (rétroviseur, miroir de dentiste, miroir d'inspection), la
+   focalisation (télescope, lanterne de projecteur de cinéma), de
+   collimation (projecteur, phare), la déviation de faisceaux (par exemple
+   dans les interféromètres, pour l'holographie, pour guider les ondes).
+
+   Si l'on construit un miroir pour la lumière visible, la taille des
+   défauts ne doit pas excéder quelques centaines de nanomètres, de
+   l'ordre de 0,5 µm, le spectre visible allant de 380 à 720 nm. Pour les
+   ondes radio ou les ondes radar, ces défauts peuvent être de l'ordre de
+   quelques centimètres, au lieu de construire des miroirs dont la surface
+   métallique est uniforme on peut se contenter d'une surface plus
+   grossière de type « grillage ».
+
+   Les milieux considérés modélisés par la réflexion spéculaire suivent
+   les lois de la réflexion de Fresnel. Soit une onde se propageant dans
+   un milieu
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mn>1</mn> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle 1}</annotation>
+   </semantics> :MATH]
+   {\displaystyle 1} et atteignant l'interface avec un milieu
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mn>2</mn> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle 2}</annotation>
+   </semantics> :MATH]
+   {\displaystyle 2} . En appelant
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <msub> <mi>r</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mi>T</mi> <mi>E</mi> </mrow> </msub>
+   </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle r_{TE}}</annotation>
+   </semantics> :MATH]
+   {\displaystyle r_{TE}} le facteur de réflexion normalisé pour la partie
+   de l'onde polarisée transverse électrique et
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <msub> <mi>r</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mi>T</mi> <mi>M</mi> </mrow> </msub>
+   </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle r_{TM}}</annotation>
+   </semantics> :MATH]
+   {\displaystyle r_{TM}} celui de la partie de l'onde polarisée
+   transverse magnétique, on a :
+
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <msub> <mi>r</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mi>T</mi> <mi>E</mi> </mrow> </msub>
+   <mo>=</mo> <mrow class="MJX-TeXAtom-ORD"> <mfrac> <mrow> <msub>
+   <mi>n</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>1</mn> </mrow> </msub>
+   <mi>cos</mi> <mo>⁡</mo> <mo stretchy="false">(</mo> <msub> <mi>θ</mi>
+   <mrow class="MJX-TeXAtom-ORD"> <mn>1</mn> </mrow> </msub> <mo
+   stretchy="false">)</mo> <mo>−</mo> <msub> <mi>n</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow> </msub> <mi>cos</mi>
+   <mo>⁡</mo> <mo stretchy="false">(</mo> <msub> <mi>θ</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow> </msub> <mo
+   stretchy="false">)</mo> </mrow> <mrow> <msub> <mi>n</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mn>1</mn> </mrow> </msub> <mi>cos</mi>
+   <mo>⁡</mo> <mo stretchy="false">(</mo> <msub> <mi>θ</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mn>1</mn> </mrow> </msub> <mo
+   stretchy="false">)</mo> <mo>+</mo> <msub> <mi>n</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow> </msub> <mi>cos</mi>
+   <mo>⁡</mo> <mo stretchy="false">(</mo> <msub> <mi>θ</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow> </msub> <mo
+   stretchy="false">)</mo> </mrow> </mfrac> </mrow> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle r_{TE}={\frac
+   {n_{1}\cos(\theta _{1})-n_{2}\cos(\theta _{2})}{n_{1}\cos(\theta
+   _{1})+n_{2}\cos(\theta _{2})}}}</annotation> </semantics> :MATH]
+   {\displaystyle r_{TE}={\frac {n_{1}\cos(\theta _{1})-n_{2}\cos(\theta
+   _{2})}{n_{1}\cos(\theta _{1})+n_{2}\cos(\theta _{2})}}}
+
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <msub> <mi>r</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mi>T</mi> <mi>M</mi> </mrow> </msub>
+   <mo>=</mo> <mrow class="MJX-TeXAtom-ORD"> <mfrac> <mrow> <msub>
+   <mi>n</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow> </msub>
+   <mi>cos</mi> <mo>⁡</mo> <mo stretchy="false">(</mo> <msub> <mi>θ</mi>
+   <mrow class="MJX-TeXAtom-ORD"> <mn>1</mn> </mrow> </msub> <mo
+   stretchy="false">)</mo> <mo>−</mo> <msub> <mi>n</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mn>1</mn> </mrow> </msub> <mi>cos</mi>
+   <mo>⁡</mo> <mo stretchy="false">(</mo> <msub> <mi>θ</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow> </msub> <mo
+   stretchy="false">)</mo> </mrow> <mrow> <msub> <mi>n</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow> </msub> <mi>cos</mi>
+   <mo>⁡</mo> <mo stretchy="false">(</mo> <msub> <mi>θ</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mn>1</mn> </mrow> </msub> <mo
+   stretchy="false">)</mo> <mo>+</mo> <msub> <mi>n</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mn>1</mn> </mrow> </msub> <mi>cos</mi>
+   <mo>⁡</mo> <mo stretchy="false">(</mo> <msub> <mi>θ</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow> </msub> <mo
+   stretchy="false">)</mo> </mrow> </mfrac> </mrow> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle r_{TM}={\frac
+   {n_{2}\cos(\theta _{1})-n_{1}\cos(\theta _{2})}{n_{2}\cos(\theta
+   _{1})+n_{1}\cos(\theta _{2})}}}</annotation> </semantics> :MATH]
+   {\displaystyle r_{TM}={\frac {n_{2}\cos(\theta _{1})-n_{1}\cos(\theta
+   _{2})}{n_{2}\cos(\theta _{1})+n_{1}\cos(\theta _{2})}}}
+
+   La seconde formule permet notamment de retrouver la valeur de l'angle
+   de Brewster.
+
+En optique géométrique
+
+   [modifier | modifier le code]
+   [250px-Reflexion_fr.png] Illustration de la réflexion en optique
+   géométrique
+
+   En optique géométrique, on ne considère que la réflexion spéculaire ;
+   elle obéit aux lois de Snell-Descartes. Le rayon lumineux est dit
+   incident avant d'avoir rencontré la surface réfléchissante, il est dit
+   réfléchi après. Le point de rencontre du rayon incident et de la
+   surface réfléchissante est appelé point d'incidence. Le plan contenant
+   le rayon incident et la normale à la surface réfléchissante au point
+   d'incidence est dit plan d'incidence.
+
+   On appelle angle d'incidence l'angle orienté i pris entre la normale au
+   point d'incidence et le rayon incident. On appelle angle de réflexion
+   l'angle orienté r pris entre la normale au point d'incidence et le
+   rayon réfléchi.
+
+   Moyennant ces définitions, la loi de la réflexion s'énonce ainsi :
+     * le rayon incident et le rayon réfléchi sont dans le plan
+       d'incidence ;
+     * i = r.
+
+En optique physique
+
+   [modifier | modifier le code]
+   Cette section est vide, insuffisamment détaillée ou incomplète. Votre
+   aide est la bienvenue ! Comment faire ?
+
+   En optique physique, chaque point d'un dioptre est considéré comme une
+   source d'une onde sphérique. C'est l'interférence des ondes des
+   différentes sources qui crée le phénomène de réflexion : les
+   interférences ne sont constructives que dans une direction donnée.
+
+En optique quantique
+
+   [modifier | modifier le code]
+   Cette section est vide, insuffisamment détaillée ou incomplète. Votre
+   aide est la bienvenue ! Comment faire ?
+   Article connexe : Réflexion (physique)#Mécanique quantique.
+
+Guide d'ondes
+
+   [modifier | modifier le code]
+
+   Une onde dont la fréquence est de l'ordre de quelques mégahertz peut se
+   réfléchir sur une des couches ionisées de la haute atmosphère.
+
+Notes et références
+
+   [modifier | modifier le code]
+    1. ↑ (en) P. Hanrahan et W. Krueger, « Reflection from layered
+       surfaces due to subsurface scattering », SIGGRAPH ’93 Proceedings,
+       J. T. Kajiya, vol. 27,‎ 1993, p. 165–174. (lire en ligne)
+    2. ↑ (en) H.W. Jensen et al., « A practical model for subsurface light
+       transport », Proceedings of ACM SIGGRAPH 2001,‎ 2001, p. 511–518
+       (lire en ligne)
+    3. ↑ Johann Heinrich Lambert, Photometria, Augsbourg, Klett, 1760
+       (lire en ligne)
+
+Voir aussi
+
+   [modifier | modifier le code]
+
+Articles connexes
+
+   [modifier | modifier le code]
+     * Réflectivité
+     * Lois de Snell-Descartes
+     * Coefficients de Fresnel
+
+     * icône décorative Portail de l’optique
+
+   Ce document provient de
+   « https://fr.wikipedia.org/w/index.php?title=Réflexion_(optique)&oldid=
+   225797332 ».
+   Catégories :
+     * Optique géométrique
+     * Optique ondulatoire
+     * Loi en optique
+     * Optique quantique
+
+   Catégories cachées :
+     * Article avec une section vide ou incomplète
+     * Portail:Optique/Articles liés
+     * Portail:Physique/Articles liés
+     * Portail:Sciences/Articles liés
+
+     * La dernière modification de cette page a été faite le 19 mai 2025 à
+       17:59.
+     * Droit d'auteur : les textes sont disponibles sous licence Creative
+       Commons attribution, partage dans les mêmes conditions ; d’autres
+       conditions peuvent s’appliquer. Voyez les conditions d’utilisation
+       pour plus de détails, ainsi que les crédits graphiques. En cas de
+       réutilisation des textes de cette page, voyez comment citer les
+       auteurs et mentionner la licence.
+       Wikipedia® est une marque déposée de la Wikimedia Foundation, Inc.,
+       organisation de bienfaisance régie par le paragraphe 501(c)(3) du
+       code fiscal des États-Unis.
+
+     * Politique de confidentialité
+     * À propos de Wikipédia
+     * Avertissements
+     * Contact
+     * Contacts juridiques & sécurité
+     * Code de conduite
+     * Développeurs
+     * Statistiques
+     * Déclaration sur les témoins (cookies)
+     * Version mobile
+
+     * Wikimedia Foundation
+     * Powered by MediaWiki
+
+   (BUTTON) Rechercher
+   ____________________
+   (BUTTON) Rechercher
+
+   [ ] Basculer la table des matières
+   Réflexion (optique)
+   (BUTTON) 21 langues Ajouter un sujet

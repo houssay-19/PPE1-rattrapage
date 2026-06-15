@@ -1,0 +1,44 @@
+          + 2.1 Slowing of light
+          + 2.2 Bending of light
+          + 2.3 Dispersion of light
+   [250px-Refraction_photo.png] A ray of light being refracted in a
+   change in speed or by a change in the medium.^[1] Refraction of light
+   Optical prisms and lenses use refraction to redirect light, as does the
+   of light,^[2] and thus the angle of the refraction also varies
+   prisms^[3] and raindrops in rainbows^[4] to divide white light into its
+   [250px-Snells_law.svg.png] Refraction of light at the interface between
+   For light, refraction follows Snell's law, which states that, for a
+   of light: a reduced speed in an optical medium and a change in angle
+    1. Light slows as it travels through a medium other than vacuum (such
+       oscillation, light itself causes other electrically charged
+       the original light. The resulting combined wave has a lower speed.
+       When light returns to a vacuum and there are no electrons nearby,
+    2. When light enters a slower medium at an angle, one side of the
+       the light causes it to change the angle of its travel. Once light
+Slowing of light
+   As described above, the speed of light is slower in a medium other than
+   other side of the medium its speed will again be the speed of light in
+   A correct explanation rests on light's nature as an electromagnetic
+   wave.^[6] Because light is an oscillating electrical/magnetic wave,
+   light traveling in a medium causes the electrically charged electrons
+   with the electromagnetic waves that make up the original light, similar
+   have wave packets that pass an observer at a slower rate. The light has
+   effectively been slowed. When the light leaves the material, this
+Bending of light
+Dispersion of light
+   by dispersion of light, in which the refraction angle depends on the
+   light's frequency.
+   white light into a rainbow-spectrum as it passes through a glass prism.
+   white light passes from air into a material having an index of
+   the white light are refracted at different angles, i.e., they bend by
+   water looks bent due to refraction: the light waves from X change
+   Refraction occurs when light goes through a water surface since water
+   to bend at the water's surface. This is due to the bending of light
+   n[250px-Blackbird-sunset-03.jpg] The sun appears slightly flattened
+   higher altitudes, the refractive index is also lower, causing light
+   slightly when they are close to the horizon and makes the sun visible
+   Temperature variations in the air can also cause refraction of light.
+   heated by a hot road on a sunny day deflects light approaching at a
+     * [120px-Light_refraction.gif]
+     * [120px-Reading_and_drinking_tea_-_sunlight.jpg]
+    6. ^ Why does light slow down in water? - Fermilab

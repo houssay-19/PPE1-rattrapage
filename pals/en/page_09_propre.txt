@@ -1,0 +1,2056 @@
+edit this page wikipedia en wikipedia atom feed
+jump to content
+main menu
+main menu
+button move to sidebar button hide
+navigation
+main page
+contents
+current events
+random article
+about wikipedia
+contact us
+contribute
+learn to edit
+community portal
+recent changes
+upload file
+special pages
+wikipedia free encyclopedia
+search
+button search
+appearance
+donate
+create account
+log
+personal tools
+donate
+create account
+log
+contents
+button move to sidebar button hide
+physics
+button toggle physics subsection
+properties
+wave model
+maxwell s equations
+near and far fields
+particle model and quantum theory
+wave particle duality
+propagation speed
+history discovery
+electromagnetic spectrum
+button toggle electromagnetic spectrum subsection
+radio and microwave
+infrared
+visible light
+ultraviolet
+x rays and gamma rays
+atmosphere and magnetosphere
+thermal and electromagnetic radiation as a form heat
+biological effects
+button toggle biological effects subsection
+use as a weapon
+derivation from electromagnetic theory
+see also
+references
+further reading
+external links
+toggle table contents
+electromagnetic radiation
+languages
+afrikaans
+aragonés
+asturianu
+az rbaycanca
+basa bali
+bosanski
+català
+e tina
+cymraeg
+dansk
+deutsch
+esperanto
+español
+eesti
+euskara
+suomi
+võro
+français
+nordfriisk
+gaeilge
+kriyòl gwiyannen
+galego
+fiji hindi
+hrvatski
+kreyòl ayisyen
+magyar
+interlingua
+bahasa indonesia
+interlingue
+Íslenska
+italiano
+patois
+latina
+limburgs
+lietuvi
+latvie u
+malagasy
+bahasa melayu
+mirandés
+plattdüütsch
+nederlands
+norsk nynorsk
+norsk bokmål
+occitan
+oromoo
+naijá
+polski
+piemontèis
+português
+român
+scots
+srpskohrvatski
+simple english
+sloven ina
+sloven ina
+anarâ kielâ
+shqip
+srpski
+seeltersk
+sunda
+svenska
+kiswahili
+tagalog
+türkçe
+uyghurche
+o zbekcha
+vepsän kel
+ti ng vi t
+winaray
+bân lâm gí
+isizulu
+edit links
+article
+english
+view history
+tools
+tools
+button move to sidebar button hide
+actions
+view history
+general
+what links here
+related changes
+upload file
+permanent link
+page information
+cite this page
+get shortened url
+print export
+download as pdf
+printable version
+other projects
+wikimedia commons
+wikibooks
+wikidata item
+appearance
+button move to sidebar button hide
+from wikipedia free encyclopedia
+physical model propagating energy
+px onde electromagnetique png a linearly polarized
+electromagnetic wave going z axis with e denoting electric
+field and perpendicular b denoting magnetic field
+electromagnetism
+solenoid
+electricity
+magnetism
+optics
+history
+computational
+textbooks
+phenomena
+electrostatics
+electric charge
+charge density
+coulomb law
+electric field
+gauss s law
+electric potential
+conductor
+electret
+electric dipole
+electric flux
+electrostatic discharge
+electrostatic induction
+insulator
+permittivity
+polarization
+potential energy
+static electricity
+triboelectricity
+magnetostatics
+ampère s law
+ampère s force law
+biot savart law
+gauss s law for magnetism
+magnetic dipole
+magnetic field
+magnetic flux
+magnetic scalar potential
+magnetic vector potential
+magnetization
+permeability
+right hand rule
+electrodynamics
+maxwell s equations
+displacement current
+electromagnetic field
+lorentz force
+retarded potentials
+liénard wiechert potential
+jefimenko s equations
+radiation
+cyclotron radiation
+faraday s law
+eddy current
+induction
+lenz s law
+electromagnetic mass
+abraham lorentz force
+larmor formula
+poynting s theorem
+maxwell tensor
+electrical network
+alternating current
+capacitance
+current density
+direct current
+electric current
+electric power
+electrolysis
+electromotive force
+impedance
+inductance
+joule heating
+kirchhoff s laws
+network analysis
+ohm s law
+parallel circuit
+resistance
+resonant cavities
+series circuit
+voltage
+waveguides
+london equations
+magnetic circuit
+ac motor
+dc motor
+electric machine
+electric motor
+gyrator capacitor
+induction motor
+linear motor
+magnetomotive force
+permeance
+reluctance complex
+reluctance real
+rotor
+stator
+transformer
+covariant formulation
+electromagnetic tensor
+electromagnetism and special relativity
+four current
+four potential
+mathematical descriptions
+maxwell equations curved spacetime
+relativistic electromagnetism
+stress energy tensor
+synchrotron radiation
+bremsstrahlung
+scientists
+ampère
+arago
+coulomb
+einstein
+faraday
+fitzgerald
+fizeau
+franklin
+galvani
+gauss
+gibbs
+gilbert
+green
+heaviside
+helmholtz
+henry
+hertz
+hopkinson
+joule
+kelvin
+kirchhoff
+larmor
+liénard
+lorentz
+maxwell
+neumann
+Ørsted
+poisson
+poynting
+ritchie
+savart
+singer
+steinmetz
+tesla
+thomson
+volta
+weber
+wiechert
+physics electromagnetic radiation emr or an electromagnetic wave
+emw is a self propagating wave electromagnetic field that
+carries momentum and radiant energy through space it
+encompasses a broad spectrum classified by frequency inversely
+proportional to wavelength ranging from radio waves microwaves
+infrared visible light ultraviolet x rays to gamma rays all
+forms emr travel at speed light a vacuum and exhibit
+wave particle duality behaving both as waves and as discrete particles
+called photons
+electromagnetic radiation is produced by accelerating charged particles
+such as from sun and other celestial bodies or artificially
+generated for various applications its interaction with matter depends
+on wavelength influencing its uses communication medicine
+industry and scientific research radio waves enable broadcasting and
+wireless communication infrared is used thermal imaging visible
+light is essential for vision and higher energy radiation such as
+x rays and gamma rays is applied medical imaging cancer treatment
+and industrial inspection higher energy emr especially uv and
+above has been associated with negative health effects
+quantum mechanics an alternate way viewing emr is that it
+consists photons uncharged elementary particles with zero rest mass
+which are quanta electromagnetic field responsible for all
+electromagnetic interactions quantum electrodynamics is theory
+how emr interacts with matter on an atomic level quantum
+effects provide additional sources emr such as transition
+electrons to lower energy levels an atom and black body
+radiation
+physics
+px visibleemrwavelengths png relative wavelengths
+electromagnetic waves three different colours light blue green
+and red with a distance scale micrometers along x axis
+properties
+electromagnetic radiation is produced by accelerating charged particles
+and can be naturally emitted as from sun and other
+celestial bodies or artificially generated for various applications
+energy electromagnetic waves is sometimes called radiant
+energy electromagnetic waves energy does not need a
+propagating medium to travel through space they move through a vacuum
+at speed light
+px electromagneticwave d gif electromagnetic waves can be imagined
+as a self propagating transverse oscillating wave electric and
+magnetic fields this d animation shows a plane linearly polarized
+wave propagating from left to right electric and magnetic fields
+such a wave are phase with each other reaching minima and maxima
+together
+electric and magnetic fields obey properties superposition
+thus a field due to any particular particle or time varying electric
+or magnetic field contributes to fields present same space
+due to other causes further as they are vector fields all magnetic
+and electric field vectors add together according to vector
+addition for example optics two or more coherent light waves
+may interact and by constructive or destructive interference yield a
+resultant irradiance deviating from sum component
+irradiances individual light waves electromagnetic
+fields light are not affected by traveling through static electric
+or magnetic fields a linear medium such as a vacuum however
+nonlinear media such as some crystals interactions can occur between
+light and static electric and magnetic fields these interactions
+include faraday effect and kerr effect
+refraction a wave crossing from one medium to another different
+density alters its speed and direction upon entering new medium
+ratio refractive indices media determines degree
+refraction and is summarized by snell s law light composite
+wavelengths natural sunlight disperses into a visible spectrum
+passing through a prism because wavelength dependent refractive
+index prism material dispersion that is each component wave
+within composite light is bent a different amount
+em radiation exhibits both wave properties and particle properties at
+same time known as wave particle duality both wave and particle
+characteristics have been confirmed many experiments wave
+characteristics are more apparent when em radiation is measured over
+relatively large timescales and over large distances while particle
+characteristics are more evident when measuring small timescales and
+distances for example when electromagnetic radiation is absorbed by
+matter particle like properties will be more obvious when average
+number photons cube relevant wavelength is much
+smaller than it is not so difficult to experimentally observe
+non uniform deposition energy when light is absorbed however this
+alone is not evidence particulate behavior rather it reflects
+quantum nature matter a quantum theory interaction
+between electromagnetic radiation and matter such as electrons is
+described by theory quantum electrodynamics
+electromagnetic waves can be polarized reflected refracted or
+diffracted and can interfere with each other some
+experiments display both wave and particle natures
+electromagnetic waves such as self interference a single
+photon when a low intensity light is sent through an
+interferometer it will be detected by a photomultiplier or other
+sensitive detector only along one arm device consistent with
+particle properties and yet accumulated effect many such
+detections will be interference consistent with wave properties
+wave model
+px circular polarization circularly polarized light right handed an
+imation x colors gif representation electric field
+vector a wave circularly polarized electromagnetic radiation
+homogeneous isotropic media electromagnetic radiation is a
+transverse wave meaning that its oscillations are perpendicular
+to direction energy transfer and travel it comes from
+following equations
+scriptlevel
+columnalign right left right left right left right left right
+left right left rowspacing pt columnspacing em em em em em
+em em em em em em
+normal
+e
+normal
+b
+x begin aligned nabla
+cdot mathbf e nabla cdot mathbf b
+end aligned
+begin aligned nabla cdot mathbf e nabla
+cdot mathbf b end aligned these equations predicate that any
+electromagnetic wave must be a transverse wave where electric
+field e and magnetic field b are both perpendicular to
+direction wave propagation electric and magnetic parts
+field an electromagnetic wave stand a fixed ratio strengths to
+satisfy two maxwell s equations that specify how one is produced
+from other dissipation less lossless media these e and b
+fields are also phase with both reaching maxima and minima at
+same points space
+far field em radiation which is described by two source free
+maxwell curl operator equations a time change one type field is
+proportional to curl other these derivatives require that
+e and b fields emr are phase an important aspect light s
+nature is its frequency frequency a wave is its rate
+oscillation and is measured hertz si unit frequency where
+one hertz is equal to one oscillation per second light usually has
+multiple frequencies that sum to form resultant wave different
+frequencies undergo different angles refraction a phenomenon known
+as dispersion
+a monochromatic wave a wave a single frequency consists
+successive troughs and crests and distance between two adjacent
+crests or troughs is called wavelength waves
+electromagnetic spectrum vary size from very long radio waves
+longer than a continent to very short gamma rays smaller than atom
+nuclei frequency is inversely proportional to wavelength according to
+equation
+scriptlevel
+scriptlevel v f
+x
+v f lambda
+v f lambda
+where v is speed wave c a vacuum or less other
+media f is frequency and is wavelength as waves cross
+boundaries between different media their speeds change but their
+frequencies remain constant
+electromagnetic waves free space must be solutions maxwell s
+electromagnetic wave equation two main classes solutions are known
+namely plane waves and spherical waves plane waves may be viewed
+as limiting case spherical waves at a very large ideally
+infinite distance from source both types waves can have a
+waveform which is an arbitrary time function so long as it is
+sufficiently differentiable to conform to wave equation as with
+any time function this can be decomposed by means fourier analysis
+into its frequency spectrum or individual sinusoidal components each
+which contains a single frequency amplitude and phase such a
+component wave is said to be monochromatic
+interference is superposition two or more waves resulting a
+new wave pattern if fields have components same direction
+they constructively interfere while opposite directions cause
+destructive interference additionally multiple polarization signals
+can be combined i e interfered to form new states polarization
+which is known as parallel polarization state generation
+maxwell s equations
+main article maxwell s equations
+james clerk maxwell derived a wave form electric and magnetic
+equations thus uncovering wave like nature electric and
+magnetic fields and their symmetry because speed em waves
+predicted by wave equation coincided with measured speed
+light maxwell concluded that light itself is an em wave
+maxwell s equations were confirmed by heinrich hertz through
+experiments with radio waves out four equations two
+equations that maxwell refined were faraday s law induction and
+ampère s circuital law which he extended by adding displacement
+current term to equations himself maxwell thought that
+displacement current which he viewed as motion bound charges
+gave rise to magnetic field other two equations are
+gauss s law and gauss s law for magnetism
+near and far fields
+main articles near and far field and liénard wiechert potential
+px farnearfields usp png electromagnetic
+radiation such as microwaves from an antenna shown here term
+radiation applies only to parts electromagnetic field that
+radiate into infinite space and decrease intensity by an
+inverse square law power such that total energy that crosses
+through an imaginary sphere surrounding source is same
+regardless size sphere electromagnetic radiation thus
+reaches far part electromagnetic field around a transmitter
+a part near field close to transmitter includes
+changing electromagnetic field but that is not electromagnetic
+radiation
+maxwell s equations established that some charges and currents
+sources produce local electromagnetic fields near them that do not
+radiate currents directly produce magnetic fields a
+magnetic dipole type that die out with distance from current a
+similar manner moving charges pushed apart a conductor by a
+changing electrical potential such as an antenna produce an
+electric dipole type electrical field but this also declines with
+distance these fields make up near field neither these
+behaviours is responsible for em radiation instead they only
+efficiently transfer energy to a receiver very close to source
+such as inside a transformer near field has strong effects on its
+source with any energy withdrawn by a receiver causing increased load
+decreased electrical reactance on source near field does not
+propagate freely into space carrying energy away without a distance
+limit but rather oscillates returning its energy to transmitter
+if it is not absorbed by a receiver
+by contrast far field is composed radiation that is free
+transmitter sense that transmitter requires same power
+to send changes field out regardless whether anything absorbs
+signal e g a radio station does not need to increase its power
+when more receivers use signal this far part
+electromagnetic field is electromagnetic radiation far fields
+propagate radiate without allowing transmitter to affect them
+this causes them to be independent sense that their existence
+and their energy after they have left transmitter is completely
+independent both transmitter and receiver due to conservation
+energy amount power passing through any closed surface drawn
+around source is same power density em radiation from
+an isotropic source decreases with inverse square distance
+from source this is called inverse square law field intensity
+due to dipole parts near field varies according to an
+inverse cube law and thus fades with distance
+liénard wiechert potential formulation electric and
+magnetic fields due to motion a single particle according to
+maxwell s equations terms associated with acceleration
+particle are those that are responsible for part field that
+is regarded as electromagnetic radiation by contrast term
+associated with changing static electric field particle and
+magnetic term that results from particle s uniform velocity are
+both associated with near field and do not comprise
+electromagnetic radiation
+particle model and quantum theory
+see also quantization physics and quantum optics
+an anomaly arose late th century involving a contradiction
+between wave theory light and measurements
+electromagnetic spectra that were being emitted by thermal radiators
+known as black bodies physicists struggled with this problem
+unsuccessfully for many years and it later became known as
+ultraviolet catastrophe max planck developed a new theory
+black body radiation that explained observed spectrum planck s
+theory was based on idea that black bodies emit light and other
+electromagnetic radiation only as discrete bundles or packets
+energy these packets were called quanta albert einstein
+proposed that light quanta be regarded as real particles later
+particle light was given name photon to correspond with other
+particles being described around this time such as electron and
+proton a photon has an energy e proportional to its frequency f by
+scriptlevel e
+h f
+h c
+mspace thinmathspace mspace
+negativethinmathspace
+x e hf frac
+hc lambda
+e hf frac hc lambda
+where h is planck constant
+scriptlevel
+x lambda
+lambda is wavelength and c is speed light
+this is sometimes known as planck einstein equation
+quantum theory see first quantization energy photons is
+thus directly proportional to frequency emr wave
+likewise momentum p a photon is also proportional to its
+frequency and inversely proportional to its wavelength
+scriptlevel p
+e c
+h f c
+h
+x p e
+over c hf over c h over lambda
+p e over c hf over c h over lambda
+source einstein s proposal that light was composed particles
+or could act as particles some circumstances was an experimental
+anomaly not explained by wave theory photoelectric effect
+which light striking a metal surface ejected electrons from
+surface causing an electric current to flow across an applied voltage
+experimental measurements demonstrated that energy individual
+ejected electrons was proportional to frequency rather than
+intensity light furthermore below a certain minimum
+frequency which depended on particular metal no current would
+flow regardless intensity these observations appeared to
+contradict wave theory and for years physicists tried to find an
+explanation einstein explained this phenomenon by
+resurrecting particle theory light because preponderance
+evidence favor wave theory however einstein s ideas were
+met initially with great skepticism among established physicists
+eventually einstein s explanation was accepted as new particle like
+behavior light was observed such as compton effect
+as a photon is absorbed by an atom it excites atom elevating an
+electron to a higher energy level one that is on average farther from
+nucleus when an electron an excited molecule or atom descends
+to a lower energy level it emits a photon light at a frequency
+corresponding to energy difference since energy levels
+electrons atoms are discrete each element and each molecule emits
+and absorbs its own characteristic frequencies immediate photon
+emission is called fluorescence a type photoluminescence an
+example is visible light emitted from fluorescent paints response
+to ultraviolet blacklight many other fluorescent emissions are known
+spectral bands other than visible light delayed emission is called
+phosphorescence
+quantum mechanics also governs emission which is seen when an emitting
+gas glows due to excitation atoms from any mechanism including
+heat as electrons descend to lower energy levels a spectrum is
+emitted that represents jumps between energy levels
+electrons but lines are seen because again emission happens only at
+particular energies after excitation an example is emission
+spectrum nebulae rapidly moving electrons are most sharply
+accelerated when they encounter a region force so they are
+responsible for producing much highest frequency electromagnetic
+radiation observed nature these phenomena can be used to detect
+composition gases lit from behind absorption spectra and for
+glowing gases emission spectra spectroscopy for example determines
+what chemical elements comprise a particular star shifts
+frequency spectral lines for an element called a redshift can
+be used to determine star s cosmological distance
+wave particle duality
+main article wave particle duality
+modern theory that explains nature light includes notion
+wave particle duality theory is based on concept that every
+quantum entity can show wave like or particle like behaviors depending
+on observation observation led to collapse entity s
+wave function if it is based on copenhagen interpretation
+observation does really collapse wave function for many worlds
+interpretation all possible outcomes collapse happened
+parallel universes for pilot wave theory particle behaviour
+is simply determined by waves duality nature a real photon has
+been observed double slit experiment
+together wave and particle effects fully explain emission and
+absorption spectra em radiation matter composition
+medium through which light travels determines nature
+absorption and emission spectrum these bands correspond to allowed
+energy levels atoms dark bands absorption spectrum are
+due to atoms an intervening medium between source and observer
+atoms absorb certain frequencies light between emitter and
+detector eye then emit them all directions a dark band appears to
+detector due to radiation scattered out light beam for
+instance dark bands light emitted by a distant star are due to
+atoms star s atmosphere
+propagation speed
+main article speed light
+empty space vacuum electromagnetic radiation travels at speed
+light
+scriptlevel c
+x c
+c meters per second approximately
+miles per second a medium other than vacuum it travels at
+a lower velocity
+scriptlevel v
+x v
+v given by a dimensionless parameter between and
+characteristic medium called velocity factor
+scriptlevel
+mathit
+v mathit
+f
+x mathit
+vf
+mathit vf or its reciprocal refractive index
+scriptlevel n
+x n
+n
+scriptlevel v
+mathit v
+mathit f
+c
+c n
+x v mathit
+vf cdot c c over n
+v mathit vf cdot c c over n
+reason for this is that matter electric and magnetic fields
+wave are slowed because they polarize charged particles
+medium they pass through oscillating electric
+field causes nearby positive and negative charges atoms to move
+slightly apart and together inducing an oscillating polarization
+creating an electric polarization field oscillating magnetic field
+moves nearby magnetic dipoles inducing an oscillating magnetization
+creating an induced oscillating magnetic field these induced fields
+superposed on original wave fields slow wave ewald oseen
+extinction theorem amount slowing depends on
+electromagnetic properties medium electric permittivity and
+magnetic permeability si system units empty space has a
+vacuum permittivity
+scriptlevel
+x epsilon
+text
+epsilon text × f m farads per
+meter and a vacuum permeability
+scriptlevel
+x mu
+text
+mu text × h m henries per meter
+these universal constants determine speed light a vacuum
+scriptlevel c
+x
+c over sqrt epsilon text mu
+text
+c over sqrt epsilon text mu
+a medium that is isotropic and linear which means electric
+polarization is proportional to electric field
+scriptlevel
+d
+e
+x mathbf d epsilon
+mathbf e
+mathbf d epsilon mathbf e and
+magnetization is proportional to magnetic field
+scriptlevel
+h
+b
+x mathbf h over mu
+mathbf b
+mathbf h over mu mathbf b speed
+waves
+scriptlevel
+mathit
+v mathit
+f
+x mathit
+vf
+mathit vf and refractive index are
+determined by only two parameters electric permittivity
+scriptlevel
+x epsilon
+epsilon medium farads per meter and
+magnetic permeability medium
+scriptlevel
+x mu
+mu henrys per meter
+scriptlevel v
+x v over sqrt
+epsilon mu
+v over sqrt epsilon mu
+scriptlevel n
+mathit v
+mathit f
+c
+x n over mathit
+vf c sqrt epsilon mu sqrt epsilon mu over
+epsilon text mu text
+n over mathit vf c sqrt epsilon mu
+sqrt epsilon mu over epsilon text mu
+if permittivity and permeability medium is constant for
+different frequency em waves this is called a non dispersive
+medium this case all em wave frequencies would
+travel at same velocity and waveshape stays constant as it
+travels however real matter
+scriptlevel
+x epsilon
+epsilon and
+scriptlevel
+x mu
+mu typically vary with frequency this is called a
+dispersive medium dispersive media different spectral bands have
+different propagation characteristics and an arbitrary wave changes
+shape as it travels through medium
+history discovery
+see also history electromagnetic theory timeline
+electromagnetism and classical optics and radiation § discovery
+electromagnetic radiation wavelengths other than those visible
+light were discovered early th century discovery
+infrared radiation is ascribed to astronomer william herschel who
+published his results before royal society london
+herschel used a glass prism to refract light from sun and detected
+invisible rays that caused heating beyond red part spectrum
+through an increase temperature recorded with a thermometer
+these calorific rays were later termed infrared
+german physicist johann wilhelm ritter discovered ultraviolet
+an experiment similar to herschel s using sunlight and a glass
+prism ritter noted that invisible rays near violet edge a solar
+spectrum dispersed by a triangular prism darkened silver chloride
+preparations more quickly than did nearby violet light ritter s
+experiments were an early precursor to what would become photography
+ritter noted that ultraviolet rays which at first were called
+chemical rays were capable causing chemical reactions
+px james clerk maxwell sitting jpg james clerk maxwell
+james clerk maxwell developed equations for
+electromagnetic field which suggested that waves field would
+travel with a speed that was very close to known speed light
+maxwell therefore suggested that visible light as well as invisible
+infrared and ultraviolet rays by inference all consisted
+propagating disturbances or radiation electromagnetic field
+radio waves were first produced deliberately by heinrich hertz
+using electrical circuits calculated to produce oscillations at a much
+lower frequency than that visible light following recipes for
+producing oscillating charges and currents suggested by maxwell s
+equations hertz also developed ways to detect these waves and
+produced and characterized what were later termed radio waves and
+microwaves
+wilhelm röntgen discovered and named x rays after experimenting with
+high voltages applied to an evacuated tube on november he
+noticed a fluorescence on a nearby plate coated glass one month
+he discovered x rays main properties
+last portion em spectrum to be discovered was associated
+with radioactivity henri becquerel found that uranium salts caused
+fogging an unexposed photographic plate through a covering paper
+a manner similar to x rays and marie curie discovered that only
+certain elements gave off these rays energy soon discovering
+intense radiation radium radiation from pitchblende was
+differentiated into alpha rays alpha particles and beta rays beta
+particles by ernest rutherford through simple experimentation
+but these proved to be charged particulate types radiation however
+french scientist paul villard discovered a third neutrally
+charged and especially penetrating type radiation from radium and
+after he described it rutherford realized it must be yet a third type
+radiation which rutherford named gamma rays
+british physicist william henry bragg demonstrated that gamma
+rays are electromagnetic radiation not particles and
+rutherford and edward andrade measured their wavelengths finding that
+they were similar to x rays but with shorter wavelengths and higher
+frequency although a cross over between x and gamma rays makes it
+possible to have x rays with a higher energy and hence shorter
+wavelength than gamma rays and vice versa origin ray
+differentiates them gamma rays tend to be natural phenomena
+originating from unstable nucleus an atom and x rays are
+electrically generated and hence man made unless they are as a result
+bremsstrahlung x radiation caused by interaction fast moving
+particles such as beta particles colliding with certain materials
+usually higher atomic numbers
+electromagnetic spectrum
+main article electromagnetic spectrum
+px em spectrum updated png electromagnetic spectrum with
+visible light highlighted bottom graph visible spectrum shows
+wavelength units nanometers nm px light spectrum png
+legend
+gamma rays
+hx hard x rays
+sx soft x rays
+euv extreme ultraviolet
+nuv near ultraviolet
+visible light colored bands
+nir near infrared
+mir mid infrared
+fir far infrared
+ehf extremely high frequency microwaves
+shf super high frequency microwaves
+uhf ultrahigh frequency radio waves
+vhf very high frequency radio
+hf high frequency radio
+mf medium frequency radio
+lf low frequency radio
+vlf very low frequency radio
+vf voice frequency
+ulf ultra low frequency radio
+slf super low frequency radio
+elf extremely low frequency radio
+em radiation designation radiation excludes static electric and
+magnetic and near fields is classified by wavelength into radio
+microwave infrared visible ultraviolet x rays and gamma rays
+arbitrary electromagnetic waves can be expressed by fourier analysis
+terms sinusoidal waves monochromatic radiation which turn can
+each be classified into these regions emr spectrum
+for certain classes em waves waveform is most usefully treated
+as random and then spectral analysis must be done by slightly
+different mathematical techniques appropriate to random or stochastic
+processes such cases individual frequency components are
+represented terms their power content and phase information
+is not preserved such a representation is called power spectral
+density random process random electromagnetic radiation
+requiring this kind analysis is for example encountered
+interior stars and certain other very wideband forms
+radiation such as zero point wave field electromagnetic
+vacuum
+behavior em radiation and its interaction with matter depends on
+its frequency and changes qualitatively as frequency changes
+lower frequencies have longer wavelengths and higher frequencies have
+shorter wavelengths and are associated with photons higher energy
+there is no fundamental limit known to these wavelengths or energies
+at either end spectrum although photons with energies near
+planck energy or exceeding it far too high to have ever been observed
+will require new physical theories to describe
+radio and microwave
+main articles radio wave and microwave
+electromagnetic radiation phenomena with wavelengths ranging from one
+meter to one millimeter are called microwaves with frequencies between
+mhz ghz and ghz when radio waves impinge upon a
+conductor they couple to conductor travel along it and induce an
+electric current on conductor surface by moving electrons
+conducting material correlated bunches charge at radio and
+microwave frequencies emr interacts with matter largely as a bulk
+collection charges which are spread out over large numbers
+affected atoms electrical conductors such induced bulk movement
+charges electric currents results absorption emr or else
+separations charges that cause generation new emr effective
+reflection emr an example is absorption or emission radio
+waves by antennas or absorption microwaves by water or other
+molecules with an electric dipole moment as for example inside a
+microwave oven these interactions produce either electric currents or
+heat or both
+infrared
+main article infrared
+like radio and microwave infrared ir is reflected by metals and
+also most emr well into ultraviolet range however unlike
+lower frequency radio and microwave radiation infrared emr commonly
+interacts with dipoles present single molecules which change as
+atoms vibrate at ends a single chemical bond it is consequently
+absorbed by a wide range substances causing them to increase
+temperature as vibrations dissipate as heat same process run
+reverse causes bulk substances to radiate infrared
+spontaneously see thermal radiation section below
+infrared radiation is divided into spectral subregions while different
+subdivision schemes exist new archival link needed
+spectrum is commonly divided as near infrared m
+short wavelength infrared m mid wavelength infrared m
+long wavelength infrared m and far infrared m
+some animals such as snakes have thermo sensitive membranes pit
+organs that can detect temperature differences allowing them to sense
+infrared radiation
+visible light
+main article light
+natural sources produce em radiation across spectrum em radiation
+with a wavelength between approximately nm and nm is directly
+detected by human eye and perceived as visible light other
+wavelengths especially nearby infrared longer than nm and
+ultraviolet shorter than nm are also sometimes referred to as
+light
+as frequency increases into visible range photons have enough
+energy to change bond structure some individual molecules it is
+not a coincidence that this happens visible range as
+mechanism vision involves change bonding a single
+molecule retinal which absorbs a single photon change retinal
+causes a change shape rhodopsin protein it is contained
+which starts biochemical process that causes retina
+human eye to sense light
+visible light is able to affect only a tiny percentage all
+molecules usually not a permanent or damaging way rather
+photon excites an electron which then emits another photon when
+returning to its original position this is source color
+produced by most dyes retinal is an exception when a photon is
+absorbed retinal permanently changes structure from cis to trans
+and requires a protein to convert it back i e reset it to be able to
+function as a light detector again
+photosynthesis becomes possible this range as well for same
+reason a single molecule chlorophyll is excited by a single photon
+plant tissues that conduct photosynthesis carotenoids act to quench
+electronically excited chlorophyll produced by visible light a
+process called non photochemical quenching to prevent reactions that
+would otherwise interfere with photosynthesis at high light levels
+limited evidence indicate that some reactive oxygen species are created
+by visible light skin and that these may have some
+photoaging same manner as ultraviolet a
+infrared microwaves and radio waves are known to damage molecules and
+biological tissue only by bulk heating not excitation from single
+photons radiation
+ultraviolet
+main article ultraviolet
+as frequency increases into ultraviolet photons now carry enough
+energy about three electron volts or more to excite certain doubly
+bonded molecules into permanent chemical rearrangement dna this
+causes lasting damage dna is also indirectly damaged by reactive
+oxygen species produced by ultraviolet a uva which has energy too
+low to damage dna directly this is why ultraviolet at all wavelengths
+can damage dna and is capable causing cancer and for uvb skin
+burns sunburn that are far worse than would be produced by simple
+heating temperature increase effects
+at higher end ultraviolet range energy photons
+becomes large enough to impart enough energy to electrons to cause them
+to be liberated from atom a process called photoionisation
+energy required for this is always larger than about electron volt
+ev corresponding with wavelengths smaller than nm some sources
+suggest a more realistic cutoff ev which is energy required
+to ionize water this high end ultraviolet spectrum with
+energies approximate ionization range is sometimes called
+extreme uv ionizing uv is strongly filtered by earth s
+atmosphere
+x rays and gamma rays
+main articles x rays and gamma rays
+electromagnetic radiation composed photons that carry
+minimum ionization energy or more which includes entire spectrum
+with shorter wavelengths is therefore termed ionizing radiation
+many other kinds ionizing radiation are made non em particles
+electromagnetic type ionizing radiation extends from extreme
+ultraviolet to all higher frequencies and shorter wavelengths which
+means that all x rays and gamma rays qualify these are capable
+most severe types molecular damage which can happen biology to
+any type biomolecule including mutation and cancer and often
+at great depths below skin since higher end x ray
+spectrum and all gamma ray spectrum penetrate matter
+atmosphere and magnetosphere
+main articles ozone layer shortwave radio skywave ionosphere
+atmospheric window and optical window
+px atmospheric electromagnetic opacity png rough plot
+earth s atmospheric absorption and scattering or opacity various
+wavelengths electromagnetic radiation
+most uv and x rays are blocked by absorption first from molecular
+nitrogen and then for wavelengths upper uv from
+electronic excitation dioxygen and finally ozone at mid range
+uv only sun s ultraviolet light reaches ground and
+almost all this is well transmitted
+visible light is well transmitted air a property known as an
+atmospheric window as it is not energetic enough to excite nitrogen
+oxygen or ozone but too energetic to excite molecular vibrational
+frequencies water vapor and carbon dioxide absorption bands
+infrared are due to modes vibrational excitation water vapor
+however at energies too low to excite water vapor atmosphere
+becomes transparent again allowing free transmission most microwave
+and radio waves
+finally at radio wavelengths longer than m or so about mhz
+air lower atmosphere remains transparent to radio but
+plasma certain layers ionosphere begins to interact with
+radio waves see skywave this property allows some longer wavelengths
+m or mhz to be reflected and results shortwave radio beyond
+line sight however certain ionospheric effects begin to block
+incoming radiowaves from space when their frequency is less than about
+mhz wavelength longer than about m
+thermal and electromagnetic radiation as a form heat
+main articles thermal radiation and planck s law
+basic structure matter involves charged particles bound
+together when electromagnetic radiation impinges on matter it causes
+charged particles to oscillate and gain energy ultimate fate
+this energy depends on context it could be immediately
+re radiated and appear as scattered reflected or transmitted
+radiation it may get dissipated into other microscopic motions within
+matter coming to thermal equilibrium and manifesting itself as
+thermal energy or even kinetic energy material with a few
+exceptions related to high energy photons such as fluorescence
+harmonic generation photochemical reactions photovoltaic effect
+for ionizing radiations at far ultraviolet x ray and gamma
+radiation absorbed electromagnetic radiation simply deposits its
+energy by heating material this happens for infrared microwave
+and radio wave radiation
+intense radio waves can thermally burn living tissue and can cook food
+addition to infrared lasers sufficiently intense visible and
+ultraviolet lasers can easily set paper afire ionizing radiation
+creates high speed electrons a material and breaks chemical bonds
+but after these electrons collide many times with other atoms
+eventually most energy becomes thermal energy all a tiny
+fraction a second this caveat also applies to uv even though
+almost all it is not ionizing because uv can damage molecules due
+to electronic excitation which is far greater per unit energy than
+heating effects
+infrared radiation spectral distribution a black body is
+usually considered a form heat since it has an equivalent
+temperature and is associated with an entropy change per unit
+thermal energy however heat is a technical term physics and
+thermodynamics and is often confused with thermal energy any type
+electromagnetic energy can be transformed into thermal energy
+interaction with matter thus any electromagnetic radiation can heat
+sense increase thermal energy temperature a
+material when it is absorbed inverse or time reversed
+process absorption is thermal radiation much thermal energy
+matter consists random motion charged particles and this
+energy can be radiated away from matter resulting radiation
+may subsequently be absorbed by another piece matter with
+deposited energy heating material
+electromagnetic radiation an opaque cavity at thermal
+equilibrium is effectively a form thermal energy having maximum
+radiation entropy
+biological effects
+main articles electromagnetic radiation and health and wireless device
+radiation and health
+bioelectromagnetics is study interactions and effects em
+radiation on living organisms effects electromagnetic radiation
+upon living cells including those humans depends upon
+radiation s power and frequency for low frequency radiation radio
+waves to near ultraviolet best understood effects are those due to
+radiation power alone acting through heating when radiation is
+absorbed for these thermal effects frequency is important as it
+affects intensity radiation and penetration into
+organism for example microwaves penetrate better than infrared it
+is widely accepted that low frequency fields that are too weak to cause
+significant heating could not possibly have any biological effect
+some research suggests that weaker non thermal electromagnetic fields
+including weak elf magnetic fields although latter does not
+strictly qualify as em radiation and modulated rf and
+microwave fields can have biological effects though significance
+this is unclear
+all uv frequencies have been classed as group carcinogens by
+world health organization ultraviolet radiation from sun exposure is
+primary cause skin cancer most common type cancer among
+fair skinned people uv radiation damages dna and cells as well as
+causing mutations that block dna repair visible and infrared
+light may increase photoaging but sunscreens do not generally protect
+against these effects
+world health organization has classified radio frequency
+electromagnetic radiation as group b possibly carcinogenic this
+group contains possible carcinogens such as lead coffee and
+automobile exhaust
+use as a weapon
+see also directed energy weapons § microwave weapons
+heat ray is an emr that makes use microwave
+frequencies to create an unpleasant heating effect upper layer
+skin a publicly known heat ray weapon called active denial
+system was developed by us military as an experimental weapon to
+deny enemy access to an area a death ray is a theoretical
+weapon that delivers heat ray based on electromagnetic energy at levels
+that are capable injuring human tissue an inventor a death ray
+harry grindell matthews claimed to have lost sight his left eye
+while working on his death ray weapon based on a microwave magnetron
+from s a normal microwave oven creates a tissue damaging
+cooking effect inside oven at around kv m
+derivation from electromagnetic theory
+main article electromagnetic wave equation
+electromagnetic waves are predicted by classical laws
+electricity and magnetism known as maxwell s equations there are
+nontrivial solutions homogeneous maxwell s equations without
+charges or currents describing waves changing electric and
+magnetic fields beginning with maxwell s equations free space
+scriptlevel normal
+e
+x nabla cdot mathbf e
+nabla cdot mathbf e
+scriptlevel normal
+× e
+normal
+b
+normal t
+x nabla times mathbf e
+frac partial mathbf b partial t
+nabla times mathbf e frac partial mathbf b
+partial t
+scriptlevel normal
+b
+x nabla cdot mathbf b
+nabla cdot mathbf b
+scriptlevel normal
+× b
+normal
+e
+normal t
+x nabla times mathbf b
+mu varepsilon frac partial mathbf e partial
+t
+nabla times mathbf b mu varepsilon
+frac partial mathbf e partial t
+where
+scriptlevel
+e
+x mathbf e
+mathbf e and
+scriptlevel
+b
+x mathbf b
+mathbf b are electric field measured
+v m or n c and magnetic field measured t or wb m
+respectively
+scriptlevel
+normal
+x
+x nabla cdot mathbf
+x
+nabla cdot mathbf x yields divergence and
+scriptlevel
+normal ×
+x
+x nabla times mathbf
+x
+nabla times mathbf x curl a vector
+field
+scriptlevel
+x
+x mathbf x
+mathbf x
+scriptlevel
+normal
+b
+normal t
+x frac partial
+mathbf b partial t
+frac partial mathbf b partial t and
+scriptlevel
+normal
+e
+normal t
+x frac partial
+mathbf e partial t
+frac partial mathbf e partial t are
+partial derivatives rate change time with location fixed
+magnetic and electric field
+scriptlevel
+x mu
+mu is permeability a vacuum
+× h m and
+scriptlevel
+x
+varepsilon
+varepsilon is permittivity a vacuum
+× f m
+besides trivial solution
+scriptlevel
+e
+b
+x mathbf e mathbf b
+mathbf
+mathbf e mathbf b mathbf useful
+solutions can be derived with following vector identity valid for
+all vectors
+scriptlevel
+a
+x mathbf a
+mathbf a some vector field
+scriptlevel normal
+× normal
+× a
+normal
+normal
+a
+normal
+a
+x nabla times left nabla
+times mathbf a right nabla left nabla cdot mathbf a
+right nabla mathbf a
+nabla times left nabla times mathbf a
+right nabla left nabla cdot mathbf a right nabla
+mathbf a taking curl second maxwell s equation
+yields
+scriptlevel normal
+× normal
+× e
+normal ×
+normal
+b
+normal t
+x nabla times left nabla
+times mathbf e right nabla times left frac partial
+mathbf b partial t right
+nabla times left nabla times mathbf e
+right nabla times left frac partial mathbf b partial
+t right
+evaluating left hand side with above identity and
+simplifying using yields
+scriptlevel normal
+× normal
+× e
+normal
+normal
+e
+normal
+e
+normal
+e
+x nabla times left nabla
+times mathbf e right nabla left nabla cdot mathbf e
+right nabla mathbf e nabla mathbf e
+nabla times left nabla times mathbf e
+right nabla left nabla cdot mathbf e right nabla
+mathbf e nabla mathbf e
+evaluating right hand side by exchanging sequence
+derivatives and inserting fourth maxwell s equation yields
+scriptlevel normal
+×
+normal
+b
+normal t
+normal
+normal t
+normal ×
+b
+normal
+e
+normal t
+x nabla times left frac
+partial mathbf b partial t right frac partial
+partial t left nabla times mathbf b right mu
+varepsilon frac partial mathbf e partial
+t
+nabla times left frac partial mathbf b
+partial t right frac partial partial t left nabla
+times mathbf b right mu varepsilon frac partial
+mathbf e partial t
+combining and again gives a vector valued differential
+equation for electric field solving homogeneous maxwell s
+equations
+scriptlevel
+normal
+e
+normal
+e
+normal t
+x nabla mathbf e mu
+varepsilon frac partial mathbf e partial
+t
+nabla mathbf e mu varepsilon frac
+partial mathbf e partial t
+taking curl fourth maxwell s equation results a
+similar differential equation for a magnetic field solving
+homogeneous maxwell s equations
+scriptlevel
+normal
+b
+normal
+b
+normal t
+x nabla mathbf b mu
+varepsilon frac partial mathbf b partial
+t
+nabla mathbf b mu varepsilon frac
+partial mathbf b partial t
+both differential equations have form general wave equation
+for waves propagating with speed
+scriptlevel c
+x c
+c where
+scriptlevel f
+x f
+f is a function time and location which gives
+amplitude wave at some time at a certain location
+scriptlevel
+normal
+f
+c
+normal
+f
+normal t
+x nabla f frac
+c frac partial f partial t
+nabla f frac c frac partial
+f partial t this is also written as
+scriptlevel f
+x box f
+box f where
+scriptlevel
+x box
+box denotes so called d alembert operator which
+cartesian coordinates is given as
+scriptlevel
+normal
+c
+normal
+normal
+t
+normal
+normal x
+normal
+normal
+y
+normal
+normal z
+c
+normal
+normal
+t
+x box nabla frac
+c frac partial partial t frac
+partial partial x frac partial partial
+y frac partial partial z frac
+c frac partial partial t
+box nabla frac c frac
+partial partial t frac partial partial
+x frac partial partial y frac partial
+partial z frac c frac partial
+partial t
+comparing terms for speed propagation yields case
+electric and magnetic fields
+scriptlevel c
+x c frac sqrt mu
+varepsilon
+c frac sqrt mu varepsilon
+this is speed light vacuum thus maxwell s equations connect
+vacuum permittivity
+scriptlevel
+x varepsilon
+varepsilon vacuum permeability
+scriptlevel
+x mu
+mu and speed light c via above
+equation this relationship had been discovered by wilhelm eduard weber
+and rudolf kohlrausch prior to development maxwell s
+electrodynamics however maxwell was first to produce a field
+theory consistent with waves traveling at speed light
+these are only two equations versus original four so more
+information pertains to these waves hidden within maxwell s equations
+a generic vector wave for electric field has form
+scriptlevel
+e
+e
+f
+k
+stretchy
+x
+c
+t
+x mathbf
+e mathbf e f left hat mathbf k cdot mathbf x
+c t right
+mathbf e mathbf e f left hat mathbf k
+cdot mathbf x c t right here
+scriptlevel
+e
+x mathbf e
+mathbf e is a constant vector
+scriptlevel f
+x f
+f is any second differentiable function
+scriptlevel
+k stretchy
+x hat mathbf k
+hat mathbf k is a unit vector direction
+propagation and
+scriptlevel
+x
+x mathbf x
+mathbf x is a position vector
+scriptlevel f
+k
+stretchy
+x
+c
+t
+x
+f left hat mathbf k cdot mathbf x
+c t right
+f left hat mathbf k cdot mathbf x
+c t right is a generic solution to wave equation other
+words
+scriptlevel
+normal
+f
+k stretchy
+x c
+t
+c
+normal
+normal
+t
+f
+k stretchy
+x c
+t
+x nabla f left hat
+mathbf k cdot mathbf x c t right frac
+c frac partial partial t f left hat
+mathbf k cdot mathbf x c t right
+nabla f left hat mathbf k cdot mathbf
+x c t right frac c frac partial
+partial t f left hat mathbf k cdot mathbf x
+c t right for a generic wave traveling
+scriptlevel
+k stretchy
+x hat mathbf k
+hat mathbf k direction
+from first maxwell s equations we get
+scriptlevel normal
+e
+k stretchy
+e
+f
+k
+stretchy
+x
+c
+t
+x nabla cdot mathbf e
+hat mathbf k cdot mathbf e f left hat mathbf k
+cdot mathbf x c t right
+nabla cdot mathbf e hat mathbf k cdot
+mathbf e f left hat mathbf k cdot mathbf x
+c t right thus
+scriptlevel
+e
+k
+stretchy
+x mathbf e cdot hat
+mathbf k
+mathbf e cdot hat mathbf k which implies
+that electric field is orthogonal to direction wave
+propagates second maxwell s equations yields magnetic
+field namely
+scriptlevel normal
+× e
+k stretchy
+×
+e
+f
+k
+stretchy
+x
+c
+t
+normal
+b
+normal t
+x nabla times mathbf e
+hat mathbf k times mathbf e f left hat mathbf
+k cdot mathbf x c t right frac partial mathbf b
+partial t
+nabla times mathbf e hat mathbf k times
+mathbf e f left hat mathbf k cdot mathbf x
+c t right frac partial mathbf b partial t thus
+scriptlevel
+b
+c
+k
+stretchy ×
+e
+x mathbf b frac
+c hat mathbf k times mathbf e
+mathbf b frac c hat mathbf k
+times mathbf e remaining equations will be satisfied by
+this choice
+scriptlevel
+e
+b
+x mathbf e mathbf b
+mathbf e mathbf b
+electric and magnetic field waves far field travel at
+speed light they have a special restricted orientation and
+proportional magnitudes
+scriptlevel e
+c
+b
+x
+e c b
+e c b which can be seen immediately from
+poynting vector electric field magnetic field and direction
+wave propagation are all orthogonal and wave propagates
+same direction as
+scriptlevel
+e ×
+b
+x mathbf e times mathbf
+b
+mathbf e times mathbf b also e and b
+far fields free space which as wave solutions depend primarily on
+these two maxwell s equations to remain phase with each other this
+is guaranteed since generic wave solution is first order both
+space and time and curl operator on one side these equations
+results first order spatial derivatives wave solution while
+time derivative on other side equations which gives
+other field is first order time resulting same phase shift
+for both fields each mathematical operation
+from viewpoint an electromagnetic wave traveling forward
+electric field might be oscillating up and down while magnetic
+field oscillates right and left this picture can be rotated with
+electric field oscillating right and left and magnetic field
+oscillating down and up this is a different solution that is traveling
+same direction this arbitrariness orientation with
+respect to propagation direction is known as polarization on a quantum
+level it is described as photon polarization direction
+polarization is defined as direction electric field
+more general forms second order wave equations given above are
+available allowing for both non vacuum propagation media and sources
+many competing derivations exist all with varying levels
+approximation and intended applications one very general example is a
+form electric field equation which was factorized into a
+pair explicitly directional wave equations and then efficiently
+reduced into a single uni directional wave equation by means a
+simple slow evolution approximation
+see also
+antenna measurement
+bioelectromagnetics
+bolometer
+conelrad
+electromagnetic pulse
+electromagnetic radiation and health
+evanescent wave coupling
+finite difference time domain method
+gravitational wave
+helicon
+impedance free space
+radiation reaction
+health effects sunlight exposure
+sinusoidal plane wave solutions electromagnetic wave
+equation
+references
+purcell and morin harvard university electricity and
+magnetism rd ed cambridge university press new york p
+isbn these waves require no medium to
+support their propagation traveling electromagnetic waves carry
+energy
+what is electromagnetic radiation thoughtco from
+original on september retrieved september
+browne michael physics for engineering and science
+p nd ed mcgraw hill schaum new york
+isbn p for historical reasons different
+portions em spectrum are given different names although
+they are all same kind thing visible light constitutes a
+narrow range spectrum from wavelengths about
+nm p an electromagnetic wave carries forward momentum
+if radiation is absorbed by a surface momentum drops to
+zero and a force is exerted on surface thus radiation
+pressure an electromagnetic wave is formula
+dual nature light as reflected nobel archives
+nobelprize org from original on july
+retrieved september
+electromagnetic spectrum facts information pictures
+encyclopedia com articles about electromagnetic spectrum
+encyclopedia com from original on june
+retrieved september
+tipler paul a physics for scientists and engineers
+vol mechanics oscillations and waves thermodynamics
+macmillan p isbn
+cloude shane an introduction to electromagnetic wave
+propagation and antennas springer science and business media
+pp isbn
+bettini alessandro a course classical physics vol
+waves and light springer pp isbn
+what is electromagnetic radiation live science from
+original on september retrieved september
+michigan technic um libraries
+anatomy an electromagnetic wave nasa science august
+retrieved march
+purcell p any number electromagnetic waves can propagate
+through same region without affecting one another field e
+at a space time point is vector sum electric fields
+individual waves and same goes for b
+pv performance modeling collaborative plane array poa
+irradiance from original on january
+retrieved january
+chen szu yuan maksimchuk anatoly umstadter donald
+december experimental observation relativistic nonlinear
+thomson scattering nature
+arxiv physics bibcode natur c
+doi s cid
+crowther james arnold life and discoveries
+michael faraday society for promoting christian knowledge
+pp retrieved june
+prisms spectroscopy spectroscopy
+september from original on january
+retrieved january
+carmichael h j einstein and photoelectric effect pdf
+quantum optics theory group university auckland from
+original pdf on june retrieved december
+date galileo phys virginia edu from original on
+may retrieved september
+physics waves www jcsu jesus cam ac uk from
+original on september retrieved september
+wave behaviors science mission directorate science nasa gov
+august from original on may
+retrieved september
+thorn j j neel m s donato v w bergreen g s
+davies r e beck m observing quantum behavior
+light an undergraduate laboratory pdf american journal
+physics bibcode amjph t
+doi pdf from original on
+february
+stratton julius adams chapter v plane waves
+unbounded isotropic media electromagnetic theory mcgraw hill
+book company new york ny isbn
+electromagnetic radiation cosmos astronomy swin edu au
+from original on march retrieved march
+she alan capasso federico may parallel
+polarization state generation scientific reports
+arxiv bibcode natsr s
+doi srep pmc pmid
+elert glenn electromagnetic waves physics hypertextbook
+from original on april retrieved june
+impact james clerk maxwell s work
+clerkmaxwellfoundation org from original on
+september retrieved september
+maxwell s equations and secrets nature plus maths org
+december from original on may
+retrieved may
+suárez Álvaro martí arturo c zuza kristina guisasola
+jenaro august electromagnetic field presented
+introductory physics textbooks and consequences for its teaching
+physical review physics education research
+arxiv bibcode prper b s
+doi physrevphyseducres hdl
+electromagnetic radiation spectrum examples types
+britannica www britannica com september from
+original on may retrieved october
+capps charles august near field or far field
+pdf designfeature
+liénard wiechert potentials physics libretexts
+december from original on july
+retrieved july
+paul m s monk physical chemistry john wiley and sons
+p isbn
+weinberg s quantum theory fields vol
+cambridge university press pp isbn
+commins eugene quantum mechanics an experimentalist s
+approach cambridge university press isbn
+ling samuel j sanny jeff moebs william compton
+effect university physics volume openstax
+haneef deena t kochunni jazir differences between
+fluorescence and phosphorescence from original on
+september retrieved september cite web cs maint
+multiple names authors list link
+meredith w j massey j b october fundamental
+physics radiology butterworth heinemann
+browne p radiation is emitted or absorbed only when
+electron jumps from one orbit to other and frequency
+radiation depends only upon on energies electron
+initial and final orbits
+hunter tim b dobek gerald o july nebulae an
+overview barnard objects then and now springer cham
+bibcode botn book h doi
+longair malcolm s galaxy formation astronomy and
+astrophysics library berlin heidelberg springer berlin
+heidelberg bibcode gafo book l
+doi isbn
+a b c griffiths david j introduction to
+electrodynamics vol cambridge univ press isbn
+herschel william january experiments on
+refrangibility invisible rays sun by william
+herschel ll d f r s philosophical transactions royal
+society london bibcode rspt h
+doi rstl jstor
+holzer aton m elmets craig a other end
+rainbow infrared and skin journal investigative
+dermatology doi jid
+issn x pmc pmid
+ultraviolet cosmos astronomy swin edu au from
+original on march retrieved september
+davidson michael w march pioneers optics johann
+wilhelm ritter and ernest rutherford microscopy today
+doi s issn
+s cid
+a b c jeans james growth physical science
+cambridge university press
+henderson roy wavelength considerations instituts für
+umform und hochleistungs from original on october
+retrieved october
+near mid and far infrared nasa ipac from
+original on april retrieved april
+byrnes james unexploded ordnance detection and
+mitigation springer pp bibcode uodm book b
+gracheva elena o ingolia nicholas t kelly yvonne m
+cordero morales julio f hollopeter gunther chesler alexander
+t sánchez elda e perez john c weissman jonathan s
+julius david molecular basis infrared detection by
+snakes nature
+bibcode natur g doi nature
+issn pmc pmid
+liebel f kaur s ruvolo e kollias n southall m d
+irradiation skin with visible light induces reactive
+oxygen species and matrix degrading enzymes journal
+investigative dermatology
+doi jid pmid
+solar and ultraviolet radiation radiation international
+agency for research on cancer retrieved march
+a b baeyens ans abrantes ana margarida ahire vidhula
+ainsbury elizabeth a baatout sarah baselet bjorn botelho
+maria filomena boterberg tom chevalier francois
+baatout sarah ed basic concepts radiation biology
+radiobiology textbook cham springer international publishing
+pp doi
+hdl lu hb gswbnsnd yg vwsgb ty isbn
+retrieved march citation cs maint work parameter with
+isbn link
+tao jiasheng radiation source and optical atmospheric
+transmission space optical remote sensing advances optics and
+optoelectronics springer singapore pp
+doi isbn
+chaplin martin may infared spectroscopy pdf
+p water lsbu ac uk from original pdf on march
+retrieved april
+dabas r s july ionosphere and its influence on radio
+communications resonance doi bf
+issn s cid
+a b candu textbook nuceng ca from original on
+april retrieved march
+blackbody radiation docs kde org from original
+on august retrieved march
+thermodynamics part work heat internal energy and
+enthalpy www southeastern edu from original on
+march retrieved march
+planck s law pdf astro lu se from original
+pdf on november retrieved march
+a b binhi vladimir n magnetobiology underlying
+physical problems repiev a edelev m translators from
+russian san diego academic press pp
+isbn oclc
+delgado j m leal j monteagudo j l gracia m g
+embryological changes induced by weak extremely low
+frequency electromagnetic fields journal anatomy pt
+pmc pmid
+harland j d liburdy r p environmental magnetic
+fields inhibit antiproliferative action tamoxifen and
+melatonin a human breast cancer cell line bioelectromagnetics
+doi sici x aid bem co
+pmid from original on december
+retrieved june
+aalto s haarala c brück a sipilä h hämäläinen h
+rinne j o mobile phone affects cerebral blood flow
+humans journal cerebral blood flow metabolism
+doi sj jcbfm pmid
+cleary s f liu l m merchant r e vitro
+lymphocyte proliferation induced by radio frequency electromagnetic
+radiation under isothermal conditions bioelectromagnetics
+doi bem pmid
+narayanan dl saladi rn fox jl september ultraviolet
+radiation and skin cancer international journal dermatology
+doi j x
+pmid s cid
+saladi rn persaud an january causes skin
+cancer a comprehensive review drugs today
+doi dot pmid
+guan linna l lim henry w mohammad tasneem f november
+sunscreens and photoaging a review current literature
+american journal clinical dermatology
+doi s issn pmc
+iarc classifies radiofrequency electromagnetic fields as possibly
+carcinogenic to humans june at wayback machine
+world health organization may
+trouble with cell phone radiation standard cbs news
+from original on may
+dvids news new marine corps non lethal weapon heats things
+up dvids from original on november
+retrieved november
+effects on human body extremely low frequency rf radio
+frequency radio spectrum scribd from original on
+october retrieved march
+kinsler paul optical pulse propagation with minimal
+approximations phys rev a arxiv
+bibcode phrva a k doi physreva
+light electromagnetic waves electromagnetic spectrum and photons
+article khan academy retrieved may
+further reading
+hecht eugene optics th ed pearson education
+serway raymond a jewett john w physics for scientists
+and engineers th ed brooks cole isbn
+tipler paul physics for scientists and engineers
+electricity magnetism light and elementary modern physics th ed
+w h freeman isbn
+reitz john milford frederick christy robert foundations
+electromagnetic theory th ed addison wesley
+jackson john david classical electrodynamics rd ed john
+wiley sons isbn
+taflove allen hagness susan c computational
+electrodynamics finite difference time domain method rd ed
+artech house publishers isbn
+maxwell j clerk a dynamical theory electromagnetic
+field philosophical transactions royal society london
+issn maxwell s original paper
+external links
+wikisource logo
+english wikisource has original text related to this article
+pictured electro magnetic waves
+library resources about
+electromagnetic radiation
+resources your library
+feynman lectures on physics vol i ch electromagnetic
+radiation
+wikimedia commons logo media related to electromagnetic radiation
+at wikimedia commons
+electromagnetic waves from maxwell s equations on project physnet
+fundamental interactions physics
+physical forces
+strong interaction
+fundamental
+residual
+electroweak interaction
+weak interaction
+electromagnetism
+gravitation
+hypothetical forces
+fifth force
+quintessence
+glossary physics
+particle physics
+philosophy physics
+universe
+radiation physics and health
+main articles
+non ionizing radiation
+acoustic radiation force
+infrared
+light
+starlight
+sunlight
+microwave
+radio waves
+ultraviolet
+ionizing radiation
+radioactive decay
+cluster decay
+background radiation
+alpha particle
+beta particle
+gamma ray
+cosmic ray
+neutron radiation
+nuclear fission
+nuclear fusion
+nuclear reactors
+nuclear weapons
+particle accelerators
+radioactive materials
+x ray
+earth s energy budget
+electromagnetic radiation
+synchrotron radiation
+thermal radiation
+black body radiation
+particle radiation
+gravitational radiation
+cosmic background radiation
+cherenkov radiation
+askaryan radiation
+bremsstrahlung
+unruh radiation
+dark radiation
+radiation exposure
+radiation
+and health
+radiation syndrome
+acute
+chronic
+health physics
+dosimetry
+electromagnetic radiation and health
+laser safety
+lasers and aviation safety
+medical radiography
+radiation protection
+radiation therapy
+radiation damage
+radioactivity life sciences
+radioactive contamination
+radiobiology
+biological dose units and quantities
+wireless device radiation and health
+wireless electronic devices and health
+radiation heat transfer
+linear energy transfer
+radiation incidents
+list civilian radiation accidents
+costa rica accident
+goiânia accident
+moroccan accident
+zaragoza accident
+related articles
+half life
+nuclear physics
+radioactive source
+radiation hardening
+see also categories radiation effects radioactivity radiobiology
+and radiation protection
+space
+biology
+human
+human body
+hygiene
+locomotion
+medicine
+neuroscience
+psychology
+psychological and sociological effects
+sleep
+human
+animals
+cockroaches
+frogs
+fruit flies
+primates
+tardigrades
+tortoises
+extraterrestrial life
+microorganisms
+plants
+astrobotany
+sts earth orbit
+environment
+climate
+corrosion
+debris
+magnetosphere
+weather
+weathering
+society
+advertising
+alcohol
+archaeology
+earth
+items space
+burial
+colonization
+economy
+mining
+trade
+ethics
+exploration
+military
+music
+religion
+christmas
+selfies
+tourism
+voting
+women
+technology
+human
+spaceflight
+accidents
+architecture
+farming
+carbonated drinks
+toilets
+writing
+other
+technologies
+logistics
+manufacturing
+mining
+power
+batteries
+nuclear
+solar
+o for earth
+o for spacecraft
+radar
+telescopes
+weapons
+outer space portal
+authority control databases edit this at wikidata
+international
+national
+united states
+czech republic
+israel
+other
+encyclopedia modern ukraine
+yale lux
+portal
+icon physics
+retrieved from
+https en wikipedia org w index php title electromagnetic radiation o
+categories
+electromagnetic radiation
+heinrich hertz
+radiation
+hidden categories
+cs maint multiple names authors list
+cs maint work parameter with isbn
+webarchive template wayback links
+articles with short description
+short description is different from wikidata
+use dmy dates from march
+articles linking to deprecated archival repositories
+wikisource templates with missing id
+commons category link from wikidata
+this page was last edited on june at utc
+text is available under creative commons attribution sharealike
+license additional terms may apply by using this site you
+agree to terms use and privacy policy wikipedia® is a
+registered trademark wikimedia foundation inc a
+non profit organization
+privacy policy
+about wikipedia
+disclaimers
+contact wikipedia
+legal safety contacts
+code conduct
+developers
+statistics
+cookie statement
+mobile view
+wikimedia foundation
+powered by mediawiki
+button search
+button search
+toggle table contents
+electromagnetic radiation
+button languages add topic

@@ -1,0 +1,342 @@
+          + 3.2 One-way speed of light
+     * 4 Faster-than-light observations and experiments
+     * 5 Propagation of light
+       (BUTTON) Toggle Propagation of light subsection
+          + 6.3 Spaceflight and astronomy
+          + 7.2 Time of flight techniques
+Speed of light
+   "Lightspeed" redirects here. For other uses, see Speed of light
+   (disambiguation) and Lightspeed (disambiguation).
+   CAPTION: Speed of light
+   Due to its finite speed, sunlight takes 8 minutes and 10 to 27 seconds
+   Approximate light signal travel times
+   one light-year 1.0 year
+   The speed of light in vacuum, often called simply the speed of light
+   light in vacuum during a time interval of
+   All forms of electromagnetic radiation, including visible light, travel
+   perturbations, such as gravitational waves. The speed of light is the
+   The speed of light is the upper limit for the speed at which
+   light has noticeable effects. Much starlight viewed on Earth is from
+   speed of light fixes the ultimate minimum communication delay. The
+   speed of light can be used in time of flight measurements to measure
+   Ole Rømer first demonstrated that light does not travel instantaneously
+   James Clerk Maxwell proposed that light was an electromagnetic wave
+   that the speed of light c with respect to any inertial frame of
+   reference is a constant and is independent of the motion of the light
+   relevance outside of the context of light and electromagnetism. In the
+   In some cases, objects or waves may appear to travel faster than light.
+   light beyond a certain boundary.
+   The speed at which light propagates through transparent materials, such
+   slower than c. The ratio between c and the speed v at which light
+   ). For example, for visible light, the refractive index of glass is
+   typically around 1.5, meaning that light in glass travels at ⁠c/1.5⁠ ≈
+   light is about 1.0003, so the speed of light in air is about 90 km/s
+   The speed of light in vacuum is usually denoted by a lowercase c. The
+   Euler and others, but this velocity was not specifically for light;
+   shown to equal √2 times the speed of light in vacuum. Historically, the
+   symbol V was used as an alternative symbol for the speed of light,
+   become the standard symbol for the speed of light.^[12]^[10]
+   c[0] for the speed of light in vacuum.^[13] This subscripted notation,
+   article uses c exclusively for the speed of light in vacuum.
+   Further information: Metre § Speed of light definition
+   exactly the distance that light travels in vacuum in
+   speed of light was measured experimentally. The particular value
+   adopted for the fixed speed of light in the current unit system was
+   the speed of light is approximately 186282 miles per second. This value
+   not affect the result. Its unit of light-second per second is still
+     * Speed of light
+     * Light cone
+   The speed at which light waves propagate in vacuum is independent both
+   of the observer. This invariance of the speed of light was postulated
+   including light, must travel in vacuum.^[26]
+   speed of light (v = 0.866c). Similarly, a time dilation factor of γ =
+   10 occurs at 99.5% the speed of light (v = 0.995c).
+   unrelated to light. For example, general relativity predicts that c is
+   light is constant and equal to c, but the speed of light can differ
+   various theories that the speed of light may have changed over
+   It is generally assumed that the two-way speed of light is isotropic,
+   accelerate an object with mass to the speed of light.^[40]^: 13.3  The
+   speed of light is the upper limit for the speeds of objects with
+   information cannot travel faster than the speed of light.^[41]^[42]
+   in the red frame, the x′-axis is slightly skewed upwards, and the
+   ct′-axis slightly skewed rightwards, relative to the green axes; in the
+One-way speed of light
+   Main article: One-way speed of light
+   light (for example, from a source to a mirror and back again) is
+   speed of light (for example, from a source to a distant detector)
+   for the clocks, the one-way speed of light becomes equal to the two-way
+   speed of light by definition.^[51]^[47]
+Faster-than-light observations and experiments
+   See also: Faster-than-light and Superluminal motion
+   do not. For example, as is discussed in the propagation of light in a
+   light can move faster than c, although the initial movement of the spot
+   is delayed because of the time it takes light to get to the distant
+   moving are the laser and its emitted light, which travels at the
+   energy, or information travel faster than light.^[55]
+   faster-than-light speeds is called the Hartman effect: under certain
+   large gap faster than light. However, no information can be sent using
+   speed of light: the apparent superluminal motion is a projection effect
+   caused by objects moving near the speed of light and approaching Earth
+   at a small angle to the line of sight: since the light which was
+   time between the instants at which the light rays were emitted.^[61]
+   light turned out to be due to experimental error.^[62]^[63]
+   greater than the speed of light.^[64] These recession rates, defined as
+   velocities in a relativistic sense. Faster-than-light cosmological
+Propagation of light
+   In classical physics, light is described as a type of electromagnetic
+   electromagnetic waves (such as light) propagate in vacuum is related to
+   the theory of quantum electrodynamics (QED). In this theory, light is
+   speed of light in vacuum.^[26]
+   of the speed of light in vacuum.^[33] No variation of the speed of
+   light with frequency has been observed in rigorous testing, putting
+   Another reason for the speed of light to vary with its frequency would
+   In a medium, light usually does not propagate at a speed equal to c;
+   further, different types of light wave will travel at different speeds.
+   (a pulse of light) travels at a different speed. The overall envelope
+   The phase velocity is important in determining how a light wave travels
+   refractive index of a material may depend on the light's frequency,
+   indexes of around 1.3, 1.5 and 2.4, respectively, for visible light.
+   the effective speed of light may be only a few metres per second.
+   extreme example of light "slowing" in matter, two independent teams of
+   physicists claimed to bring light to a "complete standstill" by passing
+   popular description of light being "stopped" in these experiments
+   refers only to light being stored in the excited states of atoms, then
+   light. This type of behaviour is generally microscopically true of all
+   transparent media which "slow" the speed of light.^[75]
+   have an exceptionally low (or even zero) group velocity for light
+   waves, a phenomenon called slow light.^[80] The opposite, group
+   c. It is impossible to transmit information with a light pulse any
+   the phase velocity of light in that medium (but still slower than c).
+   The speed of light is of relevance to telecommunications: the one-way
+   on the finite speed of light, for example in distance measurements.
+   In computers, the speed of light imposes a limit on how quickly data
+   frequencies continue to increase, the speed of light may eventually
+   Acoustic representation of the speed of light: in the period between
+   beeps, light travels the circumference of Earth at the equator.
+   about 67 milliseconds. When light is traveling in optical fibre (a
+   because the speed of light is slower by about 35% in optical fibre with
+   the speed of light through air have over comparatively slower fibre
+Spaceflight and astronomy
+   light starts from the Earth and reaches the Moon in about a second and
+   a quarter. A beam of light is depicted travelling between the Earth and
+   the Moon in the time it takes a light pulse to move between them: 1.255
+   Receiving light and other signals from distant astronomical sources
+   light to travel to Earth from the faraway galaxies viewed in the Hubble
+   light, allows astronomers to infer the evolution of stars, of galaxies,
+   Astronomical distances are sometimes expressed in light-years,
+   especially in popular science publications and media.^[95] A light-year
+   is the distance light travels in one Julian year, around 9461 billion
+   light year is nearly 10 trillion kilometres or nearly 6 trillion miles.
+   4.2 light-years away.^[96]
+   transit time multiplied by the speed of light. A Global Positioning
+   from these distances calculates the receiver's position. Because light
+   measure directly the speed at which light waves propagate, which can be
+   frequency and wavelength of a light beam, with their product equalling
+   light in vacuum during a time interval of
+   1⁄299792458 of a second",^[100] fixing the value of the speed of light
+   accurate measurements of the speed of light yield an accurate
+   [500px-Io_eclipse_speed_of_light_measurement.svg.png] Measurement of
+   the speed of light from the time it takes Io to orbit Jupiter, using
+   Outer space is a convenient setting for measuring the speed of light
+   measures the time needed for light to traverse some reference distance
+   quantitative estimate of the speed of light in the year
+   months. The distance travelled by light from the planet (or its moon)
+   is caused by the difference in the time it takes light to traverse the
+   innermost major moon Io and deduced that light takes 22 minutes to
+   A star emits a light ray that hits the objective of a telescope. While
+   the light travels down the telescope to its eyepiece, the telescope
+   moves to the right. For the light to stay inside the telescope, the
+   appear at a different location to the right. Aberration of light: light
+   moving telescope due to the finite speed of light.
+   Another method is to use the aberration of light, discovered and
+   results from the vector addition of the velocity of light arriving from
+   diagram on the right). A moving observer thus sees the light coming
+   from a slightly different direction and consequently sees the source at
+   arcseconds)^[104] it is possible to express the speed of light in terms
+   the Earth. In 1729, Bradley used this method to derive that light
+   light 8 minutes 12 seconds to travel from the Sun to the Earth.^[103]
+   Historically the speed of light was used together with timing
+   the metre and likewise has the effect of fixing the speed of light to
+   light in metres per second).^[108]
+Time of flight techniques
+   [960px-Michelson_speed_of_light_measurement_1930.jpg] One of the last
+   and most accurate time of flight measurements, Michelson, Pease and
+   (1.6 km) long vacuum chamber which the light beam traversed 10 times.
+   It achieved accuracy of ±11 km/s.A light ray passes horizontally
+    1. Light source
+    3. Toothed wheel-breaker of the light beam
+   A method of measuring the speed of light is to measure the time needed
+   for light to travel to a mirror at a known distance and back. This is
+   The setup as used by Fizeau consists of a beam of light directed at a
+   on the way back, but at slightly higher or lower rates, the beam
+   wheel, and the rate of rotation, the speed of light can be
+   Because the mirror keeps rotating while the light travels to the
+   distant mirror and back, the light is reflected from the rotating
+   distance to the distant mirror the speed of light may be
+   light in air versus water, based on a suggestion by François
+   nanosecond, the speed of light can be directly measured by timing the
+   delay of a light pulse from a laser or an LED reflected from a mirror.
+   Another way to measure the speed of light is to independently measure
+   enabled a calculation of the speed of light.^[113]^[115]
+   electromagnetic radiation for determining the speed of light.^[119] A
+   coherent beam of light (e.g. from a laser), with a known frequency f,
+   the change in path length, the wavelength of the light λ can be
+   determined. The speed of light is then calculated using the equation c
+   for interferometry measurements of the speed of light.^[120]
+   be improved by using light with a shorter wavelength, but then it
+   becomes difficult to directly measure the frequency of the light.^[121]
+   light in vacuum with a fractional uncertainty of 3.5×10^−9.^[121]^[122]
+   Until the early modern period, it was not known whether light travelled
+   this until Rømer provided the first calculation of the speed of light.
+   light is constant regardless of one's frame of reference. Since then,
+   1729 James Bradley, aberration of light 301000000^[109] +0.40%
+   light^[131] and claimed that light has a finite speed.^[132] He
+   maintained that light was something in motion, and therefore must take
+   some time to travel. Aristotle argued, to the contrary, that "light is
+   where light is emitted from the eye, thus enabling sight. Based on that
+   theory, Heron of Alexandria argued that the speed of light must be
+   that light had no speed of travel. In 1021, Alhazen (Ibn al-Haytham)
+   accepted intromission theory, in which light moves from an object into
+   the eye.^[135] This led Alhazen to propose that light must have a
+   finite speed,^[133]^[136]^[137] and that the speed of light is
+   variable, decreasing in denser bodies.^[137]^[138] He argued that light
+   Rayhān al-Bīrūnī agreed that light has a finite speed, and observed
+   that the speed of light is much faster than the speed of sound.^[140]
+   In the 13th century, Roger Bacon argued that the speed of light in air
+   the possibility of light travelling at infinite speed in vacuum, but
+   light was infinite since empty space presents no obstacle to it. René
+   Descartes argued that if the speed of light were to be finite, the Sun,
+   eclipse. Although this argument fails when aberration of light is taken
+   concluded the speed of light was infinite. Descartes speculated that if
+   the speed of light were found to be finite, his whole system of
+   with light was faster in denser media.^[145]^[146] Pierre de Fermat
+   medium the slower light travelled. Fermat also argued in support of a
+   finite speed of light.^[147]
+   the speed of light by observing the delay between uncovering a lantern
+   whether light travel was instantaneous or not, but concluded that if it
+   limit of about 60 miles per second for the velocity of light.^[124] In
+   The first quantitative estimate of the speed of light was made in 1676
+   approaching Jupiter than when receding from it, he concluded that light
+   travels at a finite speed, and estimated that it takes light 22 minutes
+   obtain an estimate of speed of light of 220000 km/s, which is 27% lower
+   the finite speed of light and gave a value of "seven or eight minutes"
+   for the time taken for light to travel from the Sun to the Earth (the
+   determined that light must travel 10,210 times faster than the Earth in
+   that it would take light 8 minutes 12 seconds to travel from the Sun to
+   the speed of light based on time-of-flight measurements on Earth and
+   value was very close to the speed of light as measured directly by
+   speed of light as measured by Fizeau, he proposed that light is in fact
+   The wave properties of light were well known since Thomas Young. In the
+   19th century, physicists believed light was propagating in a medium
+   called aether (or ether). After Maxwell's theory unified light and
+   electric and magnetic waves, it was favored that both light and
+   reference for the propagation of light and therefore it should be
+   medium, by measuring the isotropy of the speed of light. Beginning in
+   experiments indicate that the two-way speed of light is isotropic (the
+   assumption of constant light speed. In 1904, he speculated that the
+   speed of light could be a limiting velocity in dynamics, provided that
+   In 1905 Einstein postulated from the outset that the speed of light in
+   which the speed of light in vacuum c featured as a fundamental
+   constant, also appearing in contexts unrelated to light. This made the
+   increasing the accuracy of measurements of the speed of light, first by
+   determined the speed of light in vacuum to be c = 299792456.2±1.1 m/s.
+   recommended using the value 299792458 m/s for the speed of light.^[165]
+   a given value for the speed of light are more reproducible than the
+   traveled by light in vacuum during a time interval of 1/299792458 of a
+   As a result of this definition, the value of the speed of light in
+   techniques that, prior to 1983, would have measured the speed of light
+   no longer affect the known value of the speed of light in SI units, but
+   accurately measuring the wavelength of krypton-86 and other light
+   speed of light. It proposed a new, but completely equivalent, wording
+   light in vacuum to be equal to exactly 299792458 when it is expressed
+     * Light-second
+    1. ^ "How long does it take for light from the Sun to reach Earth?".
+    2. ^ ^a ^b "2022 CODATA Value: speed of light in vacuum". The NIST
+    7. ^ Gibbs, Philip (1997). "How is the speed of light measured?". The
+   light?". Usenet Physics FAQ. University of California, Riverside.
+   2009. "The origins of the letter c being used for the speed of light
+   ISBN 978-0-7506-7123-1. "... if the speed of light is defined as a
+     "CODATA value: Speed of Light in Vacuum". The NIST reference on
+   the distance travelled by light in a standard second, giving a value
+   Light Constant?". Usenet Physics FAQ. University of California,
+     ^ Ellis, G. F. R.; Uzan, J.-P. (2005). "'c' is the speed of light,
+   light". The Theory of the Relativity of Motion (Reprint ed.).
+     Fearn, H. (May 2007). "Can light signals travel faster than c in
+     ^ ^a ^b ^c Gibbs, P. (1997). "Is Faster-Than-Light Travel or
+   correlations could be used for faster-than-light communication, but
+   light with frequency". Physical Review Letters. 82 (25): 4964–4966.
+     Füllekrug, M. (2004). "Probing the Speed of Light with Radio Waves at
+     ^ ^a ^b ^c Milonni, Peter W. (2004). Fast light, slow light and
+   left-handed light. CRC Press. pp. 25 ff. ISBN 978-0-7503-0926-4.
+   stop, restart light". Harvard University Gazette. Archived from the
+     ^ Milonni, P. W. (2004). Fast light, slow light and left-handed
+   light. CRC Press. p. 25. ISBN 978-0-7503-0926-4.
+   Hau, L. V.; Harris, S. E.; Dutton, Z.; Behroozi, C. H. (1999). "Light
+   halted light pulses" (PDF). Nature. 409 (6819): 490–493.
+   light in an atomic medium". Nature. 426 (6967): 638–641.
+     Dumé, B. (2003). "Switching light on and off". Physics World.
+   superluminal light propagation". Nature. 406 (6793): 277–279.
+     Whitehouse, D. (19 July 2000). "Beam Smashes Light Barrier". BBC
+     Gbur, Greg (26 February 2008). "Light breaking its own speed limit:
+   the speed of light". Nature. 518 (7538): 161–163.
+     ^ "Day 4: Lunar Orbits 7, 8 and 9". The Apollo 8 Flight Journal.
+   Spaceflight Missions". Human-Centered Aerospace Systems and
+   of the velocity of light (1676)". Isis. 31 (2): 327–379.
+   movement of light found by Mr. Römer of the Royal Academy of Sciences]
+   Translated in "A demonstration concerning the motion of light,
+   Motion of Light by M. Romer". The Philosophical Transactions of the
+     ^ ^a ^b ^c ^d ^e Gibbs, P. (1997). "How is the speed of light
+     ^ Fowler, M. "The Speed of Light". University of Virginia. Retrieved
+     ^ Hughes, Stephan (2012). Catchers of the Light: The Forgotten Lives
+   determination of the speed of light as a general physics laboratory
+   direct measurement of the speed of light". American Journal of Physics.
+     James, M. B.; Ormond, R. B.; Stasch, A. J. (1999). "Speed of light
+     ^ Stauffer, R. H. (April 1997). "Finding the Speed of Light with
+     ^ "BBC Look East at the speed of light". BBC Norfolk website.
+     ^ ^a ^b ^c Sullivan, D. B. (2001). "Speed of Light from Direct
+     ^ ^a ^b ^c Evenson, K. M.; et al. (1972). "Speed of Light from Direct
+   Light". Isis. 33 (1): 24. doi:10.1086/358523. S2CID 145400212.
+   of the velocity of light, and the reaction times", Perception, 38 (8):
+     ^ Michelson, A. A. (1927). "Measurement of the Velocity of Light
+     ^ Weiner, John; Nunes, Frederico (2013). Light-Matter Interaction:
+   Statistical Method and the Speed of Light". Statistical Science. 15
+     ^ Lauginie, P. (2004). Measuring Speed of Light: Why? Speed of what?
+   Speed of Light". Isis. 72 (3): 357–374 [367–374]. doi:10.1086/352787.
+   Infinite Velocity of Light and Huygens' Rejoinder". Archive for History
+     ^ Smith, A. Mark (1987). "Descartes's Theory of Light and Refraction:
+   of the Velocity of Light, and the Reaction Times". Perception. 38 (8):
+     ^ Guarnieri, M. (2015). "Two Millennia of Light: The Long Path to
+     ^ Watson, E. C. (1 September 1957). "On the Relations between Light
+   in our ability to measure c will not change the speed of light (which
+   light!"
+   "A Demonstration concerning the Motion of Light". Philosophical
+   of Light". Proceedings of the American Association for the Advancement
+   the Velocity of Light in a Partial Vacuum". Astrophysical Journal. 82
+     Newcomb, S. (1886). "The Velocity of Light". Nature. 34 (863): 29–32.
+   Wikiquote has quotations related to Speed of light.
+     * "Test Light Speed in Mile Long Vacuum Tube". Popular Science
+     * Speed of light in vacuum (National Institute of Standards and
+     * Data Gallery: Michelson Speed of Light (Univariate Location
+     * Light discussion on adding velocities
+     * Speed of Light (Sixty Symbols, University of Nottingham Department
+     * Speed of Light, BBC Radio 4 discussion (In Our Time, 30 November
+     * Speed of Light (Live-Counter – Illustrations)
+     * Speed of Light – animated demonstrations
+     * "The Velocity of Light", Albert A. Nicholson, Scientific American,
+          + light
+          + furthest flight
+          + greatest of a spaceflight
+     * Spaceflight records
+     * GW190521 (first-ever possible light from bh–bh merger)
+     * Travel with speed of light
+          + Light
+     * Furthest flight
+          + Spaceflight
+     * Spaceflight records
+     * Speed of light
+     * Light cone
+     * Speed of light
+     * Light cone
+   "https://en.wikipedia.org/w/index.php?title=Speed_of_light&oldid=135889
+     * Light
+   Speed of light

@@ -1,0 +1,794 @@
+wikipédia fr flux atom de wikipédia
+aller au contenu
+menu principal
+menu principal
+button déplacer vers la barre latérale button masquer
+navigation
+page d accueil
+portails thématiques
+article au hasard
+contact
+contribuer
+débuter sur wikipédia
+communauté
+pages spéciales
+modifications récentes
+wikipédia l encyclopédie libre
+rechercher
+button rechercher
+apparence
+faire un don
+créer un compte
+se connecter
+outils personnels
+faire un don
+créer un compte
+se connecter
+sommaire
+button déplacer vers la barre latérale button masquer
+début
+description
+approche géométrique loi de snell descartes
+button afficher masquer la sous section approche géométrique
+loi de snell descartes
+historique
+interprétation de l expérience du « crayon brisé »
+angle limite d incidence phénomène de réflexion totale
+construction de descartes
+généralisation des lois de la réflexion et de la réfraction
+approche ondulatoire principe de huygens fresnel
+button afficher masquer la sous section approche ondulatoire
+principe de huygens fresnel
+le principe de huygens fresnel
+construction de huygens du rayon réfracté
+approche du « moindre parcours » principe de fermat
+button afficher masquer la sous section approche du « moindre
+parcours » principe de fermat
+chemin optique
+o milieux d indice variable
+o chemin optique total
+réfraction des ondes mécaniques
+button afficher masquer la sous section réfraction des ondes
+mécaniques
+réfraction des ondes dans l eau
+réfraction des ondes sonores
+réfraction des ondes sismiques
+réfraction des ondes radio
+observations optiques
+notes et références
+voir aussi
+button afficher masquer la sous section voir aussi
+articles connexes
+liens externes
+basculer la table des matières
+réfraction
+langues
+afrikaans
+alemannisch
+asturianu
+az rbaycanca
+betawi
+català
+e tina
+cymraeg
+dansk
+deutsch
+english
+esperanto
+español
+eesti
+euskara
+suomi
+gaeilge
+galego
+hrvatski
+kreyòl ayisyen
+magyar
+bahasa indonesia
+Íslenska
+italiano
+latina
+lëtzebuergesch
+lombard
+lietuvi
+latvie u
+bahasa melayu
+nederlands
+norsk nynorsk
+norsk bokmål
+occitan
+oromoo
+naijá
+polski
+piemontèis
+português
+român
+sicilianu
+scots
+srpskohrvatski
+simple english
+sloven ina
+chishona
+srpski
+svenska
+türkçe
+o zbekcha
+ti ng vi t
+bân lâm gí
+les liens
+article
+discussion
+français
+le code
+voir l historique
+outils
+outils
+button déplacer vers la barre latérale button masquer
+actions
+le code
+voir l historique
+général
+pages liées
+suivi des pages liées
+téléverser un fichier
+lien permanent
+informations sur la page
+citer cette page
+obtenir l url raccourcie
+imprimer exporter
+créer un livre
+télécharger comme pdf
+version imprimable
+dans d autres projets
+wikimedia commons
+Élément wikidata
+apparence
+button déplacer vers la barre latérale button masquer
+un article de wikipédia l encyclopédie libre
+px refractionverre jpg le pinceau nous paraît brisé à cause de la
+réfraction de la lumière lorsque celle ci traverse le dioptre eau air
+et celui eau verre px r dsc wmc jpg phénomène de
+réfraction px f c a nyt c b r c a s jpg phénomène de
+réfraction
+en physique des ondes la réfraction désigne la redirection d une onde
+notamment optique acoustique ou sismologique à l interface entre
+deux milieux aux vitesses de phase différentes sur le plan chimique ou
+physique densité impédance température
+la réfraction se traduit par une modification de l orientation
+du front d onde c est la que décrit une vague dans l eau
+optique physique et sismologie
+du rayon c est la direction de propagation de l onde
+perpendiculaire au front d onde optique géométrique
+les deux changements d orientation sont équivalents dans le cas de la
+réfraction cependant on préférera le premier pour expliquer le
+phénomène et le second pour le quantifier
+description
+le code
+la lumière est déviée lorsqu elle passe d un milieu transparent à un
+autre par exemple de l air à l eau ou le contraire c est ce
+phénomène qu on observe lorsque l on regarde une paille dans un verre
+celle ci paraît brisée cette « fracture » apparente est à l origine du
+mot « réfraction »
+la lumière est dite « réfractée » et la propriété qui caractérise les
+différents milieux transparents est la « réfringence »
+on distingue la réfraction diffuse de la réfraction parfaite si l on
+considère un mince faisceau de lumière un rayon alors
+dans le cas de la réfraction diffuse le rayon incident se sépare
+en une multitude de rayons dans le second milieu de propagation
+dans le cas de la réfraction parfaite on n a qu un seul rayon dans
+le second milieu
+la réfraction diffuse est le cas général dans la nature en effet pour
+qu il y ait réfraction parfaite il faut que le dioptre la surface de
+séparation entre les milieux soit parfaitement lisse et que le second
+milieu soit parfaitement transparent et en particulier amorphe ou
+monocristallin dans la nature cela ne se rencontre en général que
+pour une eau sans ride sans particule en suspension non turbide
+on sait par contre fabriquer des systèmes artificiels ayant une
+réfraction parfaite en particulier des systèmes air verre ou
+air plastiques on peut aussi fabriquer volontairement des systèmes
+ayant une réfraction diffuse comme des verres translucides permettant
+de laisser entrer la lumière dans une pièce mais préservant l intimité
+ou bien assurant un éclairage « doux » créant peu de contrastes cas
+par exemple des ampoules ayant une surface blanche
+articles connexes source lumineuse orthotrope et théorie de mie
+dans la suite de l article nous supposons une réfraction parfaite
+dans le cas de la réfraction parfaite le phénomène est décrit par une
+valeur numérique l « indice de réfraction »
+la réfringence souvent nommée abusivement réfraction est la
+« diffusion rayleigh » cohérente quoi
+approche géométrique loi de snell descartes
+le code
+historique
+le code
+les expériences en optique étant les plus immédiates la notion de
+réfraction a été découverte en optique
+la réfraction était déjà bien connue par ptolémée
+px ibn sahl manuscript jpg dessin de ibn sahl première mention
+de la loi de la réfraction considérant les triangles rectangles en
+haut à gauche le rapport des deux hypoténuses est une constante du
+système
+le premier qui a mentionné la loi de réfraction est ibn sahl
+c voir aussi sciences et techniques islamiques
+robert grossetête en europe donna ensuite une version imparfaite de
+la loi de réfraction l « angle de réfraction est égal à la moitié de
+l angle d incidence »
+px refraction fr png réfraction rayons et angles utilisés dans
+la loi de snell descartes
+en optique chaque milieu transparent est caractérisé par son indice de
+réfraction noté n i on appelle dioptre la surface séparant les deux
+milieux
+les lois de la réfraction la seconde loi principalement énoncées par
+snell et descartes permettent de rendre compte quantitativement du
+phénomène pour la réfraction les lois de snell descartes précisent
+le rayon réfracté se situe dans le plan d incidence défini par le
+rayon incident et la normale au dioptre au mouvement d incidence
+rayon incident et rayon réfracté étant de part et d autre de la
+normale
+les angles d incidence et de réfraction et mesurés
+par rapport à la normale sont tels que
+scriptlevel
+scriptlevel n
+sin
+stretchy
+stretchy n
+sin
+stretchy
+stretchy
+x
+n sin theta n sin theta
+n sin theta n sin theta
+on peut alors remarquer que
+plus l indice de réfraction n est grand plus le rayon réfracté
+s approche de la normale et vice versa
+lorsque l indice de réfraction n est plus petit que n par
+exemple du verre à l air on peut dépasser une incidence dite
+« angle critique » au delà de laquelle il y a réflexion totale
+voir également la généralisation des lois de la réflexion et de la
+réfraction
+la formulation de la théorie électromagnétique par maxwell a permis de
+mettre en évidence un phénomène de réfraction pour toute onde
+électromagnétique
+interprétation de l expérience du « crayon brisé »
+le code
+px crayon brise png parce que les rayons sont rabattus vers
+l horizontale l observateur voit une image plus haute que le crayon
+l explication de l expérience du crayon brisé repose sur deux points
+importants les lois de snell descartes et la propriété de
+stigmatisme approché du dioptre plan permise par l il qui
+n intercepte qu un fin pinceau de lumière réfractée
+on constate alors que les rayons étant réfractés en s écartant de la
+normale puisque l indice de l air est inférieur à l indice de l eau
+la lumière qui arrive dans l il de l observateur semble provenir d un
+point plus élevé
+le schéma ci contre illustre pour un point de l extrémité du crayon il
+faudrait faire ainsi pour chacun des points pour avoir l image au sens
+du stigmatisme approché du crayon l effet d un dioptre est aussi de
+donner une image déformée
+on peut énoncer certaines remarques
+l image de l extrémité du crayon n est pas à la verticale de celle
+du crayon lui même contrairement à certaines schématisations
+rapides
+l image de l extrémité du crayon dépend de la position de
+l observateur conséquence immédiate du non stigmatisme du
+dioptre
+angle limite d incidence phénomène de réflexion totale
+le code
+px refraction limite gif au delà d une certaine inclinaison les
+rayons ne franchissent plus le dioptre ils sont réfléchis
+si n n par exemple passage de l eau vers l air alors d après
+la loi de snell descartes
+scriptlevel n
+sin
+n
+sin
+mspace thinmathspace
+x
+n sin theta n sin theta
+n sin theta n sin theta
+scriptlevel sin
+n
+n
+sin
+x sin theta
+frac n n sin theta
+sin theta frac n n sin
+theta
+pour des valeurs de sin proches de c est à dire pour des
+incidences rasantes rayon incident proche de la surface la loi de
+snell descartes donne une valeur de sin supérieure à on sort
+en effet de son domaine de validité cela correspond à des situations
+où il n y a pas de réfraction mais uniquement de la réflexion on parle
+de « réflexion totale »
+l angle limite ou angle critique de réfraction est donc
+scriptlevel
+l i m
+normal a normal r
+normal c normal s
+normal i normal n
+n
+n
+sin
+l
+i m
+normal a
+normal r normal c
+normal s normal i
+normal n
+n
+n
+mspace
+thinmathspace
+x theta
+lim mathrm arcsin left frac n n sin
+left theta lim right right mathrm arcsin
+left frac n n right
+theta lim mathrm arcsin left frac
+n n sin left theta
+lim right right mathrm arcsin left frac
+n n right
+en effet
+scriptlevel
+l i
+m
+x theta
+lim frac pi
+theta lim frac pi et donc
+scriptlevel sin
+l i
+m
+x sin left theta
+lim right
+sin left theta lim right
+cette propriété est mise à profit dans certains systèmes réflecteurs
+prisme et dans des applications de télécommunication telles que la
+fibre optique
+construction de descartes
+le code
+px constr descartes png construction de descartes
+la relation de snell descartes peut être traduite géométriquement ceci
+permet une construction géométrique simple dite de descartes du rayon
+réfracté
+cette construction repose sur le tracé des « cercles des indices » on
+trace les deux cercles de rayon
+scriptlevel
+n
+x rho
+n
+rho n et
+scriptlevel
+n
+x rho
+n
+rho n centrés sur le point d incidence i
+le rayon incident provenant du milieu est prolongé dans le milieu
+et coupe le cercle en un point a dont la projection h est telle que
+par construction ih
+scriptlevel n
+sin
+i
+x n sin i
+n sin i
+pour satisfaire la relation de snell descartes le rayon réfracté doit
+couper le cercle en un point b ayant même projection il suffit donc
+de prolonger la droite ah jusqu à son intersection avec le cercle
+généralisation des lois de la réflexion et de la réfraction
+le code
+ces lois peuvent être généralisées en modifiant l interface séparant
+les deux milieux à l aide de nanostructures choisies de façon à
+introduire un gradient de phase constant lors de la traversée de
+l interface
+les nouvelles lois de la réflexion et de la réfraction obtenues en
+considérant ce gradient de phase s énoncent alors pour la
+réfraction
+scriptlevel n
+sin
+n
+sin
+stretchy
+stretchy d
+d x
+x n cdot sin theta
+n cdot sin theta lambda pi cdot d phi
+dx
+n cdot sin theta n cdot sin theta
+lambda pi cdot d phi dx
+scriptlevel d
+d x
+x d phi dx
+d phi dx représente le gradient de phase introduit de
+façon soudaine à l interface et pour la réflexion
+scriptlevel sin
+r
+sin
+i
+stretchy
+n
+stretchy d
+d x
+x sin theta r sin
+theta i lambda pi cdot n cdot d phi dx
+sin theta r sin theta i lambda pi cdot
+n cdot d phi dx
+scriptlevel
+i
+x theta
+i
+theta i représente l angle d incidence et
+scriptlevel
+r
+x theta
+r
+theta r l angle de réflexion la loi de la
+réflexion est surprenante l angle de réflexion n est plus
+nécessairement égal à l angle d incidence
+la taille des nanostructures doit être choisie beaucoup plus petite que
+la longueur d onde de la lumière pour que le gradient de phase soit
+introduit de façon soudaine lors de la traversée de l interface
+découplant ainsi la phase accumulée lors de la propagation et le
+gradient de phase introduit soudainement par les nanostructures
+approche ondulatoire principe de huygens fresnel
+le code
+px refraction huygens gif le front d onde réfracté comme somme des
+ondelettes des sources
+secondaires px simulation de r c a fraction png résultat d une
+simulation électromagnétique réalisée avec le programme moosh montrant
+une réfraction par un dioptre entre deux milieux d indice
+scriptlevel n
+x n
+n et
+scriptlevel n
+x n
+n
+la célérité de la lumière n est pas la même dans les deux milieux ce
+changement de valeur suffit à interpréter le changement de direction de
+l onde c est christian huygens qui donnera un modèle en associant la
+propagation de la lumière à la propagation d un front d onde et
+l utilisera pour expliquer la double réfraction du spath d islande
+observée par rasmus bartholin
+le principe de huygens fresnel
+le code
+le principe de huygens fresnel stipule qu à une interface tous les
+points atteints par une onde venant d un premier milieu réémettent une
+onde dans le second milieu on peut alors interpréter la réfraction
+comme la déviation du front d onde liée à la vitesse plus faible ou
+plus rapide de ces ondes réémises
+huygens s opposant ainsi à newton considérait que la lumière était
+une onde se propageant de proche en proche dans les milieux
+transparents il imaginait le front d onde comme la superposition
+d ondelettes de sorte qu au passage d un dioptre la célérité étant
+différente de part et d autre la taille des ondelettes était changée
+d autant et le front dévié en conséquence le rapport des indices des
+milieux apparaît alors simplement comme le rapport des célérités
+scriptlevel
+n
+n
+v
+v
+x frac
+n n frac v v
+frac n n frac v v
+on peut également utiliser ce même principe pour rendre compte de la
+réflexion il suffit en effet de considérer la partie des ondelettes se
+déployant dans le premier milieu et de la diffraction
+construction de huygens du rayon réfracté
+le code
+px constr huygens png construction de huygens du front d onde et
+du rayon diffractés
+cette interprétation permet également une construction géométrique
+celle ci est semblable à celle de descartes mais elle s appuie sur la
+comparaison des célérités
+les rayons à tracer sont alors en n et n et le raisonnement
+géométrique repose sur l intersection commune des plans d onde point
+b qui par nature doivent être tangents aux ondelettes
+l ondelette la plus grande correspond sur la figure à la position du
+front d onde s il n y avait pas de dioptre ici n n tandis
+que le cercle le plus petit correspond donc au front de l onde
+diffractée
+le rayon réfracté est donc bien selon ic i étant le point
+d incidence
+approche du « moindre parcours » principe de fermat
+le code
+px refraction metaphore sport png la trajectoire la plus rapide
+pour joindre un point de la plage à une bouée dans l eau suit la loi de
+snell descartes
+un aspect particulièrement étonnant est la possibilité d interpréter
+également ces lois de snell descartes en termes de moindre parcours et
+plus précisément en termes de moindre temps
+c est fermat qui a introduit cette interprétation source tout à la
+fois pour lui de questionnements fondamentaux sur la « raison » de ce
+moindre parcours et d une approche théorique très puissante dite de
+moindre action
+Énoncé du principe de fermat
+« la lumière se propage d un point à un autre sur des
+trajectoires telles que la durée du parcours soit
+stationnaire »
+là encore une analogie « mécanique » peut aider à comprendre pourquoi
+durée de parcours et trajectoire brisée sont intimement liées
+considérons maintenant un athlète devant partir d un point de la plage
+et rejoindre le plus vite possible une bouée située dans l eau là
+encore l athlète court plus vite sur la plage qu il ne progresse dans
+l eau en conséquence il convient donc de ne pas aller en droite
+vers la bouée mais de rallonger la distance parcourue sur le sable et
+diminuer celle à parcourir dans l eau mais évidemment il ne faut pas
+non plus trop rallonger sur le sable
+on peut alors chercher quel est le chemin qui correspond au minimum de
+temps c est un chemin tel que le point d arrivée au bord de l eau
+n est ni l intersection avec la droite ni le cas où la distance
+dans l eau est le plus faible en nageant perpendiculairement à la
+rive mais un point entre les deux et qui est tel que
+scriptlevel
+v
+sin
+v
+sin
+x frac
+v sin theta frac v sin theta
+frac v sin theta frac
+v sin theta
+on retrouve l expression de la loi de la réfraction
+chemin optique
+le code
+lorsqu un rayon parcourt une distance d dans un milieu d indice n on
+appelle chemin optique et on note l le produit de la distance et de
+l indice
+scriptlevel
+caligraphic script l
+n d
+d
+c v
+x
+mathcal l n d d frac c v
+mathcal l n d d frac c v
+si un rayon change de milieu et parcourt une distance d dans un
+milieu d indice n et une distance d dans un milieu d indice n
+alors le chemin optique parcouru est
+scriptlevel
+caligraphic script l
+n
+d
+n
+d
+mspace thinmathspace
+x
+mathcal l n d n d
+mathcal l n d n d
+le constat réalisé est que le chemin que parcourt un rayon pour aller
+d un point à un autre correspond toujours à un extrémum de l minimum
+ou parfois maximum droite dans un milieu donné et réfraction
+suivant la loi de snell descartes lorsqu il change de milieu c est ce
+que l on appelle un principe de moindre action
+il est par ailleurs à noter qu il s agit d une constatation d une
+conséquence et non d une cause le rayon lumineux n a pas de
+stratégie ne décide pas d emprunter tel ou tel chemin et le point
+d arrivée n est pas donné à l avance quoique qu en terme d ondes la
+localité soit totalement inexistante telles que les expériences
+d interférence l imposent pas clair
+milieux d indice variable
+le code
+on a jusqu ici considéré des milieux homogènes et isotropes dans
+lesquels la vitesse de la lumière était la même partout et dans toutes
+les directions mais il existe des milieux dans lesquels la vitesse de
+la lumière donc l indice de réfraction varie de manière continue par
+exemple l air
+si le sol est chaud alors la température de l air diminue lorsque l on
+s élève en altitude la densité de l air varie et la vitesse de la
+lumière donc l indice aussi gradient d indice c est ainsi que le
+bitume par temps très chaud déforme les images ou fait apparaître
+d imaginaires flaques d eau reflétant le ciel concavité vers le haut
+du trajet lumineux et qu on peut apercevoir une oasis dans le désert
+bien qu elle soit derrière une dune concavité vers le bas dans ce
+cas mais le terme de « mirage » s applique aussi à l effet du soleil
+sur l imagination du voyageur
+une autre expérience commune consiste à prendre un aquarium rempli
+d eau et mettre du sel au fond la concentration de sel est plus
+importante au fond qu en surface et l indice de réfraction varie en
+fonction de cette concentration un rayon laser passant dans un
+aquarium contenant un peu de fluorescéine peut alors donner une
+trajectoire courbe et non plus une droite
+enfin dans les fibres optiques on fait volontairement varier l indice
+de réfraction en fonction de la distance par rapport au centre de la
+fibre dans ce cas la variation d indice sert à « piéger » le rayon
+lumineux qui ondule et suit la fibre plutôt que de se réfléchir sur les
+bords
+dans ces milieux l indice n dépend donc du point considéré n est une
+fonction de la position x y z voir la fonction gradient
+chemin optique total
+le code
+le trajet du rayon lumineux est une courbe c dans le milieu
+considérons un petit trajet du point s au point s ds sur lequel
+l indice peut être considéré comme constant s est l abscisse
+curviligne sur c c est à dire la distance parcourue en suivant la
+courbe depuis le point de départ le chemin optique est localement
+scriptlevel d
+caligraphic script l
+n s
+d s
+x
+d mathcal l n left s right ds
+d mathcal l n left s right ds
+le chemin optique total est donc
+scriptlevel
+caligraphic script l
+c d
+caligraphic script l
+c n
+s d
+s
+x mathcal l int
+c d mathcal l int c n left s right ds
+mathcal l int c d mathcal l int
+c n left s right ds
+d après le principe de moindre action le trajet suivi par le rayon
+lumineux correspond à celui qui a la valeur l minimale ceci permet de
+calculer la trajectoire du rayon
+réfraction des ondes mécaniques
+le code
+de façon générale et donc en mécanique la propagation suit les mêmes
+lois fondamentales en particulier le fait que la célérité ne dépend
+que du milieu son élasticité et son inertie les phénomènes de
+réflexion réfraction diffraction et interférences existent donc
+également pour ces ondes suivant le nombre de dimensions spatiales
+offertes par le milieu à la propagation tout ou partie de ces
+phénomènes sont visibles
+ainsi pour une propagation unidimensionnelle une onde le long d une
+corde par exemple il est facile d observer la réflexion et possible
+d expérimenter la transmission avec réflexion partielle entre deux
+cordes de masses linéiques différentes pour les ondes à la surface de
+l eau les phénomènes de réflexion réfraction et diffraction sont
+faciles à observer quant aux ondes acoustiques qui nous entourent
+leur propagation en trois dimensions jusqu à notre oreille est bien
+souvent le fruit de tous ces phénomènes à la fois
+réfraction des ondes dans l eau
+le code
+la célérité des ondes dans l eau dépend de la profondeur du liquide de
+la vitesse du courant et plus modérément de leur amplitude en
+particulier la célérité est plus faible si la profondeur est plus
+faible ceci permet d avoir une première interprétation du fait que les
+crêtes des vagues deviennent presque parallèles à la plage lorsqu elles
+se rapprochent du rivage la partie de la crête en eau plus profonde
+se propage plus vite que la partie en eau peu profonde et la crête
+tourne vers la plage on constate également qu il y a une convergence
+au voisinage d un cap et un épanouissement dans une baie
+ce changement de célérité est donc précisément la cause du changement
+de direction de propagation d une onde plane comme l explique le
+principe de huygens évoqué ci dessus
+l observation de ce phénomène peut être réalisée sur une « cuve à
+ondes » un bac plat contient une faible hauteur d eau de l ordre
+du centimètre sur une partie du fond du bac on place une plaque qui
+provoque donc une brusque variation de la profondeur une onde plane
+provoquée par la vibration d une barre qui affleure l eau est alors
+déviée au passage de ce dioptre
+réfraction des ondes sonores
+le code
+article détaillé réfraction du son par l atmosphère
+les ondes sonores subissent aussi une telle déviation dans
+l atmosphère la vitesse du son varie avec la pression et la
+température donc l altitude l humidité et la vitesse du vent le
+phénomène de variation de la température avec l altitude appelé
+gradient de température a pour effet d incurver les rayons sonores
+vers le haut en temps normal c est à dire lorsque la température
+diminue avec l altitude et vers le bas lors d une inversion de
+température c est pour cette raison que le son remonte les pentes
+phénomène souvent audible en montagne
+de la même façon lorsque la vitesse du vent augmente avec l altitude
+les rayons sonores sont réfractés vers le bas dans la direction du
+vent et vers le haut dans la direction opposée au vent c est pour
+cela que le vent « porte le son » c est la variation du vent avec
+l altitude le gradient de vent qui est importante et non la vitesse
+du vent elle même bien plus faible que la vitesse du son
+réfraction des ondes sismiques
+le code
+la vitesse de propagation des ondes sismiques dépend de la densité
+donc de la profondeur et de sa composition il se produit donc
+une réfraction à la transition entre deux couches géologiques
+notamment entre le manteau et le noyau
+dans le manteau une déviation c est un milieu à indices
+variables
+réfraction des ondes radio
+le code
+comme un rayon lumineux est dévié lorsqu il passe d un milieu d indice
+de réfraction n à un autre d indice n une onde radio peut subir
+un changement de direction dépendant à la fois de sa fréquence et de la
+variation de l indice de réfraction ce phénomène est particulièrement
+important dans le cas de la propagation ionosphérique la réflexion que
+subit une onde décamétrique dans l ionosphère est en fait une suite
+continue de réfractions il est possible de reproduire avec une onde
+radio dont la longueur d onde est de quelques centimètres à quelques
+décimètres le phénomène observé avec une lentille ou un prisme en
+optique classique
+observations optiques
+le code
+lacorse h gmt jpg
+la corse vue de nice par phénomène optique de réfraction
+notes et références
+le code
+en r rashed a pioneer anaclastics ibn sahl on burning
+mirrors and lenses isis
+en a kwan j m dudley e lantz who really discovered
+snell s law physics world
+en nanfang yu patrice genevet mikhail a kats francesco
+aieta jean philippe tetienne federico capasso et zeno gaburro
+« light propagation with phase discontinuities generalized laws
+reflection and refraction » science vol n o
+octobre p issn
+doi science en
+une cuve à ondes peut être observée ici
+explications scientifiques
+voir aussi
+le code
+sur les autres projets wikimedia
+réfraction sur le wiktionnaire
+articles connexes
+le code
+réfractométrie
+dispersion
+indice de réfraction
+métamatériaux ayant un indice de réfraction négatif
+optique géométrique
+prisme lentilles
+réfraction atmosphérique
+réfraction négative
+ultra réfraction
+biréfringence
+liens externes
+le code
+ressource relative à la santé voir et les données sur
+wikidata
+store medisinske leksikon
+notices dans des dictionnaires ou encyclopédies généralistes voir
+et les données sur wikidata
+britannica
+den store danske encyklopædi
+store norske leksikon
+universalis
+notices d autorité voir et les données sur wikidata
+bnf données
+idref
+espagne
+israël
+icône décorative portail de la physique
+icône décorative portail de l optique
+ce document provient de
+« https fr wikipedia org w index php title réfraction oldid
+catégorie
+réfraction
+catégories cachées
+page utilisant p
+page pointant vers des bases externes
+page pointant vers des bases relatives à la santé
+page utilisant p
+page utilisant p
+page utilisant p
+page utilisant p
+page pointant vers des dictionnaires ou encyclopédies généralistes
+article de wikipédia avec notice d autorité
+portail physique articles liés
+portail sciences articles liés
+portail optique articles liés
+la dernière modification de cette page a été faite le janvier
+droit d auteur les textes sont disponibles sous licence creative
+commons attribution partage dans les mêmes conditions d autres
+conditions peuvent s appliquer voyez les conditions d utilisation
+pour plus de détails ainsi que les crédits graphiques en cas de
+réutilisation des textes de cette page voyez comment citer les
+auteurs et mentionner la licence
+wikipedia® est une marque déposée de la wikimedia foundation inc
+organisation de bienfaisance régie par le paragraphe c du
+code fiscal des États unis
+politique de confidentialité
+À propos de wikipédia
+avertissements
+contact
+contacts juridiques sécurité
+code de conduite
+développeurs
+statistiques
+déclaration sur les témoins cookies
+version mobile
+wikimedia foundation
+powered by mediawiki
+button rechercher
+button rechercher
+basculer la table des matières
+réfraction
+button langues ajouter un sujet

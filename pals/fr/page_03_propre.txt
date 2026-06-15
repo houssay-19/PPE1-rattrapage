@@ -1,0 +1,2360 @@
+wikipédia fr flux atom de wikipédia
+aller au contenu
+menu principal
+menu principal
+button déplacer vers la barre latérale button masquer
+navigation
+page d accueil
+portails thématiques
+article au hasard
+contact
+contribuer
+débuter sur wikipédia
+communauté
+pages spéciales
+modifications récentes
+wikipédia l encyclopédie libre
+rechercher
+button rechercher
+apparence
+faire un don
+créer un compte
+se connecter
+outils personnels
+faire un don
+créer un compte
+se connecter
+sommaire
+button déplacer vers la barre latérale button masquer
+début
+définitions
+histoire
+button afficher masquer la sous section histoire
+premières tentatives d explications
+premières tentatives de mesures
+lien avec l électromagnétisme
+Éther luminifère
+des mesures de plus en plus précises redéfinitions du
+mètre et de la seconde
+définition de la vitesse de la lumière comme une constante
+explicite
+rôle fondamental en physique
+button afficher masquer la sous section rôle fondamental en
+physique
+invariance
+vitesse limite
+observations et expériences de vitesses supraluminiques
+propagation de la lumière
+button afficher masquer la sous section propagation de la
+lumière
+dans un milieu
+conséquences pratiques de la finitude de c
+button afficher masquer la sous section conséquences pratiques
+de la finitude de c
+À petites échelles
+mesures de distances
+longs parcours sur la terre
+voyages spatiaux et astronomie
+transactions à haute fréquence
+mesures
+button afficher masquer la sous section mesures
+mesures astronomiques
+o unité astronomique
+temps de vol
+constantes électromagnétiques
+cavité résonnante
+interférométrie
+Éponymie
+notes et références
+button afficher masquer la sous section notes et références
+citations originales
+notes
+références
+annexes
+button afficher masquer la sous section annexes
+bibliographie
+articles connexes
+liens externes
+o bases de données et dictionnaires
+basculer la table des matières
+vitesse de la lumière
+langues
+afrikaans
+alemannisch
+aragonés
+asturianu
+az rbaycanca
+emait ka
+bikol central
+brezhoneg
+bosanski
+català
+mìng d ng ng
+e tina
+cymraeg
+dansk
+deutsch
+english
+esperanto
+español
+eesti
+euskara
+estremeñu
+suomi
+na vosa vakaviti
+nordfriisk
+furlan
+frysk
+gaeilge
+kriyòl gwiyannen
+galego
+avañe
+fiji hindi
+hrvatski
+kreyòl ayisyen
+magyar
+interlingua
+bahasa indonesia
+Íslenska
+italiano
+patois
+la lojban
+kernowek
+latina
+lëtzebuergesch
+lingua franca nova
+lombard
+lietuvi
+latvie u
+minangkabau
+bahasa melayu
+plattdüütsch
+nederlands
+norsk nynorsk
+norsk bokmål
+occitan
+oromoo
+polski
+piemontèis
+português
+român
+sicilianu
+scots
+srpskohrvatski
+simple english
+sloven ina
+sloven ina
+anarâ kielâ
+soomaaliga
+shqip
+srpski
+seeltersk
+sunda
+svenska
+kiswahili
+tagalog
+türkçe
+tatarça
+o zbekcha
+vèneto
+vepsän kel
+ti ng vi t
+winaray
+bân lâm gí
+les liens
+article
+discussion
+français
+le code
+voir l historique
+outils
+outils
+button déplacer vers la barre latérale button masquer
+actions
+le code
+voir l historique
+général
+pages liées
+suivi des pages liées
+téléverser un fichier
+lien permanent
+informations sur la page
+citer cette page
+obtenir l url raccourcie
+imprimer exporter
+créer un livre
+télécharger comme pdf
+version imprimable
+dans d autres projets
+wikimedia commons
+Élément wikidata
+apparence
+button déplacer vers la barre latérale button masquer
+un article de wikipédia l encyclopédie libre
+vitesse de la lumière
+description de cette image également commentée ci après
+il faut environ min s à la lumière du soleil pour parcourir la
+distance moyenne entre la surface du soleil et la surface de la terre
+caption données clés
+unités si mètre par seconde m s ou m s
+autres unités
+cgs centimètre par seconde cm s ou cm s
+kilomètre par seconde km s ou km s
+nature grandeur scalaire
+symbole usuel c
+valeur
+la vitesse de la lumière dans le vide habituellement notée c pour
+« célérité » est une constante physique de l univers qui est
+fondamentale dans plusieurs domaines de la physique
+l étude de la lumière et de sa vitesse remonte à l antiquité des
+philosophes et des scientifiques en s appuyant sur des arguments
+théoriques ou des observations affirment que sa vitesse est infinie
+alors que d autres prétendent que non ole rømer démontre en
+qu elle est finie les scientifiques s attachent ensuite à déterminer
+sa valeur par divers moyens la précision s améliorant au fil des
+années dès la fin du xix e siècle il est acquis qu elle vaut environ
+km s en le résultat fiable le plus précis est
+± m s en un accord international redéfinit le
+mètre de telle sorte que la vitesse de la lumière est d exactement
+la vitesse de la lumière dans le vide est notamment la vitesse à
+laquelle se propage le champ électromagnétique dans l espace cette
+propriété transparaît indirectement dans les équations de maxwell
+et plus directement dans leurs solutions générales et causales
+que sont les équations de panofsky phillips et les équations de
+jefimenko
+dans la vie de tous les jours la lumière et donc les ondes
+électromagnétiques semble se déplacer instantanément mais sur de
+longues distances ou dans des instruments de mesure très précis des
+effets permettent de déduire que sa vitesse est finie dans les
+matériaux transparents et les conducteurs électriques les ondes
+électromagnétiques se déplacent plus lentement que c les vitesses de
+certains phénomènes ondulatoires et de certains objets célestes peuvent
+être plus grandes que c la vitesse d expansion de l univers excède c
+hors de certaines limites géométriques
+bien que cette vitesse soit le plus souvent associée à la lumière
+c est aussi celle de toute particule sans masse et de toute
+perturbation dans un champ situé dans le vide incluant les ondes
+gravitationnelles et les ondes électromagnétiques dont la lumière
+visible ne constitue qu une minuscule partie les particules dotées
+d une masse au repos peuvent approcher de c mais ne peuvent
+l atteindre peu importe le référentiel inertiel dans lequel leur
+vitesse est mesurée
+dans les référentiels non inertiels des espaces temps courbés par la
+gravité ou des référentiels accélérés la vitesse de la lumière locale
+à proximité immédiate des événements reste constante et égale c mais
+elle peut être différente sur une trajectoire de longueur finie selon
+la façon dont sont définis les distances et les temps
+définitions
+le code
+au xxi e siècle la vitesse de la lumière dans le vide est dénotée par
+la lettre minuscule c initiale du mot latin celeritas signifiant
+« rapidité célérité » ou encore de « célérité » en français mais son
+symbole a varié dans le temps en wilhelm eduard weber et rudolf
+kohlrausch utilisent c pour une constante différente qui a été plus
+tard démontrée égale à × c en le symbole v est introduit par
+james clerk maxwell comme alternative pour indiquer la vitesse de la
+lumière dans le vide en paul drude préfère c tout en lui
+donnant sa définition moderne pourtant albert einstein utilise v dans
+ses articles sur la relativité restreinte de c est en qu il
+commence à utiliser c devenu entretemps le symbole courant pour la
+vitesse de la lumière dans le vide
+parfois c est utilisée pour indiquer la vitesse d une onde lumineuse
+dans n importe quel médium physique et c pour la vitesse de la
+lumière dans le vide cette notation indicée présente dans la
+littérature du si a la même forme que plusieurs constantes de
+l électromagnétisme pour la perméabilité du vide ou constante
+magnétique pour la permittivité du vide ou constante
+électrique et z pour l impédance caractéristique du vide dans la
+suite de cet article seul c est utilisé pour désigner la vitesse de la
+lumière dans le vide
+histoire
+le code
+avant l époque moderne grossièrement de à des
+scientifiques et des philosophes proposent soit que la lumière se
+déplace instantanément soit à une vitesse finie très grande le premier
+enregistrement connu d un effort dans ce sens remonte à la grèce
+antique les grecs anciens les érudits musulmans puis les
+scientifiques européens de l époque moderne ont longuement débattu sur
+ce sujet jusqu à ce que ole rømer fournisse la première preuve que la
+vitesse de la lumière est finie la relativité restreinte d einstein
+proposée en et vérifiée expérimentalement par la suite permet de
+conclure que c est constante peu importe le référentiel où elle est
+mesurée au xx e siècle des scientifiques ont continué à affiner la
+valeur de c
+caption histoire succincte des mesures de c en km s
+galilée lanternes masquées pas concluant note
+accademia del cimento lanternes masquées pas
+concluant
+rømer et huygens lune io de jupiter erreur de
+james bradley aberration de la lumière erreur de
+hippolyte fizeau roue dentelée en rotation erreur de
+léon foucault miroirs rotatifs ± erreur de
+rosa et dorsey constantes électromagnétiques
+scriptlevel
+x mu
+mu et
+scriptlevel
+x epsilon
+epsilon ± erreur de
+albert michelson miroir rotatif ± erreur de
+essen et gordon smith cavité résonnante ±
+erreur de ppm
+k d froome interférométrie radio ± erreur
+de ppm
+evenson et al interférométrie laser ±
+erreur de ppm
+e congrès de la cgpm définition du mètre
+exact par définition
+premières tentatives d explications
+le code
+empédocle c av j c est le premier à proposer une théorie
+de la lumière et déclare que la lumière a une vitesse finie
+il affirme que la lumière est quelque chose en mouvement et doit donc
+prendre du temps pour voyager aristote au contraire argue que « la
+lumière est due à la présence de quelque chose mais ce n est pas un
+mouvement » trad euclide et ptolémée reprennent la théorie
+de l émission d empédocle où la lumière provient de l il ce qui
+permet de voir en se basant sur cette théorie héron d alexandrie
+affirme que la vitesse de la lumière doit être infinie puisque l on
+voit des objets distants telles les étoiles dès que l on ouvre les
+les premiers philosophes islamiques acceptent dans un premier temps la
+vision aristotélicienne selon laquelle la lumière ne voyage pas en
+alhazen publie son traité d optique où il présente un ensemble
+d arguments contre la théorie de l émission et en faveur de la théorie
+de l intromission c est à dire que la lumière d un objet entre dans
+l il sa réflexion l amène à proposer que la lumière doit voyager
+à une vitesse finie et que cette vitesse peut
+changer selon le corps dans lequel elle se propage étant plus lente
+dans les corps plus denses il soutient que la lumière est
+une matière faite d une substance solide sa propagation exige donc du
+temps même si nos sens ne peuvent le percevoir Également au
+xi e siècle al biruni soutient que la vitesse de la lumière est finie
+et mentionne qu elle est nettement plus grande que celle du son
+au xiii e siècle roger bacon argue que la vitesse de la lumière dans
+l air n est pas infinie recourant à des arguments philosophiques qui
+s appuient sur les travaux d alhazen et d aristote dans
+les années vitellion étudie la possibilité que la lumière voyage
+à une vitesse infinie dans le vide mais ralentit dans les corps plus
+denses
+au début du xvii e siècle johannes kepler pense que la vitesse de la
+lumière est infinie puisque l espace vide ne présente aucun obstacle à
+sa propagation rené descartes argue que si la vitesse de la lumière
+est finie le soleil la terre et la lune ne seraient pas parfaitement
+alignés lors d une éclipse lunaire puisqu un tel manque d alignement
+n a pas été observé descartes conclut que la vitesse de la lumière est
+infinie il spécule que si la vitesse de la lumière était finie tout
+son système philosophique pourrait être réfuté lorsqu il dérive
+les lois de snell descartes il accepte la contradiction que la lumière
+se déplace instantanément alors que son système philosophique affirme
+que plus dense est le médium plus rapide est la lumière pierre
+de fermat qui soutient que la vitesse de la lumière est finie dérive
+les mêmes lois en utilisant l argument opposé que la lumière voyage
+moins vite dans les médiums plus denses
+premières tentatives de mesures
+le code
+schéma d une planète orbitant autour du soleil et d une lune orbitant
+autour d une autre planète schéma dessiné par ole rømer pour son étude
+de la vitesse de la lumière
+le soleil est la figure près de la lettre a la terre suit l orbite qui
+passe par les points e f g h l et k jupiter est représenté par le
+petit cercle identifié par la lettre b alors que l orbite de la lune
+io passe par les points c et d la zone d ombre solaire de jupiter est
+représentée par le rectangle grisé
+rømer a observé que la durée de l occultation de io changeait selon la
+position de la terre il devait soit conclure que la période orbitale
+de io changeait soit que la vitesse de la lumière était finie
+en isaac beeckman propose une expérience où une personne observe
+l éclair d un coup de canon réfléchi sur un miroir à une distance
+d environ mile km en galilée propose une autre
+expérience qu il aurait réalisée quelques années plus tôt pour
+mesurer c en observant le délai entre l exposition du hublot d une
+lanterne allumée et de la détection de la lumière projetée à quelque
+distance de là il aurait été incapable de déterminer si c est infinie
+ou pas il conclut que si elle n est pas infinie elle doit être très
+grande en l accademia del cimento de florence rapporte
+avoir effectué l expérience de galilée avec des lanternes distantes
+d environ mile aucun délai n est observé note
+ole rømer est en le premier à tenter de mesurer c connaissant
+la période orbitale de la lune io de jupiter il détermine qu elle
+raccourcit lorsque la terre approche de jupiter et qu elle allonge
+lorsque la terre s éloigne de jupiter il conclut que la lumière voyage
+à une vitesse finie il estime qu elle prend minutes à franchir le
+diamètre de l orbite terrestre pour sa part christian
+huygens combine cette durée avec une estimation du diamètre de l orbite
+terrestre et calcule que c égale km s note
+dans son livre opticks de isaac newton rapporte les calculs de
+rømer et affirme que la lumière franchit la distance séparant le soleil
+de la terre en « sept ou huit minutes » trad note en
+james bradley découvre l aberration stellaire en s appuyant
+sur cet effet il détermine que c égale fois la vitesse orbitale
+de la terre note ou de façon équivalente qu il faut à la lumière
+min s pour franchir la distance soleil terre
+lien avec l électromagnétisme
+le code
+articles connexes histoire de l électricité et histoire de la
+relativité restreinte
+au xix e siècle hippolyte fizeau développe une méthode pour déterminer
+c en effectuant des mesures terrestres du temps de vol de la lumière
+il rapporte la valeur de km s en wilhelm eduard
+weber et rudolf kohlrausch grâce aux décharges électriques d une
+bouteille de leyde mesurent une unité de charge électromagnétique et
+une unité de charge électrostatique ils calculent le rapport des deux
+unités et obtiennent une vitesse proche de la valeur obtenue par
+fizeau l année suivante gustav kirchhoff calcule qu un signal
+électrique voyage dans un fil sans résistance à cette même
+vitesse au début des années james clerk maxwell démontre
+dans le cadre de sa théorie de l électromagnétisme que les ondes
+électromagnétiques se propagent dans le vide à une
+vitesse égale à celle calculée par weber et kohlrausch tout en
+attirant l attention sur la proximité numérique avec la vitesse de la
+lumière mesurée par fizeau pour lui la lumière est une onde
+électromagnétique améliorant la méthode de fizeau léon foucault
+obtient km s en
+Éther luminifère
+le code
+photo en noir et blanc de deux hommes en costume debout et regardant
+l objectif le physicien néerlandais hendrik lorentz à la droite avec
+albert einstein
+aux xix e siècle les scientifiques pensent qu un médium est nécessaire
+pour qu un phénomène ondulatoire puisse se produire peu importe que ce
+soit une vague ou une onde sonore par exemple puisque la lumière se
+propage dans le vide il doit être rempli d un médium qui sert à la
+propagation des ondes lumineuses la terre qui se déplace dans ce
+médium immobile appelé « éther luminifère » est soumise à l équivalent
+d un vent note
+reprenant cette hypothèse des scientifiques du xix e siècle pensent
+qu il est possible de mesurer la vitesse de la terre en détectant un
+changement dans la vitesse de la lumière en effet si la terre
+s éloigne ou se rapproche du soleil par exemple la vitesse de la
+lumière issue du soleil change selon la loi de composition des
+vitesses
+au début des années plusieurs expériences sont menées pour
+calculer la vitesse de la terre la plus connue est l expérience
+de michelson morley de pendant cette expérience la vitesse
+détectée est toujours plus petite que l erreur
+d observation des expériences menées au xx e siècle
+démontrent que l erreur est inférieure à nanomètres par seconde il
+faut donc conclure que la lumière se déplace à la même vitesse peu
+importe la direction de propagation elle est donc isotrope À la
+suite de cette expérience george fitzgerald et hendrik lorentz
+proposent de façon indépendante que les appareils utilisés se
+contractent dans le sens du mouvement ce qui annulerait l effet du
+vent d éther lorentz indique de plus que le temps d un système en
+mouvement qu il appelle « temps local » doit aussi être modifié par
+le même facteur ce qui mène à la formulation des transformations de
+lorentz en se basant sur la théorie de l éther de lorentz henri
+poincaré démontre en que ce temps local une approximation d ordre
+du rapport v c est celui indiqué par les horloges qui se déplacent
+dans l éther qui sont synchronisées en faisant l hypothèse que c est
+constante en il spécule que c pourrait être l ultime vitesse en
+dynamique à la condition que toutes les hypothèses de la théorie de
+lorentz soient validées en il démontre en se basant sur
+différentes expériences que la théorie de l éther de lorentz explique
+complètement le principe de relativité
+en le physicien albert einstein postule que la vitesse de la
+lumière dans le vide telle que mesurée par des observateurs non
+accélérés est indépendante du mouvement de la source et du mouvement
+des observateurs en se basant à la fois sur cette invariance et le
+principe de relativité il jette les bases de la relativité restreinte
+où c est élevée au rang de constante fondamentale de l univers
+constante qui apparaît dans des contextes où la lumière ne joue aucun
+rôle direct sa théorie rend caduque la notion d éther luminifère
+hypothèse que soutiennent encore lorentz et poincaré et met en avant
+ce qui sera appelé l « espace temps » une façon de représenter
+l espace et le temps comme deux notions
+inséparables
+des mesures de plus en plus précises redéfinitions du mètre et de la seconde
+le code
+article connexe histoire du mètre
+dans la seconde moitié du xx e siècle des progrès techniques
+permettent de préciser encore plus la valeur de la vitesse de la
+lumière en louis essen détermine que c égale
+± km s en utilisant une cavité résonnante cette
+valeur est adoptée par la e assemblée de l union radio scientifique
+internationale en en le mètre est redéfini en fonction de
+la longueur d onde d une spectrale particulière du krypton en
+c est au tour de la seconde d être redéfinie selon la fréquence
+de transition hyperfine de l état fondamental du césium
+en en utilisant des techniques d interférométrie par laser et les
+nouvelles définitions un groupe du national bureau standards
+détermine que la vitesse de la lumière dans le vide est de
+± m s cette mesure est fois plus précise que la
+plus précise des mesures précédentes l incertitude est surtout
+attribuable à la définition du mètre note d autres
+expériences ayant déterminé la même valeur de c la e conférence
+générale des poids et mesures cpgm tenue en recommande
+d utiliser la valeur de m s pour la vitesse de la
+lumière
+définition de la vitesse de la lumière comme une constante explicite
+le code
+en le e congrès de la conférence générale des poids et mesures
+cgpm conclut que comparativement aux méthodes reconnues par les
+standards en vigueur il est plus facile de reproduire certaines
+longueurs d onde à partir de mesures de fréquences et d une valeur
+connue de c le congrès retient la définition de pour la seconde
+ce qui fait de la fréquence hyperfine du césium la base servant à
+définir la seconde et le mètre le congrès déclare que « le mètre est
+la longueur du trajet parcouru par la lumière dans le vide pendant
+l intervalle temporel de seconde » trad
+en conséquence la valeur de c est définie exactement égale à
+m s et devient ainsi une constante
+définie dans le système international d unités si
+la décision du congrès impose que la valeur du mètre dépende dorénavant
+de mesures plus précises de fréquences ou de longueurs d onde de la
+lumière par exemple en mesurant plus précisément la longueur d onde de
+la transition hyperfine du krypton ou de toute autre source d ondes
+électromagnétiques
+en la cgpm déclare son intention de redéfinir les sept unités de
+base du si en utilisant ce qu elle appelle « la formulation des
+constantes explicites » trad où chaque « unité est définie
+indirectement en spécifiant explicitement une valeur exacte pour une
+constante fondamentale bien connue » trad comme il a été fait pour
+c une nouvelle définition du mètre complètement équivalente est
+proposée « le mètre symbole m est l unité de longueur du si il est
+défini en prenant la valeur numérique fixée de la vitesse de la lumière
+dans le vide c égale à lorsqu elle est exprimée en m s
+la seconde étant définie en fonction de cs » note cette
+définition est inscrite dans le « si révisé »
+rôle fondamental en physique
+le code
+articles connexes relativité restreinte et vitesse de la lumière dans
+un seul sens
+invariance
+le code
+la vitesse à laquelle se déplace la lumière dans le vide est à la fois
+indépendante de la vitesse de la source et du référentiel inertiel de
+l observateur note cette invariance a été postulée
+par albert einstein en après une étude de la théorie de
+l électromagnétisme de james clerk maxwell et du manque de preuve de
+l existence de l éther luminifère son hypothèse a été confirmée à
+maintes reprises par la suite note il est seulement
+possible de vérifier expérimentalement que la vitesse d un rayon de
+lumière effectuant un aller retour par exemple d une source à un
+miroir et vice versa ne dépend pas du référentiel inertiel parce
+qu il est impossible de mesurer la vitesse de la lumière dans un seul
+sens d une source à un très lointain détecteur par exemple sans avoir
+établi au préalable une convention pour synchroniser les horloges à la
+source et au détecteur toutefois en adoptant la synchronisation
+d einstein c dans un sens et c dans un aller retour sont identiques
+par définition
+graphique où la valeur de la variable commence à lorsque v est
+nulle demeure presque constante pour de faibles valeurs de v puis
+augmente brusquement en se rapprochant d une asymptote verticale
+atteignant ainsi l infini positif lorsque v est très près de c le
+facteur de lorentz comme fonction de la vitesse il commence à et
+approche de l infini positif lorsque v tend vers c
+la relativité restreinte fondée par albert einstein en explore
+plusieurs conséquences de l invariance de c par exemple c est la
+vitesse à laquelle toutes les particules sans masse et toutes les ondes
+électromagnétiques se propagent dans le vide cette théorie
+prédit des phénomènes contre intuitifs qui ont été vérifiés
+expérimentalement parmi ceux ci il y a l équivalence
+masse énergie exprimée par
+scriptlevel e m
+c
+x e mc
+e mc la contraction des longueurs les
+objets en mouvement sont plus courts dans le sens du mouvement note
+et la dilatation du temps les horloges en mouvement avancent
+plus lentement le facteur de lorentz noté permet de calculer la
+contraction de la longueur et la dilatation du temps d un objet en
+mouvement il est donné par la formule
+scriptlevel
+v
+c
+x frac sqrt frac
+v c
+frac sqrt frac v c où v
+est la vitesse de l objet et c la vitesse de la lumière la
+valeur de est très proche de aux vitesses beaucoup plus faibles que
+c ce qui est le cas pour la plupart des vitesses observées dans la vie
+courante dans ces cas les valeurs calculées par la relativité
+restreinte sont très proches de celles calculées par la relativité
+galiléenne il augmente sensiblement aux vitesses dites relativistes
+donc proches de c et tend vers l infini positif lorsque v est très
+proche de c par exemple le taux de contraction d un objet en
+mouvement égale lorsque sa vitesse relative atteint de c par
+ailleurs un taux de dilation du temps apparaît lorsque v
+c note
+les résultats de la relativité restreinte peuvent être résumés en
+regroupant l espace et le temps dans une seule structure appelée
+« espace temps » tout en exigeant que soit satisfaite l invariance de
+lorentz dont la formulation mathématique comprend c elle permet
+de relier l espace au temps puisque c comprend à la fois les unités de
+mesure de l espace et du temps l invariance de lorentz une symétrie
+est une hypothèse de base régulièrement mentionnée dans les théories
+physiques fondamentales modernes telles l électrodynamique quantique
+la chromodynamique quantique le modèle standard de la physique des
+particules et la relativité générale en conséquence c apparaît en
+beaucoup d endroits en physique par exemple la relativité générale
+prédit que c est aussi la vitesse de la gravité et des ondes
+gravitationnelles note dans les référentiels non inertiels
+des espaces temps courbés par la gravité ou des référentiels
+accélérés la vitesse de la lumière locale est constante et égale c
+elle peut être différente sur une trajectoire de longueur finie selon
+la façon dont sont définis les distances et les temps
+la plupart des scientifiques pensent que les constantes fondamentales
+telle que c sont identiques peu importe l espace temps choisi elles
+seraient donc indépendantes du lieu et du temps où elles seraient
+calculées ou observées néanmoins des scientifiques ont produit des
+théories où c serait différente selon l époque
+cosmologique aucune preuve concluante qui permettrait de
+valider ces théories n a été trouvée jusqu en et la recherche se
+poursuit
+Également c est régulièrement jugée isotrope c est à dire qu elle a
+la même valeur peu importe sa direction de propagation les
+observations d ondes émises par des noyaux atomiques plongés dans
+un champ magnétique variable et par des résonateurs optiques
+en rotation imposent des limites strictes et très faibles sur
+l imprécision d une anisotropie en fonction de l angle
+d observation
+vitesse limite
+le code
+article détaillé vitesse limite
+selon la relativité restreinte l énergie d un objet ayant une masse au
+repos m et une vitesse v est donnée par mc où est le facteur de
+lorentz qui comprend le terme v quand v est nulle égale un ce
+qui mène à la « fameuse équation »
+scriptlevel e m
+c
+x e mc
+e mc équivalence masse énergie tend vers
+l infini positif lorsque v approche de c et il faudrait une énergie
+encore plus grande jusqu à une valeur infinie pour accélérer encore
+plus un objet pesant pour lui faire atteindre c la vitesse de la
+lumière dans le vide est donc l ultime limite de vitesse pour les
+objets en mouvement dotés d une masse au repos positive les photons
+individuels ne peuvent voyager plus vite que cette
+vitesse ces hypothèses ont été confirmées
+expérimentalement
+relativity simultaneity animation gif lignes de simultanéité les
+deux évènements a b et c sont simultanés pour un observateur immobile
+par rapport aux endroits où ils se produisent en revanche pour un
+observateur se déplaçant rapidement vers la droite ou vers la gauche
+ils ne le sont plus pour l observateur se déplaçant vers la droite à
+une vitesse de c l événement c se produit en premier
+plus généralement il est impossible aux signaux ou à l énergie de
+voyager plus vite que c un argument en faveur de cette position
+provient de la relativité de la simultanéité l une des conséquences de
+la relativité restreinte si la distance spatiale des évènements a et b
+est plus grande que l intervalle de temps entre les deux multiplié par
+c alors il existe des référentiels où a précède b d autres où b
+précède a et d autres où les deux sont simultanés en conséquence si
+quelque chose voyageait plus vite que c relativement à un référentiel
+inertiel il reculerait dans le temps relativement à un autre
+référentiel et la causalité serait violée note
+dit autrement un effet serait observé avant sa cause ce phénomène
+qui n a jamais été observé mènerait par exemple à l existence
+d un antitéléphone tachyonique c est à dire un hypothétique appareil
+qui pourrait être utilisé pour envoyer un signal dans son passé
+albert einstein en présente une expérience de pensée
+où des signaux supraluminiques pourraient provoquer un paradoxe de
+causalité en arnold sommerfeld et einstein le décrivent comme un
+moyen de « télégraphier dans le passé » trad la même
+expérience de pensée a été décrite par richard tolman en
+des scientifiques peuvent faire allusion à cet appareil en mentionnant
+le « paradoxe de tolman » plus tard il a été nommé « antitéléphone
+tachyonique » trad par gregory benford et al
+dans les domaines de la physique où c apparaît régulièrement comme la
+relativité restreinte et la relativité générale il est courant
+d utiliser des systèmes d unités naturelles de mesures ou des systèmes
+d unités géométriques dans lesquelles c note
+observations et expériences de vitesses supraluminiques
+le code
+pour un article plus général voir vitesse supraluminique
+certaines observations laissent penser à tort que la matière
+l énergie ou des signaux transportant des informations se déplacent à
+une vitesse supérieure à c par exemple tel que discuté dans la
+section dans un milieu ci dessous les vitesses de plusieurs
+caractéristiques d ondes peuvent excéder c par exemple les vitesses
+de phase des rayons x lorsqu ils traversent la plupart des verres
+dépassent régulièrement c mais aucune vitesse de phase n influe
+sur la vitesse à laquelle les ondes transportent des
+informations
+si un faisceau laser balaie rapidement un objet distant la vitesse de
+la tache lumineuse peut se déplacer plus rapidement que c il y a un
+délai entre le moment où le faisceau initial quitte le laser et le
+moment où la réflexion du faisceau parvient à un observateur les seuls
+objets qui se déplacent sont le laser et le faisceau la vitesse de ce
+dernier atteignant au plus c avant qu il n atteigne le site de
+réflexion de la même façon une ombre sur un objet lointain peut se
+déplacer plus rapidement que c mais l absence de lumière se déplace à
+c dans ces deux cas ni la matière ni l énergie ni
+l information ne voyagent plus rapidement que la lumière
+la vitesse de changement de la distance entre deux objets observée dans
+un référentiel distinct de ceux des deux objets peut dépasser c encore
+une fois cela ne représente pas la vitesse d un objet dans le même
+référentiel inertiel
+quelques effets quantiques semblent être transmis instantanément et
+seraient donc plus rapides que c par exemple dans le paradoxe epr un
+exemple met en jeu les états quantiques de deux particules intriquées
+tant qu elles ne sont pas observées elles sont superposées dans deux
+états quantiques si les deux sont séparées et que l état de l une est
+observé alors l état de l autre est déterminé instantanément
+néanmoins il est impossible de vérifier dans quel état quantique se
+trouve la première particule sans l observer au préalable donc
+aucune information ne peut être transmise de cette façon
+l effet hartman prédit l existence de vitesses supérieures à c sous
+certaines conditions le temps nécessaire à une particule virtuelle de
+franchir une barrière grâce à un tunnel quantique est constant peu
+importe l épaisseur de la barrière si la barrière est
+suffisamment mince la particule virtuelle franchit la barrière à une
+vitesse supérieure à c encore une fois aucune information ne peut
+être transmise ainsi
+des vitesses supraluminiques sont observées dans certains phénomènes
+astronomiques tels que les jets relativistes de radiogalaxies et
+de quasars ces jets ne se déplacent pas à une vitesse supérieure à
+celle de la lumière c est la conséquence de la projection géométrique
+du mouvement apparent de ces objets qui voyagent à une vitesse proche
+de c et qui sont observés sous un petit angle de la de mire ces
+objets s éloignent de la terre à une vitesse relativiste le temps
+d observation de chaque rayon successif est plus grand que le
+précédent
+selon les modèles inflationnistes de l univers le plus loin se trouve
+une galaxie le plus rapidement elle s éloigne cette récession
+n est pas la conséquence du mouvement dans l espace mais plutôt de
+l expansion de l univers par exemple les galaxies distantes de
+la terre semblent s en éloigner à des vitesses proportionnelles à leur
+distance au delà du volume de hubble la vitesse d éloignement
+est plus grande que c
+propagation de la lumière
+le code
+en physique classique la lumière est considérée comme une onde
+électromagnétique dans ce cadre le comportement du champ
+électromagnétique est décrit par les équations de maxwell qui prédisent
+que c vitesse à laquelle les ondes électromagnétiques dont la lumière
+visible se propagent dans le vide est fonction de la capacité du vide
+et de l inductance du vide ces deux caractéristiques appelées
+respectivement la permittivité du vide
+scriptlevel
+x varepsilon
+varepsilon et la perméabilité du vide
+scriptlevel
+x mu
+mu sont reliées à la vitesse de la lumière
+dans le vide c par l équation
+scriptlevel c
+x c frac sqrt
+varepsilon mu
+c frac sqrt varepsilon mu
+en mécanique quantique approche plus moderne le champ
+électromagnétique est décrit par l électrodynamique quantique qed la
+lumière y est décrite comme une excitation fondamentale ou quanta du
+champ électromagnétique elle est alors composée de photons qui sont
+également des particules sans masse
+des extensions de qed où le photon est doté d une masse ont été
+étudiées dans ces cadres théoriques la vitesse du photon dépendrait
+de sa fréquence et l invariant c de la relativité restreinte serait
+alors la limite ultime de la vitesse de la lumière dans le vide
+toutefois aucune variation de la vitesse de la lumière en fonction de
+la fréquence n a été observée dans des conditions de laboratoire
+rigoureuses lesquelles ont imposé des limites
+strictes sur la masse du photon la limite calculée dépend du modèle
+utilisé si le photon massif est décrit selon l approche de proca par
+exemple alors la limite supérieure expérimentale pour sa masse
+est de gramme
+une autre raison qui militerait en faveur de la vitesse de la lumière
+en fonction de sa fréquence serait l impossibilité d appliquer la
+relativité restreinte à de très petites échelles arbitraires tel que
+prédit par quelques théories s appuyant sur la gravité quantique en
+l observation de sursauts gamma provenant du système stellaire
+grb n a pas démontré que la vitesse du photon dépend de son
+énergie ce qui impose des limites strictes aux modèles de
+quantification de l espace temps qui s appuient sur l idée que cette
+vitesse est influencée par l énergie du photon lorsque les énergies
+sont proches de l échelle de planck
+dans un milieu
+le code
+article connexe indice de réfraction
+un onde modulée se déplace de la gauche vers la droite trois points de
+couleur se déplacent avec l onde modulée un point bleu est arrimé à
+l onde porteuse un point vert est situé sur le maximum de l enveloppe
+et un point rouge est attaché à l avant de l onde porteuse le point
+bleu se déplace à la vitesse des ondulations donc la vitesse de phase
+le point vert se déplace à la vitesse de l enveloppe donc la vitesse
+de groupe le point rouge se déplace à la même vitesse que la plus
+grande partie de l impulsion c est à dire la vitesse de front
+au moins huit vitesses différentes peuvent être utilisées pour
+caractériser la propagation de la lumière à savoir la vitesse de
+phase la vitesse de groupe la vitesse d énergie la
+vitesse de signal la constante de vitesse relativiste la
+vitesse de rapport d unités la centrovitesse et la vitesse de
+corrélation dans le vide toutes ces vitesses sont
+égales à c alors que dans un autre milieu seule la vitesse du front
+d onde conserve cette valeur par ailleurs pour des fréquences
+différentes les vitesses sont différentes dans une onde plane chaque
+crête et chaque creux se propage à v p la vitesse de phase un signal
+physique qui a une portée finie une impulsion de lumière voyage à une
+vitesse différente la plus grande partie d une impulsion voyage à
+v g la vitesse de groupe alors que l autre partie voyage à v f la
+vitesse de front
+la vitesse de phase est importante pour déterminer comment une onde
+lumineuse se propage dans un matériau ou d un matériau à un autre
+régulièrement cette information est décrite par l indice de réfraction
+qui est défini par le rapport de c à la vitesse de phase v p du
+matériel plus grand est l indice plus faible est la vitesse de
+l onde l indice de réfraction dépend de plusieurs facteurs dont la
+fréquence de la lumière son intensité sa polarisation et sa direction
+de propagation néanmoins dans plusieurs cas il est traité comme une
+quantité invariable
+l indice de réfraction de l air est d environ des médias
+plus denses comme l eau le verre et le diamant
+présentent des indices de réfraction d environ et pour la
+lumière visible dans des matériaux exotiques tel le condensat de
+bose einstein maintenu à une température très proche du zéro absolu la
+lumière peut se déplacer à quelques mètres par seconde dans ces cas
+la durée prise par les atomes pour absorber puis émettre la lumière est
+significativement plus longue que si le processus d absorption émission
+avait été réalisé à °c par exemple deux équipes de physiciens ont
+affirmé avoir complètement arrêté la lumière en la faisant passer dans
+un condensat de bose einstein de rubidium l énergie de la lumière est
+stockée dans les atomes qui deviennent ainsi excités puis émise plus
+tard sous forme lumineuse si les atomes sont illuminés par un faisceau
+laser le comportement absorption émission retardée est en général vrai
+au niveau microscopique pour tous les médiums transparents qui
+« ralentissent » la lumière
+dans les matériaux transparents l indice de réfraction est
+habituellement plus grand que ce qui signifie que la vitesse de
+phase est plus petite que c dans certains matériaux l indice de
+réfraction peut être plus faible que à certaines fréquences
+lumineuses dans quelques matériaux exotiques l indice peut être
+négatif l exigence que la causalité ne soit pas violée implique
+que les parties réelle et imaginaire de la permittivité d un matériau
+qui correspondent respectivement à l indice de réfraction et au
+coefficient d extinction soient reliées par les relations de
+kramers kronig en pratique dans un matériau qui présente un
+indice de réfraction inférieur à l absorption de l onde lumineuse
+est si rapide qu aucun signal ne peut être transmis plus vite que c
+une impulsion lumineuse avec des vitesses de groupe v g et de phase
+v p différentes qui survient lorsque la vitesse de phase change
+selon la fréquence des ondes de l impulsion s étale avec le temps un
+processus appelé dispersion quelque matériaux présentent une vitesse
+de groupe très faible ou même nulle pour les ondes lumineuses un
+phénomène appelé lumière lente l opposé
+des vitesses de groupe supérieures à c a aussi été mis en évidence par
+des expériences en théorie la vitesse de groupe pourrait être
+infinie ou négative avec des impulsions voyageant instantanément ou à
+reculons dans le temps néanmoins toutes ces possibilités ne
+permettent pas de transmettre de l information à une vitesse supérieure
+à c il est en effet impossible de transmettre de l information avec
+une impulsion lumineuse plus rapide que la vitesse de la première
+partie d une onde la vitesse de front sous certaines conditions elle
+est toujours égale à c
+faisceau lumineux bleu effet tcherenkov dans un réacteur nucléaire de
+une particule peut voyager plus rapidement que la vitesse de phase de
+la lumière dans un médium cette vitesse étant toujours plus faible que
+c quand une particule chargée se propage ainsi dans un matériau
+diélectrique l équivalent électromagnétique d une onde de choc se
+produit c est l effet tcherenkov
+dans un milieu biréfringent la vitesse de la lumière dépend de son
+plan de polarisation phénomène utilisé dans de très nombreux domaines
+que ce soit la microscopie ou la fabrication de lunettes de
+soleil
+conséquences pratiques de la finitude de c
+le code
+la vitesse de la lumière est importante dans le domaine des
+télécommunications un aller simple et un aller retour ne sont pas
+instantanés cette constatation s applique à tous les objets connus
+dans l univers que ce soit des atomes ou de lointaines galaxies
+quelques techniques s appuient sur la finitude de c notamment en
+métrologie
+À petites échelles
+le code
+armoires posées les unes à côté des autres dans une grande salle orange
+et blanche la puissance de calcul de ce superordinateur basé au cines
+à montpellier en france est en partie limitée par la vitesse de la
+lumière
+dans les superordinateurs la vitesse de la lumière impose une limite à
+la vitesse de transmission de l information entre les processeurs si
+un processeur opère à gigahertz un signal ne peut parcourir qu une
+distance d environ cm par cycle pour une vitesse maximale de
+traitement les processeurs doivent donc être logés les uns près des
+autres pour minimiser la latence de la communication cette contrainte
+peut réduire l efficacité du refroidissement si la cadence de
+l horloge du processeur augmente la vitesse de la lumière devient
+alors une contrainte ferme lors de la conception d une puce
+électronique
+mesures de distances
+le code
+les radars mesurent la distance en calculant le temps pris par un
+signal pour faire l aller retour entre une cible réfléchissante et
+l instrument de lecture la distance entre les deux est
+proportionnelle au temps multiplé par c un récepteur gps calcule de
+même mais en s appuyant sur les signaux émis par plusieurs satellites
+gps qui émettent en continu puisque la lumière parcourt environ
+kilomètres en une seconde les détecteurs embarqués et les
+calculs doivent être d une grande précision le lunar laser
+ranging experiment l astronomie radar et le deep space network
+calculent respectivement les distances à la lune aux
+planètes et aux vaisseaux spatiaux en mesurant les temps
+d aller retour d ondes électromagnétiques
+longs parcours sur la terre
+le code
+puisque la circonférence équatoriale de la terre mesure environ
+km note et que c est d environ km s la durée
+minimale théorique pour qu une information atteigne le point opposé de
+la terre en circulant à sa surface seulement est d environ
+millisecondes quand la lumière circule dans une fibre optique
+autour du globe le temps de transit est plus long entre autres parce
+que la vitesse de la lumière y est diminuée d environ selon
+l indice de réfraction n du matériau de la fibre note de plus le
+signal lumineux doit être régénéré régulièrement ou encore converti en
+signal électronique puis optique ces opérations durent plus longtemps
+que le temps pris par la lumière pour parcourir en droite la
+distance entre l entrée et la sortie de l un de ces appareils
+voyages spatiaux et astronomie
+le code
+le diamètre de la lune est d environ le quart de celui de la terre et
+les deux astres sont séparés d une distance d environ fois le
+diamètre de la terre un rayon lumineux quitte la terre et atteint la
+lune en environ seconde et quart un rayon lumineux cohérent d un
+diamètre très grand est émis de la surface de la terre en direction de
+la lune le début du rayon prend entre et seconde pour
+atteindre la lune la distance entre les deux corps célestes varie avec
+le temps sur le schéma les tailles relatives de la terre et de
+la lune sont à l échelle
+les communications entre la terre et un vaisseau spatial ne sont pas
+instantanées plus les deux sont éloignés plus le délai entre
+l émission et la réception d un signal est grand ce délai est devenu
+apparent lors des communications entre le mission control center de la
+nasa et la capsule d apollo qui orbitait autour de la lune en
+décembre pour chaque question le premier devait attendre au
+moins secondes avant de recevoir une réponse le délai de
+communication entre la terre et mars varie entre et minutes selon
+leur position relative en conséquence si un robot sur mars
+éprouve un problème son contrôleur humain ne le sait pas avant
+minutes et peut être même après minutes il faudrait encore au
+moins de à minutes pour inciter le robot à effectuer une man uvre
+corrective
+la lumière qui provient d objets astronomiques lointains prend encore
+plus de temps pour atteindre la terre par exemple l un des objets
+célestes de l image hubble ultra deep field a émis de la lumière qui a
+parcouru l univers pendant milliards d années avant d être détectée
+par le télescope spatial hubble cette image construite
+aujourd hui capture l état de cette lointaine galaxie voici
+milliards d années quand l univers était âgé d un milliard
+d années
+les distances astronomiques sont parfois exprimées en années lumière
+surtout dans les ouvrages de vulgarisation et dans les médias de
+masse une année lumière est la distance parcourue par la lumière
+dans le vide pendant une année c est à dire environ milliards de
+kilomètres ou parsec proxima centauri l étoile la plus
+proche de la terre après le soleil se trouve à environ
+années lumière
+transactions à haute fréquence
+le code
+la vitesse de la lumière est d une certaine importance dans les
+transactions à haute fréquence où des courtiers tentent de gagner de
+petits avantages financiers en effectuant des transactions une fraction
+de seconde avant leurs compétiteurs par exemple des courtiers
+préfèrent utiliser des systèmes de communication à micro ondes parce
+que ces ondes circulent presque à c alors que la lumière dans les
+fibres optiques voyage de à moins rapidement
+mesures
+le code
+on peut mesurer c de plusieurs façons par exemple en observant la
+façon dont les ondes lumineuses se propagent grâce à des instruments
+astronomiques on peut la mesurer en fonction de constantes connues
+telles la permittivité du vide
+scriptlevel
+x epsilon
+epsilon et la perméabilité du vide
+scriptlevel
+x mu
+mu on peut également calculer cette valeur en
+connaissant la longueur d onde et la fréquence d une onde lumineuse
+puisque leur produit égale c
+depuis le système international d unités si fixe la vitesse de
+la lumière à exactement m s en tant
+que constante dotée d unités de mesure la valeur numérique de c
+diffère selon le système d unités note
+la question de la constance de la vitesse de la lumière dans le vide ne
+peut être tranchée puisqu il est théoriquement possible que les photons
+aient une masse non nulle les mesures ne peuvent que plafonner cette
+masse hypothétique et non prouver qu elle est rigoureusement nulle
+toutefois même s il était avéré que les photons ont une masse cela ne
+remettrait pas en cause le principe de la constante c mais donnerait
+plutôt une limite de précision de son observabilité dans les modèles de
+référence
+mesures astronomiques
+le code
+le milieu interstellaire est un lieu pertinent pour mesurer la vitesse
+de la lumière à cause de sa grandeur et de l absence quasi totale
+d obstacles sur de grandes distances historiquement les scientifiques
+ont mesuré le temps de parcours de la lumière en fonction d une
+distance connue dans le système solaire tel le diamètre de l orbite
+terrestre
+ole christensen rømer effectue en une mesure astronomique qui lui
+permet de prédire que la vitesse de la lumière est finie
+représentation de l orbite de la terre et de jupiter autour du soleil
+accompagné d un graphe montrant les distances terre soleil
+jupiter soleil et terre jupiter les deux premières sont constantes
+tandis que la distance terre jupiter varie en forme de sinus depuis la
+terre si on observe jupiter selon l axe soleil jupiter une partie de
+jupiter est éclairée et le reste se trouve dans l ombre la lune io de
+jupiter subit régulièrement une éclipse solaire parce qu une partie de
+son orbite se trouve dans l ombre de jupiter la période d io change
+très peu d une année à l autre
+pourtant rømer observe que les débuts et les fins des éclipses d io ne
+correspondent pas aux heures calculées puisque la période orbitale de
+io est invariable et que l observation de cette lune indique que cette
+période varie il faut conclure que la vitesse de la lumière est finie
+le soleil la terre et jupiter forment un triangle dont l angle
+terre soleil jupiter peut être mesuré de plus les rayons des orbites
+terrestre et jovienne sont connus on peut donc calculer la distance
+terre jupiter au e jour de l orbite terrestre par exemple par la
+loi des cosinus une fois cette distance connue ainsi que la différence
+entre le temps calculé et le temps d observation on peut déterminer la
+vitesse de la lumière soit le rapport distance au temps
+entre et rømer observe une variation dans la durée de
+l orbite de la lune io de jupiter et déduit que la lumière prend
+de à minutes pour parcourir le diamètre de l orbite
+terrestre c est néanmoins christian huygens qui calcule
+la vitesse de la lumière à partir des observations astronomiques de
+rømer et de jean dominique cassini km s probablement parce
+que rømer doutait de sa capacité à pouvoir calculer la valeur numérique
+d une telle grandeur et que cassini rejetait l hypothèse de
+rømer
+une étoile distante émet un rayon de lumière qui atteint l objectif
+d un télescope pendant que la lumière se propage dans le télescope il
+se déplace vers la droite pour que le rayon atteigne l autre bout du
+télescope il doit se propager sans réflexion à l intérieure du tube
+le télescope doit donc être légèrement penché vers la droite ce qui
+donne l impression que la source se trouve plus à la droite que sa
+position calculée aberration de la lumière un rayon de lumière d une
+source lointaine semble se trouver à une position différente de celle
+calculée lorsqu on l observe avec un télescope mobile parce que c est
+finie
+une autre méthode pour mesurer c est d utiliser l aberration de la
+lumière découverte et expliquée par james bradley au
+xviii e siècle cet effet s explique par l addition vectorielle de
+la vitesse de la lumière qui provient d une source lointaine comme une
+étoile et la vitesse du télescope voir les explications du diagramme
+à la droite un observateur mobile voit un rayon de lumière d une
+direction légèrement différente et en conséquence observe la source à
+une position décalée par rapport à sa position calculée cet effet est
+la source du mouvement apparent des étoiles dans le ciel puisque la
+direction de la vitesse de la terre change continuellement elle orbite
+autour du soleil et tourne sur elle même À partir de la différence
+angulaire de la position des étoiles secondes d arc il
+est possible de déterminer c en fonction de la vitesse de la terre
+autour du soleil connaissant la durée de son orbite complète en
+bradley détermine que c est fois plus élevée que la vitesse
+orbitale de la terre note de façon équivalente il faut
+min s pour que la lumière parcoure la distance soleil terre
+unité astronomique
+le code
+une unité astronomique ua est à peu près la distance moyenne entre la
+terre et le soleil en elle a été fixée à exactement
+m auparavant elle n était pas définie
+selon les unités du système international d unités mais selon la force
+gravitationnelle exercée par le soleil dans un référentiel de mécanique
+classique note
+auparavant l inverse de c exprimé en secondes par ua était mesuré en
+comparant le temps pour un signal radio à atteindre différents
+vaisseaux spatiaux dans le système solaire leur position étant
+calculée en fonction des effets gravitationnels du soleil et de
+planètes en calculant une moyenne de plusieurs mesures une valeur du
+temps lumière par unité de distance s obtient par meilleur ajustement
+par exemple en la meilleure estimation approuvée par l union
+astronomique internationale uai est de
+temps lumière par unité de distance
+scriptlevel t
+u a
+mspace
+thinmathspace mspace
+thinmathspace ±
+mspace thinmathspace
+s
+x
+t ua pm text s
+t ua pm text s
+scriptlevel c
+mspace thinmathspace
+mspace thinmathspace
+mspace thinmathspace mspace
+thinmathspace ±
+mspace thinmathspace
+ua s
+mspace thinmathspace
+mspace thinmathspace ±
+mspace thinmathspace
+ua jour
+x
+text ua s pm
+text ua jour
+c pm
+text ua s pm text ua jour
+l incertitude relative est de parties par milliard ×
+équivalente à l incertitude de la mesure terrestre d une distance par
+interférométrie puisque le mètre est défini comme la distance
+parcourue par la lumière en un certain intervalle de temps la mesure
+du temps de parcours selon la définition précédente peut aussi être
+interprétée comme la longueur de l ua ancienne définition en
+mètres note
+temps de vol
+le code
+une photo d un long tube traversant un champ et un diagramme et
+diagramme montrant un tube interrompu par plusieurs éléments dans
+lesquels se trouvent des miroirs la photo montre le montage utilisé
+par albert michelson francis pease et fred pearson en pour
+mesurer plus précisément c les scientifiques ont recours à un miroir
+rotatif et une tube sous vide long de km mile qu un faisceau de
+lumière parcourt fois c est à dire miles le diagramme à
+la droite montre quelques éléments du montage un faisceau de lumière
+traverse horizontalement un miroir semi teinté puis une roue dentelée
+en rotation est réfléchie sur le miroir est redirigé vers les dents
+de la roue puis réfléchie à travers un miroir semi teinté dans une
+lunette diagramme de l expérience de fizeau
+une méthode pour déterminer c est de mesurer le temps pour un faisceau
+lumineux d atteindre un lointain miroir et d en revenir méthode
+qu utilise hippolyte fizeau en le montage de fizeau
+consiste en un faisceau de lumière dirigé vers un miroir à environ km
+de la source et qui tombe sur les dents d une roue dentelée en
+rotation lorsque cette roue atteint une certaine vitesse de rotation
+le faisceau passe entre une paire de dents est réfléchi puis passe
+entre la paire de dents suivante connaissant la distante entre la roue
+et le miroir la distance entre deux dents et la vitesse de rotation
+la vitesse de la lumière peut être calculée
+léon foucault préfère utiliser un miroir rotatif dans son expérience
+réalisée en un faisceau de lumière tombe sur le miroir rotatif
+pendant que le faisceau se dirige vers le miroir fixe puis est
+réfléchi le miroir rotatif continue de tourner et le faisceau est
+réfléchi sur ce miroir rotatif à un angle différent de celui au début
+de son trajet connaissant la différence d angle la vitesse de
+rotation du miroir rotatif et la distance au miroir fixe il est
+possible de calculer c
+au xxi e siècle en utilisant un oscilloscope plus précis que la
+nanoseconde c peut être déterminée en mesurant le temps pris par
+l impulsion lumineuse d un laser ou d une del réfléchie par un
+miroir la valeur obtenue est moins précise de l ordre de que
+celles obtenues par un laboratoire proprement doté mais elle a
+l avantage de pouvoir être reproduite dans un laboratoire universitaire
+ordinaire
+en septembre la collaboration de physiciens travaillant sur
+l expérience opera annonce que le temps de vol mesuré de neutrinos
+produits au cern est inférieur de ns à celui attendu pour des
+particules se déplaçant à la vitesse de la lumière le
+juin la collaboration annonce que l anomalie est en fait liée à
+une erreur de mesure due au branchement défectueux d un câble de
+synchronisation optique des horloges atomiques et que la vitesse
+mesurée des neutrinos est compatible avec celle de la lumière
+constantes électromagnétiques
+le code
+une façon d obtenir la valeur de c sans s appuyer sur des mesures en
+lien avec la propagation d ondes électromagnétiques est d utiliser la
+relation entre c la permittivité du vide
+scriptlevel
+x epsilon
+epsilon et la perméabilité du vide
+scriptlevel
+x mu
+mu tel que démontré par maxwell
+scriptlevel c
+x c sqrt mu
+epsilon
+c sqrt mu epsilon la
+permittivité peut être déterminée en mesurant la capacité électrique et
+les dimensions d un condensateur alors que la perméabilité est fixée à
+exactement × h m à la suite de la définition de l ampère rosa
+et dorsey empruntent cette voie en et calculent
+± km s
+cavité résonnante
+le code
+une boîte en d avec trois ondes au centre la longueur d onde est de
+en haut elle est de et demie en bas elle est d une demie
+schéma d une cavité résonnante avec des ondes stationnaires dont les
+longueurs d onde sont des multiples de
+c se calcule par la relation
+scriptlevel c f
+x c f lambda
+c f lambda donc c peut être établie si l on
+mesure de façon indépendante la fréquence
+scriptlevel f
+x f
+f et la longueur d onde
+scriptlevel
+x lambda
+lambda d une onde électromagnétique dans le vide
+une autre façon de faire est de mesurer la fréquence de résonance dans
+une cavité résonnante si les dimensions de la cavité sont connues on
+peut alors trouver la longueur d onde en louis essen et a c
+gordon smith établissent plusieurs modes normaux des micro ondes dans
+une cavité résonnante dont les dimensions sont connues avec une
+incertitude de ± m grâce à des mesures par interférométrie
+puisque les longueurs d onde des modes normaux sont connues grâce à
+l électromagnétisme la valeur de c peut être calculée pour plusieurs
+fréquences le résultat d essen gordon smith
+± km s est significativement plus précis que ceux obtenus
+par des méthodes optiques en essen affirme après avoir
+mené une suite d expériences avoir obtenu ± km s pour
+une démonstration maison de cette technique peut se faire avec un four
+à micro ondes et une substance fusible telles que des guimauves ou de
+la margarine si la table pivotante est retirée de façon que l aliment
+reste immobile le four va cuire plus rapidement aux anti n uds les
+points où l amplitude de l onde est la plus grande donc aux points
+où l aliment fond le plus rapidement la distance entre deux points est
+la moitié de la longueur d onde des micro ondes en mesurant cette
+distance et en multipliant par la fréquence des micro ondes inscrite
+sur la plaque signalétique du four habituellement mhz la
+valeur de c peut être calculée « souvent avec une erreur inférieure à
+» trad
+interférométrie
+le code
+un faisceau de lumière cohérente par exemple un laser d une
+fréquence connue
+scriptlevel f
+x f
+f est divisé en deux chaque partie suit un trajet
+différent puis elles sont recombinées en modifiant et mesurant avec
+précision la longueur d un trajet tout en observant le motif
+d interférence la longueur d onde
+scriptlevel
+x lambda
+lambda peut être déterminée la vitesse de la
+lumière est donnée par
+scriptlevel c f
+x c f lambda
+c f lambda
+schéma conceptuel décrivant l usage de l interférométrie pour trouver
+la longueur d onde d une onde électromagnétique puis c
+schéma
+dans le schéma les deux rectangles représentent des sources de lumière
+cohérente des lasers par exemple et les segments obliques sont des
+miroirs semi transparents alors que les segments horizontaux en haut
+et les segments verticaux sont des miroirs
+dans la moitié gauche un faisceau de lumière de fréquence connue
+scriptlevel f
+x f
+f est issu de la source cohérente il est en partie
+réfléchi vers le haut en partie transmis à travers le miroir
+semi transparent la partie qui monte est ensuite réfléchie vers le bas
+par le miroir horizontal pour sa part la partie de faisceau qui a
+traversé le miroir est réfléchie par le miroir vertical si la distance
+entre le bas du miroir oblique et le miroir horizontal est un multiple
+de la longueur d onde
+scriptlevel
+x lambda
+lambda alors les deux parties qui sont des ondes
+formeront une interférence constructive la courbe rose dans le motif
+en bas à la gauche
+dans la moitié droite un faisceau lumineux subit les mêmes
+transformations mais la distance entre le bas du miroir oblique et le
+miroir horizontal est un multiple de
+scriptlevel
+x lambda
+lambda plus
+scriptlevel
+x lambda
+lambda les deux parties toujours des ondes
+formeront une interférence destructive la courbe rose aplatie dans le
+motif en bas à la droite
+lorsqu il y a interférence constructive l observateur est illuminé par
+le faisceau recombiné s il y a interférence destructive il ne voit
+que du noir
+donc en ajustant la longueur du trajet d un faisceau lumineux tout en
+observant les motifs d interférence
+scriptlevel
+x lambda
+lambda peut être déterminée
+avant la démocratisation des lasers les sources d ondes radio
+cohérentes ont servi à déterminer c par interférométrie
+toutefois la détermination de la longueur d onde par interférométrie
+devient de moins en moins précise au fur et à mesure que la longueur
+d onde augmente dans la pratique les expériences perdent beaucoup de
+précision lorsque les longueurs d onde dépassent mm la précision
+peut être augmentée en utilisant de la lumière de plus courte longueur
+d onde mais il devient alors difficile de mesurer directement sa
+fréquence une voie de contournement est de commencer avec un faisceau
+de faible fréquence pour lequel celle ci peut être mesurée ensuite
+synthétiser des ondes de plus grandes fréquences qui peuvent être liées
+au faisceau de départ un laser peut ensuite être syntonisé sur cette
+fréquence sa longueur d onde est alors mesurée par
+interférométrie cette technique mise au point par une équipe du
+national bureau standards a été utilisée en pour mesurer la
+vitesse de la lumière dans le vide à une précision relative de
+×
+Éponymie
+le code
+l astéroïde celeritas est nommé en référence à la vitesse de
+la lumière dans le vide le mot celeritas signifie « vitesse » en
+latin ce nom fait écho au numéro de l astéroïde qui correspond à
+l arrondi à l unité près à la valeur en km s de la vitesse de la
+lumière dans le vide
+notes et références
+le code
+en cet article est partiellement ou en totalité issu de la page de
+wikipédia en anglais intitulée « speed light » voir la liste des
+auteurs
+citations originales
+le code
+en « light is due to presence something but it is not a
+movement »
+en « seven or eight minutes »
+en « metre is length equal to wavelengths
+vacuum radiation corresponding to transition between
+levels p and d krypton atom »
+en « length path travelled by light vacuum during
+a time interval a second »
+en « explicit constant formulation »
+en « unit is defined indirectly by specifying explicitly an
+exact value for a well recognized fundamental constant »
+en « to telegraph into past »
+en « tachyonic antitelephone »
+en « often with less than error »
+notes
+le code
+galilée rapporte que les lanternes se trouvaient à une courte
+distance moins de km mile en supposant que cette distance
+soit vraie et qu « au moins un trentième de seconde est
+l intervalle minimum de temps pour la détection par un il nu
+« about a thirtieth a second is minimum time interval
+distinguishable by unaided eye » boyer avance que
+l expérience de galilée ne pouvait que donner une limite basse
+d environ km s pour la vitesse de la lumière
+pour cette distance le délai serait d environ microsecondes
+c est à dire de moins que la valeur moderne
+la valeur avancée au xxi e siècle est min s
+au xxi e siècle c est fois
+situation analogue au déplacement d un corps physique dans
+l atmosphère terrestre lorsque nous marchons on perçoit très peu
+ou pas la résistance de l air alors que si nous sommes dans un
+véhicule à haute vitesse la résistance de l air est perceptible
+entre et le mètre est défini ainsi « le mètre est la
+longueur égale à longueurs d onde dans le vide de la
+radiation qui correspond à la transition entre les niveaux p et
+d de l atome de krypton » trad dans les années
+des scientifiques découvrent que la raie du spectre lumineux
+n est pas symétrique ce qui augmente l imprécision sur la largeur
+de la raie lorsqu elle est calculée en se basant sur
+l interférométrie
+la seconde est alors définie par la durée de cycles
+de la radiation émise lors de la transition d un électron entre
+deux niveaux d énergie précis de l atome de césium
+néanmoins à cause de l effet doppler la fréquence de la lumière
+dépend du mouvement de la source par rapport à un observateur
+voyez par exemple l expérience de michelson morley et
+l expérience de kennedy thorndike
+pour les objets en mouvement leur longueur est plus courte dans
+le sens du mouvement et ils sont aussi observés à la fois pivotés
+et déformés c est la rotation de terrell qui est la conséquence
+des temps que prennent les rayons lumineux des différentes parties
+d un objet à atteindre un observateur
+en effet
+si v c alors
+scriptlevel
+stretchy c
+stretchy
+c
+x frac
+sqrt frac c c
+frac sqrt frac
+si v c alors
+scriptlevel
+stretchy c
+stretchy
+c
+x frac
+sqrt frac c c
+frac sqrt frac
+en l interprétation d observations de systèmes binaires
+utilisés pour déterminer la vitesse de la gravité est mise en doute
+par quelques auteurs
+des scientifiques pensent que l effet scharnhorst permet à des
+signaux de voyager un peu plus rapidement que la lumière dans le
+vide mais les conditions requises pour observer de tels signaux
+interdisent d utiliser cet effet pour violer la causalité
+de cette façon c n apparaît pas explicitement parce que la
+multiplication ou la division par ne modifie pas le résultat
+la terre est une boule presque parfaite le rayon moyen de la
+terre est de km selon luzum et al p en
+appliquant la formule c r qui permet de trouver la
+circonférence d une boule on trouve c km
+dans les fibres optiques l indice de réfraction se situe le plus
+souvent entre et
+la vitesse de la lumière dans le système anglo saxon et dans le
+système américain est basé sur le pouce ayant la valeur exacte de
+cm et elle égale donc
+m s × cm m × po cm qui est
+approximativement de miles verges pieds et
+pouces par seconde
+la science moderne l établit à fois plus élevée
+l unité astronomique a été définie comme le rayon d une orbite
+newtonienne circulaire non perturbée autour du soleil d une
+particule dotée d une masse infinitésimale se déplaçant à une
+fréquence angulaire de radian par jour environ
+d une révolution terrestre
+néanmoins à cette précision les effets de la relativité
+générale doivent être pris en compte lors de l interprétation de la
+longueur le mètre est considéré comme une unité de longueur
+propre alors que l ua est habituellement utilisée comme une unité
+de la longueur observée dans un référentiel donné les valeurs
+données ici suivent cette deuxième convention et sont compatibles
+avec le temps dynamique barycentrique tdb
+références
+le code
+en p gibbs « why is c symbol for speed light »
+sur usenet physics faq university california riverside
+consulté le novembre
+« origins letter c being used for speed light can
+be traced back to a paper by weber and kohlrausch
+weber apparently meant c to stand for constant his force law
+but there is evidence that physicists such as lorentz and einstein
+were accustomed to a common convention that c could be used as a
+variable for velocity this usage can be traced back to classic
+latin texts which c stood for celeritas meaning speed »
+en k s mendelson « story c » american journal
+physics vol n o p issn
+doi bibcode amjph m
+marc séguin et benoît villeuneuve astronomie et astrophysique
+cinq grandes idées pour explorer et comprendre l univers vol
+erpi p isbn p
+consulter par exemple
+en d r lide crc handbook chemistry and physics crc
+press isbn en p
+en j w harris et al handbook physics springer
+isbn en p
+en j c whitaker electronics handbook crc press
+isbn en p
+en e r cohen quantities units and symbols physical
+chemistry royal society chemistry e éd
+isbn en p
+en bureau international des poids et mesures international
+system units si th isbn en
+pdf p
+a et b en g galilei h crew et a de salvio trad
+dialogues concerning two new sciences dover publications
+re éd isbn en p
+a b et c en c b boyer « early estimates velocity
+light » isis vol n o p doi
+s cid
+en renato foschi et matteo leone « galileo measurement
+velocity light and reaction times » perception vol
+n o p pmid doi p
+hdl s cid
+a et b en renato foschi et matteo leone « galileo
+measurement velocity light and reaction times »
+perception vol n o p pmid
+doi p hdl s cid
+a et b it lorenzo magalotti saggi di naturali esperienze
+fatte nell accademia del cimento florence istituto e museo di
+storia delle scienze re éd en
+numérique
+a b et c « demonstration tovchant le mouvement de la lumiere
+trouvé par m r mer de l académie royale des sciences » journal
+des sçavans p en pdf
+traduit en anglais dans « a demonstration concerning
+motion light communicated from paris journal
+des sçavans and here made english » philosophical
+transactions royal society vol n o
+p doi rstl
+bibcode rspt
+article reproduit dans en c hutton dir g
+shaw dir et r pearson dir « on motion
+light by m romer » dans philosophical
+transactions royal society london from
+their commencement year
+abridged vol ii from to londres c
+r baldwin en p
+le rapport publié dans le journal des sçavans est inspiré
+du rapport que rømer a lu devant l académie des sciences
+de la france en novembre voir cohen p
+a et b c huygens traitée de la lumière pierre van der aa
+en p
+a b c d et e en p gibbs « how is speed light
+measured » sur usenet physics faq university california
+riverside consulté le janvier
+a b c d et e en l essen et a c gordon smith « velocity
+propagation electromagnetic waves derived from resonant
+frequencies a cylindrical cavity resonator » proceedings
+royal society london a vol n o p
+doi rspa jstor
+bibcode rspsa e
+a et b en e b rosa et n e dorsey « a new determination
+ratio electromagnetic to electrostatic unit
+electricity » bulletin bureau standards vol n o
+p doi bulletin accès libre
+en a a michelson « measurement velocity light
+between mount wilson and mount san antonio » astrophysical
+journal vol p doi
+bibcode apj m
+a b et c en l essen « velocity propagation
+electromagnetic waves derived from resonant frequencies a
+cylindrical cavity resonator » proceedings royal society
+london a vol n o p
+doi rspa jstor
+bibcode rspsa e s cid
+a et b en k d froome « a new determination
+free space velocity electromagnetic waves » proceedings
+royal society london series a mathematical and physical
+sciences vol n o p
+doi rspa jstor
+bibcode rspsa f s cid
+a b et c en k m evenson et al « speed light from direct
+frequency and wavelength measurements methane stabilized
+laser » physical review letters vol n o
+p doi physrevlett
+bibcode phrvl e s cid en
+a et b « résolution de la e cgpm » bipm consulté le
+en john weiner et frederico nunes light matter interaction
+physics and engineering at nanoscale oup oxford édition
+illustrée isbn en p
+en g sarton ancient science through golden age greece
+courier dover isbn en
+a b et c en r h mackay et r w oldford « scientific
+method statistical method and speed light » statistical
+science vol n o p
+doi ss en cliquer sur historical
+background dans la table des matières
+en sherif sayed ahmed electronic microwave imaging with planar
+multistatic arrays logos verlag berlin
+isbn en p
+en c g gross « fire that comes from eye »
+neuroscientist vol p
+doi s cid
+en s hamarneh « review hakim mohammed said ibn
+al haitham » isis vol n o p
+a et b en p m lester visual communication images with
+messages thomson wadsworth p
+en j j o connor et e f robertson « abu ali al hasan ibn
+al haytham » sur mactutor history mathematics archive
+university st andrews consulté le janvier
+en p lauginie « measuring speed light why speed
+what » en consulté le août pdf
+fifth international conference for history science science
+education
+en j j o connor et e f robertson « abu han muhammad ibn
+ahmad al biruni » sur mactutor history mathematics archive
+university st andrews consulté le janvier
+en d c lindberg roger bacon and origins perspectiva
+middle ages a critical edition and english translation
+bacon s perspectiva with introduction and notes oxford university
+press isbn en p
+en d c lindberg « late thirteenth century synthesis
+optics » dans edward grant a source book medieval science
+harvard university press isbn en
+p
+en p marshall « nicole oresme on nature reflection and
+speed light » isis vol n o p
+doi s cid
+en florian cajori a history physics its elementary
+branches including evolution physical laboratories
+en carl benjamin boyer rainbow from myth to mathematics
+a et b en i b cohen « roemer and first determination
+velocity light » isis vol n o
+p doi hdl uc b
+s cid en
+la i newton optiks en « prop xi »
+le texte de la prop xi est identique dans les éditions de
+et de
+a b c et d en j bradley « account a new discovered motion
+fix d stars » philosophical transactions vol
+p en
+en m guarnieri « two millennia light long path to
+maxwell s waves » ieee industrial electronics magazine vol
+n o p doi mie
+s cid
+de g kirchhoff « Über die bewegung der elektricität » ann
+phys vol n o p
+doi andp bibcode anp k en
+en nicholas j giordano college physics reasoning and
+relationships cengage learning isbn
+en p extract page
+en peter gabriel bergmann riddle gravitation courier
+dover publications isbn en
+p extract page
+en sander bais equations icons knowledge harvard
+university press isbn en
+en j j o connor et e f robertson « james clerk maxwell »
+school mathematics and statistics university st andrews
+novembre
+richard feynman trad françoise balibar et alain laverne
+lumière et matière une étrange histoire « qed strange
+theory light and matter » interÉditions coll « sciences »
+re éd p isbn p
+a et b serway p
+serway p
+serway p
+en maurizio consoli et alessandro pluchino michelson morley
+experiments an enigma for physics history science world
+scientific isbn en
+en a a michelson et e w morley « on relative motion
+earth and luminiferous ether » american journal
+science vol n o p
+doi s cid en
+en a p french special relativity van nostrand reinhold
+isbn p
+en o darrigol electrodynamics from ampère to einstein
+clarendon press isbn en
+en p galison einstein s clocks poincaré s maps empires
+time w w norton isbn
+serway p
+en a i miller albert einstein s special theory
+relativity emergence and early interpretation
+addison wesley isbn en
+en a pais subtle is lord science and life
+albert einstein oxford university press
+en « resolution th cgpm » bipm consulté le
+en « resolution th cgpm » bipm consulté le
+octobre
+en r barger et j hall « wavelength m
+laser saturated absorption line methane » applied physics
+letters vol n o p doi
+bibcode apphl b s cid en
+en « resolution th cgpm » bipm consulté le
+septembre
+en e f taylor et j a wheeler spacetime physics
+introduction to special relativity macmillan e éd
+isbn en
+en w b penzes « time line for definition meter »
+pdf nist consulté le janvier
+en r penrose road to reality a complete guide to
+laws universe vintage books isbn
+en p
+« most accurate standard for metre is conveniently
+defined so that there are exactly them to
+distance travelled by light a standard second giving a value for
+metre that very accurately matches now inadequately precise
+standard metre rule paris »
+a et b en j jespersen j fitz randolph et j robb from
+sundials to atomic clocks understanding time and frequency
+courier dover reprint national bureau standards
+nd éd isbn en p
+en s adams relativity an introduction to space time physics
+crc press isbn en p
+« one peculiar consequence this system definitions is that any
+future refinement our ability to measure c will not change
+speed light which is a defined number but will change
+length meter »
+en w rindler relativity special general and cosmological
+oxford university press e éd isbn
+en p
+« note that improvements experimental accuracy will modify
+meter relative to atomic wavelengths but not value
+speed light »
+en « explicit constant formulation » sur bipm
+en « base unit definitions second » sur physics nist gov
+consulté le avril
+conférence générale des poids et mesures comptes rendus de la
+e réunion de la cgpm bureau international des poids et mesures
+en pdf « annexe les unités de base du si »
+a et b en b sriranjan « postulates special theory
+relativity and their consequences » dans special theory to
+relativity phi learning pvt ltd isbn
+en p et suiv
+a et b en r d inverno introducing einstein s relativity
+oxford university press isbn en
+p
+en j j stachel einstein from b to z volume
+einstein studies springer isbn en
+p
+de a einstein « zur elektrodynamik bewegter körper » annalen
+der physik vol n o p
+doi andp accès libre
+bibcode anp e en
+traduit en anglais en w perrett trad g b
+jeffery « on electrodynamics moving bodies » sur
+fourmilab j walker
+traduit en français à partir d une version publiée par le
+physicien indien meghnad saha en albert einstein
+trad cantons de l est et simon villeneuve « de
+l électrodynamique des corps en mouvement » sur les
+classiques des sciences sociales
+serway p
+en j p hsu et y z zhang lorentz and poincaré invariance
+vol world scientific coll « advanced series on theoretical
+physical science » isbn en
+p et suiv
+a et b en y z zhang special relativity and its experimental
+foundations vol world scientific coll « advanced series on
+theoretical physical science » isbn
+en p
+en t roberts dir et s schleif « what is experimental
+basis special relativity » sur usenet physics faq university
+california riverside
+en j p uzan et b leclercq natural laws universe
+understanding fundamental constants springer
+isbn en p
+james h smith introduction à la relativité intereditions
+chap « § le paradoxe des longueurs et la simultanéité »
+réédité par masson dunod e édition
+en j terrell « invisibility lorentz contraction »
+physical review vol n o p
+doi physrev bibcode phrv t
+en r penrose « apparent shape a relativistically
+moving sphere » proceedings cambridge philosophical
+society vol n o p
+doi s bibcode pcps p
+david langlois introduction à la relativité principes
+fondamentaux et conséquences physiques vuibert juillet
+richard taillet loïc villain et pascal febvre dictionnaire de
+physique paris de boeck supérieur p
+isbn p col
+a et b douglas c giancoli paul Étienne ouellet adaptation
+louis andré hamel consult scient et j m luc ouellet consult
+scient physique générale ondes optique et physique moderne
+vol ondes optique et physique moderne de boeck p
+isbn en p
+en graham woan cambridge handbook physics cambridge
+university press isbn p consulter le
+graphique
+en j b hartle gravity an introduction to einstein s general
+relativity addison wesley isbn en
+p
+en j b hartle gravity an introduction to einstein s general
+relativity addison wesley isbn p
+en g schäfer et m h brügmann « propagation light
+gravitational field binary systems to quadratic order
+newton s gravitational constant part on speed gravity
+controversy » dans h dittus c lämmerzahl et s g turyshev
+lasers clocks and drag free control exploration relativistic
+gravity space springer isbn en
+a et b en p gibbs dir et s carlip « is speed
+light constant » sur usenet physics faq university
+california riverside consulté le novembre
+en g f r ellis et j p uzan « c is speed light
+isn t it » american journal physics vol n o
+p doi bibcode amjph e
+arxiv gr qc s cid
+« possibility that fundamental constants may vary
+during evolution universe offers an exceptional
+window onto higher dimensional theories and is probably
+linked with nature dark energy that makes
+universe accelerate today »
+en d f mota variations fine structure constant
+space and time thèse doctorale
+bibcode astro ph m arxiv astro ph
+en j p uzan « fundamental constants and their variation
+observational status and theoretical motivations » reviews
+modern physics vol n o p
+doi revmodphys bibcode rvmp u
+arxiv hep ph s cid
+en g amelino camelia « quantum gravity phenomenology »
+living reviews relativity vol n o p
+pmid pmcid doi lrr
+bibcode lrr a arxiv
+en r l walsworth « tests lorentz symmetry
+spin coupling sector » dans jürgen ehlers et claus lämmerzahl
+special relativity vol springer
+isbn doi x p
+en s herrmann a senger k möhle m nagel e v kovalchuk
+et a peters « rotating optical cavity experiment testing lorentz
+invariance at level » physical review d vol
+n o p doi physrevd
+bibcode phrvd j h arxiv s cid
+en k r lang astrophysical formulae birkhäuser
+e éd isbn en p
+en david bodanis e mc a biography world s most famous
+equation doubleday canada p
+en deborah netburn « it s official time machines won t
+work » sur los angeles times juillet
+en « hkust professors prove single photons do not exceed
+speed light » sur hong kong university science and
+technology juillet
+en shanchao zhang j f chen chang liu m m t loy g k l
+wong et shengwang du « optical precursor a single photon »
+phys rev lett vol n o juin p
+pmid doi physrevlett
+bibcode phrvl x z en pdf
+en m fowler notes on special relativity university
+virginia mars en pdf p
+en s liberati s sonego et m visser « faster than c
+signals special relativity and causality » annals physics
+vol n o p doi aphy
+bibcode anphy l arxiv gr qc s cid
+en e f taylor et j a wheeler spacetime physics w h
+freeman isbn en p
+en r c tolman theory relativity motion
+bibliolife re éd isbn
+« velocities greater than that light » p
+de albert einstein « Über das relativitätsprinzip und die aus
+demselben gezogenen folgerungen » « on relativity principle
+and conclusions drawn from it » jahrbuch der radioaktivität
+und elektronik vol p en pdf
+en albert einstein « on relativity principle and
+conclusions drawn from it » dans john stachel david c cassidy
+jürgen renn et robert schulmann collected papers albert
+einstein volume swiss years writings
+princeton princeton university press isbn
+en p
+en a i miller albert einstein s special theory
+relativity emergence and early interpretation
+reading addison wesley isbn en
+en r c tolman « velocities greater than that light »
+dans theory relativity motion university
+california press oclc en p
+en gregory benford d l book et w a newcomb «
+tachyonic antitelephone » physical review d vol n o
+p doi physrevd
+bibcode phrvd b s cid en pdf
+en i d lawrie « appendix c natural units » dans a unified
+grand tour theoretical physics crc press e éd
+isbn en p
+en l hsu « appendix a systems units and development
+relativity theories » dans a broader view relativity
+general implications lorentz and poincaré invariance world
+scientific e éd isbn en
+en e hecht optics addison wesley e éd
+isbn p
+en r s quimby photonics and lasers an introduction john
+wiley and sons isbn en p
+en m wertheim « shadow goes » new york times
+juin en consulté le août
+a b et c en p gibbs « is faster than light travel or
+communication possible » sur usenet physics faq university
+california riverside
+en s f tuan dir et j j sakurai modern quantum
+mechanics addison wesley isbn en
+p
+en j g muga dir r s mayato dir et i l egusquiza
+dir time quantum mechanics springer
+isbn en p
+en h e hernández figueroa m zamboni rached et e recami
+localized waves wiley interscience isbn
+en p
+en k wynne « causality and nature information »
+optics communications vol n os p
+doi s bibcode optco w
+en pdf
+en m rees « appearance relativistically expanding
+radio sources » nature vol n o p
+doi a bibcode natur r s cid
+en i p chase « apparent superluminal velocity
+galaxies » sur usenet physics faq university california
+riverside consulté le novembre
+a et b tegmark p
+tegmark p
+en e r harrison masks universe cambridge university
+press isbn en p
+en w k h panofsky et m phillips classical electricity and
+magnetism addison wesley isbn en
+p
+feynman p
+hladik p
+en b e schaefer « severe limits on variations speed
+light with frequency » physical review letters vol
+n o p doi physrevlett
+bibcode phrvl s arxiv astro ph
+s cid
+en j ellis n e mavromatos d v nanopoulos et a s
+sakharov « quantum gravity analysis gamma ray bursts using
+wavelets » astronomy astrophysics vol n o
+p doi
+bibcode a a e arxiv astro ph
+s cid
+en m füllekrug « probing speed light with radio waves
+at extremely low frequencies » physical review letters vol
+n o p pmid
+doi physrevlett bibcode phrvl d f
+en e adelberger g dvali et a gruzinov « photon mass bound
+destroyed by vortices » physical review letters vol n o
+p pmid doi physrevlett
+bibcode phrvl a a arxiv hep ph s cid
+en b g sidharth thermodynamic universe world
+scientific isbn en p
+en g amelino camelia « astrophysics burst support for
+relativity » nature vol n o p
+pmid doi a bibcode natur a
+s cid
+en sylvan c bloch « eight velocities light » american
+journal physics vol n o juin p
+doi en pdf consulté le août
+en richard l smith « velocities light » american
+journal physics vol n o août p
+doi bibcode amjph s
+a et b en m de podesta understanding properties
+matter crc press isbn en
+en « optical constants h o d o water heavy water
+ice » sur refractiveindex info mikhail polyanskiy consulté le
+novembre
+en « optical constants soda lime glass » sur
+refractiveindex info mikhail polyanskiy consulté le novembre
+en « optical constants c carbon diamond graphite » sur
+refractiveindex info mikhail polyanskiy consulté le novembre
+en william j cromie « researchers now able to stop restart
+light » sur harvard university gazette janvier
+en p w milonni fast light slow light and gauche handed
+light crc press isbn en
+en j s toll « causality and dispersion relation
+logical foundations » physical review vol n o
+p doi physrev
+bibcode phrv t
+en l v hau s e harris z dutton et c h behroozi
+« light speed reduction to metres per second an ultracold
+atomic gas » nature vol n o p
+doi bibcode natur v s cid
+en pdf
+en c liu z dutton c h behroozi et l v hau
+« observation coherent optical information storage an atomic
+medium using halted light pulses » nature vol n o
+p pmid doi
+bibcode natur l s cid en pdf
+en m bajcsy a s zibrov et m d lukin « stationary pulses
+light an atomic medium » nature vol n o
+p pmid doi nature
+bibcode natur b arxiv quant ph s cid
+en b dumé « switching light on and off » sur physics world
+institute physics
+en d whitehouse « beam smashes light barrier » bbc news
+juillet en consulté le décembre
+a et b en p w milonni fast light slow light and
+gauche handed light crc press isbn
+en chap « refractive index can be negative »
+ru pavel a cherenkov «
+» « visible emission pure liquids by
+action radiation » doklady akademii nauk sssr vol
+réimprimé ru p a cherenkov «
+» « visible
+emission pure liquids by action radiation » usp
+fiz nauk vol n o p
+doi ufnr n
+réimprimé ru a n gorbunov et e p erenkova pavel
+alekseyevich erenkov chelovek i otkrytie « pavel
+alekseyevich erenkov man and discovery » moscou
+nauka p
+« strock verre tensions » sur strock pi r free fr
+consulté le décembre
+en b parhami introduction to parallel processing algorithms
+and architectures plenum press isbn
+en p
+en v malyshkin dir d imbs et michel raynal « software
+transactional memories an approach for multicore programming »
+en
+th international conference pact novosibirsk russia
+august september
+en wesley w stout radar great detective chrysler
+corporation p et consulter les pages en
+en « modern navigation » sur nus edu sg décembre
+en j o dickey et al « lunar laser ranging a continuing
+legacy apollo program » science vol n o
+juillet p pmid
+doi science bibcode sci d
+s cid en pdf
+en e m standish « jpl planetary ephemerides »
+celestial mechanics vol n o février p
+doi bf bibcode cemec s
+en j b berner s h bryant et p w kinman « range
+measurement as practiced deep space network » proceedings
+ieee vol n o novembre p
+doi jproc s cid en
+en j e midwinter optical fibers for transmission krieger
+publishing company nd éd isbn
+en « theoretical vs real world speed limit ping » sur
+pingdom juin consulté le mai
+« combien de temps faut il à la lumière réfléchie par la lune
+pour parvenir jusqu à nous » sur etoile des enfants ch l Étoile
+des enfants consulté le mars
+en « day lunar orbits and » sur apollo flight
+journal nasa consulté le décembre
+en « communications » sur mars mission perseverence
+rover nasa consulté le mars
+a et b en ray villard « hubble reaches undiscovered
+country primeval galaxies » sur nasa gov space telescope
+science institute er mai
+en hubble ultra deep field lithograph nasa juin
+en pdf p
+en « iau and astronomical units » international
+astronomical union consulté le mars
+en « billion km » wolframalpha consulter la
+section unit conversions
+laurent sacco « détectera t on bientôt une exoterre autour
+d alpha du centaure » futura sciences mars en
+en « time is money when it comes to microwaves » financial
+times mai en consulté le avril
+en mark buchanan « physics finance trading at speed
+light » nature vol n o février
+p pmid doi a accès libre
+bibcode natur b
+en p h sydenham « measurement length » dans w boyes
+instrumentation reference book butterworth heinemann
+e éd isbn en p
+« if speed light is defined as a fixed number
+then principle time standard will serve as
+length standard »
+en « codata value speed light vacuum » sur nist
+reference on constants units and uncertainty nist consulté le
+août
+cours d optique École normale supérieure mars en
+pdf p
+la ole rømer « correspondance » dans j bosscha
+uvres complètes de christiaan huygens vol viii la
+haye martinus nijhoff p
+francis beaubois « r mer et la vitesse de la lumière » sur
+bibnum education fr consulter l onglet « analyse »
+dans son rapport à l académie des sciences rømer écrit
+« cette seconde inégalité semble être due au fait que la lumière met
+un certain temps à nous parvenir depuis le satellite la lumière
+semble prendre environ dix à onze minutes pour franchir une
+distance égale au demi diamètre de l orbite terrestre »
+en laurence bobis et james lequeux « cassini
+rømer and velocity light » j astron hist
+héritage vol n o p
+bibcode jahh b en pdf
+en a wróblewski « de mora luminis a spectacle two acts
+with a prologue and an epilogue » american journal physics
+vol p
+en p duffett smith practical astronomy with your calculator
+cambridge university press isbn en
+inscription nécessaire p
+en « resolution b on re definition astronomical
+unit length » pdf international astronomical union
+en « supplement updates to th edition
+si brochure » international bureau weights and measures
+p en pdf
+en bureau international des poids et mesures
+international system units si th isbn
+en pdf p
+en e v pitjeva et e m standish « proposals for masses
+three largest asteroids moon earth mass ratio and
+astronomical unit » celestial mechanics and dynamical astronomy
+vol n o p doi s
+bibcode cemda p s cid en
+a et b en iau working group on numerical standards for
+fundamental astronomy « iau wg on nsfa current best estimates »
+us naval observatory
+en « astrodynamic constants » sur solar system dynamics jet
+propulsion laboratory consulté le novembre
+en « npl s beginner s guide to length » uk national physical
+laboratory consulté le octobre
+en h h dunn « test light speed mile long vacuum tube »
+popular science new york vol n o septembre
+p et en
+le patrimoine des communes des hauts de seine flohic éditions
+matthieu frachon avec le concours de la société d histoire de
+suresnes « que la lumière soit » suresnes mag n o
+octobre p en
+jean jacques samueli « l expérience du miroir tournant de
+foucault » sur bibnum education fr consulter l onglet
+« actualité »
+en m fowler « speed light » university virginia
+consulté le avril
+en j cooke m martin h mccartney et b wilf « direct
+determination speed light as a general physics laboratory
+experiment » american journal physics vol n o
+p doi bibcode amjph c
+en k aoki et t mitsui « a small tabletop experiment for a
+direct measurement speed light » american journal
+physics vol n o p doi
+bibcode amjph a arxiv s cid
+en m b james r b ormond et a j stasch « speed light
+measurement for myriad » american journal physics vol
+n o p doi
+bibcode amjph j
+« l expérience opera annonce une anomalie dans le temps de vol
+des neutrinos allant du cern au gran sasso » cern septembre
+communiqué de presse
+en t adam et al « measurement neutrino velocity with
+opera detector cngs beam » journal high energy
+physics vol n o doi jhep
+arxiv
+sylvestre huet « neutrinos plus rapides que la lumière non et
+fin de l histoire » sur sciences blogs liberation fr juin
+consulté le janvier
+serway p
+en philip gibbs « how is speed light measured »
+physics and relativity faq
+serway p
+en l essen « velocity electromagnetic waves » nature
+vol n o p doi a
+bibcode natur e s cid
+en r h stauffer « finding speed light with
+marshmallows » physics teacher vol n o avril
+p doi bibcode phtea s en
+consulté le février
+en « bbc look east at speed light » sur bbc norfolk
+website consulté le février
+une présentation détaillée de l interféromètre et de son usage
+pour calculer c se trouve dans
+en j m vaughan fabry perot interferometer crc
+press isbn p et
+a et b en d b sullivan « speed light from direct
+frequency and wavelength measurements » dans d r lide a century
+excellence measurements standards and technology crc
+press isbn en pdf
+« celeritas sy » wgsbn bulletin vol
+n o septembre p en
+annexes
+le code
+sur les autres projets wikimedia
+vitesse de la lumière sur wikimedia commons
+une catégorie est consacrée à ce sujet vitesse de la lumière
+bibliographie
+le code
+document utilisé pour la rédaction de l article document utilisé
+comme source pour la rédaction de cet article
+françois arago « mémoire sur la vitesse de la lumière lu à la
+première classe de l institut le décembre » comptes
+rendus hebdomadaires des séances de l académie des sciences
+vol janvier juin p en
+jean eisenstaedt et michel combes « arago et la vitesse de la
+lumière un manuscrit inédit une nouvelle analyse »
+revue d histoire des sciences vol janvier p
+en
+richard feynman trad françoise balibar et alain laverne lumière
+et matière une étrange histoire « qed strange theory
+light and matter » interÉditions coll « sciences »
+re éd p isbn ouvrage utilisé
+pour la rédaction de l article
+jean hladik pour comprendre simplement les origines et l évolution
+de la physique quantique paris ellipses p
+isbn ouvrage utilisé pour la rédaction de
+l article
+jean perdijon la vitesse de la lumière À l articulation entre
+espace et temps gap désiris p
+en brian luzum nicole capitaine agnès fienga william folkner
+toshio fukushima james hilton catherine hohenkerk george
+krasinsky gérard petit elena pitjeva michael soffel et patrick
+wallace « iau system astronomical constants
+report iau working group on numerical standards for
+fundamental astronomy » celest mech dyn astr vol n o
+p doi s
+bibcode cemda l s cid en
+pdf ouvrage utilisé pour la rédaction de l article
+raymond a serway trad robert morin et céline temblay physique
+iii optique et physique moderne « physics for scientists and
+engineers with modern physics volume » laval québec
+Éditions Études vivantes e éd p
+isbn ouvrage utilisé pour la rédaction de
+l article
+max tegmark trad benoît clenet notre univers mathématique en
+quête de la nature ultime du réel ekho
+ean ouvrage utilisé pour la rédaction de
+l article
+articles connexes
+le code
+année lumière
+Équations de maxwell
+Équations de panofsky phillips
+Équations de jefimenko
+effet tcherenkov
+expérience de fizeau
+lumière lente
+table des constantes astrophysiques
+théories d une vitesse de lumière variable
+vitesse de la lumière dans un seul sens
+vitesse d une onde
+vitesse limite
+vitesse supraluminique
+constante physique
+liens externes
+le code
+le système international d unités v sèvres france bureau
+international des poids et mesures août e éd p
+isbn en pdf p
+« r mer et la vitesse de la lumière » texte de roemer sur le
+caractère fini de la vitesse de la lumière et commentaire
+sur bibnum
+« l expérience du miroir tournant de foucault » texte de la
+méthode de foucault du miroir tournant et commentaire sur
+bibnum
+« c à paris vitesse de la lumière histoire et expériences »
+une exposition virtuelle de la bibliothèque patrimoniale numérique
+de l observatoire de paris
+« mesurez la vitesse de la lumière avec du chocolat et un
+micro ondes » sur futura consulté le juillet
+« vitesse lumière aux limites de la physique » la science cqfd
+france culture octobre
+bases de données et dictionnaires
+le code
+notices dans des dictionnaires ou encyclopédies généralistes voir
+et les données sur wikidata
+britannica
+hrvatska enciklopedija
+larousse
+universalis
+notices d autorité voir et les données sur wikidata
+israël
+v · m
+relativité
+relativité galiléenne
+théorie du repos absolu
+principe de copernic
+référentiel galiléen
+transformations de galilée
+vitesse relative
+relativité restreinte
+principe de relativité
+relativité restreinte
+fondements
+Équations de maxwell
+rapidité
+référentiel
+vitesse de la lumière
+formulations
+relativité galiléenne
+transformations de galilée
+transformations de lorentz
+intervalle d espace temps
+conséquences
+contraction des longueurs
+dilatation du temps
+disque relativiste en
+e mc²
+effet doppler relativiste
+précession de thomas
+simultanéité
+espace temps
+biquaternion
+cône de lumière
+espace de minkowski
+espace temps
+d univers
+relativité générale
+introduction à la relativité générale
+mathématiques de la relativité générale
+concepts
+diagramme de minkowski
+diagramme de penrose carter
+géométrie riemannienne
+d univers
+principe de copernic
+principe de mach
+principe d équivalence
+théorie du repos absolu
+référentiel galiléen
+relativité générale
+transformations de galilée
+vitesse relative
+phénomène
+effet lense thirring
+horizon
+lentille gravitationnelle
+onde gravitationnelle
+primordiale
+liste
+paradoxe des jumeaux
+paradoxe du train
+précession géodétique
+problème à n corps
+singularité
+Équations
+approximation des champs faibles
+Équation d einstein
+Équation de hamilton jacobi einstein en
+Équations de friedmann
+formalisme adm
+formalisme bssn
+théorie ppn
+autres théories
+théorie de brans dicke
+théorie de kaluza klein
+théorie d einstein cartan
+théorie tenseur scalaire
+relativité intriquée
+gravitoélectromagnétisme
+solutions
+espace ondes pp en
+espace de taub nut en
+friedmann lemaître robertson walker
+univers de gödel
+kasner
+kerr newman
+poussière de van stockum en
+trou noir de reissner nordström
+univers de milne
+métrique de schwarzschild
+science
+principe de causalité
+conjecture de protection chronologique
+physique des particules
+accélérateur de particules
+cyclotron
+Électrodynamique quantique
+gravité quantique
+mécanique quantique relativiste
+Électrodynamique quantique
+astronomie
+astronomie gravitationnelle
+astronomie gamma
+astronomie x
+personnalités
+dirac
+eddington
+ehlers
+einstein
+friedmann
+galilée
+hawking
+hilbert
+hubble
+langevin
+lemaître
+lorentz
+michelson
+minkowski
+pauli
+poincaré
+voigt
+histoire de la physique
+article de qualité histoire de la relativité restreinte
+histoire de la relativité générale
+congrès solvay
+controverse sur la paternité de la relativité
+bon article critiques de la théorie de la relativité
+expérience de michelson et morley
+expérience d ives stilwell
+Éther
+théorie de l éther de lorentz
+tests de la relativité restreinte
+tests expérimentaux de la relativité générale
+icône décorative portail de la physique
+icône décorative portail de l optique
+icône décorative portail de l astronomie
+ce document provient de
+« https fr wikipedia org w index php title vitesse de la lumière oldi
+catégories
+astronomie
+métrologie
+relativité
+constante fondamentale
+vitesse de la lumière
+Éponyme d un objet céleste
+catégories cachées
+article utilisant une infobox
+catégorie commons avec lien local identique sur wikidata
+page utilisant un modèle bases inactif
+page utilisant p
+page utilisant p
+page utilisant p
+page utilisant p
+page pointant vers des bases externes
+page pointant vers des dictionnaires ou encyclopédies généralistes
+article de wikipédia avec notice d autorité
+article contenant un appel à traduction en anglais
+portail physique articles liés
+portail sciences articles liés
+portail optique articles liés
+portail astronomie articles liés
+portail sciences de la terre et de l univers articles liés
+bon article en macédonien
+article de qualité en anglais
+article de qualité en vietnamien
+article de qualité en allemand
+article de qualité en slovaque
+la dernière modification de cette page a été faite le juin à
+droit d auteur les textes sont disponibles sous licence creative
+commons attribution partage dans les mêmes conditions d autres
+conditions peuvent s appliquer voyez les conditions d utilisation
+pour plus de détails ainsi que les crédits graphiques en cas de
+réutilisation des textes de cette page voyez comment citer les
+auteurs et mentionner la licence
+wikipedia® est une marque déposée de la wikimedia foundation inc
+organisation de bienfaisance régie par le paragraphe c du
+code fiscal des États unis
+politique de confidentialité
+À propos de wikipédia
+avertissements
+contact
+contacts juridiques sécurité
+code de conduite
+développeurs
+statistiques
+déclaration sur les témoins cookies
+version mobile
+wikimedia foundation
+powered by mediawiki
+button rechercher
+button rechercher
+basculer la table des matières
+vitesse de la lumière
+button langues ajouter un sujet

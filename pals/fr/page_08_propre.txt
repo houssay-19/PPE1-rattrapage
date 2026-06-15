@@ -1,0 +1,388 @@
+wikipédia fr flux atom de wikipédia
+aller au contenu
+menu principal
+menu principal
+button déplacer vers la barre latérale button masquer
+navigation
+page d accueil
+portails thématiques
+article au hasard
+contact
+contribuer
+débuter sur wikipédia
+communauté
+pages spéciales
+modifications récentes
+wikipédia l encyclopédie libre
+rechercher
+button rechercher
+apparence
+faire un don
+créer un compte
+se connecter
+outils personnels
+faire un don
+créer un compte
+se connecter
+sommaire
+button déplacer vers la barre latérale button masquer
+début
+réflexion diffuse
+réflexion spéculaire
+en optique géométrique
+en optique physique
+en optique quantique
+guide d ondes
+notes et références
+voir aussi
+button afficher masquer la sous section voir aussi
+articles connexes
+basculer la table des matières
+réflexion optique
+langues
+aragonés
+english
+suomi
+italiano
+lietuvi
+norsk bokmål
+português
+sloven ina
+ti ng vi t
+les liens
+article
+discussion
+français
+le code
+voir l historique
+outils
+outils
+button déplacer vers la barre latérale button masquer
+actions
+le code
+voir l historique
+général
+pages liées
+suivi des pages liées
+téléverser un fichier
+lien permanent
+informations sur la page
+citer cette page
+obtenir l url raccourcie
+imprimer exporter
+créer un livre
+télécharger comme pdf
+version imprimable
+dans d autres projets
+Élément wikidata
+apparence
+button déplacer vers la barre latérale button masquer
+un article de wikipédia l encyclopédie libre
+page d aide sur l homonymie
+pour les articles homonymes voir réflexion
+pour un article plus général voir réflexion physique
+la réflexion en optique désigne un des phénomènes qui intervient lors
+de l incidence de la lumière sur un matériau la part de la lumière qui
+n est ni absorbée ni transmise est dite réfléchie c est ce phénomène
+qui explique que l on voie un objet éclairé par une source par exemple
+le soleil ou une lampe la lumière émise par la source se réfléchit
+sur l objet et vient vers notre il
+ce phénomène a été décrit dans le domaine de l optique géométrique de
+l optique physique et de l optique quantique la réflexion de la
+lumière dépend largement des propriétés de la lumière comme sa
+longueur d onde ou son intensité et des propriétés du milieu de
+propagation et du milieu sur lequel le faisceau arrive
+la réflexion optique est une réflexion physique décrite comme le
+changement de direction de propagation d une onde lumineuse qui après
+réflexion reste dans le milieu de propagation initial
+il existe deux types de réflexion de la lumière spéculaire ou
+diffuse suivant la nature du matériau et de l interface les lois
+géométriques de la réflexion ne s appliquent qu à la réflexion
+spéculaire il faut faire appel à des modélisations plus complexes
+pour traiter la réflexion diffuse
+la plupart des situations présentent une association de réflexion
+diffuse et de réflexion spéculaire la réflexion diffuse étant en
+général prépondérante il existe dans la nature quelques rares cas de
+réflexion uniquement spéculaire essentiellement la réflexion sur une
+eau calme et limpide mais la plupart des applications technologiques
+de l optique cherchent à avoir de la réflexion spéculaire
+réflexion spéculaire de la lumière
+réflexion spéculaire de la lumière
+réflexion sur un immeuble de l avenue paulista são paulo
+réflexion sur un immeuble de l avenue paulista são paulo
+reflexion à la surface du lac stappitz dans le hohe tauern
+autriche
+reflexion à la surface du lac stappitz dans le hohe tauern
+autriche
+différentes réflexions selon l état de surface du plastique
+injection plastique
+différentes réflexions selon l état de surface du plastique
+injection plastique
+réflexion diffuse
+le code
+px reflexion diffuse fr png illustration de la réflexion diffuse
+sur la surface rugueuse d un objet parfaitement
+absorbant px diffuse refl gif réflexion diffuse par un matériau
+polycristallin qui n est pas parfaitement
+opaque px bounce board c by brian finifter jpg panneau de bois
+utilisé comme réflecteur diffus pour avoir une lumière douce
+la réflexion est dite diffuse lorsque la lumière est réfléchie dans un
+grand nombre de directions et l énergie du rayon incident est
+redistribuée dans une multitude de rayons réfléchis c est ce phénomène
+qui permet la vision d un objet éclairé la réflexion spéculaire permet
+de voir une image de la source mais pas de l objet réfléchissant
+lui même cette diffusion explique pourquoi la neige le lait le
+pastis dilué sa couleur jaune provient d un colorant le caramel et
+les nuages sont essentiellement blancs ils réfléchissent la lumière
+blanche du soleil
+cette diffusion permet de créer de la manière la plus simple possible
+une source lumineuse orthotrope c est le cas d un simple écran de
+cinéma dont la surface est perlée mais c est aussi pour cette raison
+que l on utilise en général des décors mats et que l on maquille les
+acteurs visages poudrés pour les filmer
+la réflexion diffuse intervient sur la plupart des matériaux que la
+surface soit polie ou non prenons l exemple du marbre blanc ou de la
+neige ce sont des matériaux transparents polycristallins la lumière
+est réfléchie sur les interfaces c est à dire sur les joints de grain
+dont l orientation est distribuée aléatoirement la très
+grande majorité des matériaux crée de la réflexion diffuse plutôt que
+spéculaire les minéraux et céramiques sont polycristallins les
+liquides contiennent des particules en suspension turbidité les
+plantes et animaux sont constitués de chaînes moléculaires ayant une
+distribution aléatoire les matériaux ne présentant pas ou peu de
+réflexion diffuse intrinsèque sont
+les monocristaux
+les métaux qui ne laissent pas pénétrer la lumière
+les matériaux amorphes gaz liquides sans particule verres et
+certains polymères transparents
+sur de tels matériaux la réflexion devient diffuse si la surface est
+rugueuse
+une surface polie est une condition nécessaire pour avoir de la
+réflexion spéculaire mais la plupart des matériaux
+réfléchissent de manière diffuse même avec une surface polie
+la réflexion diffuse « idéale » se produit lorsque la luminance est la
+même dans toutes les directions du demi espace délimité par la surface
+cette situation correspondant à un matériau idéalement mat est
+appelée « réflexion lambertienne »
+outre le fait que la réflexion naturelle est principalement diffuse on
+peut chercher volontairement à créer de la réflexion diffuse
+pour la prise d image
+pour avoir une source de lumière « douce » c est à dire
+créant des ombres progressives plutôt que des contrastes
+tranchés on utilise un éclairage indirect la source de
+lumière soleil ou projecteur est réfléchie de manière
+diffuse par un écran
+comme signalé plus haut les décors artificiels sont souvent
+choisis mats et les acteurs sont maquillés
+pour la projection d images dans une grande salle l image doit
+être visible par tous les spectateurs et donc sous de nombreux
+angles de vue comme mentionné ci dessus l écran de projection
+est perlé pour assurer une réflexion diffuse
+pour la visibilité
+pour renforcer la visibilité en cas de réflexion spéculaire
+la lumière de la source est réfléchie dans une direction
+donnée l objet éclairé n est donc visible que pour un
+observateur se trouvant dans cette direction et donc rarement
+pour la personne manipulant le projecteur un objet
+provoquant de la réflexion diffuse sera par contre visible
+sous de nombreux angles il ne faut pas confondre ceci avec
+la notion de catadioptre qui utilise plusieurs réflexions
+spéculaires pour renvoyer la lumière vers la source rendant
+ainsi l objet très visible pour l observateur manipulant le
+projecteur
+pour réduire la visibilité camouflage les objets naturels
+réfléchissant de manière diffuse l objet à camoufler ou la
+tenue de la personne à camoufler doit suivre ce même
+principe et l on s attache en particulier à éviter les éclats
+provoqués par les surfaces métalliques et les verres polis
+voir l article ffomecblot
+article connexe théorie de mie
+réflexion spéculaire
+le code
+px reflexion speculaire fr png illustration de la réflexion
+spéculaire
+la réflexion est dite spéculaire lorsque le rayon incident donne
+naissance à un rayon réfléchi unique idéalement l énergie du rayon
+incident se retrouve totalement dans le rayon réfléchi en pratique une
+partie de l énergie peut être absorbée diffusée ou réfractée au niveau
+de l interface
+comme énoncé précédemment ce type de réflexion ne peut donc avoir lieu
+qu avec certains matériaux qui garantissent que la lumière est
+réfléchie uniquement par la surface et ne provient pas de l intérieur
+de l objet
+les matériaux parfaitement opaques métaux
+les matériaux parfaitement transparents limpides verres
+plastiques transparents liquides transparents
+par ailleurs la qualité de la réflexion dépend de la qualité de
+l interface dès que la taille des défauts de l interface est
+inférieure ou de l ordre de grandeur de la longueur d onde l interface
+tend à devenir parfaitement réfléchissante c est pourquoi une surface
+de métal brut qui diffuse fortement devient parfaitement réfléchissante
+quand on la polit on l abrase jusqu à ce que la taille des défauts
+soit comparable à la longueur d onde de la lumière
+ce type de réflexion est donc rare dans la nature il s agit
+essentiellement de réflexion par une eau calme par contre elle est
+d un intérêt technologique capital puisqu elle est à la base de la
+notion de miroir et donc permet l observation d un objet hors du champ
+de vision rétroviseur miroir de dentiste miroir d inspection la
+focalisation télescope lanterne de projecteur de cinéma de
+collimation projecteur phare la déviation de faisceaux par exemple
+dans les interféromètres pour l holographie pour guider les ondes
+si l on construit un miroir pour la lumière visible la taille des
+défauts ne doit pas excéder quelques centaines de nanomètres de
+l ordre de µm le spectre visible allant de à nm pour les
+ondes radio ou les ondes radar ces défauts peuvent être de l ordre de
+quelques centimètres au lieu de construire des miroirs dont la surface
+métallique est uniforme on peut se contenter d une surface plus
+grossière de type « grillage »
+les milieux considérés modélisés par la réflexion spéculaire suivent
+les lois de la réflexion de fresnel soit une onde se propageant dans
+un milieu
+scriptlevel
+x
+et atteignant l interface avec un milieu
+scriptlevel
+x
+en appelant
+scriptlevel r
+t e
+x r te
+r te le facteur de réflexion normalisé pour la partie
+de l onde polarisée transverse électrique et
+scriptlevel r
+t m
+x r tm
+r tm celui de la partie de l onde polarisée
+transverse magnétique on a
+scriptlevel r
+t e
+n
+cos stretchy
+stretchy n
+cos
+stretchy
+stretchy n
+cos
+stretchy
+stretchy n
+cos
+stretchy
+stretchy
+x r te frac
+n cos theta n cos theta n cos theta
+n cos theta
+r te frac n cos theta n cos theta
+n cos theta n cos theta
+scriptlevel r
+t m
+n
+cos stretchy
+stretchy n
+cos
+stretchy
+stretchy n
+cos
+stretchy
+stretchy n
+cos
+stretchy
+stretchy
+x r tm frac
+n cos theta n cos theta n cos theta
+n cos theta
+r tm frac n cos theta n cos theta
+n cos theta n cos theta
+la seconde formule permet notamment de retrouver la valeur de l angle
+de brewster
+en optique géométrique
+le code
+px reflexion fr png illustration de la réflexion en optique
+géométrique
+en optique géométrique on ne considère que la réflexion spéculaire
+elle obéit aux lois de snell descartes le rayon lumineux est dit
+incident avant d avoir rencontré la surface réfléchissante il est dit
+réfléchi après le point de rencontre du rayon incident et de la
+surface réfléchissante est appelé point d incidence le plan contenant
+le rayon incident et la normale à la surface réfléchissante au point
+d incidence est dit plan d incidence
+on appelle angle d incidence l angle orienté i pris entre la normale au
+point d incidence et le rayon incident on appelle angle de réflexion
+l angle orienté r pris entre la normale au point d incidence et le
+rayon réfléchi
+moyennant ces définitions la loi de la réflexion s énonce ainsi
+le rayon incident et le rayon réfléchi sont dans le plan
+d incidence
+en optique physique
+le code
+cette section est vide insuffisamment détaillée ou incomplète votre
+aide est la bienvenue comment faire
+en optique physique chaque point d un dioptre est considéré comme une
+source d une onde sphérique c est l interférence des ondes des
+différentes sources qui crée le phénomène de réflexion les
+interférences ne sont constructives que dans une direction donnée
+en optique quantique
+le code
+cette section est vide insuffisamment détaillée ou incomplète votre
+aide est la bienvenue comment faire
+article connexe réflexion physique mécanique quantique
+guide d ondes
+le code
+une onde dont la fréquence est de l ordre de quelques mégahertz peut se
+réfléchir sur une des couches ionisées de la haute atmosphère
+notes et références
+le code
+en p hanrahan et w krueger « reflection from layered
+surfaces due to subsurface scattering » siggraph proceedings
+j t kajiya vol p en
+en h w jensen et al « a practical model for subsurface light
+transport » proceedings acm siggraph p
+en
+johann heinrich lambert photometria augsbourg klett
+en
+voir aussi
+le code
+articles connexes
+le code
+réflectivité
+lois de snell descartes
+coefficients de fresnel
+icône décorative portail de l optique
+ce document provient de
+« https fr wikipedia org w index php title réflexion optique oldid
+catégories
+optique géométrique
+optique ondulatoire
+loi en optique
+optique quantique
+catégories cachées
+article avec une section vide ou incomplète
+portail optique articles liés
+portail physique articles liés
+portail sciences articles liés
+la dernière modification de cette page a été faite le mai à
+droit d auteur les textes sont disponibles sous licence creative
+commons attribution partage dans les mêmes conditions d autres
+conditions peuvent s appliquer voyez les conditions d utilisation
+pour plus de détails ainsi que les crédits graphiques en cas de
+réutilisation des textes de cette page voyez comment citer les
+auteurs et mentionner la licence
+wikipedia® est une marque déposée de la wikimedia foundation inc
+organisation de bienfaisance régie par le paragraphe c du
+code fiscal des États unis
+politique de confidentialité
+À propos de wikipédia
+avertissements
+contact
+contacts juridiques sécurité
+code de conduite
+développeurs
+statistiques
+déclaration sur les témoins cookies
+version mobile
+wikimedia foundation
+powered by mediawiki
+button rechercher
+button rechercher
+basculer la table des matières
+réflexion optique
+button langues ajouter un sujet

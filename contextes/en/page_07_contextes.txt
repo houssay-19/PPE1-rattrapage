@@ -1,0 +1,46 @@
+     * 1 Reflection of light
+       (BUTTON) Toggle Reflection of light subsection
+   of light, sound and water waves. The law of reflection says that for
+   with many types of electromagnetic wave, besides visible light.
+Reflection of light
+   Reflection of light is either specular (mirror-like) or diffuse
+   A mirror provides the most common model for specular light reflection,
+   In the diagram, a light ray PO strikes a vertical mirror at point O,
+   In fact, reflection of light may occur whenever light travels from a
+   light is reflected from the interface, and the remainder is refracted.
+   Solving Maxwell's equations for a light ray striking a boundary allows
+   how much of the light is reflected, and how much is refracted in a
+   reflection of light from a denser medium occurs if the angle of
+   When light reflects off a material with higher refractive index than
+   contrast, when light reflects off a material with lower refractive
+   index the reflected light is in phase with the incident light. This is
+   [960px-RefractionReflextion.svg.png] Refraction of light at the
+   If the reflecting surface is very smooth, the reflection of light that
+   In classical electrodynamics, light is considered as an electromagnetic
+   wave, which is described by Maxwell's equations. Light waves incident
+   light acts on the electrons in the material, and the moving electrons
+   generate fields and become new radiators. The refracted light in the
+   the incident light. The reflected light is the combination of the
+   When these electrons oscillate with the incident light, the phase
+   radians (180°), so the forward radiation cancels the incident light,
+   and backward radiation is just the reflected light.
+   Light–matter interaction in terms of photons is a topic of quantum
+   popular book QED: The Strange Theory of Light and Matter.
+   When light strikes the surface of a (non-metallic) material it bounces
+   for diffuse reflection is Lambertian reflectance, in which the light is
+   The light sent to our eyes by most of the objects we see is due to
+   is such that light is returned in the direction from which it came.
+   When flying over clouds illuminated by sunlight the region seen around
+   incoming and outgoing light the effect is that the eyes act as a strong
+   a flashlight.
+   In both cases internal reflection causes the light to be reflected back
+   automobile license plates reflect light mostly back in the direction
+   desired, since the light would then be directed back into the
+   headlights of an oncoming car rather than to the driver's eyes.
+   When light reflects off a mirror, one image appears. Two mirrors placed
+   the light. In practice, these situations can only be approached but not
+   In this process (which is also known as phase conjugation), light
+   nonlinear optical process. Not only the direction of the light is
+     * List of reflected light sources
+    2. ^ Mandelstam, L.I. (1926). "Light Scattering by Inhomogeneous
+    4. ^ I. Moreno (2010). "Output irradiance of tapered lightpipes"

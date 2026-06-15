@@ -1,0 +1,815 @@
+   #Modifier Wikipédia (fr) Flux Atom de Wikipédia
+
+   Aller au contenu
+
+   [ ] Menu principal
+   Menu principal
+   (BUTTON) déplacer vers la barre latérale (BUTTON) masquer
+   Navigation
+     * Page d’accueil
+     * Portails thématiques
+     * Article au hasard
+     * Contact
+
+   Contribuer
+     * Débuter sur Wikipédia
+     * Aide
+     * Communauté
+     * Pages spéciales
+     * Modifications récentes
+
+   Wikipédia l'encyclopédie libre
+   Rechercher
+   ____________________
+   (BUTTON) Rechercher
+
+   [ ] Apparence
+
+     * Faire un don
+     * Créer un compte
+     * Se connecter
+
+   [ ] Outils personnels
+     * Faire un don
+     * Créer un compte
+     * Se connecter
+
+Sommaire
+
+   (BUTTON) déplacer vers la barre latérale (BUTTON) masquer
+     * Début
+     * 1 Histoire d'un terme étrange
+     * 2 Le spectre visible dans le spectre électromagnétique
+     * 3 Longueurs d'onde
+       (BUTTON) Afficher / masquer la sous-section Longueurs d'onde
+          + 3.1 Limites du visible
+     * 4 Spectroscopie
+     * 5 Couleurs et spectre
+       (BUTTON) Afficher / masquer la sous-section Couleurs et spectre
+          + 5.1 Longueurs d'onde approximatives des couleurs spectrales
+     * 6 Notes et références
+       (BUTTON) Afficher / masquer la sous-section Notes et références
+          + 6.1 Notes
+          + 6.2 Références
+     * 7 Annexes
+       (BUTTON) Afficher / masquer la sous-section Annexes
+          + 7.1 Bibliographie
+          + 7.2 Articles connexes
+          + 7.3 Liens externes
+
+   [ ] Basculer la table des matières
+
+Spectre visible
+
+   [ ] 82 langues
+     * Afrikaans
+     * العربية
+     * Asturianu
+     * Беларуская (тарашкевіца)
+     * Беларуская
+     * Български
+     * বাংলা
+     * Brezhoneg
+     * Bosanski
+     * Català
+     * ᏣᎳᎩ
+     * کوردی
+     * Čeština
+     * Чӑвашла
+     * Dansk
+     * Deutsch
+     * Ελληνικά
+     * English
+     * Esperanto
+     * Español
+     * Euskara
+     * فارسی
+     * Suomi
+     * Gaeilge
+     * Gàidhlig
+     * Galego
+     * עברית
+     * हिन्दी
+     * Fiji Hindi
+     * Hrvatski
+     * Magyar
+     * Հայերեն
+     * Bahasa Indonesia
+     * Ido
+     * Íslenska
+     * Italiano
+     * 日本語
+     * Patois
+     * ქართული
+     * Қазақша
+     * ಕನ್ನಡ
+     * 한국어
+     * Kurdî
+     * Latina
+     * Lëtzebuergesch
+     * Lingua Franca Nova
+     * Lietuvių
+     * Latviešu
+     * Minangkabau
+     * Монгол
+     * Bahasa Melayu
+     * नेपाल भाषा
+     * Nederlands
+     * Norsk nynorsk
+     * Norsk bokmål
+     * ਪੰਜਾਬੀ
+     * Polski
+     * Português
+     * Română
+     * Русский
+     * سنڌي
+     * Srpskohrvatski / српскохрватски
+     * සිංහල
+     * Simple English
+     * Slovenščina
+     * Српски / srpski
+     * Sunda
+     * Svenska
+     * தமிழ்
+     * తెలుగు
+     * ไทย
+     * Türkçe
+     * Татарча / tatarça
+     * Українська
+     * اردو
+     * Oʻzbekcha / ўзбекча
+     * Vèneto
+     * Tiếng Việt
+     * 吴语
+     * 閩南語 / Bân-lâm-gí
+     * 粵語
+     * 中文
+
+   Modifier les liens
+
+     * Article
+     * Discussion
+
+   [ ] français
+
+     * Lire
+     * Modifier
+     * Modifier le code
+     * Voir l’historique
+
+   [ ] Outils
+   Outils
+   (BUTTON) déplacer vers la barre latérale (BUTTON) masquer
+   Actions
+     * Lire
+     * Modifier
+     * Modifier le code
+     * Voir l’historique
+
+   Général
+     * Pages liées
+     * Suivi des pages liées
+     * Téléverser un fichier
+     * Lien permanent
+     * Informations sur la page
+     * Citer cette page
+     * Obtenir l'URL raccourcie
+
+   Imprimer / exporter
+     * Créer un livre
+     * Télécharger comme PDF
+     * Version imprimable
+
+   Dans d’autres projets
+     * Wikimedia Commons
+     * Élément Wikidata
+
+   Apparence
+   (BUTTON) déplacer vers la barre latérale (BUTTON) masquer
+   Un article de Wikipédia, l'encyclopédie libre.
+   Page d’aide sur l’homonymie
+
+   Pour les articles homonymes, voir Spectre.
+   [250px-Sz%C3%ADnsz%C3%B3r%C3%B3d%C3%A1s_prizm%C3%A1n1.jpg] La lumière
+   blanche, en passant à travers un prisme optique, se décompose pour
+   faire apparaître le spectre visible.
+
+   Le spectre visible est la partie du spectre électromagnétique qui est
+   perceptible par les humains^[1]^,^[2]. Le spectre se décompose en ondes
+   approximativement monochromatiques par le passage de la lumière à
+   travers un dispositif dispersif (prisme ou réseau diffractant) : c'est
+   l'analyse spectrale.
+
+   La sensibilité de l'œil selon la longueur d'onde du rayonnement
+   électromagnétique diminue progressivement de part et d'autre d'un
+   maximum entre 495 et 555 nanomètres (nm) selon le domaine de vision et
+   les conditions de la mesure. On ne peut donner de limites exactes au
+   domaine des rayonnements visibles. La Commission internationale de
+   l'éclairage définit la vision de l’observateur de référence jusqu'à une
+   valeur 50 000 fois plus faible que le maximum, pour une longueur d'onde
+   dans le vide de 380 à 780 nm.
+
+   Le spectre visible occupe la majeure partie de la fenêtre optique, une
+   gamme de longueurs d'onde bien transmises par l'atmosphère terrestre,
+   qui recoupe celle où l'éclairement énergétique solaire est maximal à la
+   surface de la Terre. Des longueurs d'onde plus courtes endommageraient
+   la structure des molécules organiques, tandis que l'eau, constituant
+   abondant du vivant, absorbe celles plus longues.
+
+Histoire d'un terme étrange
+
+   [modifier | modifier le code]
+
+   Le terme spectre, signifiant « apparence immatérielle », « illusion »
+   s'appliquait, au XVII^e siècle, à tous les phénomènes optiques qu'on ne
+   s'expliquait pas. Synonyme de couleur accidentelle, il servait pour les
+   impressions rétiniennes du contraste simultané ou successif aussi bien
+   que pour les irisations vues au bord d'un objet regardé à travers un
+   prisme^[3]^,^[4].
+
+   Newton utilise une seule fois le terme « Spectrum » pour présenter ses
+   expériences en optique dans son article publié en 1671 à propos de « sa
+   nouvelle théorie sur la lumière et les couleurs^[5] ». Procédant avec
+   soin, il projette un rayon de lumière blanche du soleil passant au
+   travers d'un volet par un trou de 6 mm de diamètre et dévié par un
+   prisme sur un mur, et obtient un spectre (op. cit., p. 3076) environ
+   cinq fois plus long que large. Éliminant toutes les autres causes
+   possibles, Newton conclut que la lumière blanche est « un mélange
+   hétérogène de rayons différemment réfrangibles » (op. cit., p. 3079).
+   Les couleurs ne sont pas, dit-il, des qualifications de la lumière,
+   comme on l'estimait depuis Aristote, mais des propriétés originales,
+   différentes dans chaque rayon ; les moins réfrangibles sont de couleur
+   rouge, et les plus réfrangibles sont d'un violet profond, et cette
+   association de propriétés ne peut être brisée par aucun moyen (op.
+   cit., p. 3081). Les transmutations de couleurs ne se produisent que
+   lorsqu'il y a mélange de rayons. Ce sont ces couleurs obtenues par
+   mélange, et non celles séparées par le prisme, qui sont illusoires,
+   fugaces et apparentes. « Les couleurs originales ou premières sont le
+   rouge, le jaune, le vert, le bleu et un violet-pourpre, ensemble avec
+   l'orange, l'indigo, et une variété indéfinie de gradations
+   intermédiaires^[6] ». Toute une série de phénomènes optiques
+   s'expliquent ainsi, y compris la coloration des objets : il conclut
+   ainsi sur ce point que « les couleurs des objets naturels n'ont pas
+   d'autre origine que celle-ci : ceux-ci sont variablement constitués
+   pour réfléchir une sorte de couleur en plus grande quantité que
+   d'autres » (op. cit., p. 3084). Avec ces conclusions, il est clair que
+   Newton n'emploiera plus le terme de spectre. Les « couleurs
+   prismatiques » (op. cit., p. 3087) ne sont pas illusoires ou
+   immatérielles : les autres couleurs le sont.
+
+   La théorie de Newton est immédiatement adoptée par le public, mais des
+   savants influents, comme du Fay^[7], doutent. Ils relèvent que Newton
+   présente comme un fait ce qui en réalité n'est qu'une hypothèse
+   plausible, son expérience ne suffisant pas à prouver que le prisme ne
+   crée pas des rayons lumineux colorés, différents par nature de la
+   lumière blanche^[8]. Voltaire défend la théorie de Newton avec une
+   interprétation particulière qui transforme le spectre continu en sept
+   rayons principaux^[9]^,^[10]. Le jésuite Castel s'oppose avec
+   détermination à ce qu'il considère comme un phénomène de mode^[11].
+   Quelles sont, dit-il, ces sept couleurs que le savant anglais discerne,
+   par rapport aux trois qui, comme les peintres et les teinturiers le
+   savent depuis fort longtemps, suffisent pour en reconstituer une
+   infinité^[12] ?
+
+   Après plus d'un siècle, des intellectuels et philosophes comme
+   Goethe^[13] suivi par Schopenhauer^[14] contestent toujours les
+   constructions de la physique. Pour eux, les couleurs prismatiques sont
+   un « spectre », une illusion. L'explication par des causes
+   physiologiques, avec la théorie de Young et Helmholtz, de la synthèse
+   trichrome des couleurs, résoudra l'apparente contradiction entre les
+   pratiques des coloristes et les expériences des physiciens.
+
+   Au début du XIX^e siècle, des expériences avec la lumière solaire
+   montrent qu'il existe un rayonnement invisible de part et d'autre de
+   celui que le prisme étale en rayons colorés. En 1800, William Herschel
+   découvre qu'on peut échauffer un thermomètre en l'exposant à
+   l'obscurité du côté du rouge ; l'année suivante Johann Wilhelm Ritter
+   observe que le papier imbibé de chlorure d'argent noircit quand il
+   l'expose à l'obscurité du côté du violet, plus vite que lorsqu'il
+   l'expose au violet. Les couleurs prismatiques se prolongent donc par
+   des parties invisibles, infrarouges et ultraviolets.
+
+   James Clerk Maxwell montre en 1864 que la lumière est une perturbation
+   électromagnétique. Le modèle de description des phénomènes périodiques
+   lui est applicable. Des formules qui servaient à l'acoustique décrivent
+   les vibrations électromagnétiques ; elles ressortent de l'analyse
+   fréquentielle issue de l'analyse harmonique développée depuis Joseph
+   Fourier pour tout phénomène périodique. La lumière n'est plus qu'un cas
+   particulier d'onde électromagnétique. La physique adopte le terme
+   spectre, au sens de « description d'un signal par les fréquences ou les
+   longueurs d'onde (voire les énergies) qui le composent^[15] », qu'on
+   obtient à partir de la description temporelle par la transformation de
+   Fourier. Il faut dès lors préciser spectre visible quand on parle de
+   celui de la lumière^[16].
+
+   Après la séparation des recherches optiques et de celles sur la
+   perception, les arts de la couleur et la colorimétrie adoptent une
+   série de caractérisations de la couleur qui leur est propre.
+
+Le spectre visible dans le spectre électromagnétique
+
+   [modifier | modifier le code]
+   Article détaillé : Spectre électromagnétique.
+   [250px-EM_spectrumrevised_fr.png] Situation du visible dans le spectre
+   électromagnétique.
+
+   Du point de vue de la physique, la lumière est un rayonnement
+   électromagnétique. Elle occupe une très petite fraction du spectre de
+   l'ensemble de ces rayonnements ; le rapport de la plus grande longueur
+   d'onde visible à la plus courte est d'environ 2, tandis que les
+   extrêmes du spectre électromagnétique sont dans un rapport 10^15.
+
+   Cette infime région du spectre électromagnétique représente la plus
+   grande partie de la fenêtre optique, expression qui désigne une gamme
+   de longueurs d'onde que l'atmosphère terrestre transmet bien. Elle
+   recoupe celle où l'éclairement énergétique solaire est maximal à la
+   surface de la Terre^[17]. Cette fraction du spectre solaire joue un
+   rôle important pour le développement de la vie ; des longueurs d'onde
+   plus courtes endommageraient la structure des molécules organiques,
+   tandis que l'eau, constituant abondant du vivant, absorbe celles plus
+   longues^[18]. Le spectre visible correspond à des énergies photoniques
+   proches de 2 eV, parmi les plus faibles de celles qui peuvent provoquer
+   des réactions chimiques. La partie la plus énergétique se prolonge dans
+   les ultraviolets, tandis que de la partie la moins énergétique se
+   prolonge dans les infrarouges, invisibles mais qui transportent une
+   énergie transformée en chaleur lorsqu'elle est absorbée.
+
+Longueurs d'onde
+
+   [modifier | modifier le code]
+
+   On a coutume, en optique, de caractériser les rayonnements
+   monochromatiques par leur longueur d'onde dans le vide ; cette grandeur
+   est pratique dans plusieurs applications. La vitesse de la lumière dans
+   un matériau est inférieure à celle dans le vide. Le rapport de ces
+   vitesses est l'indice de réfraction du matériau. Lorsqu'un rayon
+   lumineux passe obliquement la limite entre deux matériaux d'indices de
+   réfraction différent, il subit une déviation qui dépend du rapport de
+   ces indices. Dans les matières dispersives, la vitesse de propagation
+   du rayonnement, et donc l'indice de réfraction, dépendent de la
+   fréquence ou énergie photonique. La déviation, au passage dans un tel
+   milieu, dépend de cette différence de vitesse. Les composantes d'une
+   lumière qui contient un mélange de fréquences se trouvent ainsi
+   étalées. L'eau est une de ces matières, et le passage de la lumière
+   solaire dans des gouttelettes d'eau en suspension dans l'air produit un
+   arc en ciel. Les verres optiques sont plus ou moins dispersifs. On peut
+   les utiliser pour décomposer la lumière blanche avec un prisme : c'est
+   l'expérience de Newton à l'origine du terme spectre. Un réseau de
+   diffraction permet aussi, par l'effet des interférences, la dispersion
+   des rayons lumineux selon la fréquence. C'est le principal procédé
+   aujourd'hui pour l'analyse du spectre.
+
+   En optique, on décrit généralement le spectre en fonction de la
+   longueur d'onde du rayonnement dans le vide. En passant dans un milieu
+   quelconque, la vitesse de la lumière décroît, tandis que la fréquence
+   et l'énergie photonique qui lui est équivalente restent identiques. La
+   longueur d'onde varie donc d'un milieu à l'autre selon la réfringence.
+   Il serait plus rigoureux de définir le rayonnement en fonction de
+   l'énergie photonique, mais pour des raisons historiques et surtout
+   pratiques, on parle de longueur d'onde, en sous-entendant dans le vide.
+
+Limites du visible
+
+   [modifier | modifier le code]
+
+   La sensibilité de l'œil diminue progressivement selon la longueur
+   d'onde, et varie selon les individus, de sorte qu'on peut donner
+   plusieurs limites au spectre visible. La Commission internationale de
+   l'éclairage définit la vision de l’observateur de référence entre une
+   longueur d'onde dans le vide à partir de 380 nanomètres (nm), perçue
+   comme un violet extrêmement sombre, et jusqu'à 780 nm, correspondant à
+   un rouge également à peine perceptible^[19].
+
+   Dans des conditions exceptionnelles, comme la suppression du cristallin
+   après une opération de la cataracte, ces limites de la perception
+   humaine peuvent s'étendre jusqu'à 310 nm du côté des ultraviolets et
+   jusqu'à 1 100 nm dans le proche infrarouge^[20]^,^[21].
+
+Spectroscopie
+
+   [modifier | modifier le code]
+   Articles détaillés : spectroscopie et spectroscopie astronomique.
+
+   L'étude scientifique des objets fondée sur l'analyse de la lumière
+   qu'ils émettent est nommée spectroscopie. En astronomie, c'est un moyen
+   essentiel de l'analyse d'objets distants. La spectroscopie astronomique
+   utilise des instruments à forte dispersion pour observer le spectre à
+   de très hautes résolutions.
+
+   En spectroscopie, la limite du visible a souvent peu d'importance, et
+   l'analyse déborde largement sur les infrarouges et les ultraviolets. On
+   caractérise parfois le rayonnement par une variante du nombre d'onde,
+   l'inverse de la longueur d'onde dans le vide. Dans cette échelle, la
+   partie visible du spectre s'étend à peu près, du rouge au bleu-violet,
+   de 1 500 à 2 300 cm^−1.
+
+   Fraunhofer repéra le premier l'existence de raies obscures dans la
+   lumière du Soleil décomposée par le prisme. Les raies attestent de
+   l'émission ou de l'absorption de la lumière par des éléments chimiques.
+   Leur position dans le spectre renseigne sur la nature des éléments
+   chimiques présents ; l'effet Doppler affecte légèrement cette position,
+   d'où on déduit la vitesse radiale des astres. L'analyse du spectre des
+   étoiles a atteint une si grande résolution que des variations de leur
+   vélocité radiale de quelques mètres par seconde ont pu être détectées,
+   ce qui a fait conclure à l'existence d'exoplanètes, révélée par leur
+   influence gravitationnelle sur les étoiles analysées.
+
+Couleurs et spectre
+
+   [modifier | modifier le code]
+   Article détaillé : Efficacité lumineuse spectrale.
+   [960px-Visible_spectrum_390-710_nm_linear_perceptual.svg.png] Couleurs
+   approximatives du spectre visible entre 390 nm et 710 nm, en ajoutant
+   une quantité uniforme de blanc^[a].
+
+   La vision humaine distingue les couleurs en domaine photopique
+   (diurne), c'est-à-dire avec une luminance de 3 à 5 000 cd/m^2^[22].
+   Comparant l'effet de rayonnements monochromatiques de même luminance
+   énergétique, la perception est maximale pour un rayonnement de longueur
+   d'onde voisine de 555 nm, ce qui correspond à un vert-jaunâtre. Ce
+   rayonnement, proche du maximum énergétique du rayonnement solaire,
+   correspond à la plus grande sensibilité visuelle.
+
+   Chaque « couleur spectrale » correspond à une longueur d’onde précise ;
+   cependant, le spectre des lumières présentes dans la nature comprend en
+   général l'ensemble des rayonnements, en proportion variables. La
+   spectrométrie étudie les procédés de décomposition, d’observation et de
+   mesure des radiations en étroites bandes de fréquence.
+   Spectromètre courant :
+
+   Un spectromètre du spectre visible (et longueurs d'onde voisines) est
+   devenu un instrument assez courant, analysant la lumière par bandes de
+   longueur d'onde de 5 à 10 nm.
+
+   Un tel appareil, capable de donner cent niveaux différents pour chacune
+   de ses quarante bandes, peut représenter 100^40 spectres différents.
+
+   Dans certaines régions du spectre, un humain normal peut distinguer des
+   ondes de longueur d'onde différant de moins de 1 nm, et plus d'une
+   centaine de niveaux de luminosité^[23]. Pourtant, la description d'une
+   couleur n'a pas besoin d'autant de données que pourrait laisser croire
+   la spectroscopie. Les humains n'ont en vision diurne que trois types de
+   récepteurs, et il suffit de trois nombres pour décrire une couleur
+   perçue. De nombreuses lumières mélangées de plusieurs radiations de
+   longueurs d'onde différentes, dites métamères, se perçoivent
+   identiquement. Les lumières monochromatiques n'ont pas de métamère,
+   sauf à utiliser un mélange de deux rayonnements proches pour donner à
+   percevoir un intermédiaire entre eux.
+
+   La colorimétrie décrit la couleur perçue ; mais la spectrométrie a une
+   grande utilité lorsqu'il s'agit de couleurs de surface. Une surface
+   colorée renvoie une partie du spectre de l'illuminant qui l'éclaire,
+   absorbant le reste. Changer l'illuminant, c'est changer la lumière
+   émise par la surface. Deux surfaces peuvent apparaître identiques sous
+   un illuminant, mais, leur réflectance spectrale étant différente, ne
+   plus être métamères sous un autre. Pour résoudre les problèmes que cela
+   peut susciter, sans avoir à expérimenter avec tous les illuminants
+   possibles, il faut étudier leur spectre.
+
+   On utilise parfois par extension le terme lumière pour désigner les
+   rayonnements ultraviolets (UV), comme dans l'expression « lumière
+   noire », ou infrarouges (IR), bien que ces rayonnements ne soient pas
+   visibles^[24].
+
+Longueurs d'onde approximatives des couleurs spectrales
+
+   [modifier | modifier le code]
+
+   Bien que le spectre soit continu et qu'il n’y ait pas de frontière
+   claire entre une couleur et la suivante, la table suivante donne les
+   valeurs limites des principaux champs chromatiques, avec les noms et
+   limites de longueur d'onde dans le vide indiqués par la norme française
+   AFNOR X080-10 « Classification méthodique générale des couleurs »^[25].
+
+   La fréquence du rayonnement en hertz s'obtient en divisant la vitesse
+   de la lumière, environ 3 × 10^8 m/s, par la longueur d'onde en mètres.
+   La fréquence en térahertz (THz) s'obtient donc en divisant 300 000 (la
+   vitesse de la lumière exprimée en km/s) par la longueur d'onde en
+   nanomètres (nm, 10^−9 m) : 10^3 × 10^9 = 10^12, le multiplicateur
+   correspondant au préfixe téra.
+
+   CAPTION: Couleurs du spectre^[b]
+
+   Longueur d'onde (nm) Champ chromatique Couleur Commentaire
+   380 — 449 Violet 445 primaire CIE 1931 435,8
+   449 — 466 Violet-bleu 455 primaire sRGB : 464
+   466 — 478 Bleu-violet 470 indigo entre le bleu et le violet (Newton)
+   478 — 483 Bleu 480
+   483 — 490 Bleu-vert 485
+   490 — 510 Vert-bleu 500
+   510 — 541 Vert 525
+   541 — 573 Vert-jaune 555 CIE 1931 : 546,1 ; primaire sRGB : 549.
+   573 — 575 Jaune-vert 574
+   575 — 579 Jaune 577
+   579 — 584 Jaune-orangé 582
+   584 — 588 Orangé-jaune 586
+   588 — 593 Orangé 590
+   593 — 605 Orangé-rouge 600
+   605 — 622 Rouge-orangé 615 primaire sRGB : 611
+   622 — 780 Rouge 650 primaire CIE 1931 : 700
+
+   Les couleurs primaires d'instrumentation de la CIE (1931) correspondent
+   à des raies spectrales du mercure pour celles à 435,8 et 549 nm, et à
+   une valeur arbitraire pour celle à 700 nm, dont la luminance n'est que
+   de 0,004 102 fois le maximum (atteint vers 555 nm). Dans la région du
+   rouge, le seuil de discrimination entre longueurs d'onde est élevé, et
+   les expérimentateurs n'ont pas besoin de définir le rayonnement avec
+   autant de précision^[26].
+
+Notes et références
+
+   [modifier | modifier le code]
+
+Notes
+
+   [modifier | modifier le code]
+    1. ↑ Les écrans ne peuvent pas représenter les couleurs
+       monochromatiques.
+    2. ↑ L'algorithme de calcul des couleurs se trouve dans l'article
+       Efficacité lumineuse spectrale.
+
+Références
+
+   [modifier | modifier le code]
+    1. ↑ « Spectre visible », dans Pascal Febvre, Richard Taillet et Loïc
+       Villain, Dictionnaire de physique, Bruxelles, De Boeck, 2013,
+       916 p. (lire en ligne), p. 635.
+    2. ↑ « Grand dictionnaire terminologique, Office québécois de la
+       langue française, Résultats pour Lumière visible » (consulté le 7
+       octobre 2025)
+    3. ↑ Trésor de la langue française .^[réf. incomplète]
+    4. ↑ Oxford English Dictionnary.^[réf. incomplète]
+    5. ↑ (en) « A letter from M. Isaac Newton (…) containing his new
+       theory about Light and Colors », Philosophical Transactions,‎ 1671,
+       p. 3075-3087 (lire en ligne)
+    6. ↑ « The Original or primary colours are, Red, Yellow, Green, Blew,
+       and a Violet-purple, together with Orange, Indico, and an
+       indefinite variety of Intermediate gradations » (op. cit., p. 3082)
+    7. ↑ Charles François de Cisternay du Fay, « Observations physiques
+       sur le mélange de quelques couleurs », Mémoires présentés à
+       l'Académie des sciences,‎ 1737 (lire en ligne) ; pour plus de noms
+       et résumés des opinions, voir Alexandre Savérien, Dictionnaire
+       universel de mathématique et de physique, Paris, 1750 (lire en
+       ligne), p. 229-234 « couleurs ».
+    8. ↑ (en) Evan Thompson, Colour Vision : A Study in Cognitive Science
+       and Philosophy of Science, Routledge, 1995 (présentation en ligne),
+       p. 8-9.
+    9. ↑ Déribéré 2014, p. 21-30.
+   10. ↑ Voltaire, Éléments de la philosophie de Newton mis à la portée de
+       tout le monde, Amsterdam, 1738 (lire en ligne), p. 117
+   11. ↑ Louis-Bertrand Castel, L'optique des couleurs : fondée sur les
+       simples observations & tournée sur-tout à la pratique de la
+       peinture, de la teinture & des autres arts coloristes, Paris,
+       Briasson, 1740 (lire en ligne), introduction et chapitre 1.
+   12. ↑ Voir par exemple Jacob Christoph Le Blon, Coloritto : L'Harmonie
+       du coloris dans la peinture; reduite en pratique mecanique et à des
+       regles sures & faciles : avec des figures en couleur, pour en
+       faciliter l'intelligence, non seulement aux peintres, mais à tous
+       ceux qui aiment la peinture., Londres, sans nom d'éditeur, 1725
+       (lire en ligne).
+   13. ↑ Traité des couleurs, 1810.^[réf. incomplète]
+   14. ↑ Sur la vue et les couleurs, 1816.^[réf. incomplète]
+   15. ↑ Dic. Phys., p. 635 « Spectre ».
+   16. ↑ L'expression « spectre visible » est attestée en 1890, Royal
+       Society of London, Catalogue of scientific papers, vol. 17 MARC-P
+       (1884-1900), 1900 (lire en ligne), p. 596.
+   17. ↑ Sève 2009, p. 43.
+   18. ↑ Neil Campbell et Jane Reece, Biologie, Pearson, 2007, 7^e éd.
+       (ISBN 978-2-7440-7223-9), p. 198
+   19. ↑ Valeurs tabulées des fonctions colorimétriques de 380 à 780 nm
+       par pas de 5 nm : (en) « Selected Colorimetric Tables », sur
+       cie.co.at (consulté le 2 septembre 2017).
+   20. ↑ (en) D. H. Sliney, « What is light? The visible spectrum and
+       beyond », Eye, n^o 2,‎ février 2016, p. 222–229 (ISSN 1476-5454,
+       DOI 10.1038/eye.2015.252).
+   21. ↑ (en) W. C. Livingston, Color and light in nature, Cambridge, UK,
+       Cambridge University Press, 2001 (ISBN 0-521-77284-2, lire en
+       ligne).
+   22. ↑ Pour un champ de 2°. Pour un champ large, il faut porter le
+       minimum à 200 cd/m^2 (Sève 2009, p. 84).
+   23. ↑ Sève 2009, p. 121-122.
+   24. ↑ Dic. Phys., p. 406 « Lumière ».
+   25. ↑ Sève 2009, p. 248. Les fonctions colorimétriques donnent des
+       valeurs converties en codes informatiques au mieux pour un écran
+       conforme aux préconisations sRGB ; les luminances correspondent à
+       la luminance relative de la couleur spectrale. Le nombre inscrit
+       dans la couleur est la longueur d'onde dominante représentée.
+   26. ↑ Sève 2009, p. 72.
+
+Annexes
+
+   [modifier | modifier le code]
+
+   Sur les autres projets Wikimedia :
+     * Spectre visible, sur Wikimedia Commons
+     * La lumière, sur Wikiversity
+
+Bibliographie
+
+   [modifier | modifier le code]
+     * Maurice Déribéré, La couleur, Paris, PUF, coll. « Que Sais-Je »
+       (n^o 220), 2014, 12^e éd. (1^re éd. 1964)
+     * Yves Le Grand, Optique physiologique : Tome 2, Lumière et couleurs,
+       Paris, Masson, 1972, 2^e éd..
+     * Robert Sève, Science de la couleur : Aspects physiques et
+       perceptifs, Marseille, Chalagam, 2009, 374 p.
+       (ISBN 978-2-9519607-5-6 et 2-9519607-5-1)
+     * Richard Taillet, Loïc Villain et Pascal Febvre, Dictionnaire de
+       physique, Bruxelles, De Boeck, 2013, p. 635
+
+Articles connexes
+
+   [modifier | modifier le code]
+     * Bande spectrale
+     * Optique de Fourier
+     * Spectre électromagnétique
+
+Liens externes
+
+   [modifier | modifier le code]
+
+     *
+     *
+     *
+     * Ressource relative à la santé Voir et modifier les données sur
+       Wikidata  :
+          + WikiSkripta
+     * Notice dans un dictionnaire ou une encyclopédie généraliste Voir et
+       modifier les données sur Wikidata  :
+          + Gran Enciclopèdia Catalana
+     *
+     * Tout savoir sur la photosynthèse et le photovoltaïsme
+
+   v · m
+   Spectre électromagnétique
+     * Rayons gamma
+     * Rayons X
+     * Ultraviolet
+     * Visible
+     * Infrarouge
+     * Térahertz
+     * Micro-ondes
+     * Ondes radio
+
+   ← Hautes fréquences          Basses fréquences →
+   [500px-Frequency_vs._wave_length.svg.png] ← Faibles longueurs
+   d'onde          Grandes longueurs d'onde →
+   Ultraviolets
+     * UV-A
+     * UV-B
+     * UV-C
+     * Extrême
+
+     * Bande U
+
+   Lumière visible
+     * Violet
+     * Bleu
+     * Vert
+     * Jaune
+     * Orange
+     * Rouge
+
+     * Bande B
+     * Bande V
+     * Bande R
+
+   Infrarouges
+     * Infrarouge proche
+     * Infrarouge moyen
+     * Infrarouge lointain
+
+     * Bande I
+     * Bande Y
+     * Bande J
+     * Bande H
+     * Bande K
+     * Bande L
+     * Bande M
+     * Bande N
+     * Bande Q
+
+   Micro-ondes
+     * Bande W
+     * Bande V
+     * Bande U
+     * Bande Q
+     * Bande Ka
+     * Bande K
+     * Bande Ku
+     * Bande X
+     * Bande C
+     * Bande S
+     * Bande L
+
+   Ondes radio
+     * ELF
+     * SLF
+     * ULF
+     * VLF
+     * LF
+     * MF
+     * HF
+     * VHF
+     * UHF
+     * SHF
+     * EHF
+
+   Télévision terrestre
+     * Bande I
+     * Bande IV
+     * Bande V
+
+   Radiodiffusion
+     * Basse fréquence/Grandes ondes
+     * Moyenne fréquence/Ondes moyennes
+     * Haute fréquence/Ondes courtes
+
+   CAPTION: Spectre électromagnétique en détail
+
+   Fréquence
+   Longueur d’onde 9 kHz
+   33 km   1 GHz
+   30 cm   300 GHz
+   1 mm   3 THz
+   100 µm   405 THz
+   745 nm   480 THz
+   625 nm   508 THz
+   590 nm   530 THz
+   565 nm   577 THz
+   520 nm   612 THz
+   490 nm   690 THz
+   435 nm   750 THz
+   400 nm   30 PHz
+   10 nm   30 EHz
+   5 pm
+   Bande   ondes radio micro-ondes térahertz infrarouge rouge orange jaune
+   vert cyan bleu violet ultraviolet rayons X rayons γ
+   rayonnements pénétrants lumière visible rayonnements ionisants
+   Spectre électromagnétique :
+     * Radioélectricité
+     * Spectre radiofréquence
+     * Bandes VHF-UHF
+     * Spectre micro-ondes
+
+     * icône décorative Portail de la physique
+     * icône décorative Portail des couleurs
+     * icône décorative Portail de l’optique
+
+   Ce document provient de
+   « https://fr.wikipedia.org/w/index.php?title=Spectre_visible&oldid=2344
+   77133 ».
+   Catégories :
+     * Couleur
+     * Spectre électromagnétique
+     * Lumière
+     * Spectroscopie
+     * Bande spectrale
+     * Rayonnement non ionisant
+
+   Catégories cachées :
+     * Catégorie Commons avec lien local identique sur Wikidata
+     * Page utilisant P3471
+     * Page pointant vers des bases externes
+     * Page pointant vers des bases relatives à la santé
+     * Page utilisant P1296
+     * Page pointant vers des dictionnaires ou encyclopédies généralistes
+     * Page utilisant le modèle Autorité inactif
+     * Portail:Physique/Articles liés
+     * Portail:Sciences/Articles liés
+     * Portail:Couleurs/Articles liés
+     * Portail:Optique/Articles liés
+
+     * La dernière modification de cette page a été faite le 26 mars 2026
+       à 14:01.
+     * Droit d'auteur : les textes sont disponibles sous licence Creative
+       Commons attribution, partage dans les mêmes conditions ; d’autres
+       conditions peuvent s’appliquer. Voyez les conditions d’utilisation
+       pour plus de détails, ainsi que les crédits graphiques. En cas de
+       réutilisation des textes de cette page, voyez comment citer les
+       auteurs et mentionner la licence.
+       Wikipedia® est une marque déposée de la Wikimedia Foundation, Inc.,
+       organisation de bienfaisance régie par le paragraphe 501(c)(3) du
+       code fiscal des États-Unis.
+
+     * Politique de confidentialité
+     * À propos de Wikipédia
+     * Avertissements
+     * Contact
+     * Contacts juridiques & sécurité
+     * Code de conduite
+     * Développeurs
+     * Statistiques
+     * Déclaration sur les témoins (cookies)
+     * Version mobile
+
+     * Wikimedia Foundation
+     * Powered by MediaWiki
+
+   (BUTTON) Rechercher
+   ____________________
+   (BUTTON) Rechercher
+
+   [ ] Basculer la table des matières
+   Spectre visible
+   (BUTTON) 82 langues Ajouter un sujet

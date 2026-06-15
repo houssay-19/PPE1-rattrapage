@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Résultats FR — lumière</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<nav>
+  <a class="logo" href="index.html">
+    <img src="images/plurital-logo.jpg" alt="PluriTAL">
+  </a>
+  <a href="index.html">Accueil</a>
+  <a href="technique.html">Démarche technique</a>
+  <div class="dropdown">
+    <a href="#" class="active">Résultats ▾</a>
+    <div class="dropdown-menu">
+      <a href="resultats-fr.html" class="active">🇫🇷 Français — lumière</a>
+      <a href="resultats-en.html">🇬🇧 English — light</a>
+    </div>
+  </div>
+  <a href="analyse.html">Analyse comparative</a>
+</nav>
+
+<div class="page-header" style="background:linear-gradient(135deg, #1a2744 0%, #003189 100%)">
+  <h1><span class="badge badge-fr" style="font-size:.6em;vertical-align:middle;margin-right:8px">FR</span>
+    Résultats — <em>lumière</em>
+  </h1>
+  <p>Corpus francophone — 10 pages Wikipedia aspirées</p>
+</div>
+
+<div class="container">
+
+  <!-- ── Statistiques rapides ── -->
+  <div class="stats-row">
+    <div class="stat-card">
+      <span class="nb">10</span>
+      <span class="label">URLs aspirées</span>
+    </div>
+    <div class="stat-card">
+      <span class="nb" id="nb-occ-fr">–</span>
+      <span class="label">Occurrences de <em>lumière</em></span>
+    </div>
+    <div class="stat-card">
+      <span class="nb" id="nb-mots-fr">–</span>
+      <span class="label">Mots dans le corpus</span>
+    </div>
+    <div class="stat-card">
+      <span class="nb">±5</span>
+      <span class="label">Tokens de contexte</span>
+    </div>
+  </div>
+
+  <!-- ── Tableau récapitulatif ── -->
+  <div class="card">
+    <h2>Tableau récapitulatif du corpus</h2>
+    <p>
+      Récapitulatif des pages aspirées : code HTTP, encodage, nombre de mots et
+      occurrences du mot cible par page.
+    </p>
+    <div class="info-box">
+      📄 <a href="tableaux/fr/tableau.html" target="_blank">Ouvrir le tableau complet</a>
+    </div>
+    <iframe class="sub-frame" src="tableaux/fr/tableau.html" title="Tableau récapitulatif FR"></iframe>
+  </div>
+
+  <!-- ── Nuage de mots ── -->
+  <div class="card">
+    <h2>Nuage de mots</h2>
+    <p>
+      Visualisation des mots les plus fréquents dans le corpus français,
+      après suppression des mots vides et du mot cible <em>lumière</em>.
+    </p>
+    <img
+      class="result-img"
+      src="nuages/fr/nuage.png"
+      alt="Nuage de mots — lumière (FR)"
+      onerror="this.style.display='none';this.nextElementSibling.style.display='block'"
+    >
+    <div class="info-box" style="display:none">
+      ⚠ L'image du nuage de mots n'est pas encore générée.
+      Lancez : <code>python3 programmes/nuage_mots.py fr lumière</code>
+    </div>
+  </div>
+
+  <!-- ── Concordances ── -->
+  <div class="card">
+    <h2>Concordancier KWiC</h2>
+    <p>
+      Chaque occurrence de <em>lumière</em> dans le corpus, avec 5 tokens
+      de contexte gauche et droit. Format KWiC (KeyWord In Context).
+    </p>
+    <div class="info-box">
+      📄 <a href="concordances/fr/concordances.html" target="_blank">Ouvrir le concordancier</a>
+    </div>
+    <iframe class="sub-frame" src="concordances/fr/concordances.html" title="Concordances FR"></iframe>
+  </div>
+
+  <!-- ── Cooccurrents ── -->
+  <div class="card">
+    <h2>Cooccurrents de <em>lumière</em></h2>
+    <p>
+      Mots apparaissant le plus fréquemment dans un voisinage de ±5 tokens
+      autour de <em>lumière</em>.
+    </p>
+    <div class="info-box">
+      📄 <a href="cooccurrents/fr/cooccurrents.html" target="_blank">Ouvrir le tableau des cooccurrents</a>
+    </div>
+    <iframe class="sub-frame" src="cooccurrents/fr/cooccurrents.html" title="Cooccurrents FR"></iframe>
+  </div>
+
+  <!-- ── Bigrammes ── -->
+  <div class="card">
+    <h2>Bigrammes les plus fréquents</h2>
+    <p>
+      Top 30 des paires de mots consécutifs dans le corpus français,
+      mots vides exclus.
+    </p>
+    <div class="info-box">
+      📄 <a href="bigrammes/fr/bigrammes.html" target="_blank">Ouvrir le tableau des bigrammes</a>
+    </div>
+    <iframe class="sub-frame" src="bigrammes/fr/bigrammes.html" title="Bigrammes FR"></iframe>
+  </div>
+
+</div><!-- /.container -->
+
+<footer>
+  PPE1 Rattrapage 2025-2026 — Houssaynatou Diallo — M1 PluriTAL
+</footer>
+
+</body>
+</html>

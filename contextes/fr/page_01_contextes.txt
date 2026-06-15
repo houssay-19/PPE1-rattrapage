@@ -1,0 +1,169 @@
+     * 2 Description physique de la lumière
+       la lumière
+               o 2.2.4 Année-lumière
+     * 3 Histoire de l'étude de la lumière
+          + 5.2 Sources naturelles de lumière
+          + 5.3 Sources de lumière artificielles
+Lumière
+   Pour les articles homonymes, voir Lumière (homonymie).
+   [250px-Light_Rays_in_Brighton.jpg] Rayons de lumière sortant des
+   Dans son sens le plus habituel, la lumière est le phénomène à l'origine
+   L'optique est la discipline qui étudie la lumière. Comme les lois de la
+   propagation de la lumière sont largement semblables à celles des autres
+   et ultraviolet ; c'est ainsi qu'on parle de lumière noire, de lumière
+   ultraviolette ou de lumière infrarouge, ce qui pousse parfois à
+   utiliser le terme de lumière visible pour éviter toute ambiguïté. La
+   lumière, y compris ces rayonnements invisibles, transporte une grande
+   Pour l’être humain, la lumière indispensable à la vision tient une part
+   perception de la lumière par les êtres humains. La photométrie relie
+   La lumière a une forte valeur symbolique ; permettant de percevoir les
+   La lumière se déplace en ligne droite dans le vide à une vitesse
+   milieu dispersif. La lumière est un peu plus lente dans l'air que dans
+   La lumière peut changer de trajectoire lors du passage d'un milieu à un
+   changements de trajectoire de la lumière lorsqu'elle passe d'un milieu
+   La lumière n'est perçue par un récepteur que si elle va directement
+   La perception de la lumière est qualitativement différente selon son
+   intensité et son incidence sur l'œil. Quand la lumière est faible, ou
+   la vitesse de la lumière par la fréquence. La fréquence est invariable,
+   mais la vitesse de la lumière, et par conséquent la longueur d'onde,
+   varie selon le milieu. Quand, pour la lumière, on parle de longueur
+   lumière est la plus grande. Dans l'air, elle est peu inférieure.
+   (580 THz) quand la lumière est faible (vision scotopique)^[1]. Cette
+   comme une onde. La lumière visible se situe à une énergie autour de
+   considèrent la lumière comme une partie du rayonnement
+   lumière visible. La photographie a montré que les lois de l'optique
+   s'appliquaient à des rayons invisibles. Si l'on définit la lumière par
+   la lumière :
+   des lumières qui lui parviennent. La vision est une perception
+   la lumière, la rétine reçoit des rayonnements différents^[7].
+   couleurs. Par conséquent, deux lumières de composition spectrale très
+   les lumières sont métamères. C'est cette particularité que l'on
+Description physique de la lumière
+   corpusculaire, parfois l'aspect ondulatoire de la lumière. Selon les
+   cas, la lumière présente des propriétés soit propres à une onde, sans
+   Article détaillé : Vitesse de la lumière.
+   La vitesse de la lumière dans le vide, notée c (comme célérité), est
+   La vitesse de la lumière dans le vide est la vitesse maximale possible
+   vitesses faibles par rapport à la vitesse de la lumière. Du point de
+   La vitesse de la lumière n'est pas toujours la même dans tous les
+   L'écart entre la vitesse de la lumière dans le vide et la vitesse de la
+   lumière dans l'air est très faible (moins de 1 %), ce qui a permis de
+   parler en général de vitesse de la lumière au lieu de vitesse de la
+   lumière dans le vide. Cependant, dans la matière condensée, une onde
+   définies à partir de la célérité de la lumière. Une vitesse étant le
+   jours, il est défini comme la distance parcourue par la lumière, dans
+   On peut également dire que la vitesse de la lumière dans le vide est
+Année-lumière
+   Article détaillé : Année-lumière.
+   année-lumière est la distance que parcourt la lumière en un an. Elle
+   4,22 années-lumière. Les communications scientifiques préfèrent souvent
+Histoire de l'étude de la lumière
+   ondulatoire de la lumière.
+   Les premières études expérimentales sur la lumière remontent à
+   Cependant, la philosophie hésite quant à la nature de la lumière.
+   la Grèce antique, interroger la notion de lumière. La théorie de
+   la lumière, va se maintenir jusqu'à la Renaissance, et bien plus tard
+   aux théories scientifiques de la lumière.
+   le premier à penser que la lumière se déplace à vitesse finie et en
+   L'étude de la lumière se confond alors avec celle des instruments
+   XVII^e siècle, Snell, Fermat et Descartes abordent la lumière par
+   vitesse de la lumière est finie. En 1676, Rømer la calcule pour la
+   conservées si l'on suppose une propagation de la lumière sous la forme
+   propagent dans l’éther sont une succession de grains de lumière dont la
+   pendant près d’un siècle les suppositions selon lesquelles la lumière
+   lumière blanche transforment radicalement la conception de la couleur :
+   la lumière blanche qui était supposée primordiale s'avère la
+   vitesse de la lumière avec un faisceau qu'une roue dentée divise en
+   expérimentalement la diffraction et les interférences de la lumière,
+   En 1873, James Clerk Maxwell interprète la lumière comme étant un
+   dès lors entièrement détachées de la lumière visible. Les équations de
+   la lumière qu'au fonctionnement d'un électroaimant — on démontre que
+   lequel la vitesse de la lumière a la même valeur dans tous les
+   Planck, Einstein reprend l'idée que la lumière peut avoir une nature
+   perception de la lumière. La photométrie se dégage de la comparaison
+   photographie oblige à préciser ce qu'est la lumière visible par rapport
+   passer, la lumière du Soleil est la première source d'énergie des
+   l'air) par exemple. La lumière corrige les horloges biologiques
+   d'autres espèces. Chez la plupart des espèces la lumière naturelle est
+   l'exposition aux ultraviolets de la lumière solaire sont nécessaires à
+   Les plantes possèdent des protéines sensibles à la lumière sous
+   conformation active, Pfr, sous la lumière rouge. Le processus est
+   sont sensibles à la lumière bleue. Ils sont capables d'inhiber la
+   La présence de lumière artificielle dans l'environnement nocturne peut
+   différemment aux objets selon le spectre de la lumière qu'ils émettent
+   La largeur de bande de la lumière visible par les animaux peut varier
+   Dans la vision photopique, diurne, la transformation de la lumière en
+   entre les surfaces du champ visuel. La correspondance entre lumière
+   technologique, n'ont aucun avantage à mesurer la lumière. La vision
+   La lumière naturelle est pulsée par le rythme circadien, qui influe sur
+   soigner une dépression par l'absence ou la présence de lumière. Une
+   que la prise de mélatonine et l'exposition à la lumière naturelle
+   L'exposition à la lumière naturelle diminuerait aussi chez ces
+   5 %). L'association lumière + mélatonine a aussi diminué les
+   les sources de lumière en soirée pour que l'organisme reçoive le signal
+   ganglionnaires de la rétine, surtout sensibles à la lumière bleue
+   présente dans la lumière du jour, participent à la régulation de
+   « lumière du jour » la nuit^[23].
+   En matière de mesure de la lumière, il importe de bien définir de quoi
+   faisceaux de lumière cohérente issus de lasers.
+   La lumière est constituée d'ondes électromagnétiques, caractérisées par
+   de couleur de la lumière. Une onde électromagnétique constituée d'ondes
+   polarisation, alors la lumière est cohérente : c'est ce qui se passe
+   La mesure de la lumière est compliquée par le fait qu'on s'intéresse,
+   en pratique, à la lumière visible, alors que la sensibilité humaine
+Sources naturelles de lumière
+   pour éclairer. La lumière solaire est suffisamment puissante pour que
+   La Lune réfléchit suffisamment de lumière solaire pour permettre la
+   source d'une lumière également insuffisante pour éclairer.
+   lumière de spectre lumineux à peu près semblable à celui du Soleil à
+   produisent de la lumière.
+   luisants, produisent de la lumière par bioluminescence.
+Sources de lumière artificielles
+   Les humains se sont d'abord éclairés par la lumière du feu. Le bitume
+   révolutionné l'éclairage. Les lumières électriques sont depuis lors les
+   sources les plus courantes de lumière artificielle.
+   La lumière est un bien commun^[24].
+   communication, à la publicité émettent de la lumière dans et hors des
+   La lumière compte parmi les facteurs environnementaux dans la loi sur
+   lumière, particuliers à chaque pays, définissent l'éclairage normal de
+   l'éclairage intérieur et le seuil d'éblouissement. Les lumières aux
+   matière, incluse en France dans le Code de l'environnement. La lumière
+   l'éblouissement. Les effets néfastes de la lumière artificielle sur la
+   Article détaillé : Lumière artistique.
+   L'importance de la lumière dans la peinture^[25], la spécialité
+   technique et artistique de l'éclairage, qui produisent une lumière
+   artistique, témoignent des valeurs esthétiques liées à la lumière,
+   caractères^[26]. « La beauté de la lumière ne se peut pas mesurer
+   La lumière a une forte valeur symbolique ; permettant de percevoir les
+   humaines, à la connaissance, tandis que l'opposition entre lumière et
+   de nombreuses religions, Dieu est associé à la lumière.
+   partir de la mesure se désigne comme siècle des Lumières tandis que par
+   la suite, la philosophie des Lumières diffuse ce nouveau genre de
+   La propriété de la lumière de se transmettre à distance sans support
+   d'Alhazen, rapproche la lumière physique, manifestation de Dieu et la
+   lumière divine, c'est-à-dire le sentiment de Dieu^[réf. souhaitée].
+   s'organise selon ce parallèle, dit théologie de la Lumière^[28].
+     * Lumière, sur Wikimedia Commons
+     * lumière, sur le Wiktionnaire (thésaurus)
+     * Lumière, sur Wikiversity
+     * Lumière, sur Wikiquote
+   Une catégorie est consacrée à ce sujet : Lumière.
+     * Bernard Valeur, Lumière et luminescence : Ces phénomènes lumineux
+       (photographies), Traité de la lumière, Lausanne, Presses
+     * Lumière artistique
+     * «Lumière, ondule ton corpuscule» La Méthode scientifique, France
+     * Un dossier complet sur la vitesse de la lumière sur le site
+     * Dossier sur la lumière et projet d'éclairage, sur le site
+       physiologique : Tome 2, Lumière et couleurs, Paris, Masson, 1972,
+   10. ↑ La mesure de la vitesse de la lumière, Document pédagogique Cléa
+   12. ↑ ^a et b Michel Blay, « La lumière », Université de tous les
+   14. ↑ Claude Cohen-Tannoudji, « Préface », dans Bernard Valeur, Lumière
+       de la lumière UV sur Listeria monocytogenes, Escherichia coli,
+   19. ↑ Yves Le Grand, Optique physiologique : Tome 2, Lumière et
+   22. ↑ Julie Luong, « Lumière et mélatonine contre la maladie
+       visuelles : rôle de la lumière chez l’humain », Biologie
+   25. ↑ Pierre Pinchon, La lumière dans les arts européens 1800-1900,
+   26. ↑ Paul Souriau, Esthétique de la lumière, Paris, 1913 (lire en
+   « https://fr.wikipedia.org/w/index.php?title=Lumière&oldid=236796425 ».
+     * Lumière
+   Lumière

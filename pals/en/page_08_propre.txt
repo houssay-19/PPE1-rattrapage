@@ -1,0 +1,1785 @@
+edit this page wikipedia en wikipedia atom feed
+jump to content
+main menu
+main menu
+button move to sidebar button hide
+navigation
+main page
+contents
+current events
+random article
+about wikipedia
+contact us
+contribute
+learn to edit
+community portal
+recent changes
+upload file
+special pages
+wikipedia free encyclopedia
+search
+button search
+appearance
+donate
+create account
+log
+personal tools
+donate
+create account
+log
+contents
+button move to sidebar button hide
+measurement
+composition and power
+button toggle composition and power subsection
+published tables
+intensity solar system
+variations solar irradiance
+button toggle variations solar irradiance subsection
+seasonal and orbital variation
+solar intensity variation
+solar irradiance
+button toggle solar irradiance subsection
+solar constant
+total solar irradiance tsi and spectral solar irradiance
+ssi upon earth
+surface illumination and spectrum
+button toggle surface illumination and spectrum subsection
+spectral composition sunlight at earth s surface
+life on earth
+cultural aspects
+button toggle cultural aspects subsection
+sunbathing
+effects on human health
+effect on plant genomes
+see also
+references
+further reading
+external links
+toggle table contents
+sunlight
+languages
+afrikaans
+català
+e tina
+dansk
+deutsch
+esperanto
+español
+euskara
+suomi
+na vosa vakaviti
+gàidhlig
+galego
+hak kâ ngî
+hrvatski
+kreyòl ayisyen
+bahasa indonesia
+kurdî
+malagasy
+bahasa melayu
+nederlands
+norsk bokmål
+polski
+português
+român
+srpskohrvatski
+simple english
+shqip
+srpski
+svenska
+kiswahili
+türkçe
+ti ng vi t
+winaray
+isizulu
+edit links
+article
+english
+view history
+tools
+tools
+button move to sidebar button hide
+actions
+view history
+general
+what links here
+related changes
+upload file
+permanent link
+page information
+cite this page
+get shortened url
+print export
+download as pdf
+printable version
+other projects
+wikimedia commons
+wikidata item
+appearance
+button move to sidebar button hide
+from wikipedia free encyclopedia
+light emitted by sun
+for other uses see sunlight disambiguation
+sunshine redirects here for other uses see sunshine
+disambiguation
+px sts eva view to russian orbital segment jpg sun
+as seen from low earth orbit overlooking international space
+station this sunlight is not filtered by lower atmosphere which
+blocks much solar spectrum
+px spring lake c new jersey beach at sunrise jpg
+px cape may jpg
+sunlight shining upon two different sides u s state new
+jersey sunrise on jersey shore at spring lake monmouth county
+above and sunset on shore at sunset beach cape may county
+below both are filtered through high stratus clouds
+px apollo florida jpg sunrise over gulf mexico and
+florida taken on october from apollo
+sunlight is portion electromagnetic radiation which is
+emitted by sun i e solar radiation and received by earth
+particular visible light perceptible to human eye as well as
+invisible infrared typically perceived by humans as warmth and
+ultraviolet which can have physiological effects such as sunburn
+lights however according to american meteorological society
+there are conflicting conventions as to whether all three are
+referred to as light or whether that term should only be applied to
+visible portion spectrum
+upon reaching earth sunlight is scattered and filtered through
+earth s atmosphere as daylight when sun is above horizon when
+direct solar radiation is not blocked by clouds it is experienced as
+sunshine a combination bright light and radiant heat atmospheric
+when blocked by clouds or reflected off other objects sunlight is
+diffused sources estimate a global average between watts to
+watts per square meter over a hour day this figure is
+estimated by nasa to be about a quarter earth s average total solar
+irradiance
+sunlight takes about minutes to reach earth from surface
+sun a photon starting at center sun and changing
+direction every time it encounters a charged particle would take
+between and years to get to surface sunlight is
+a key factor photosynthesis process used by plants and other
+autotrophic organisms to convert light energy normally from sun
+into chemical energy that can be used to synthesize carbohydrates and
+fuel organisms activities ultraviolet radiation sunlight
+has both positive and negative health effects as it is both a
+requisite for vitamin d synthesis and a mutagen
+daylighting is natural lighting interior spaces by admitting
+sunlight solar irradiance is rate solar energy received by a
+unit area from sunlight
+measurement
+researchers can measure intensity sunlight using a sunshine
+recorder pyranometer or pyrheliometer to calculate amount
+sunlight reaching ground both eccentricity earth s elliptic
+orbit and attenuation by earth s atmosphere have to be taken into
+account extraterrestrial solar illuminance e ext corrected for
+elliptic orbit by using day number year dn is given
+to a good approximation by
+scriptlevel e
+normal e normal x
+normal t
+e
+normal s
+normal c
+cos
+normal d
+normal n
+x e rm ext e rm
+sc cdot left cdot cos left pi frac rm
+dn right right
+e rm ext e rm sc cdot
+left cdot cos left pi frac rm
+dn right right
+where dn on january dn on february dn on march except
+on leap years where dn etc this formula dn is used because
+modern times earth s perihelion closest approach to sun
+and therefore maximum e ext occurs around january each year
+value is determined knowing that ratio between
+perihelion au squared and aphelion au
+squared should be approximately
+solar illuminance constant e sc is equal to × lux
+direct normal illuminance e dn corrected for attenuating
+effects atmosphere is given by
+scriptlevel e
+normal d normal n
+e
+normal e normal x
+normal t mspace
+thinmathspace e
+c m
+x e rm dn e rm
+ext e cm
+e rm dn e rm ext e cm
+where c is atmospheric extinction and m is relative optical
+airmass atmospheric extinction brings number lux down to
+around lux
+total amount energy received at ground level from sun at
+zenith depends on distance to sun and thus on time year
+it is about higher than average january and lower july
+see below if extraterrestrial solar radiation is watts per
+square meter value when earth sun distance is astronomical
+unit then direct sunlight at earth s surface when sun is at
+zenith is about w m but total amount direct and
+indirect from atmosphere hitting ground is around
+w m terms energy sunlight at earth s surface is around
+to percent infrared above nm to percent visible to
+nm and to percent ultraviolet below nm at top
+atmosphere sunlight is about more intense having about
+ultraviolet uv with most extra uv consisting
+biologically damaging short wave ultraviolet
+direct sunlight has a luminous efficacy about lumens per watt
+radiant flux this is higher than efficacy source
+artificial lighting other than leds which means using sunlight for
+illumination heats up a room less than fluorescent or incandescent
+lighting multiplying figure watts per square meter by
+lumens per watt indicates that bright sunlight provides an illuminance
+approximately lux lumens per square meter on a
+perpendicular surface at sea level illumination a horizontal
+surface will be considerably less than this if sun is not very high
+sky averaged over a day highest amount sunlight on a
+horizontal surface occurs january at south pole see
+insolation
+dividing irradiance w m by size sun s disk
+steradians gives an average radiance mw per square metre per
+steradian however radiance at center sun s disk is
+somewhat higher than average over whole disk due to limb
+darkening multiplying this by gives an upper limit to
+irradiance which can be focused on a surface using mirrors
+composition and power
+px solar spectrum compared to black body gif solar spectrum
+compared to black body at k
+see also ultraviolet infrared and light
+spectrum sun s solar radiation can be compared to that a
+black body with a temperature about k see
+graph sun emits em radiation across most electromagnetic
+spectrum although radiation created solar core consists
+mostly x rays internal absorption and thermalization convert these
+super high energy photons to lower energy photons before they reach
+sun s surface and are emitted out into space as a result
+photosphere sun does not emit much x radiation solar x rays
+although it does emit such hard radiations as x rays and even gamma
+rays during solar flares quiet non flaring sun including
+its corona emits a broad range wavelengths x rays ultraviolet
+visible light infrared and radio waves different depths
+photosphere have different temperatures and this partially explains
+deviations from a black body spectrum
+there is also a flux gamma rays from quiescent sun obeying a
+power law between and tev some gamma rays are caused by cosmic
+rays interacting with solar atmosphere but this does not explain
+these findings
+only direct signature nuclear processes core
+sun is via very weakly interacting neutrinos
+px solar spectrum en png solar spectral irradiance watts per
+square metre per nanometre above atmosphere yellow and at surface
+red extreme uv and x rays are produced left wavelength range
+but comprise very small amounts sun s total output power area
+under curve px spectral distribution sunlight png
+spectral distribution sunlight different curves reflect
+different equally valid ways characterizing same sunlight these
+curves have peaks at different wavelengths which demonstrates that
+notion a location where peak amount sunlight is emitted is
+not meaningful and is not a characteristic light itself but is
+merely an artifact how spectrum is represented percentiles
+offer a way thinking about distribution energy which is
+independent representation percent solar irradiance is
+associated with wavelengths less than about nm based on
+approximating sunlight by emissions a k blackbody
+although solar corona is a source extreme ultraviolet and x ray
+radiation these rays make up only a very small amount power
+output sun see spectrum at right spectrum nearly all
+roughly solar electromagnetic radiation striking
+earth s atmosphere spans a range nm to about nm this
+band significant radiation power can be divided into five regions
+increasing order wavelengths
+ultraviolet c or uvc range which spans a range to nm
+term ultraviolet refers to fact that radiation is at
+higher frequency than violet light and hence also invisible to
+human eye due to absorption by atmosphere very little
+reaches earth s surface this spectrum radiation has germicidal
+properties as used germicidal lamps
+ultraviolet b or uvb range spans to nm it is also
+greatly absorbed by earth s atmosphere and along with uvc
+causes photochemical reaction leading to production
+ozone layer it directly damages dna and causes sunburn
+addition to this short term effect it enhances skin ageing and
+significantly promotes development skin cancer but is
+also required for vitamin d synthesis skin mammals
+ultraviolet a or uva spans to nm this band was
+once when held to be less damaging to dna and hence is used
+cosmetic artificial sun tanning tanning booths and tanning beds
+and puva therapy for psoriasis however uva is now known to cause
+significant damage to dna via indirect routes formation free
+radicals and reactive oxygen species and can cause cancer
+visible range or light spans to nm as name
+suggests this range is visible to naked eye
+infrared range that spans nm to nm mm it
+comprises an important part electromagnetic radiation that
+reaches earth scientists divide infrared range into three
+types on basis wavelength
+infrared a nm to nm
+infrared b nm to nm
+infrared c nm to mm
+sunlight reaching earth s surface is infrared visible
+and ultraviolet
+it is sometimes asserted that sun s maximum output is
+visible range however this statement is a misconception based on only
+seeing solar spectral irradiance plotted on a per wavelength basis
+when plotted that way power spectral density sunlight peaks at
+a wavelength about nm which is visible range however
+solar spectral irradiance can with equal validity be calculated on
+a per frequency basis which case maximum is at × hz
+corresponding to a wavelength about nm which is near
+infrared infrared a range counterintuitively it is not meaningful
+to assert that solar output is greatest at some precise location
+spectrum
+published tables
+tables direct solar radiation on various slopes from to degrees
+north latitude calories per square centimetre issued and
+published by pacific northwest forest and range experiment station
+forest service u s department agriculture portland oregon usa
+appear on web
+intensity solar system
+mars sunset pia jpg sunlight on mars is dimmer than on earth
+this photo a martian sunset was imaged by mars pathfinder
+different bodies solar system receive light an intensity
+inversely proportional to square their distance from sun
+a table comparing amount solar radiation received by each planet
+solar system at top its atmosphere
+planet or dwarf planet distance au solar radiation w m
+perihelion aphelion maximum minimum
+mercury
+venus
+earth
+jupiter
+saturn
+uranus
+neptune
+pluto
+actual brightness sunlight that would be observed at surface
+also depends on presence and composition an atmosphere for
+example venus s thick atmosphere reflects more than solar
+light it receives actual illumination surface is about
+lux comparable to that on earth daytime with overcast
+clouds
+sunlight on mars would be more or less like daylight on earth during a
+slightly overcast day and as can be seen pictures taken by
+rovers there is enough diffuse sky radiation that shadows would not
+seem particularly dark thus it would give perceptions and feel very
+much like earth daylight spectrum on surface is slightly
+redder than that on earth due to scattering by reddish dust
+martian atmosphere
+for comparison sunlight on saturn is slightly brighter than earth
+sunlight at average sunset or sunrise even on pluto sunlight
+would still be bright enough to almost match average living room
+to see sunlight as dim as full moonlight on earth a distance about
+au light hours is needed only a handful objects
+solar system have been discovered that are known to orbit farther than
+such a distance among them sedna and oo
+variations solar irradiance
+seasonal and orbital variation
+further information insolation and sunshine duration
+on earth solar radiation varies with angle sun above
+horizon with longer sunlight duration at high latitudes during
+summer varying to no sunlight at all winter near pertinent
+pole when direct radiation is not blocked by clouds it is
+experienced as sunshine warming ground and other objects
+depends on absorption electromagnetic radiation form
+heat
+amount radiation intercepted by a planetary body varies
+inversely with square distance between star and
+planet earth s orbit and obliquity change with time over thousands
+years sometimes forming a nearly perfect circle and at other times
+stretching out to an orbital eccentricity currently as
+orbital eccentricity changes average distance from sun
+semimajor axis does not significantly vary and so total
+insolation over a year remains almost constant due to kepler s second
+scriptlevel
+scriptlevel a
+r
+d t
+d
+x tfrac
+a r dt d theta
+tfrac a r dt d theta
+where
+scriptlevel a
+x a
+a is areal velocity invariant that is
+integration over orbital period also invariant is a constant
+scriptlevel msubsup
+t msubsup
+scriptlevel a
+r
+d t
+msubsup
+msubsup d
+normal c
+normal o normal n
+normal s normal t
+normal a normal n
+normal t
+x
+int t tfrac a r dt int pi d theta
+mathrm constant
+int t tfrac a r dt int
+pi d theta mathrm constant
+if we assume solar radiation power p as a constant over time and
+solar irradiation given by inverse square law we obtain also
+average insolation as a constant however seasonal and
+latitudinal distribution and intensity solar radiation received at
+earth s surface does vary effect sun angle on climate
+results change solar energy summer and winter for
+example at latitudes degrees this can vary by more than as
+a result earth s orbital variation because changes winter and
+summer tend to offset change annual average insolation at
+any given location is near zero but redistribution energy
+between summer and winter does strongly affect intensity
+seasonal cycles such changes associated with redistribution
+solar energy are considered a likely cause for coming and going
+recent ice ages see milankovitch cycles
+solar intensity variation
+further information solar variation
+space based observations solar irradiance started these
+measurements show that solar constant is not constant it varies on
+many time scales including year sunspot solar cycle when
+going further back time one has to rely on irradiance
+reconstructions using sunspots for past years or cosmogenic
+radionuclides for going back years such reconstructions have
+been done these studies show that addition to
+solar irradiance variation with solar cycle schwabe
+cycle solar activity varies with longer cycles such as
+proposed year gleisberg cycle year devries cycle and
+year eddy cycle
+solar irradiance
+main article solar irradiance
+solar constant
+px solar irradiance spectrum gif solar irradiance spectrum at
+top atmosphere on a linear scale and plotted against wavenumber
+main article solar constant
+solar constant is a measure flux density is amount
+incoming solar electromagnetic radiation per unit area that would be
+incident on a plane perpendicular to rays at a distance one
+astronomical unit au roughly mean distance from sun to
+earth solar constant includes all types solar radiation not
+just visible light its average value was thought to be
+approximately w m varying slightly with solar activity
+but recent recalibrations relevant satellite observations
+indicate a value closer to w m is more realistic
+total solar irradiance tsi and spectral solar irradiance ssi upon earth
+since a series overlapping nasa and esa satellite experiments
+have measured total solar irradiance tsi amount solar
+radiation received at top earth s atmosphere as
+kilo watts per square meter kw m tsi
+observations continue with acrimsat acrim soho virgo and
+sorce tim satellite experiments observations have revealed
+variation tsi on many timescales including solar magnetic
+cycle and many shorter periodic cycles tsi provides
+energy that drives earth s climate so continuation tsi
+time series database is critical to understanding solar
+variability climate change
+since sorce spectral irradiance monitor sim has monitored
+spectral solar irradiance ssi spectral distribution tsi
+indicate that ssi at uv ultraviolet wavelength corresponds a
+less clear and probably more complicated fashion with earth s climate
+responses than earlier assumed fueling broad avenues new research
+connection sun and stratosphere troposphere biosphere
+ocean and earth s climate
+surface illumination and spectrum
+see also diffuse sky radiation
+px sun over lake hawea c new zealand jpg sunlight shining through
+clouds giving rise to crepuscular rays
+spectrum surface illumination depends upon solar elevation due
+to atmospheric effects with blue spectral component dominating
+during twilight before and after sunrise and sunset respectively and
+red dominating during sunrise and sunset these effects are apparent
+natural light photography where principal source illumination is
+sunlight as mediated by atmosphere
+while color sky is usually determined by rayleigh
+scattering an exception occurs at sunset and twilight preferential
+absorption sunlight by ozone over long horizon paths gives
+zenith sky its blueness when sun is near horizon
+spectral composition sunlight at earth s surface
+sun may be said to illuminate which is a measure light
+within a specific sensitivity range many animals including humans
+have a sensitivity range approximately nm and given
+optimal conditions absorption and scattering by earth s atmosphere
+produces illumination that approximates an equal energy illuminant for
+most this range useful range for color vision humans
+for example is approximately nm aside from effects that arise
+at sunset and sunrise spectral composition changes primarily
+respect to how directly sunlight is able to illuminate when
+illumination is indirect rayleigh scattering upper atmosphere
+will lead blue wavelengths to dominate water vapour lower
+atmosphere produces further scattering and ozone dust and water
+particles will also absorb particular wavelengths
+px spectrum sunlight en png spectrum visible
+wavelengths at approximately sea level illumination by direct sunlight
+compared with direct sunlight scattered by cloud cover and with
+indirect sunlight by varying degrees cloud cover yellow line
+shows power spectrum direct sunlight under optimal conditions
+to aid comparison other illumination conditions are scaled by
+factor shown key so they match at about nm blue light
+life on earth
+px d c bclmen c g c b versheide jpg sunlight
+penetrating through a forest canopy germany
+existence nearly all life on earth is fueled by light from
+sun most autotrophs such as plants use energy sunlight
+combined with carbon dioxide and water to produce simple sugars a
+process known as photosynthesis these sugars are then used as
+building blocks and other synthetic pathways that allow organism
+to grow
+heterotrophs such as animals use light from sun indirectly by
+consuming products autotrophs either by consuming autotrophs
+by consuming their products or by consuming other heterotrophs
+sugars and other molecular components produced by autotrophs are
+then broken down releasing stored solar energy and giving
+heterotroph energy required for survival this process is known as
+cellular respiration
+prehistory humans began to further extend this process by putting
+plant and animal materials to other uses they used animal skins for
+warmth for example or wooden weapons to hunt these skills allowed
+humans to harvest more sunlight than was possible through
+glycolysis alone and human population began to grow
+during neolithic revolution domestication plants and
+animals further increased human access to solar energy fields devoted
+to crops were enriched by inedible plant matter providing sugars and
+nutrients for future harvests animals that had previously provided
+humans with only meat and tools once they were killed were now used for
+labour throughout their lives fueled by grasses inedible to humans
+fossil fuels are remnants ancient plant and animal matter
+formed using energy from sunlight and then trapped within earth for
+millions years
+cultural aspects
+px edouard manet luncheon on grass google art project jpg
+Édouard manet le déjeuner sur l herbe
+effect sunlight is relevant to painting evidenced for instance
+works Édouard manet and claude monet on outdoor scenes and
+landscapes
+px winter sunshine jpg téli ver fény winter sunshine by lászló
+mednyánszky early th century
+many people find direct sunlight to be too bright for comfort indeed
+looking directly at sun can cause long term vision damage to
+compensate for brightness sunlight many people wear sunglasses
+cars many helmets and caps are equipped with visors to block sun
+from direct vision when sun is at a low angle sunshine is often
+blocked from entering buildings through use walls window
+blinds awnings shutters curtains or nearby shade trees sunshine
+exposure is needed biologically for production vitamin d
+skin a vital compound needed to make strong bone and muscle
+many world religions such as hinduism sun is considered to be
+a god as it is source life and energy on earth sun was
+also considered to be a god ancient egypt
+sunbathing
+main article sun tanning
+this section does not cite any sources please help improve this
+section by adding citations to reliable sources unsourced material may
+be challenged and removed january learn how and when to remove
+this message
+px ybf ja bikini bar jpg sun bathers finland
+sunbathing is a popular leisure activity which a person sits or lies
+direct sunshine people often sunbathe comfortable places where
+there is ample sunlight some common places for sunbathing include
+beaches open air swimming pools parks gardens and sidewalk cafes
+sunbathers typically wear limited amounts clothing or some simply go
+nude for some an alternative to sunbathing is use a sunbed
+that generates ultraviolet light and can be used indoors regardless
+weather conditions tanning beds have been banned a number states
+world due to concerns skin cancer
+for many people with light skin one purpose for sunbathing is to
+darken one s skin color get a sun tan as this is considered some
+cultures to be attractive associated with outdoor activity
+vacations holidays and health some people prefer naked sunbathing so
+that an all over or even tan can be obtained sometimes as part
+a specific lifestyle
+controlled heliotherapy or sunbathing has been used as a treatment
+for psoriasis and other maladies
+skin tanning is achieved by an increase dark pigment inside skin
+cells called melanocytes and is an automatic response mechanism
+body to sufficient exposure to ultraviolet radiation from sun or
+from artificial sunlamps thus tan gradually disappears with
+time when one is no longer exposed to these sources
+effects on human health
+main article health effects sunlight exposure
+ultraviolet radiation sunlight has both positive and negative
+health effects as it is both a principal source vitamin d and a
+mutagen a dietary supplement can supply vitamin d without this
+mutagenic effect but bypasses natural mechanisms that would
+prevent overdoses vitamin d generated internally from sunlight
+vitamin d has a wide range positive health effects which include
+strengthening bones and possibly inhibiting growth some
+cancers sun exposure has also been associated with
+timing melatonin synthesis maintenance normal circadian rhythms
+and reduced risk seasonal affective disorder
+insufficient sun exposure is responsible for deaths
+united states and deaths europe per year additionally a
+lack sun has an increases risk for breast cancer colorectal cancer
+hypertension cardiovascular disease metabolic syndrome multiple
+sclerosis alzheimer s disease autism asthma type diabetes and
+myopia
+long term sunlight exposure is known to be associated with
+development skin cancer skin aging immune suppression and eye
+diseases such as cataracts and macular degeneration short term
+overexposure is cause sunburn snow blindness and solar
+retinopathy citation needed
+uv rays and therefore sunlight and sunlamps are only listed
+carcinogens that are known to have health benefits and a number
+public health organizations state that there needs to be a balance
+between risks having too much sunlight or too little there
+is a general consensus that sunburn should always be avoided
+epidemiological shows that people who have more exposure to
+sunlight have less high blood pressure and cardiovascular related
+mortality while sunlight and its uv rays are a risk factor for skin
+cancer sun avoidance may carry more a cost than benefit for
+over all good health a study found that there is no evidence
+that uv reduces lifespan contrast to other risk factors like
+smoking alcohol and high blood pressure
+effect on plant genomes
+elevated solar uv b doses increase frequency dna recombination
+arabidopsis thaliana and tobacco nicotiana tabacum plants
+these increases are accompanied by strong induction an enzyme with a
+key recombinational repair dna damage thus level
+terrestrial solar uv b radiation likely affects genome stability
+plants
+see also
+color temperature
+coronal radiative losses
+diathermancy
+fraunhofer lines
+list cities by sunshine duration
+moonlight
+light pollution
+photic sneeze reflex
+photosynthesis
+solar energy
+starlight
+sunbeam light rays appearing to radiate from sun
+references
+sunlight glossary meteorology american meteorological
+society retrieved
+climate and earth s energy budget earthobservatory nasa gov
+january retrieved
+basics solar energy from original on
+retrieved
+bell burnell s jocelyn an introduction to sun and
+stars illustrated ed cambridge university press p
+isbn extract page
+minute travel time to earth by sunlight hides a
+thousand year journey that actually began core
+sunearthday nasa gov nasa from original on
+retrieved
+c kandilli k ulgen solar illumination and estimating
+daylight availability global solar irradiance energy sources
+introduction to solar radiation newport corporation
+from original on october
+calculated from reference solar spectral irradiance air
+mass national renewable energy laboratory from
+original on september retrieved
+first each set two figures is for total solar radiation
+reaching a panel aimed at sun which is ° above horizon
+whereas second figure each pair is direct plus
+circumsolar radiation circumsolar meaning coming from part
+sky within a couple degrees sun totals from
+to nm are and w m respectively it would be
+good to have more direct figures from a good source rather than
+summing thousands numbers a database
+calculated from astm spectrum cited above
+qiang fu radiation solar pdf holton james r
+ed encyclopedia atmospheric sciences vol amsterdam
+academic press pp isbn
+oclc pdf from original on
+pedrotti pedrotti introduction to optics prentice
+hall isbn
+appleton edward v departure long wave solar
+radiation from black body intensity nature
+bibcode natur a doi b
+iqbal m an introduction to solar radiation academic press
+nasa solar system exploration sun facts figures
+at wayback machine retrieved april
+effective temperature k
+garner rob january fermi detects solar flare s
+highest energy light from original on may
+retrieved january
+multispectral sun from national earth science teachers
+association windows universe org from
+original on retrieved
+see video referenced sentence for more details about
+comparison black body with am spectrum see this video
+at pietro altermatt extraterrestrial spectrum pv
+lighthouse pv lighthouse pty ltd
+wilkinson ryan august record breaking detection
+solar photons physics s bibcode phyoj s w
+doi physics s
+leah crane aug astronomers have spotted inexplicably
+bright light coming from sun new scientist
+a albert aug discovery gamma rays from
+quiescent sun with hawc phys rev lett
+arxiv bibcode phrvl e a
+doi physrevlett pmid
+gueymard christian a april sun s total and
+spectral irradiance for solar energy applications and solar
+radiation models solar energy
+bibcode soen g doi j solener
+naylor mark kevin c farmer sun damage and
+prevention electronic textbook dermatology internet
+dermatology society from original on
+retrieved
+a b wacker m holick mf sunlight and vitamin d a
+global perspective for health dermato endocrinology
+doi derm pmc pmid
+world health organization march radiation ultraviolet
+uv radiation retrieved
+watson m holman d m maguire eisen m august
+ultraviolet radiation exposure and its impact on skin cancer
+risk seminars oncology nursing
+doi j soncn pmc pmid
+visible light science mission directorate august
+solar radiation and photosynethically active radiation
+fondriest environmental march retrieved march
+mobley curtis a common misconception ocean optics retrieved
+march
+john buffo leo j fritschen james l murphy direct
+solar radiation on various slopes from to degrees north
+latitude pdf pacific northwest forest and range experiment
+station forest service u s department agriculture portland
+oregon usa pdf from original on
+retrieved jan
+solar intensity pdf mcauliffe shepard discovery center
+from original pdf on
+unveiling venus hot and stifling science news
+doi jstor
+watts per square meter lux corresponds to
+daytime with overcast clouds
+graph variation seasonal and latitudinal distribution
+solar radiation museum state il us from
+original on retrieved
+a b graphics gallery acrim com from original
+on retrieved
+wang et al modeling sun s magnetic field and
+irradiance since astrophysical journal
+bibcode apj w doi
+steinhilber et al total solar irradiance since
+is there a long term variation unrelated to solar surface magnetic
+phenomena geophysical research letters l
+bibcode a a a s doi
+vieira et al evolution solar irradiance during
+holocene astronomy astrophysics a arxiv
+bibcode a a a v doi
+steinhilber et al years cosmic radiation and
+solar activity from ice cores and tree rings proceedings
+national academy sciences
+bibcode pnas s doi pnas
+pmc pmid
+a b satellite observations total solar irradiance
+acrim com from original on retrieved
+g kopp greg j lean a new lower value total solar
+irradiance evidence and climate significance geophys res lett
+l bibcode georl k
+doi gl
+willson r c mordvinov a v secular total solar
+irradiance trend during solar cycles geophys res lett
+bibcode georl w doi gl
+construction a composite total solar irradiance tsi time
+series from to present from original on
+retrieved
+current projects www acrim com from original on
+october retrieved january
+comparison acrimsat acrim soho virgo and sorce tim results
+acrim com from original on october retrieved
+january
+comparison acrimsat acrim soho virgo and sorce tim results
+acrim com from original on retrieved
+nasa goddard space flight center solar radiation
+atmospheres gsfc nasa gov from original
+on retrieved
+craig bohren atmospheric optics pdf pdf from
+original on
+buser pierre a imbert michel vision mit press
+p isbn retrieved october light is
+a special radiant energy embracing wavelengths between
+and nm or m or to Å
+macevoy bruce color vision from original
+on september retrieved august noon sunlight
+d has a nearly flat distribution
+wyszecki günter stiles w s color science concepts
+and methods quantitative and formulas john wiley sons
+macadam david l color measurement theme and variations
+second revised ed springer pp isbn
+chawda dishita shinde pranaykumar effects
+solar radiation on eyes cureus e
+bibcode cureu c doi cureus pmc
+mathes sonja lindwedel karla nilsen lill kaiser isabelle
+pfahlberg annette gefeller olaf september global
+tanning bed advertising a comparison legal regulations on three
+continents pdf cancers research article
+doi cancers pmc pmid retrieved
+nguyen tien v koo john y m ultraviolet therapy for
+psoriasis advances psoriasis pp
+doi isbn
+alora m b t fitzpatrick t b taylor c r
+total body heliotherapy photodermatology photoimmunology
+photomedicine
+doi j tb x pmid
+ahmad shamim i ultraviolet light human health
+diseases and environment advances experimental medicine and
+biology cham springer international publishing ag
+osborne je hutchinson pe august vitamin d and systemic
+cancer is this relevant to malignant melanoma br j dermatol
+doi j x
+dietary supplement fact sheet vitamin d office dietary
+supplements national institutes health from
+original on
+cranney a horsley t o donnell s weiler h et al august
+effectiveness and safety vitamin d relation to bone
+health evidence report technology assessment
+pmc pmid
+john e schwartz g koo j van den berg d et al june
+sun exposure vitamin d receptor gene polymorphisms and
+risk advanced prostate cancer cancer research
+doi can pmid
+egan k sosman j blot w february sunlight and
+reduced risk cancer is real story vitamin d j natl
+cancer inst doi jnci dji
+mead april benefits sunlight a bright spot for
+human health environmental health perspectives
+a a bibcode envhp a m doi ehp a
+pmc pmid
+alfredsson lars armstrong bruce k butterfield d allan
+chowdhury rajiv de gruijl frank r feelisch martin garland
+cedric f hart prue h hoel david g jacobsen ramune
+lindqvist pelle g llewellyn david j tiemeier henning
+weller richard b young antony r insufficient
+sun exposure has become a real public health problem
+international journal environmental research and public health
+doi ijerph issn
+pmc pmid
+lucas rm repacholi mh mcmichael aj june is current
+public health message on uv exposure correct bulletin
+world health organization
+doi blt pmc pmid
+th report on carcinogens ultraviolet radiation related
+exposures pdf national toxicology program october
+pdf from original on retrieved
+risks and benefits pdf pdf from original on
+retrieved
+a b weller rb sunlight has cardiovascular benefits
+independently vitamin d blood purification
+hdl f d d db d a cc dbf ddad c
+ries g heller w puchta h sandermann h seidlitz hk hohn b
+elevated uv b radiation reduces genome stability
+plants nature bibcode natur r
+doi pmid
+further reading
+hartmann thom last hours ancient sunlight london
+hodder and stoughton
+external links
+wikimedia commons logo media related to sunlight at wikimedia
+commons
+solar radiation encyclopedia earth
+total solar irradiance tsi daily mean at website
+national geophysical center
+construction a composite total solar irradiance tsi time
+series from to present by world radiation center
+physikalisch meteorologisches observatorium davos pmod wrc
+a comparison methods for providing solar radiation to crop
+models and decision support systems rivington et al
+evaluation three model estimations solar radiation at uk
+stations rivington et al
+high resolution spectrum solar radiation from observatoire de
+paris
+measuring solar radiation a lesson plan from national science
+digital library
+websurf astronomical information online tools for calculating
+rising and setting times sun moon or planet azimuth sun
+moon or planet at rising and setting altitude and azimuth sun
+moon or planet for a given date or range dates and more
+an excel workbook with a solar position and solar radiation
+time series calculator by greg pelletier
+astm standard for solar spectrum at ground level us
+latitude degrees
+detailed spectrum sun at astronomy picture day
+sun
+internal structure
+radiative zone
+tachocline
+convection zone
+atmosphere
+photosphere
+supergranulation
+granule
+faculae
+sunspot
+ellerman bomb
+chromosphere
+plage
+spicule
+moreton wave
+corona
+transition region
+coronal hole
+coronal loop
+coronal mass ejection
+nanoflare
+prominence
+helmet streamer
+supra arcade downflows
+alfvén surface
+variation
+solar cycle
+list solar cycles
+active region
+solar maximum
+solar minimum
+sunspot number
+solar wind
+solar wind turbulence
+magnetic switchback
+flare
+helioseismology
+heliosphere
+corotating interaction region
+current sheet
+termination shock
+heliosheath
+heliopause
+bow shock
+related
+eclipse
+mythology and culture
+lunar eclipse
+heliophysics
+culture
+solar deity
+o list
+sun fiction
+solar activity
+solar astronomy
+solar dynamo
+solar energy
+solar neutrino
+solar observation
+solar phenomena
+solar physics
+solar radio emission
+solar system
+solar telescope
+solar time
+space climate
+space weather
+standard solar model
+sunlight radiation
+spectral
+g type main sequence star
+exploration
+solar observatory
+list heliophysics missions
+category missions to sun
+category
+stars
+formation
+accretion
+molecular cloud
+bok globule
+young stellar object
+protostar
+pre main sequence
+herbig ae be
+t tauri
+herbig haro object
+hayashi track
+henyey track
+evolution
+main sequence
+red giant branch
+horizontal branch
+red clump
+asymptotic giant branch
+post agb
+super agb
+blue loop
+planetary nebula
+protoplanetary
+wolf rayet nebula
+dredge up
+oh ir
+instability strip
+luminous blue variable
+stellar population
+supernova
+superluminous
+hypernova
+classification
+early
+main sequence
+subdwarf
+subgiant
+hertzsprung gap
+giant
+yellow
+bright giant
+supergiant
+yellow
+hypergiant
+yellow
+carbon
+white dwarf
+chemically peculiar
+ap bp
+he weak
+barium
+lambda boötis
+technetium
+shell
+helium
+extreme
+blue straggler
+remnants
+compact star
+white dwarf
+helium planet
+neutron
+radio quiet
+pulsar
+o binary
+o x ray
+magnetar
+black hole
+stellar black hole
+supermassive black hole
+x ray binary
+burster
+hypothetical
+blue dwarf
+black dwarf
+exotic
+boson
+electroweak
+strange
+preon
+planck
+dark energy
+quark
+black
+quasi star
+gravastar
+thorne ytkow object
+blitzar
+white hole
+nucleosynthesis
+deuterium burning
+lithium burning
+proton proton chain
+cno cycle
+helium flash
+triple alpha process
+alpha process
+c burning
+ne burning
+o burning
+si burning
+s process
+r process
+p process
+symbiotic
+remnant
+luminous red nova
+recurrent
+micronova
+supernova
+structure
+convection zone
+microturbulence
+oscillations
+radiation zone
+atmosphere
+photosphere
+starspot
+chromosphere
+stellar corona
+alfvén surface
+stellar wind
+bubble
+bipolar outflow
+accretion disk
+protoplanetary disk
+proplyd
+asteroseismology
+helioseismology
+circumstellar dust
+cosmic dust
+circumstellar envelope
+eddington luminosity
+kelvin helmholtz mechanism
+properties
+designation
+dynamics
+effective temperature
+luminosity
+kinematics
+magnetic field
+absolute magnitude
+metallicity
+rotation
+gravity darkening
+starlight
+variable
+photometric system
+color index
+hertzsprung russell diagram
+color color diagram
+strömgren sphere
+kraft break
+star systems
+binary
+contact
+common envelope
+eclipsing
+symbiotic
+multiple
+cluster
+globular
+super
+planetary system
+earth centric
+observations
+solar eclipse
+solar radio emission
+solar system
+sunlight
+pole star
+circumpolar
+constellation
+asterism
+magnitude
+apparent
+extinction
+photographic
+radial velocity
+proper motion
+parallax
+photometric standard
+lists
+proper names
+arabic
+chinese
+extremes
+most massive
+highest temperature
+lowest temperature
+largest volume
+smallest volume
+brightest
+historical brightest
+most luminous
+nearest
+o bright
+most distant
+with resolved images
+with multiple exoplanets
+brown dwarfs
+red dwarfs
+white dwarfs
+milky way novae
+supernovae
+candidates
+remnants
+planetary nebulae
+timeline stellar astronomy
+related
+substellar object
+brown dwarf
+o desert
+o sub
+planet
+galactic year
+galaxy
+guest
+gravity
+intergalactic
+neutron star merger
+planet hosting stars
+stellar collision
+stellar engulfment
+tidal disruption event
+category
+icon stars portal
+portals
+astronomy
+spaceflight
+outer space
+solar system
+elements nature
+universe
+space
+energy
+matter
+chemical elements
+particles
+change
+earth
+earth science
+history
+geological
+structure
+geology
+plate tectonics
+oceans
+gaia hypothesis
+future
+weather
+meteorology
+atmosphere earth
+climate
+clouds
+moonlight
+sunlight
+tides
+tornado
+tropical cyclone
+natural environment
+ecology
+ecosystem
+field
+radiation
+wilderness
+wildfires
+origin abiogenesis
+evolutionary history
+biosphere
+hierarchy
+biology
+astrobiology
+biodiversity
+organism
+eukaryota
+fauna
+o animals
+flora
+o plants
+fungi
+protista
+prokaryotes
+archaea
+bacteria
+viruses
+see also
+nature based solutions
+natural resources
+pollution quality
+ambient standards us
+index
+indoor
+clean air act us
+ozone depletion
+emissions
+airshed
+trading
+deforestation redd
+energy
+resources
+fossil fuels gas peak coal peak gas peak oil
+geothermal
+hydro
+nuclear
+solar
+sunlight
+shade
+agricultural
+arable
+o peak farmland
+degradation
+field
+landscape
+cityscape
+seascape
+soundscape
+viewshed
+property
+management
+habitat conservation
+minerals
+gemstone
+industrial
+o metal
+mining
+o law
+o sand
+o copper
+o phosphorus
+rights
+conservation
+fertility
+health
+resilience
+planning
+reserve
+biodiversity
+bioprospecting
+biopiracy
+biosphere
+bushfood
+bushmeat
+fisheries
+climate change
+management
+forests
+genetic resources
+management
+non timber products
+marine conservation
+meadow
+pasture
+plants
+fao plant treaty
+genetic resources
+gene banks
+herbal medicines
+upov convention
+rangeland
+seed bank
+wildlife
+conservation
+management
+water
+types location
+aquifer
+storage and recovery
+drinking
+daily consumption
+fresh
+groundwater
+pollution
+recharge
+remediation
+hydrosphere
+bergs
+glacial
+polar
+irrigation
+huerta
+marine
+harvesting
+stormwater
+surface water
+sewage
+reclaimed water
+watershed
+aspects
+desalination
+floods
+leaching
+sanitation
+improved
+scarcity
+security
+supply
+efficiency
+conflict
+conservation
+peak water
+pollution
+privatization
+quality
+right
+resources
+improved
+policy
+related
+commons
+enclosure
+global
+tragedy
+economics
+ecological
+ecosystem services
+exploitation
+overexploitation
+earth overshoot day
+management
+adaptive
+natural capital
+accounting
+natural heritage
+nature reserve
+remnant natural area
+systems ecology
+urban ecology
+wilderness
+resource
+common pool
+conflict perpetuation
+curse
+depletion
+extraction
+nationalism
+renewable non renewable
+politics
+electrostate
+oil war
+petroleum politics
+petrostate
+petro islam
+resource war
+category
+meteorological and variables
+general
+adiabatic processes
+advection
+buoyancy
+lapse rate
+lightning
+surface solar radiation
+surface weather analysis
+visibility
+vorticity
+wind shear
+condensation
+cloud
+cloud condensation nuclei ccn
+convective condensation level ccl
+lifting condensation level lcl
+precipitable water
+precipitation
+water vapor
+convection
+convective available potential energy cape
+convective inhibition cin
+convective instability
+convective momentum transport
+conditional symmetric instability
+convective temperature t c
+equilibrium level el
+free convective layer fcl
+helicity
+k index
+level free convection lfc
+lifted index li
+maximum parcel level mpl
+bulk richardson number brn
+significant tornado parameter stp
+temperature
+dew point t d
+dew point depression
+dry bulb temperature
+equivalent temperature t e
+forest fire weather index
+haines index
+heat index
+humidex
+humidity
+relative humidity rh
+mixing ratio
+potential temperature
+equivalent potential temperature e
+sea surface temperature sst
+temperature anomaly
+thermodynamic temperature
+vapor pressure
+virtual temperature
+wet bulb temperature
+wet bulb globe temperature
+wet bulb potential temperature
+wind chill
+pressure
+atmospheric pressure
+baroclinity
+barotropicity
+pressure gradient
+pressure gradient force pgf
+velocity
+maximum potential intensity
+climate change
+overview
+causes climate change
+effects climate change
+climate change mitigation
+climate change adaptation
+by country and region
+causes
+overview
+climate system
+greenhouse effect carbon dioxide atmosphere earth
+scientific consensus on climate change
+sources
+deforestation
+fossil fuel
+greenhouse gases
+greenhouse gas emissions
+carbon accounting
+carbon footprint
+carbon leakage
+from agriculture
+from wetlands
+world energy supply and consumption
+history
+history climate change policy and politics
+history climate change science
+svante arrhenius
+james hansen
+charles david keeling
+united nations climate change conferences
+international conference on transitioning away from fossil fuels
+years climate change
+effects and issues
+physical
+abrupt climate change
+anoxic event
+arctic methane emissions
+arctic sea ice decline
+atlantic meridional overturning circulation
+drought
+extreme weather
+flood
+coastal flooding
+heat wave
+marine
+urban heat island
+oceans
+acidification
+deoxygenation
+heat content
+sea surface temperature
+stratification
+temperature
+ozone depletion
+permafrost thaw
+retreat glaciers since
+sea level rise
+season creep
+climate sensitivity
+tipping points climate system
+tropical cyclones
+water cycle
+wildfires
+flora and fauna
+biomes
+mass mortality event
+birds
+extinction risk
+forest dieback
+invasive species
+marine life
+plant biodiversity
+social and economic
+agriculture
+livestock
+multi breadbasket failure
+united states
+children
+cities
+civilizational collapse
+crime
+depopulation settlements
+destruction cultural heritage
+disability
+economic impacts
+u s insurance industry
+fisheries
+gender
+health
+infectious diseases
+mental health
+united kingdom
+philippines
+human rights
+indigenous peoples
+migration
+poverty
+psychological impacts
+security and conflict
+urban flooding
+water scarcity
+water security
+by country and region
+africa
+americas
+antarctica
+arctic
+australia
+caribbean
+europe
+middle east and north africa
+small island countries
+by individual country
+mitigation
+economics and finance
+carbon budget
+carbon emission trading
+carbon offsets and credits
+gold standard carbon offset standard
+carbon price
+carbon tax
+climate debt
+climate finance
+climate risk insurance
+co benefits climate change mitigation
+economics climate change mitigation
+fossil fuel divestment
+green climate fund
+low carbon economy
+net zero emissions
+energy
+carbon capture and storage
+energy transition
+fossil fuel phase out
+nuclear power
+renewable energy
+sustainable energy
+preserving and enhancing
+carbon sinks
+blue carbon
+carbon dioxide removal
+carbon sequestration
+direct air capture
+carbon farming
+climate smart agriculture
+forest management
+afforestation
+forestry for carbon sequestration
+reforestation
+land use land use change and forestry lulucf and afolu
+nature based solutions
+other
+earth strike
+fridays for future
+geoengineering
+individual action on climate change
+positive tipping points
+sustainable architecture
+sustainable transport
+society and adaptation
+society
+business action
+climate action
+climate emergency declaration
+climate movement
+school strike for climate
+denial
+ecological grief
+governance
+justice
+litigation
+politics
+public opinion
+women
+adaptation
+adaptation strategies on german coast
+adaptive capacity
+disaster risk reduction
+ecosystem based adaptation
+flood control
+loss and damage
+managed retreat
+nature based solutions
+resilience
+vulnerability
+adaptation fund
+national adaptation programme action
+communication
+climate change performance index
+climate crisis term
+climate spiral
+education
+media coverage
+popular culture depictions
+fiction
+video games
+warming stripes
+international agreements
+glasgow climate pact
+integrity council for voluntary carbon market
+taskforce on scaling voluntary carbon markets
+kyoto protocol
+paris agreement
+cooperative mechanisms under article paris agreement
+nationally determined contributions
+sustainable development goal
+united nations framework convention on climate change
+international conference on transitioning away from fossil fuels
+background and theory
+measurements
+global surface temperature
+instrumental temperature record
+proxy
+satellite temperature measurement
+theory
+albedo
+carbon cycle
+atmospheric
+biologic
+oceanic
+permafrost
+carbon sink
+climate sensitivity
+climate variability and change
+cloud feedback
+cloud forcing
+fixed anvil temperature hypothesis
+cryosphere
+earth s energy budget
+extreme event attribution
+feedbacks
+global warming potential
+illustrative model greenhouse effect on climate change
+orbital forcing
+radiative forcing
+research and modelling
+climate change scenario
+climate model
+coupled model intercomparison project
+intergovernmental panel on climate change ipcc
+ipcc sixth assessment report
+paleoclimatology
+representative concentration pathway
+shared socioeconomic pathways
+icon climate change portal
+category
+glossary
+index
+authority control databases edit this at wikidata
+national
+united states
+czech republic
+israel
+other
+yale lux
+retrieved from
+https en wikipedia org w index php title sunlight oldid
+categories
+atmospheric radiation
+climate forcing
+solar energy
+light sources
+iarc group carcinogens
+hidden categories
+webarchive template wayback links
+articles with short description
+short description is different from wikidata
+all articles with vague or ambiguous time
+vague or ambiguous time from december
+articles needing additional references from january
+all articles needing additional references
+all articles with unsourced statements
+articles with unsourced statements from may
+commons category link is on wikidata
+this page was last edited on june at utc
+text is available under creative commons attribution sharealike
+license additional terms may apply by using this site you
+agree to terms use and privacy policy wikipedia® is a
+registered trademark wikimedia foundation inc a
+non profit organization
+privacy policy
+about wikipedia
+disclaimers
+contact wikipedia
+legal safety contacts
+code conduct
+developers
+statistics
+cookie statement
+mobile view
+wikimedia foundation
+powered by mediawiki
+button search
+button search
+toggle table contents
+sunlight
+button languages add topic

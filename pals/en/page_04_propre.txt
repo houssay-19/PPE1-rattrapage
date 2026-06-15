@@ -1,0 +1,941 @@
+edit this page wikipedia en wikipedia atom feed
+jump to content
+main menu
+main menu
+button move to sidebar button hide
+navigation
+main page
+contents
+current events
+random article
+about wikipedia
+contact us
+contribute
+learn to edit
+community portal
+recent changes
+upload file
+special pages
+wikipedia free encyclopedia
+search
+button search
+appearance
+donate
+create account
+log
+personal tools
+donate
+create account
+log
+contents
+button move to sidebar button hide
+spectral colors
+history
+limits to visible range
+button toggle limits to visible range subsection
+atmospheric transmission
+ocular transmission
+opsin absorption
+different definitions
+vision outside visible spectrum
+non visual light detection
+non humans
+button toggle non humans subsection
+mammals
+birds
+invertebrates
+thermal vision
+spectroscopy
+see also
+references
+toggle table contents
+visible spectrum
+languages
+afrikaans
+asturianu
+brezhoneg
+bosanski
+català
+e tina
+dansk
+deutsch
+esperanto
+español
+euskara
+suomi
+français
+gaeilge
+gàidhlig
+galego
+fiji hindi
+hrvatski
+magyar
+bahasa indonesia
+Íslenska
+italiano
+patois
+kurdî
+latina
+lëtzebuergesch
+lingua franca nova
+lietuvi
+latvie u
+minangkabau
+bahasa melayu
+nederlands
+norsk nynorsk
+norsk bokmål
+polski
+português
+român
+srpskohrvatski
+simple english
+sloven ina
+srpski
+sunda
+svenska
+türkçe
+tatarça
+o zbekcha
+vèneto
+ti ng vi t
+bân lâm gí
+edit links
+article
+english
+view history
+tools
+tools
+button move to sidebar button hide
+actions
+view history
+general
+what links here
+related changes
+upload file
+permanent link
+page information
+cite this page
+get shortened url
+print export
+download as pdf
+printable version
+other projects
+wikimedia commons
+wikidata item
+appearance
+button move to sidebar button hide
+from wikipedia free encyclopedia
+portion electromagnetic spectrum that is visible to human
+color spectrum redirects here for music album see color
+spectrum
+px light dispersion a mercury vapor lamp with a flint glass pris
+m ipnr c b jpg white light is dispersed by a glass prism into
+colors visible spectrum
+visible spectrum is band electromagnetic spectrum that
+is visible to human eye electromagnetic radiation this range
+wavelengths is called visible light or simply light optical
+spectrum is sometimes considered to be same as visible
+spectrum but some authors define term more broadly to include
+ultraviolet and infrared parts electromagnetic spectrum as well
+known collectively as optical radiation
+a typical human eye will respond to wavelengths from about to about
+nanometers terms frequency this corresponds to a band
+vicinity terahertz these boundaries are not sharply
+defined and may vary per individual under optimal conditions
+these limits human perception can extend to nm ultraviolet and
+nm near infrared
+spectrum does not contain all colors that human visual
+system can distinguish unsaturated colors such as pink or purple
+variations like magenta for example are absent because they can only
+be made from a mix multiple wavelengths colors containing only one
+wavelength are also called pure colors or spectral colors
+visible wavelengths pass largely unattenuated through earth s
+atmosphere via optical window region electromagnetic
+spectrum an example this phenomenon is when clean air scatters blue
+light more than red light and so midday sky appears blue apart
+from area around sun which appears white because light is
+not scattered as much optical window is also referred to as
+visible window because it overlaps human visible response
+spectrum near infrared nir window lies just out human
+vision as well as medium wavelength infrared mwir window and
+long wavelength or far infrared lwir or fir window although
+other animals may perceive them
+spectral colors
+srgb rendering spectrum visible light srgb rendering
+spectrum visible light
+color wavelength
+nm frequency
+thz photon energy
+violet
+green
+yellow
+orange
+main article spectral color
+colors that can be produced by visible light a narrow band
+wavelengths monochromatic light are called spectral colors
+various color ranges indicated illustration are an
+approximation spectrum is continuous with no clear boundaries
+between one color and next
+history
+px newton s color circle png newton s color circle from opticks
+showing colors he associated with musical notes
+spectral colors from red to violet are divided by notes
+musical scale starting at d circle completes a full octave from
+d to d newton s circle places red at one end spectrum next to
+violet at other this reflects fact that non spectral purple
+colors are observed when red and violet light are mixed
+th century roger bacon theorized that rainbows were produced
+by a similar process to passage light through glass or
+crystal
+th century isaac newton discovered that prisms could
+disassemble and reassemble white light and described phenomenon
+his book opticks he was first to use word spectrum latin for
+appearance or apparition this sense print
+describing his experiments optics newton observed that when a
+narrow beam sunlight strikes face a glass prism at an angle
+some is reflected and some beam passes into and through
+glass emerging as different colored bands newton hypothesized light
+to be made up corpuscles particles different colors with
+different colors light moving at different speeds transparent
+matter red light moving more quickly than violet glass result
+is that red light is bent refracted less sharply than violet as it
+passes through prism creating a spectrum colors
+px newton prismatic colours jpg newton s observation prismatic
+colors david brewster
+newton originally divided spectrum into six named colors red
+orange yellow green blue and violet he later added indigo as
+seventh color since he believed that seven was a perfect number as
+derived from ancient greek sophists there being a connection
+between colors musical notes known objects solar
+system and days week human eye is relatively
+insensitive to indigo s frequencies and some people who have
+otherwise good vision cannot distinguish indigo from blue and violet
+for this reason some later commentators including isaac asimov
+have suggested that indigo should not be regarded as a color its own
+right but merely as a shade blue or violet evidence indicates that
+what newton meant by indigo and blue does not correspond to
+modern meanings those color words comparing newton s observation
+prismatic colors with a color image visible light spectrum shows
+that indigo corresponds to what is today called blue whereas his
+blue corresponds to cyan
+th century johann wolfgang von goethe wrote about optical
+spectra his theory colours goethe used word spectrum
+spektrum to designate a ghostly optical afterimage as did
+schopenhauer on vision and colors goethe argued that continuous
+spectrum was a compound phenomenon where newton narrowed beam
+light to isolate phenomenon goethe observed that a wider aperture
+produces not a spectrum but rather reddish yellow and blue cyan edges
+with white between them spectrum appears only when these edges are
+close enough to overlap
+early th century concept visible spectrum became
+more definite as light outside visible range was discovered and
+characterized by william herschel infrared and johann wilhelm ritter
+ultraviolet thomas young thomas johann seebeck and others
+young was first to measure wavelengths different colors
+light
+connection between visible spectrum and color vision was
+explored by thomas young and hermann von helmholtz early th
+century their theory color vision correctly proposed that eye
+uses three distinct receptors to perceive color
+limits to visible range
+see also color vision § physiology color perception
+px luminosity png photopic black and scotopic green
+luminous efficiency functions horizontal axis is wavelength nm
+see luminous efficiency function for more info
+visible spectrum is limited to wavelengths that can both reach
+retina and trigger visual phototransduction excite a visual opsin
+insensitivity to uv light is generally limited by transmission through
+lens insensitivity to ir light is limited by spectral
+sensitivity functions visual opsins range is defined
+psychometrically by luminous efficiency function which accounts
+for all these factors humans there is a separate function for
+each two visual systems one for photopic vision used daylight
+which is mediated by cone cells and one for scotopic vision used
+dim light which is mediated by rod cells each these functions have
+different visible ranges however discussion on visible range
+generally assumes photopic vision
+atmospheric transmission
+visible range most animals evolved to match optical window
+which is range light that can pass through atmosphere
+ozone layer absorbs almost all uv light below nm however
+this only affects cosmic light e g sunlight not terrestrial light
+e g bioluminescence
+ocular transmission
+px lens cornea transmission png cumulative transmission spectra
+light as it passes through ocular media namely after cornea
+blue before lens red after lens gray and before
+retina orange solid lines are for a year old eye dashed
+orange line is for a year old eye and dotted for a year old eye
+indicating effect lens yellowing
+before reaching retina light must first transmit through
+cornea and lens uvb light nm is filtered mostly by cornea
+and uva light nm is filtered mostly by lens
+lens also yellows with age attenuating transmission most strongly at
+blue part spectrum this can cause xanthopsia as well
+as a slight truncation short wave blue limit visible
+spectrum subjects with aphakia are missing a lens so uva light can
+reach retina and excite visual opsins this expands visible
+range and may also lead to cyanopsia
+opsin absorption
+each opsin has a spectral sensitivity function which defines how
+likely it is to absorb a photon each wavelength luminous
+efficiency function is approximately superposition
+contributing visual opsins variance position individual
+opsin spectral sensitivity functions therefore affects luminous
+efficiency function and visible range for example long wave
+red limit changes proportionally to position l opsin
+positions are defined by peak wavelength wavelength highest
+sensitivity so as l opsin peak wavelength blue shifts by nm
+long wave limit visible spectrum also shifts nm large
+deviations l opsin peak wavelength lead to a form color
+blindness called protanomaly and a missing l opsin protanopia
+shortens visible spectrum by about nm at long wave limit
+forms color blindness affecting m opsin and s opsin do not
+significantly affect luminous efficiency function nor limits
+visible spectrum
+different definitions
+regardless actual physical and biological variance definition
+limits is not standard and will change depending on
+industry for example some industries may be concerned with practical
+limits so would conservatively report nm while
+others may be concerned with psychometrics and achieving broadest
+spectrum would liberally report or even nm
+luminous efficiency function nir does not have a hard
+cutoff but rather an exponential decay such that function s value
+or vision sensitivity at nm is about times weaker than at
+nm much higher intensity is therefore required to perceive
+nm light than nm light
+vision outside visible spectrum
+under ideal laboratory conditions subjects may perceive infrared light
+up to at least nm while nm nir light can evoke red
+suggesting direct absorption by l opsin there are also reports
+that pulsed nir lasers can evoke green which suggests two photon
+absorption may be enabling extended nir sensitivity
+similarly young subjects may perceive ultraviolet wavelengths down to
+about nm but detection light below nm
+may be due to fluorescence ocular media rather than direct
+absorption uv light by opsins as uva light is absorbed by
+ocular media lens and cornea it may fluoresce and be released at a
+lower energy longer wavelength that can then be absorbed by
+opsins for example when lens absorbs nm light
+fluorescence emission spectrum is centered on nm
+non visual light detection
+addition to photopic and scotopic systems humans have other
+systems for detecting light that do not contribute to primary
+visual system for example melanopsin has an absorption range
+nm and regulates circadian rhythm and other reflexive
+processes since melanopsin system does not form images it is
+not strictly considered vision and does not contribute to visible
+range
+non humans
+see also evolution color vision
+visible spectrum is defined as that visible to humans but
+variance between species is large not only can cone opsins be
+spectrally shifted to alter visible range but vertebrates with
+cones tetrachromatic or cones dichromatic relative to humans
+trichromatic will also tend to have a wider or narrower visible
+spectrum than humans respectively
+vertebrates tend to have different opsin classes
+longwave sensitive lws with peak sensitivity between nm
+middlewave sensitive mws with peak sensitivity between
+nm
+shortwave sensitive sws with peak sensitivity between nm
+violet ultraviolet sensitive vs uvs with peak sensitivity between
+nm
+testing visual systems animals behaviorally is difficult so
+visible range animals is usually estimated by comparing peak
+wavelengths opsins with those typical humans s opsin at nm
+and l opsin at nm
+mammals
+most mammals have retained only two opsin classes lws and vs due
+likely to nocturnal bottleneck however old world primates
+including humans have since evolved two versions lws to
+regain trichromacy unlike most mammals rodents uvs opsins have
+remained at shorter wavelengths along with their lack uv filters
+lens mice have a uvs opsin that can detect down to nm while
+allowing uv light to reach retina can lead to retinal damage
+short lifespan mice compared with other mammals may minimize this
+disadvantage relative to advantage uv vision dogs have two
+cone opsins at nm and nm so see almost entire visible
+spectrum humans despite being dichromatic horses have two
+cone opsins at nm and nm yielding a slightly more truncated
+red vision
+birds
+see also bird vision § ultraviolet sensitivity
+most other vertebrates birds lizards fish etc have retained their
+tetrachromacy including uvs opsins that extend further into
+ultraviolet than humans vs opsin sensitivity avian uvs
+opsins vary greatly from nm and lws opsins from
+nm this translates to some birds with a visible spectrum
+on par with humans and other birds with greatly expanded sensitivity
+to uv light lws opsin birds is sometimes reported to have a
+peak wavelength above nm but this is an effective peak wavelength
+that incorporates filter avian oil droplets peak
+wavelength lws opsin alone is better predictor
+long wave limit a possible benefit avian uv vision involves
+sex dependent markings on their plumage that are visible only
+ultraviolet range
+see also vision fish § ultraviolet
+teleosts bony fish are generally tetrachromatic sensitivity
+fish uvs opsins vary from nm and lws opsins from
+nm however some fish that use alternative chromophores can
+extend their lws opsin sensitivity to nm popular belief
+that common goldfish is only animal that can see both infrared
+and ultraviolet light is incorrect because goldfish cannot see
+infrared light
+invertebrates
+visual systems invertebrates deviate greatly from vertebrates
+so direct comparisons are difficult however uv sensitivity has been
+reported most insect species bees and many other insects can
+detect ultraviolet light which helps them find nectar flowers
+plant species that depend on insect pollination may owe reproductive
+success to their appearance ultraviolet light rather than how
+colorful they appear to humans bees long wave limit is at about
+nm mantis shrimp exhibit up to opsins enabling a visible
+range less than nm to above nm
+thermal vision
+main article infrared sensing snakes
+some snakes can see radiant heat at wavelengths between and
+m to a degree accuracy such that a blind rattlesnake can target
+vulnerable body parts prey at which it strikes and other
+snakes with organ may detect warm bodies from a meter away it
+may also be used thermoregulation and predator detection
+spectroscopy
+px atmospheric electromagnetic opacity png earth s atmosphere
+partially or totally blocks some wavelengths electromagnetic
+radiation but visible light it is mostly transparent
+main article spectroscopy
+spectroscopy is study objects based on spectrum color
+they emit absorb or reflect visible light spectroscopy is an
+important tool astronomy as is spectroscopy at other wavelengths
+where scientists use it to analyze properties distant objects
+chemical elements and small molecules can be detected astronomical
+objects by observing emission lines and absorption lines for example
+helium was first detected by analysis spectrum sun
+shift frequency spectral lines is used to measure doppler
+shift redshift or blueshift distant objects to determine their
+velocities towards or away from observer astronomical spectroscopy
+uses high dispersion diffraction gratings to observe spectra at very
+high spectral resolutions
+see also
+wikisource logo
+english wikisource has original text related to this article
+definition color indigo
+wikimedia commons logo
+wikimedia commons has media related to visible spectrum
+blue light spectrum
+cosmic ray visual phenomena
+electromagnetic absorption by water
+high energy visible light
+two photon absorption a method for seeing outside visible
+spectrum
+references
+pedrotti frank l pedrotti leno m pedrotti leno s
+december introduction to optics cambridge university
+press pp isbn
+a b what is visible light spectrum thoughtco
+from original on retrieved
+starr cecie biology concepts and applications thomson
+brooks cole p isbn
+a b visible spectrum britannica may
+from original on july retrieved january
+d h sliney february what is light visible
+spectrum and beyond eye
+doi eye issn pmc
+w c livingston color and light nature nd ed
+cambridge uk cambridge university press isbn
+from original on retrieved
+grazyna palczewska et al december human infrared
+vision is triggered by two photon chromophore isomerization
+proceedings national academy sciences
+e e bibcode pnas e p
+doi pnas pmc pmid
+nave r spectral colors hyperphysics from
+original on retrieved
+colour visible spectrum wavelengths hues britannica
+www britannica com from original on
+retrieved
+bruno thomas j and svoronos paris d n crc handbook
+fundamental spectroscopic correlation charts
+at wayback machine crc press isbn
+coffey peter science logic an inquiry into
+principles accurate thought longmans p roger bacon
+prism
+isacoff stuart january temperament how music became
+a battleground for great minds western civilization knopf
+doubleday publishing group pp isbn
+from original on october retrieved march
+asimov isaac eyes on universe a history
+telescope boston houghton mifflin p isbn
+evans ralph m perception color null ed new
+york wiley interscience isbn
+mclaren k march newton s indigo color research
+doi col
+waldman gary introduction to light physics
+light vision and color dover ed mineola dover publications
+p isbn from original on
+retrieved
+mary jo nye ed cambridge history science
+modern physical and mathematical sciences vol cambridge
+university press p isbn from
+original on retrieved
+john c d brand lines light sources
+dispersive spectroscopy crc press pp
+isbn from original on
+retrieved
+a b c d e hunt d m wilkie s e bowmaker j k
+poopalasundaram s october vision ultraviolet
+cellular and molecular life sciences
+doi pl pmc pmid
+s cid radiation below nm ultraviolet uv a is
+largely screened out by ozone layer earth s upper
+atmosphere and is therefore unavailable to visual system
+a b boettner edward a wolter j reimer december
+transmission ocular media investigative ophthalmology
+visual science
+laufer gabriel geometrical optics introduction to
+optics and lasers engineering cambridge university press
+p bibcode iole book l
+doi cbo isbn retrieved
+october
+bradt hale astronomy methods a physical approach to
+astronomical observations cambridge university press p
+isbn retrieved october
+ohannesian lena streeter anthony handbook
+pharmaceutical analysis crc press p isbn
+retrieved october
+ahluwalia v k goyal madhuri a textbook organic
+chemistry narosa p isbn retrieved
+october
+a b c sliney david h wangemann robert t franks james
+k wolbarsht myron l visual sensitivity eye to
+infrared laser radiation journal optical society
+america bibcode josa s
+doi josa pmid foveal sensitivity
+to several near infrared laser wavelengths was measured it was
+found that eye could respond to radiation at wavelengths at
+least as far as nm a continuous nm laser source
+appeared red but a nm pulsed laser source appeared green
+which suggests presence second harmonic generation
+retina
+lynch david k livingston william charles color and
+light nature nd ed cambridge cambridge university press
+p isbn from original on
+october retrieved october limits eye s
+overall range sensitivity extends from about to
+nanometers
+dash madhab chandra dash satya prakash fundamentals
+ecology e tata mcgraw hill education p
+isbn from original on october
+retrieved october normally human eye responds
+to light rays from to nm this can be extended to a range
+to nm under artificial conditions
+saidman jean may sur la visibilité de l ultraviolet
+jusqu à la longueur d onde visibility ultraviolet
+to wave length comptes rendus de l académie des
+sciences french from original on
+october retrieved october
+kurzel richard b wolbarsht myron l yamanashi bill s
+ultraviolet radiation effects on human eye
+photochemical and photobiological reviews pp
+doi isbn
+enezi j revell v brown t wynne j schlangen l lucas r august
+a melanopic spectral efficiency function predicts
+sensitivity melanopsin photoreceptors to polychromatic lights
+journal biological rhythms
+doi pmid s cid
+gouras peter ekesten bjorn december why do mice have
+ultra violet vision experimental eye research
+doi j exer pmid
+neitz jay geist timothy jacobs gerald h august
+color vision dog visual neuroscience
+doi s pmid s cid
+carroll joseph murphy christopher j neitz maureen ver
+hoeve james n neitz jay october photopigment basis
+for dichromatic color vision horse journal vision
+doi pmid s cid
+a b hart nathan s hunt david m january avian
+visual pigments characteristics spectral tuning and evolution
+american naturalist s s s
+bibcode anat s h citeseerx
+doi pmid s cid
+cuthill innes c ultraviolet vision birds peter
+j b slater ed advances study behavior vol
+oxford england academic press p isbn
+jamieson barrie g m reproductive biology and phylogeny
+birds charlottesville va university virginia p
+a b carleton karen l escobar camacho daniel stieb sara
+m cortesi fabio marshall n justin april seeing
+rainbow mechanisms underlying spectral sensitivity teleost
+fishes journal experimental biology jeb
+bibcode jexpb b c doi jeb pmc
+or common goldfish is only animal that can
+see both infra red and ultra violet light skeptive
+from original on december retrieved
+september
+neumeyer christa chapter color vision goldfish
+and other vertebrates lazareva olga shimizu toru
+wasserman edward eds how animals see world comparative
+behavior biology and evolution vision oxford scholarship
+online isbn
+briscoe adriana d chittka lars january evolution
+color vision insects annual review entomology
+doi annurev ento pmid
+skorupski peter chittka lars august photoreceptor
+spectral sensitivity bumblebee bombus impatiens
+hymenoptera apidae plos one e
+bibcode ploso s doi journal pone
+pmc pmid
+newman ea hartline ph integration visual and
+infrared information bimodal neurons rattlesnake optic
+tectum science bibcode sci n
+doi science pmc pmid
+kardong kv mackessy sp strike behavior a
+congenitally blind rattlesnake journal herpetology
+doi jstor
+fang janet march snake infrared detection
+unravelled nature news doi news
+krochmal aaron r george s bakken travis j laduc
+november heat evolution s kitchen evolutionary
+perspectives on functions and origin facial pit
+pitvipers viperidae crotalinae journal experimental
+biology pt bibcode jexpb k
+doi jeb pmid
+greene hw ecological and behavioral context for
+pitviper evolution campbell ja brodie ed jr biology
+pitvipers texas selva isbn
+electromagnetic spectrum
+gamma rays
+x rays
+ultraviolet
+visible
+infrared
+microwave
+radio px frequency vs wave length png
+higher frequencies higher energy shorter
+wavelengths longer wavelengths lower frequencies lower
+energy
+gamma rays
+very high energy
+ultra high energy
+x rays
+soft x ray
+hard x ray
+high energy x rays
+ultraviolet
+extreme ultraviolet
+vacuum ultraviolet
+lyman alpha
+visible optical
+violet
+green
+yellow
+orange
+infrared
+nir bands j k h
+mwir bands l m n
+microwaves
+w band
+v band
+q band
+k a band
+k band
+k u band
+x band
+c band
+s band
+l band
+radio
+wavelength types
+microwave
+shortwave
+medium wave
+longwave
+physiology visual system
+vision
+accommodation
+intraocular pressure
+visual field
+color vision
+color blindness
+achromatopsia
+köllner s rule
+opponent process
+monochromacy
+dichromacy
+trichromacy
+tetrachromacy
+pentachromacy
+radiation physics and health
+main articles
+non ionizing radiation
+acoustic radiation force
+infrared
+light
+starlight
+sunlight
+microwave
+radio waves
+ultraviolet
+ionizing radiation
+radioactive decay
+cluster decay
+background radiation
+alpha particle
+beta particle
+gamma ray
+cosmic ray
+neutron radiation
+nuclear fission
+nuclear fusion
+nuclear reactors
+nuclear weapons
+particle accelerators
+radioactive materials
+x ray
+earth s energy budget
+electromagnetic radiation
+synchrotron radiation
+thermal radiation
+black body radiation
+particle radiation
+gravitational radiation
+cosmic background radiation
+cherenkov radiation
+askaryan radiation
+bremsstrahlung
+unruh radiation
+dark radiation
+radiation exposure
+radiation
+and health
+radiation syndrome
+acute
+chronic
+health physics
+dosimetry
+electromagnetic radiation and health
+laser safety
+lasers and aviation safety
+medical radiography
+radiation protection
+radiation therapy
+radiation damage
+radioactivity life sciences
+radioactive contamination
+radiobiology
+biological dose units and quantities
+wireless device radiation and health
+wireless electronic devices and health
+radiation heat transfer
+linear energy transfer
+radiation incidents
+list civilian radiation accidents
+costa rica accident
+goiânia accident
+moroccan accident
+zaragoza accident
+related articles
+half life
+nuclear physics
+radioactive source
+radiation hardening
+see also categories radiation effects radioactivity radiobiology
+and radiation protection
+color topics
+color science
+color physics
+electromagnetic spectrum
+light
+rainbow
+visible
+spectral colors
+chromophore
+structural coloration
+animal coloration
+color chemicals
+water
+spectral power distribution
+colorimetry
+color perception
+chromesthesia
+sonochromatism
+color blindness
+achromatopsia
+dichromacy
+color calibration
+color constancy
+color task
+color code
+color temperature
+color vision test
+evolution color vision
+impossible colors
+metamerism
+opponent process
+afterimage
+unique hues
+tetrachromacy
+dress
+color psychology
+color symbolism
+color preferences
+lüscher color test
+kruithof curve
+political color
+national colors
+chromophobia
+chromotherapy
+color reproduction
+color photography
+color balance
+color cast
+digital image processing
+color management
+color printing
+multi primary color display
+quattron
+color model
+additive
+o rgb
+subtractive
+o cmyk
+color space
+image color transfer
+px rgb color wheel png
+color
+philosophy
+color scheme
+color tool
+monochromatic colors
+o black and white
+o grisaille
+complementary colors
+analogous colors
+achromatic colors neutral
+polychromatic colors
+light on dark
+web colors
+tinctures heraldry
+color theory
+color mixing
+primary color
+secondary color
+chromaticity
+color solid
+color wheel
+color triangle
+color analysis fashion
+color realism art
+on vision and colours schopenhauer
+theory colours goethe
+color terms
+basic english terms
+orange
+yellow
+green
+purple
+brown
+white
+black
+cultural differences
+linguistic relativity and color naming debate
+blue green distinction language
+color history
+black and white dualism
+blue culture
+color chinese culture
+traditional colors japan
+human skin color
+color dimensions
+dichromatism
+colorfulness
+pastel colors
+luminance
+lightness
+darkness
+brightness
+iridescence
+fluorescence
+grayscale
+tint shade and tone
+color
+organizations
+pantone
+color marketing group
+color association united states
+international colour authority
+international commission on illumination cie
+international color consortium
+international colour association
+names
+lists
+alphabetical
+list colors a f
+g m
+n z
+full list
+list colors by shade
+list color palettes
+list color spaces
+list crayola crayon colors
+history
+color chart
+list ral colors
+list web colors
+shades
+orange
+yellow
+green
+violet
+purple
+magenta
+brown
+white
+black
+related
+vision
+contrast
+qualia
+lighting
+category
+index
+retrieved from
+https en wikipedia org w index php title visible spectrum oldid
+categories
+color
+electromagnetic spectrum
+optical spectrum
+vision
+hidden categories
+webarchive template wayback links
+cs french language sources fr
+cs unfit url
+articles with short description
+short description matches wikidata
+wikisource templates with missing id
+commons category link is on wikidata
+this page was last edited on june at utc
+text is available under creative commons attribution sharealike
+license additional terms may apply by using this site you
+agree to terms use and privacy policy wikipedia® is a
+registered trademark wikimedia foundation inc a
+non profit organization
+privacy policy
+about wikipedia
+disclaimers
+contact wikipedia
+legal safety contacts
+code conduct
+developers
+statistics
+cookie statement
+mobile view
+wikimedia foundation
+powered by mediawiki
+button search
+button search
+toggle table contents
+visible spectrum
+button languages add topic

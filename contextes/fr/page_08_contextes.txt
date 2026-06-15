@@ -1,0 +1,18 @@
+   de l'incidence de la lumière sur un matériau. La part de la lumière qui
+   le soleil ou une lampe) : la lumière émise par la source se réfléchit
+   lumière dépend largement des propriétés de la lumière, comme sa
+   Il existe deux types de réflexion de la lumière : spéculaire ou
+     * Réflexion spéculaire de la lumière
+       Réflexion spéculaire de la lumière
+   utilisé comme réflecteur diffus pour avoir une lumière douce.
+   La réflexion est dite diffuse lorsque la lumière est réfléchie dans un
+   les nuages sont essentiellement blancs : ils réfléchissent la lumière
+   neige ; ce sont des matériaux transparents polycristallins. La lumière
+     * les métaux, qui ne laissent pas pénétrer la lumière ;
+          + pour avoir une source de lumière « douce », c'est-à-dire
+            lumière (soleil ou projecteur) est réfléchie de manière
+            la lumière de la source est réfléchie dans une direction
+            spéculaires pour renvoyer la lumière vers la source, rendant
+   qu'avec certains matériaux qui garantissent que la lumière est
+   soit comparable à la longueur d'onde de la lumière).
+   Si l'on construit un miroir pour la lumière visible, la taille des
