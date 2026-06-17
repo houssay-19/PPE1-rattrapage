@@ -90,10 +90,10 @@
     </p>
     <pre>bash programmes/pipeline.sh [fr|en] [mot_cible]
   │
-  ├── Étape 1 : Aspiration (curl) ──────► aspirations/[lang]/
-  ├── Étape 2 : Extraction texte (lynx) ► dumps-txt/[lang]/
-  ├── Étape 3 : Contextes (grep) ────────► contextes/[lang]/
-  └── Étape 4 : Textes propres ──────────► pals/[lang]/
+  ├── Étape 1 : Aspiration (curl) > aspirations/[lang]/
+  ├── Étape 2 : Extraction texte (lynx) > dumps-txt/[lang]/
+  ├── Étape 3 : Contextes (grep) > contextes/[lang]/
+  └── Étape 4 : Textes propres > pals/[lang]/
 
 python3 programmes/concordances.py [lang] [mot] ► concordances/[lang]/
 python3 programmes/bigrammes.py    [lang] [mot] ► bigrammes/[lang]/
@@ -240,37 +240,23 @@ python3 programmes/tableaux.py     [lang] [mot] ► tableaux/[lang]/</pre>
       <div class="tool-item"><strong>wordcloud</strong>Génération du nuage de mots (bibliothèque Python)</div>
       <div class="tool-item"><strong>matplotlib</strong>Sauvegarde des visualisations au format PNG</div>
       <div class="tool-item"><strong>git / GitHub</strong>Versionnage et hébergement du projet</div>
-      <div class="tool-item"><strong>macOS (Apple Silicon)</strong>Environnement d'exécution</div>
+      <div class="tool-item"><strong>macOS (Apple Silicon)</strong>Environnement de l'exécution</div>
     </div>
   </div>
 
   <!-- ── Organisation Git ── -->
   <div class="card">
-    <h2>Organisation Git</h2>
+    <h2>Organisation Github</h2>
     <p>
-      Le projet est versionné sur GitHub dans le dépôt
+      Le projet est mis sur GitHub dans le dépôt
       <code>houssay-19/PPE1-rattrapage</code>.
-      Les commits suivent une logique incrémentale : structure, URLs, scripts,
+      Les commits suivent une certainent logique : structure, URLs, scripts,
       données, site.
     </p>
     <pre>git init
-git add .
-git commit -m "Init : structure du projet"
-
-# Après chaque étape :
-git add programmes/pipeline.sh
-git commit -m "Ajout du script principal bash"
-
-git add aspirations/ dumps-txt/ contextes/ pals/
-git commit -m "Données : aspiration et extraction FR + EN"
-
-git add concordances/ bigrammes/ cooccurrents/ nuages/ tableaux/
-git commit -m "Analyses : concordances, bigrammes, cooccurrents"
-
-git add index.html technique.html resultats-fr.html resultats-en.html analyse.html style.css
-git commit -m "Site web complet"
-
-git push -u origin main</pre>
+git add . (ou git add nom du fichier)
+git commit -m "Message d'explication"
+git push </pre>
   </div>
 
 </div><!-- /.container -->
